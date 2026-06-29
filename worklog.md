@@ -34,18 +34,35 @@
 
 ---
 
-### Bilan Formation 1
-- **16 épisodes** terminés (N1 + N2)
-- **~35,774 mots** (~5h36 de contenu podcast)
+### Niveau 3 — Maîtrise (8 épisodes) ✅ COMPLÉTÉ
+
+| Épisode | Titre | Mots |
+|---------|-------|------|
+| 01 | Le Point Noir — Fana intensif | ~1,750 |
+| 02 | Le Dhikr du Cœur — De la langue au cœur | ~1,650 |
+| 03 | Les Noms Divins — L'inversion avancée | ~1,800 |
+| 04 | Les États Spirituels — Jadhb, Wajd, Qabḍ, Bast | ~1,750 |
+| 05 | Qiyām al-Layl — La prière nocturne | ~1,850 |
+| 06 | Muraqaba — La veille du cœur | ~1,800 |
+| 07 | Les 4 phases intégrées — Séance complète | ~1,900 |
+| 08 | Le Programme 40 jours — Votre transformation | ~1,950 |
+| **Total N3** | | **~14,450 mots (~2h20)** |
+
+---
+
+### Bilan Formation 1 — COMPLÈTE ✅
+
+- **24 épisodes** terminés (N1 + N2 + N3)
+- **~50,224 mots** (~7h56 de contenu podcast)
 - Structure 7 segments respectée pour chaque épisode
 - Ton thérapeute → client, bienveillant
-- Termes arabes vocalisés intégrés
+- Termes arabes vocalisés intégrés (translittération + arabe + traduction)
 - Sources neuroscientifiques et traditionnelles citées
+- **Niveau 3 apporte :** Point Noir, Dhikr du cœur, Inversion avancée (10 défauts→Noms), 5 états spirituels, Qiyām al-Layl, Muraqaba, Séance intégrée 4 phases, Programme 40 jours
 
 ---
 
 ### Prochaines étapes
-- Niveau 3 de la Formation 1 (8 épisodes)
 - Formation 2 — Musulman professionnel (3 niveaux × 8 épisodes)
 - Formation 3 — Tout public non-musulman (3 niveaux × 8 épisodes)
 - Formation 4 — Tout public professionnel non-musulman (3 niveaux × 8 épisodes)
