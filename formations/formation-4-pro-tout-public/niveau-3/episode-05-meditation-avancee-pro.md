@@ -1,0 +1,1 @@
+# Formation 4 — L'Alchimie du Miroir\n# Niveau 3 — Maîtrise Pro\n## Épisode 05 : La Méditation Avancée pour le Pro\n\n**Durée cible :** 20 minutes | **Ton :** Expert | **Public :** Tout public

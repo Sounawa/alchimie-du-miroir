@@ -1,0 +1,1 @@
+# Formation 4 — L'Alchimie du Miroir\n# Niveau 3 — Maîtrise Pro\n## Épisode 08 : Programme 40 Jours Pro — Transformation Complète\n\n**Durée cible :** 22 minutes | **Ton :** Visionnaire | **Public :** Tout public

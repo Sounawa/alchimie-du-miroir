@@ -1,0 +1,1 @@
+# Formation 4 — L'Alchimie du Miroir\n# Niveau 3 — Maîtrise Pro\n## Épisode 03 : Les Pensées Négatives Pro — Protocole IRIS Adapté au Bureau\n\n**Durée cible :** 20 minutes | **Ton :** Transformateur | **Public :** Tout public

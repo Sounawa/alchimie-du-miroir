@@ -1,0 +1,1 @@
+# Formation 4 — L'Alchimie du Miroir\n# Niveau 3 — Maîtrise Pro\n## Épisode 07 : La Séance Intégrée Complète du Pro\n\n**Durée cible :** 25 minutes | **Ton :** Complet | **Public :** Tout public
