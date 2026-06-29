@@ -45,71 +45,71 @@
 
 :root {
   --radius: 0.625rem;
-  --background: oklch(1 0 0);
-  --foreground: oklch(0.145 0 0);
-  --card: oklch(1 0 0);
-  --card-foreground: oklch(0.145 0 0);
-  --popover: oklch(1 0 0);
-  --popover-foreground: oklch(0.145 0 0);
-  --primary: oklch(0.205 0 0);
-  --primary-foreground: oklch(0.985 0 0);
-  --secondary: oklch(0.97 0 0);
-  --secondary-foreground: oklch(0.205 0 0);
-  --muted: oklch(0.97 0 0);
-  --muted-foreground: oklch(0.556 0 0);
-  --accent: oklch(0.97 0 0);
-  --accent-foreground: oklch(0.205 0 0);
+  --background: oklch(0.98 0.005 80);
+  --foreground: oklch(0.205 0.015 50);
+  --card: oklch(0.995 0.003 80);
+  --card-foreground: oklch(0.205 0.015 50);
+  --popover: oklch(0.995 0.003 80);
+  --popover-foreground: oklch(0.205 0.015 50);
+  --primary: oklch(0.39 0.1 160);
+  --primary-foreground: oklch(0.97 0.005 80);
+  --secondary: oklch(0.94 0.015 80);
+  --secondary-foreground: oklch(0.25 0.02 50);
+  --muted: oklch(0.94 0.01 80);
+  --muted-foreground: oklch(0.50 0.02 50);
+  --accent: oklch(0.94 0.01 80);
+  --accent-foreground: oklch(0.25 0.02 50);
   --destructive: oklch(0.577 0.245 27.325);
-  --border: oklch(0.922 0 0);
-  --input: oklch(0.922 0 0);
-  --ring: oklch(0.708 0 0);
-  --chart-1: oklch(0.646 0.222 41.116);
-  --chart-2: oklch(0.6 0.118 184.704);
-  --chart-3: oklch(0.398 0.07 227.392);
-  --chart-4: oklch(0.828 0.189 84.429);
-  --chart-5: oklch(0.769 0.188 70.08);
-  --sidebar: oklch(0.985 0 0);
-  --sidebar-foreground: oklch(0.145 0 0);
-  --sidebar-primary: oklch(0.205 0 0);
-  --sidebar-primary-foreground: oklch(0.985 0 0);
-  --sidebar-accent: oklch(0.97 0 0);
-  --sidebar-accent-foreground: oklch(0.205 0 0);
-  --sidebar-border: oklch(0.922 0 0);
-  --sidebar-ring: oklch(0.708 0 0);
+  --border: oklch(0.90 0.015 80);
+  --input: oklch(0.90 0.015 80);
+  --ring: oklch(0.39 0.1 160);
+  --chart-1: oklch(0.55 0.12 160);
+  --chart-2: oklch(0.60 0.1 75);
+  --chart-3: oklch(0.45 0.08 160);
+  --chart-4: oklch(0.70 0.1 75);
+  --chart-5: oklch(0.35 0.06 160);
+  --sidebar: oklch(0.97 0.005 80);
+  --sidebar-foreground: oklch(0.205 0.015 50);
+  --sidebar-primary: oklch(0.39 0.1 160);
+  --sidebar-primary-foreground: oklch(0.97 0.005 80);
+  --sidebar-accent: oklch(0.94 0.015 80);
+  --sidebar-accent-foreground: oklch(0.25 0.02 50);
+  --sidebar-border: oklch(0.90 0.015 80);
+  --sidebar-ring: oklch(0.39 0.1 160);
 }
 
 .dark {
-  --background: oklch(0.145 0 0);
-  --foreground: oklch(0.985 0 0);
-  --card: oklch(0.205 0 0);
-  --card-foreground: oklch(0.985 0 0);
-  --popover: oklch(0.205 0 0);
-  --popover-foreground: oklch(0.985 0 0);
-  --primary: oklch(0.922 0 0);
-  --primary-foreground: oklch(0.205 0 0);
-  --secondary: oklch(0.269 0 0);
-  --secondary-foreground: oklch(0.985 0 0);
-  --muted: oklch(0.269 0 0);
-  --muted-foreground: oklch(0.708 0 0);
-  --accent: oklch(0.269 0 0);
-  --accent-foreground: oklch(0.985 0 0);
+  --background: oklch(0.16 0.02 160);
+  --foreground: oklch(0.93 0.008 80);
+  --card: oklch(0.20 0.025 160);
+  --card-foreground: oklch(0.93 0.008 80);
+  --popover: oklch(0.20 0.025 160);
+  --popover-foreground: oklch(0.93 0.008 80);
+  --primary: oklch(0.55 0.12 160);
+  --primary-foreground: oklch(0.97 0.005 80);
+  --secondary: oklch(0.24 0.03 160);
+  --secondary-foreground: oklch(0.93 0.008 80);
+  --muted: oklch(0.24 0.03 160);
+  --muted-foreground: oklch(0.70 0.02 80);
+  --accent: oklch(0.24 0.03 160);
+  --accent-foreground: oklch(0.93 0.008 80);
   --destructive: oklch(0.704 0.191 22.216);
-  --border: oklch(1 0 0 / 10%);
-  --input: oklch(1 0 0 / 15%);
-  --ring: oklch(0.556 0 0);
-  --chart-1: oklch(0.488 0.243 264.376);
-  --chart-2: oklch(0.696 0.17 162.48);
-  --chart-3: oklch(0.769 0.188 70.08);
-  --chart-4: oklch(0.627 0.265 303.9);
-  --chart-5: oklch(0.645 0.246 16.439);
-  --sidebar: oklch(0.205 0 0);
-  --sidebar-foreground: oklch(0.985 0 0);
-  --sidebar-primary: oklch(0.488 0.243 264.376);
-  --sidebar-primary-foreground: oklch(0.985 0 0);
-  --sidebar-accent: oklch(0.269 0 0);
-  --sidebar-accent-foreground: oklch(0.985 0 0);
-  --sidebar-border: oklch(1 0 0 / 10%);
-  --sidebar-ring: oklch(0.556 0 0);
+  --border: oklch(0.30 0.03 160);
+  --input: oklch(0.28 0.03 160);
+  --ring: oklch(0.55 0.12 160);
+  --chart-1: oklch(0.55 0.12 160);
+  --chart-2: oklch(0.60 0.1 75);
+  --chart-3: oklch(0.70 0.15 160);
+  --chart-4: oklch(0.65 0.12 75);
+  --chart-5: oklch(0.45 0.08 160);
+  --sidebar: oklch(0.18 0.025 160);
+  --sidebar-foreground: oklch(0.93 0.008 80);
+  --sidebar-primary: oklch(0.55 0.12 160);
+  --sidebar-primary-foreground: oklch(0.97 0.005 80);
+  --sidebar-accent: oklch(0.24 0.03 160);
+  --sidebar-accent-foreground: oklch(0.93 0.008 80);
+  --sidebar-border: oklch(0.30 0.03 160);
+  --sidebar-ring: oklch(0.55 0.12 160);
 }
 
 @layer base {
@@ -119,4 +119,264 @@
   body {
     @apply bg-background text-foreground;
   }
+}
+
+/* ── Episode Reader: Markdown Typography ── */
+
+.episode-reader {
+  font-feature-settings: 'liga' 1, 'kern' 1;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+.episode-reader h1 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.025em;
+  color: oklch(0.30 0.08 160);
+  margin-bottom: 0.75rem;
+}
+
+.dark .episode-reader h1 {
+  color: oklch(0.80 0.08 160);
+}
+
+.episode-reader h2 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.3;
+  letter-spacing: -0.02em;
+  color: oklch(0.30 0.08 160);
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid oklch(0.88 0.02 80);
+}
+
+.dark .episode-reader h2 {
+  color: oklch(0.75 0.08 160);
+  border-bottom-color: oklch(0.30 0.03 160);
+}
+
+.episode-reader h3 {
+  font-size: 1.175rem;
+  font-weight: 600;
+  line-height: 1.4;
+  color: oklch(0.28 0.06 160);
+  margin-top: 1.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.dark .episode-reader h3 {
+  color: oklch(0.70 0.07 160);
+}
+
+.episode-reader h4 {
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.5;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.episode-reader p {
+  font-size: 1.025rem;
+  line-height: 1.85;
+  margin-bottom: 1.15rem;
+}
+
+.episode-reader strong {
+  font-weight: 650;
+  color: oklch(0.25 0.06 160);
+}
+
+.dark .episode-reader strong {
+  color: oklch(0.85 0.05 80);
+}
+
+.episode-reader em {
+  font-style: italic;
+}
+
+/* Arabic text — slightly larger, serif feel */
+.episode-reader .arabic-text {
+  font-size: 1.35rem;
+  line-height: 2.2;
+  direction: rtl;
+  text-align: right;
+  font-family: var(--font-geist-sans), 'Noto Naskh Arabic', 'Amiri', serif;
+  color: oklch(0.30 0.08 160);
+  display: block;
+  margin: 0.75rem 0;
+  padding: 0.75rem 1rem;
+  border-radius: 0.5rem;
+  background: oklch(0.96 0.01 160);
+  border-right: 3px solid oklch(0.55 0.12 160);
+}
+
+.dark .episode-reader .arabic-text {
+  color: oklch(0.80 0.08 160);
+  background: oklch(0.22 0.03 160);
+  border-right-color: oklch(0.55 0.12 160);
+}
+
+/* Quranic verse highlight */
+.episode-reader .quranic-verse {
+  font-style: italic;
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: oklch(0.35 0.07 75);
+  padding: 0.75rem 1.25rem;
+  margin: 1rem 0;
+  border-left: 3px solid oklch(0.60 0.1 75);
+  border-radius: 0 0.375rem 0.375rem 0;
+  background: oklch(0.96 0.015 75);
+}
+
+.dark .episode-reader .quranic-verse {
+  color: oklch(0.82 0.07 75);
+  background: oklch(0.22 0.025 75);
+  border-left-color: oklch(0.60 0.1 75);
+}
+
+/* Blockquote — stage directions and notes */
+.episode-reader blockquote {
+  font-style: italic;
+  color: oklch(0.50 0.02 80);
+  padding: 0.5rem 1rem;
+  margin: 0.75rem 0;
+  border-left: 2px solid oklch(0.80 0.03 80);
+}
+
+.dark .episode-reader blockquote {
+  color: oklch(0.65 0.02 80);
+  border-left-color: oklch(0.40 0.03 160);
+}
+
+.episode-reader blockquote p {
+  margin-bottom: 0.5rem;
+  font-size: 0.95rem;
+}
+
+/* Lists */
+.episode-reader ul,
+.episode-reader ol {
+  margin: 0.75rem 0;
+  padding-left: 1.5rem;
+}
+
+.episode-reader li {
+  margin-bottom: 0.4rem;
+  line-height: 1.75;
+  font-size: 1.025rem;
+}
+
+.episode-reader ul li::marker {
+  color: oklch(0.45 0.08 160);
+}
+
+.dark .episode-reader ul li::marker {
+  color: oklch(0.55 0.12 160);
+}
+
+/* Table — structure table */
+.episode-reader table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 1rem 0;
+  font-size: 0.9rem;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  border: 1px solid oklch(0.88 0.02 80);
+}
+
+.dark .episode-reader table {
+  border-color: oklch(0.30 0.03 160);
+}
+
+.episode-reader thead {
+  background: oklch(0.39 0.1 160);
+}
+
+.episode-reader thead th {
+  color: oklch(0.97 0.005 80);
+  font-weight: 600;
+  padding: 0.625rem 0.875rem;
+  text-align: left;
+  font-size: 0.825rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.episode-reader tbody td {
+  padding: 0.5rem 0.875rem;
+  border-bottom: 1px solid oklch(0.90 0.015 80);
+  vertical-align: top;
+}
+
+.dark .episode-reader tbody td {
+  border-bottom-color: oklch(0.28 0.03 160);
+}
+
+.episode-reader tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.episode-reader tbody tr:hover {
+  background: oklch(0.96 0.01 160);
+}
+
+.dark .episode-reader tbody tr:hover {
+  background: oklch(0.24 0.03 160);
+}
+
+/* Horizontal rule */
+.episode-reader hr {
+  border: none;
+  height: 1px;
+  background: oklch(0.88 0.02 80);
+  margin: 1.5rem 0;
+}
+
+.dark .episode-reader hr {
+  background: oklch(0.30 0.03 160);
+}
+
+/* Custom scrollbar for sidebar */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 5px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: oklch(0.80 0.02 80);
+  border-radius: 9999px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: oklch(0.65 0.03 80);
+}
+
+.dark .custom-scrollbar::-webkit-scrollbar-thumb {
+  background: oklch(0.35 0.04 160);
+}
+
+.dark .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: oklch(0.45 0.06 160);
+}
+
+/* Stage direction brackets [text] */
+.episode-reader .stage-direction {
+  color: oklch(0.55 0.02 80);
+  font-style: italic;
+  font-size: 0.925rem;
+}
+
+.dark .episode-reader .stage-direction {
+  color: oklch(0.60 0.02 80);
 }
