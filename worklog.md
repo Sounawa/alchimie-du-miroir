@@ -1,68 +1,42 @@
 # Worklog — L'Alchimie du Miroir
 
-## Formation 1 — Musulman Pratiquant
+## Formation 1 — Musulman Pratiquant ✅ COMPLÈTE
 
-### Niveau 1 — Initiation (8 épisodes) ✅ COMPLÉTÉ
-
-| Épisode | Titre | Mots |
-|---------|-------|------|
-| 01 | Pourquoi votre lecture du Coran vous laisse insatisfait | ~2,116 |
-| 02 | Les fondations — 5 règles d'or | ~3,053 |
-| 03 | Fana — Faire taire le bruit de l'ego | ~2,220 |
-| 04 | Tajalli — Quand le verset vous lit | ~1,921 |
-| 05 | Munajat — Le dialogue intime avec Allah | ~2,080 |
-| 06 | La Béance — Le silence où Dieu se trouve | ~1,758 |
-| 07 | Programme 21 jours — Immersion guidée | ~1,757 |
-| 08 | Pièges, blocages & comment les dépasser | ~3,549 |
-| **Total N1** | | **~18,454 mots (~2h53)** |
+| Niveau | Épisodes | Mots | Temps |
+|--------|----------|------|-------|
+| N1 — Initiation | 8 | ~18,454 | ~2h53 |
+| N2 — Approfondissement | 8 | ~17,320 | ~2h43 |
+| N3 — Maîtrise | 8 | ~14,450 | ~2h20 |
+| **Total F1** | **24** | **~50,224** | **~7h56** |
 
 ---
 
-### Niveau 2 — Approfondissement (8 épisodes) ✅ COMPLÉTÉ
+## Formation 2 — Musulman Professionnel
+
+### Niveau 1 — Initiation Pro (8 épisodes) ✅ COMPLÉTÉ
 
 | Épisode | Titre | Mots |
 |---------|-------|------|
-| 01 | Al-Fatiha — Versets 1-3 | ~2,200 |
-| 02 | Al-Fatiha — Versets 4-5 | ~2,170 |
-| 03 | Al-Fatiha — Versets 6-7 | ~2,250 |
-| 04 | Trésors du Coran — Peur et anxiété | ~1,700 |
-| 05 | Trésors du Coran — Tristesse et deuil | ~2,400 |
-| 06 | Trésors du Coran — Colère et culpabilité | ~2,300 |
-| 07 | Les Noms Divins — Outils de transformation | ~2,100 |
-| 08 | La pratique quotidienne avancée | ~2,200 |
-| **Total N2** | | **~17,320 mots (~2h43)** |
+| 01 | Pourquoi votre spiritualité ne survit pas à votre semaine de travail | ~1,700 |
+| 02 | Les fondations — 5 règles pour le pro occupé | ~1,650 |
+| 03 | Fana — L'effacement entre deux réunions | ~1,500 |
+| 04 | Tajalli — Le Coran au bureau | ~1,650 |
+| 05 | Munajat — Décisions difficiles | ~1,550 |
+| 06 | La Béance — Le silence au travail | ~1,400 |
+| 07 | Programme 14 jours — Intégration pro | ~1,600 |
+| 08 | Pièges du professionnel — Regards, ambiguïté, surmenage | ~1,700 |
+| **Total F2 N1** | | **~12,750 mots (~2h00)** |
 
 ---
 
-### Niveau 3 — Maîtrise (8 épisodes) ✅ COMPLÉTÉ
-
-| Épisode | Titre | Mots |
-|---------|-------|------|
-| 01 | Le Point Noir — Fana intensif | ~1,750 |
-| 02 | Le Dhikr du Cœur — De la langue au cœur | ~1,650 |
-| 03 | Les Noms Divins — L'inversion avancée | ~1,800 |
-| 04 | Les États Spirituels — Jadhb, Wajd, Qabḍ, Bast | ~1,750 |
-| 05 | Qiyām al-Layl — La prière nocturne | ~1,850 |
-| 06 | Muraqaba — La veille du cœur | ~1,800 |
-| 07 | Les 4 phases intégrées — Séance complète | ~1,900 |
-| 08 | Le Programme 40 jours — Votre transformation | ~1,950 |
-| **Total N3** | | **~14,450 mots (~2h20)** |
-
----
-
-### Bilan Formation 1 — COMPLÈTE ✅
-
-- **24 épisodes** terminés (N1 + N2 + N3)
-- **~50,224 mots** (~7h56 de contenu podcast)
-- Structure 7 segments respectée pour chaque épisode
-- Ton thérapeute → client, bienveillant
-- Termes arabes vocalisés intégrés (translittération + arabe + traduction)
-- Sources neuroscientifiques et traditionnelles citées
-- **Niveau 3 apporte :** Point Noir, Dhikr du cœur, Inversion avancée (10 défauts→Noms), 5 états spirituels, Qiyām al-Layl, Muraqaba, Séance intégrée 4 phases, Programme 40 jours
+### Bilan global
+- **32 épisodes** terminés (F1 complète + F2 N1)
+- **~62,974 mots** (~9h56 de contenu podcast)
 
 ---
 
 ### Prochaines étapes
-- Formation 2 — Musulman professionnel (3 niveaux × 8 épisodes)
+- Formation 2 — Niveau 2 (8 épisodes)
+- Formation 2 — Niveau 3 (8 épisodes)
 - Formation 3 — Tout public non-musulman (3 niveaux × 8 épisodes)
 - Formation 4 — Tout public professionnel non-musulman (3 niveaux × 8 épisodes)
