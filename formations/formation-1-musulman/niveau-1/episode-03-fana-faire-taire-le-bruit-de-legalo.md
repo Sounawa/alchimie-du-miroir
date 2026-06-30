@@ -66,7 +66,7 @@ Je sais — ça fait peur comme mot. Effacement de quoi ? De qui ?
 
 Alors laissez-moi être très clair, et c'est important parce que beaucoup de gens se méprennent sur ce terme.
 
-[Vois ferme, rassurante]
+[Voix ferme, rassurante]
 
 Fana ne signifie PAS détruire votre personnalité. Ce n'est PAS devenir un zombie spirituel. Ce n'est PAS nier votre identité, vos émotions, votre histoire.
 
@@ -86,7 +86,7 @@ C'est ça, le Fana. Rien de mystique. Rien d'effrayant. C'est un acte thérapeut
 
 ### ENSEIGNEMENT (4:30 — 10:00)
 
-[Vois thérapeutique, pédagogique]
+[Voix thérapeutique, pédagogique]
 
 Pour comprendre comment faire, il faut d'abord comprendre ce qui fait du bruit.
 
@@ -94,7 +94,7 @@ J'identifie généralement trois types de bruit mental dans mon cabinet. Et je p
 
 **Le premier type : le bruit du passé.**
 
-[Vois douce, compréhensive]
+[Voix douce, compréhensive]
 
 « J'aurais dû… » « Si seulement j'avais… » « Pourquoi j'ai fait ça… » C'est le registre du regret, de la culpabilité rétroactive. Le passé qui rejoue en boucle comme une vidéo qu'on ne peut pas arrêter.
 
@@ -106,7 +106,7 @@ J'identifie généralement trois types de bruit mental dans mon cabinet. Et je p
 
 **Le troisième type : le bruit du présent.**
 
-[Vois posée]
+[Voix posée]
 
 Celui-ci est plus subtil. C'est le jugement en temps réel. « Je ne devrais pas penser à ça pendant que je prie. » « Je suis mauvais croyant. » « Les autres sont meilleurs que moi. » C'est l'ego qui s'évalue en permanence. Même pendant la pratique spirituelle — surtout pendant la pratique spirituelle.
 
@@ -240,7 +240,7 @@ Ce que vous venez de vivre, c'est le Fana de base. Et la bonne nouvelle, c'est q
 
 Voici comment l'intégrer concrètement dans votre quotidien.
 
-[Vois posée, pratique]
+[Voix posée, pratique]
 
 **Le meilleur moment :** avant Fajr (صَلَاةُ ٱلْفَجْرِ) — l'aube — ou après Maghrib (مَغْرِبٌ) — le coucher du soleil. Ces moments sont privilégiés dans notre tradition parce que le voile entre les mondes y est plus fin. Mais si ce n'est pas possible pour vous ? N'importe quel moment calme fonctionne. Le moment n'est pas aussi important que la régularité.
 
@@ -268,7 +268,7 @@ Premièrement, les **signes positifs**. Vous pouvez ressentir : une légèreté 
 
 Deuxièmement, les **signes trompeurs**. Parfois, les premières sessions seront inconfortables. Vous allez vous ennuyer. Vous allez avoir envie de vérifier votre téléphone. Votre dos va vous faire mal. Votre mental va crier « ça ne sert à rien ! »
 
-[Vois rassurante]
+[Voix rassurante]
 
 C'est NORMAL. Ce n'est pas que ça ne marche pas. C'est votre ego qui résiste parce qu'il sent qu'il perd le contrôle. Et il n'aime pas ça. Persévérez.
 

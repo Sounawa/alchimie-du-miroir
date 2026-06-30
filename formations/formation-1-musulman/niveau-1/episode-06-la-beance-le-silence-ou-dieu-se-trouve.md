@@ -204,7 +204,7 @@ Ouvrez les yeux lentement.
 
 La Béance n'est pas une phase pour les tout premiers jours. C'est pour ça qu'elle vient en dernier dans notre méthode.
 
-[Vois claire, structurée]
+[Voix claire, structurée]
 
 **Quand l'intégrer ?**
 
@@ -243,7 +243,7 @@ La Béance peut réveiller des émotions intenses. Parce que quand tous les méc
 
 C'est normal. Mais ce n'est pas toujours gérable seul.
 
-[Vois très claire]
+[Voix très claire]
 
 **Si vous ressentez l'une de ces choses :**
 - Une angoisse forte, oppressante, qui ne passe pas

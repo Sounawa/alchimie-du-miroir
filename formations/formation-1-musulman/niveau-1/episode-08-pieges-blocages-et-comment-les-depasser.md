@@ -83,7 +83,7 @@ Cinq pièges. Cinq obstacles que presque tout le monde rencontre. Et je vais vou
 
 ### ENSEIGNEMENT (6:00 — 11:30)
 
-[Vois thérapeutique, posée — chaque piège traité avec la même attention clinique]
+[Voix thérapeutique, posée — chaque piège traité avec la même attention clinique]
 
 Commençons par le blocage numéro un. Le plus dévastateur de tous.
 
@@ -107,7 +107,7 @@ En arabe, il y a un mot magnifique pour ça : **ṣabr** (صَبْرٌ). La pati
 
 Et voici ce que la clinique nous apprend : c'est dans les deux à trois premières semaines que la majorité des gens abandonnent. Exactement au moment où les choses commencent à changer en dessous. Exactement au moment où le miroir commence à se nettoyer — mais où le reflet n'est pas encore clair.
 
-[Vois réconfortante]
+[Voix réconfortante]
 
 Alors la solution, c'est ce que j'appelle la règle de la goutte. Deux minutes par jour, sincères, valent infiniment mieux que trente minutes forcées. Si vous n'avez que deux minutes — faites deux minutes. Mais faites-les avec votre cœur. Pas avec votre montre.
 
@@ -145,7 +145,7 @@ Cette phrase, c'est un filtre. Elle protège votre cœur. Et elle vous rappelle 
 
 **Troisième piège : des émotions trop fortes remontent.»
 
-[Vois cliniquement rassurante]
+[Voix cliniquement rassurante]
 
 Celui-là arrive parfois pendant le Tajalli ou la Munajat. Vous êtes en train de méditer sur un verset, et soudain — sans crier gare — les larmes montent. Pas de jolies larmes spirituelles. Des larmes lourdes. Parfois c'est de la tristesse profonde. Parfois de la colère. Parfois même de la peur.
 
@@ -155,13 +155,13 @@ Et la première réaction, c'est de se dire : « C'est dangereux. Je ne devrais 
 
 Non. Quelque chose va très bien.
 
-[Vois ferme mais bienveillante]
+[Voix ferme mais bienveillante]
 
 C'est normal. Et c'est un signe positif. Ça veut dire que le miroir fonctionne. Le cœur se libère. Les émotions qui étaient comprimées, enfouies, verrouillées depuis des années — elles trouvent enfin une sortie. Et elles sortent.
 
 Al-Ghazālī disait : « La maladie de l'âme est plus digne de soin que la maladie du corps. » Quand votre corps est malade, vous consultez. Quand votre âme libère quelque chose, ne fuyez pas — accueillez. Mais accueillez avec discernement.
 
-[Vois plus sérieuse, comme un avertissement bienveillant]
+[Voix plus sérieuse, comme un avertissement bienveillant]
 
 Cependant — et c'est important que je le dise clairement — si les émotions qui remontent sont trop intenses, trop envahissantes, ou si elles sont liées à un traumatisme que vous connaissez, c'est le signal pour consulter un professionnel de la santé mentale. Un thérapeute. Un psychologue. La méditation coranique est un outil de croissance spirituelle — ce n'est pas un substitut à un suivi clinique quand c'est nécessaire. Les deux sont complémentaires.
 
@@ -171,7 +171,7 @@ Solution immédiate, quand ça arrive pendant la pratique : faites du Fana (f-n�
 
 **Quatrième piège : « Je n'ai pas le temps. »**
 
-[Vois directe, avec une pointe de tendresse]
+[Voix directe, avec une pointe de tendresse]
 
 Dix minutes.
 
@@ -191,7 +191,7 @@ La solution, c'est de ne pas créer un « nouveau moment » dans votre journée.
 
 **Cinquième et dernier piège : « Je culpabilise de rater des jours. »**
 
-[Vois très douce, presque maternelle]
+[Voix très douce, presque maternelle]
 
 Le perfectionnisme spirituel est un piège. Un piège redoutable.
 
@@ -205,7 +205,7 @@ Il y a un concept en arabe qui est un trésor de notre tradition : **ināba** (�
 
 Chaque fois que vous ratez un jour — revenez. Pas de culpabilité. Pas de discours intérieur punitif. Revenez. Le retour fait partie de la pratique. Il en est même une composante essentielle. Parce que la pratique, ce n'est pas la régularité parfaite. C'est la capacité à revenir. Encore et encore.
 
-[Vois lente, solennelle, chaque mot compte]
+[Voix lente, solennelle, chaque mot compte]
 
 Et pour vous dire à quel point ce retour est sacré, écoutez ce verset — sourate Az-Zumar, verset 53 :
 
@@ -273,7 +273,7 @@ Pas besoin de savoir ce qu'est le Niveau 2. Juste : qu'est-ce que vous voulez ga
 
 [Pause 8 secondes]
 
-[Vois normale, retour progressif]
+[Voix normale, retour progressif]
 
 Prenez une inspiration profonde. Et relâchez.
 
@@ -281,7 +281,7 @@ Prenez une inspiration profonde. Et relâchez.
 
 Maintenant, on va faire une dernière session intégrée. Très courte. Sept minutes au total. C'est une manière de rassembler tout ce que vous avez appris dans ce Niveau 1.
 
-[Vois douce, guidante]
+[Voix douce, guidante]
 
 On commence par deux minutes de Fana. Le silence. La respiration. Laissez le mental se poser. Pas de mots. Juste le souffle.
 
@@ -295,7 +295,7 @@ Respirez. Present. Simple.
 
 [Pause 15 secondes de silence]
 
-[Vois douce]
+[Voix douce]
 
 Maintenant, deux minutes de Tajalli. Choisissez un verset — n'importe lequel de ceux qui vous ont touché pendant cette formation. Laissez-le résonner en vous. Pas d'analyse. Juste la présence du verset dans votre cœur.
 
@@ -305,7 +305,7 @@ Laissez le miroir faire son travail.
 
 [Pause 20 secondes]
 
-[Vois douce]
+[Voix douce]
 
 Et maintenant, deux minutes de Munajat. Parlez à Allah. Avec vos mots. Pas de formules. Ce que votre cœur veut dire en ce moment.
 
@@ -315,7 +315,7 @@ En toute simplicité.
 
 [Pause 20 secondes]
 
-[Vois très douce]
+[Voix très douce]
 
 Et pour finir — une minute de Béance. Le silence au-delà des mots. Vous ne demandez plus rien. Vous ne cherchez plus rien. Vous êtes simplement… là. Dans la Présence.
 
@@ -325,7 +325,7 @@ Laissez les mots se dissoudre.
 
 [Pause 15 secondes]
 
-[Vois normale, retour progressif]
+[Voix normale, retour progressif]
 
 Prenez une inspiration profonde. Relâchez. Ouvrez les yeux quand vous êtes prêt.
 
@@ -343,7 +343,7 @@ Ce que vous venez de vivre — ce petit bilan, cette session intégrée — c'es
 
 Alors, concrètement, que faut-il retenir de cet épisode ? Quatre choses. Quatre prescriptions, si vous voulez. Pas des commandements — des conseils de thérapeute.
 
-[Vois posée, chaque point énoncé clairement]
+[Voix posée, chaque point énoncé clairement]
 
 **Premièrement : ne confondez pas l'absence de sensation avec l'absence de transformation.** Si vous pratiquez avec sincérité, quelque chose change en vous — même si vous ne le sentez pas encore. Faites confiance au processus. La règle de la goutte : deux minutes sincères chaque jour.
 
@@ -361,7 +361,7 @@ Si vous ne retenez que une seule chose de tout ce Niveau 1, retenez ceci : le Co
 
 ### DÉBRIEF (18:30 — 20:30)
 
-[Vois réfléchie, avec une pointe d'excitation mesurée]
+[Voix réfléchie, avec une pointe d'excitation mesurée]
 
 Vous voici à la fin du Niveau 1. Et je veux être honnête avec vous : ce que nous avons fait ensemble n'était que le début. Le vrai début.
 
@@ -369,7 +369,7 @@ Vous voici à la fin du Niveau 1. Et je veux être honnête avec vous : ce que n
 
 Le Niveau 2 de *L'Alchimie du Miroir* va vous emmener beaucoup plus loin. Et je dis ça non pas pour créer de l'attente angoissante, mais pour vous donner de l'excitation saine.
 
-[Vois engageante mais douce]
+[Voix engageante mais douce]
 
 Dans le Niveau 2, nous allons travailler avec **Al-Fatiha** — la sourate que vous récitez au moins dix-sept fois par jour — comme un miroir à part entière. Chaque verset de la Fatiha va devenir un espace de contemplation spécifique.
 
@@ -391,11 +391,11 @@ Si vous avez fait cela — vous êtes prêt.
 
 ### CLÔTURE (20:30 — 22:00)
 
-[Vois très douce, réconfortante — comme la fin d'une séance en cabinet]
+[Voix très douce, réconfortante — comme la fin d'une séance en cabinet]
 
 Je veux terminer ce Niveau 1 avec la même phrase que la première fois. Celle d'Ibn ʿArabī (ibn ʿarabī). Parce qu'elle est le fil rouge de tout ce cheminement. Et parce qu'elle prend un sens nouveau, maintenant que vous avez pratiqué.
 
-[Vois lente, chaque mot compte]
+[Voix lente, chaque mot compte]
 
 « *Celui qui se connaît soi-même connaît son Seigneur.* »
 

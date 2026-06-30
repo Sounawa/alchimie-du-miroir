@@ -72,7 +72,7 @@ Mu-na-jat. C'est un mot de la racine *najā*, qui veut dire « parler en secret 
 
 Et là, je dois faire une distinction importante, parce que beaucoup de gens confondent les deux.
 
-[Vois pédagogique, claire]
+[Voix pédagogique, claire]
 
 Il y a le **duʿāʾ** (دُعَاءٌ) — la supplication. C'est quand vous demandez quelque chose à Allah : « Ô Allah, donne-moi ceci, éloigne de moi cela. » Le duʿāʾ est essentiel, il est recommandé, le Prophète ṣ le pratiquait constamment.
 
@@ -237,7 +237,7 @@ Le piège le plus fréquent avec la Munajat, c'est ce que j'appelle « la belle 
 
 C'est quand vous commencez à prier avec des mots élégants, poétiques, mais qui ne viennent pas du cœur. Vous avez l'impression de faire une « bonne » prière, mais à l'intérieur, c'est creux.
 
-[Vois douce, sans jugement]
+[Voix douce, sans jugement]
 
 C'est humain. Notre ego adore paraître — même devant Allah. Même dans l'intimité de la Munajat. Surtout dans l'intimité de la Munajat.
 

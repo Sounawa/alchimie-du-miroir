@@ -96,7 +96,7 @@ Vous voyez la différence ? L'intention n'est pas dirigée vers une expérience.
 
 **Règle numéro deux : le Tawāḍuʿ** (تَوَاضُعٌ) — l'humilité.
 
-[Vois plus douce, réfléchie]
+[Voix plus douce, réfléchie]
 
 Quand vous vous asseyez avec le Coran, vous ne vous asseyez pas en savant. Vous ne vous asseyez pas en expert. Vous vous asseyez en serviteur. Et c'est une posture intérieure, pas une posture physique — même si la posture aide.
 
@@ -106,7 +106,7 @@ Al-Ghazālī disait que le Coran ne se dévoile qu'à celui qui s'en approche av
 
 **Règle numéro trois : le Ṣabr** (صَبْرٌ) — la patience.
 
-[Vois avec une grande bienveillance]
+[Voix avec une grande bienveillance]
 
 C'est peut-être la règle que j'ai le plus besoin de vous entendre. Parce que je sais — par expérience clinique — que la plupart des gens abandonnent la méditation dans les deux premières semaines. Pourquoi ? Parce qu'ils s'attendent à ressentir quelque chose. De la paix, de la lumière, des larmes peut-être. Et quand ils ne ressentent rien — ou pire, quand ils ressentent plus d'agitation qu'avant — ils pensent que ça ne marche pas.
 
@@ -132,7 +132,7 @@ Votre capacité aujourd'hui n'est pas celle de demain. Soyez patient avec vous-m
 
 **Règle numéro quatre : l'ancrage dans la Sunna.**
 
-[Vois ferme mais chaleureuse]
+[Voix ferme mais chaleureuse]
 
 Celle-ci est fondamentale. La méditation coranique n'est pas une pratique flottante, détachée de l'islam. Elle ne remplace jamais la prière. Elle ne se fait jamais au détriment de vos obligations. Au contraire — elle est nourrie par elles.
 
@@ -146,7 +146,7 @@ Je sais que certains d'entre vous se posent cette question : « Est-ce que médi
 
 **Règle numéro cinq : l'Ināba** (إِنَابَةٌ) — le retour à Dieu.
 
-[Vois douce, presque intime]
+[Voix douce, presque intime]
 
 C'est la dernière règle, et elle est magnifique de simplicité. Après chaque session de méditation, vous ne vous levez pas et vous passez directement à autre chose. Vous prenez trente secondes — juste trente secondes — pour demander pardon. Pour dire : « Ô Allah, si ma méditation a été imparfaite, si mon cœur a vagabondé, pardonne-moi. Et renouvelle en moi l'engagement de revenir à Toi. »
 
@@ -236,7 +236,7 @@ C'est une question que beaucoup de gens n'osent pas poser, alors je vais la pose
 
 La réponse est dans le verset que je vous ai cité tout à l'heure : **Lā yukallifu llāhu nafsan illā wusʿahā** — Allah ne charge une âme que selon sa capacité. Votre capacité, c'est celle d'aujourd'hui. Pas celle d'un savant. Pas celle d'un maître spirituel. La vôtre.
 
-[Vois claire et structurée]
+[Voix claire et structurée]
 
 Voici ce que je recommande, et c'est adapté à trois niveaux :
 
@@ -260,7 +260,7 @@ Mais sincèrement ? Le meilleur moment, c'est celui que vous pourrez maintenir. 
 
 ### DÉBRIEF (18:00 — 20:30)
 
-[Vois réfléchie, synthétique]
+[Voix réfléchie, synthétique]
 
 Avant de conclure, j'aimerais revenir sur quelque chose qui pourrait peser sur certains d'entre vous.
 
@@ -268,7 +268,7 @@ Avant de conclure, j'aimerais revenir sur quelque chose qui pourrait peser sur c
 
 Je sais que dans certaines communautés musulmanes, le mot « méditation » suscite de la méfiance. On l'associe à des pratiques orientales, à des traditions non-islamiques. Et cette méfiance est compréhensible — il y a effectivement des pratiques qui ne sont pas compatibles avec notre foi.
 
-[Vois rassurante, ferme mais douce]
+[Voix rassurante, ferme mais douce]
 
 Mais ce que nous faisons ici n'a rien à voir avec cela. Le **tadabbur** (تَدَبُّرٌ) est un commandement coranique. Sourate 38, verset 29 : « *Voici un Livre béni que Nous avons fait descendre vers toi, afin qu'ils méditent sur ses versets.* » Méditent. Pas qu'ils lisent vite. Pas qu'ils mémorisent sans comprendre. Qu'ils méditent. **Yaddabbarū** (يَتَدَبَّرُونَ).
 
@@ -288,11 +288,11 @@ Vous n'êtes pas en train d'innover. Vous êtes en train de retrouver.
 
 ### CLÔTURE (20:30 — 22:00)
 
-[Vois douce, réconfortante]
+[Voix douce, réconfortante]
 
 Je veux terminer avec un verset qui résume tout ce que nous venons de voir. Sourate 39, verset 23 :
 
-[Vois lente, solennelle]
+[Voix lente, solennelle]
 
 « *Est-ce que celui dont Allah a ouvert le cœur à l'Islam et qui détient une lumière venant de son Seigneur…* »
 

@@ -234,7 +234,7 @@ Il y a trois réactions possibles. Et aucune n'est « mauvaise ».
 
 Vous lisez le verset, vous posez la question miroir, et… rien. Le vide. L'ennui. Une petite voix qui dit « ça ne marche pas » ou « c'est n'importe quoi ».
 
-[Vois rassurante]
+[Voix rassurante]
 
 En thérapie, on appelle ça la résistance. Et c'est un signe — pas d'échec, un signe. La résistance apparaît quand quelque chose est en train de bouger juste en dessous de la surface. Le mental se défend parce qu'il sent qu'il va perdre le contrôle. Solution : revenir au Fana de l'épisode précédent. Renforcez le silence avant de replonger dans le miroir.
 
