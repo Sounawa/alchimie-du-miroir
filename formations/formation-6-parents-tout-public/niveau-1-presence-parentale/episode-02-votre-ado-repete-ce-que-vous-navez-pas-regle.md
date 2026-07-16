@@ -18,7 +18,7 @@
 | Exercice | 10:30 | 4:00 | La carte de votre propre histoire — 3 questions sur votre passé émotionnel |
 | Application | 14:30 | 3:30 | Nommer un pattern et le dire à voix haute |
 | Débrief | 18:00 | 2:00 | Lien avec l'épisode suivant |
-| Clôture | 20:00 | 2:00 | Invitation |
+| Clôture | 20:00 | 2:00 | Citation de Murray Bowen + invitation |
 
 ---
 
@@ -62,6 +62,8 @@ Mais voici ce qui est important : ce ne sont pas vos comportements que votre ado
 
 Et ces mécanismes, ils ne sont pas visibles. Ils ne s'enseignent pas. Ils se **transmettent** par l'atmosphère, par les réactions du corps, par ce qui n'est jamais nommé.
 
+Le psychiatre Murray Bowen, qui a fondé la théorie systémique familiale dans les années 1970, appelait ça la **transmission multigénérationnelle des triangles émotionnels**. En termes simples : les conflits et les silences qui ne sont pas résolus dans une génération se déplacent vers la suivante — comme une dette émotionnelle que chaque génération hérite sans l'avoir contractée.
+
 [Voix lente, avec une gravité mesurée]
 
 Ce qui reste non-dit dans une famille devient la loi.
@@ -86,13 +88,17 @@ La transmission se fait par trois mécanismes précis. Comprendre ces mécanisme
 
 Votre ado vous observe en permanence. Pas vos paroles — vos **réactions**. Comment vous réagissez au stress, à la frustration, à la joie, à la déception. Chaque réaction est enregistrée.
 
-Les neurosciences appellent ça les « neurones miroirs » — des cellules dans le cerveau qui s'activent de la même façon quand on observe un comportement que quand on le produit soi-même. Votre ado ne vous observe pas comme on regarde un film. Son cerveau **simule** vos réactions. Il les incorpore.
+Les neurosciences appellent ça les « neurones miroirs » — des cellules découvertes par Giacomo Rizzolatti à l'Université de Parme en 1996. Ces neurones s'activent de la même façon quand on observe un comportement que quand on le produit soi-même. Votre ado ne vous observe pas comme on regarde un film. Son cerveau **simule** vos réactions. Il les incorpore littéralement dans son propre répertoire neurologique.
+
+C'est pour ça que les enfants de parents anxieux développent souvent de l'anxiété — non pas par génétique, mais parce que le cerveau de l'enfant a enregistré l'anxiété comme le « mode par défaut » de la réactivité humaine.
 
 **Mécanisme 2 : le non-dit comme structure.**
 
 Chaque famille a des sujets interdits. Pas toujours explicites — souvent implicites. On ne parle pas de l'argent. On ne parle pas des problèmes de couple. On ne parle pas des émotions difficiles. On ne parle pas de la mort de tel oncle. On ne parle pas de la dépression de telle tante.
 
-Et ce qui n'est jamais nommé prend une forme monstrueuse dans l'inconscient familial. L'interdit crée une **structure invisible** — un ensemble de règles que tout le monde suit sans savoir qu'elles existent. Votre ado a absorbé cette structure avant même de savoir parler.
+Et ce qui n'est jamais nommé prend une forme disproportionnée dans l'inconscient familial. Le psychologue Ivan Boszormenyi-Nagy, pionnier de la thérapie familiale contextuelle, appelait ça les « loyautés invisibles » — des engagements inconscients que l'enfant prend envers la souffrance non résolue de ses parents.
+
+L'interdit crée une **structure invisible** — un ensemble de règles que tout le monde suit sans savoir qu'elles existent. Votre ado a absorbé cette structure avant même de savoir parler.
 
 **Mécanisme 3 : le silence sur les émotions.**
 
@@ -106,7 +112,9 @@ Vous voyez le schéma ? Votre ado ne reproduit pas vos erreurs — il reproduit 
 
 [Voix plus douce]
 
-La bonne nouvelle : quand vous nommez un mécanisme, il perd de son pouvoir. L'inconscient, mis en lumière, devient conscient. Et le conscient peut être modifié.
+La bonne nouvelle : quand vous nommez un mécanisme, il perd de son pouvoir. L'inconscient, mis en lumière, devient conscient. Et le conscient peut être modifié. Comme l'écrivait le psychologue Carl Rogers : « *Ce qui est le plus personnel est aussi le plus universel. Et ce qui est nommé perd son pouvoir de destruction.* »
+
+[Transition — léger changement de rythme]
 
 ---
 
@@ -132,7 +140,7 @@ Ne cherchez pas la réponse élégante. La première chose qui monte.
 
 **Deuxième question.**
 
-Comment vos parents géraient-ils cette émotion ? Et si vous n'avez pas de souvenir précis — l'absence de souvenir est elle-même une information.
+Comment vos parents géraient-ils cette émotion ? Et si vous n'avez pas de souvenir précis — l'absence de souvenir est elle-même une information. Le silence de vos parents sur cette émotion **est** la réponse.
 
 [Pause 10 secondes]
 
@@ -148,7 +156,7 @@ Prenez une inspiration. Relâchez.
 
 [Pause]
 
-Ce que vous venez de faire, c'est tracer la ligne entre votre propre histoire et celle de votre ado. Pas pour vous culpabiliser — pour voir. Et quand on voit, on peut agir.
+Ce que vous venez de faire, c'est tracer la ligne entre votre propre histoire et celle de votre ado. Pas pour vous culpabiliser — pour voir. Et quand on voit, on peut agir. Comme l'écrivait Alice Miller, la psychanalyste qui a consacré sa vie aux conséquences de l'enfance : « *La vérité ne guérit pas toujours. Mais elle rend la guérison possible.* »
 
 ---
 
@@ -190,6 +198,14 @@ L'épisode suivant traite d'un phénomène de plus en plus précoce : *L'imposte
 
 [Voix douce, réconfortante]
 
+Je termine avec les mots de Murray Bowen, le psychiatre qui a compris que les familles sont des systèmes, pas des collections d'individus :
+
+[Voix lente, chaque mot compte]
+
+« *C'est la différence entre les générations qui crée la possibilité du changement. Si un seul membre d'une famille peut voir le pattern qui le traverse — et le nommer — tout le système commence à se réorganiser.* »
+
+[Pause 3 secondes]
+
 Vous ne pouvez pas donner à votre ado ce que vous n'avez pas. C'est une vérité inconfortable — mais c'est aussi une porte d'entrée. Parce que le moment où vous commencez à nommer vos propres patterns, vous donnez à votre ado un outil qu'il n'aurait jamais eu autrement : le droit de ne pas être parfait.
 
 Pour cette semaine : nommez un pattern. Et la phrase réparatrice, si l'occasion se présente.
@@ -197,3 +213,24 @@ Pour cette semaine : nommez un pattern. Et la phrase réparatrice, si l'occasion
 Dans le prochain épisode, nous parlerons de l'imposteur à 14 ans.
 
 Prenez soin de vous.
+
+[Fin — musique de sortie douce, piano léger, 5 secondes]
+
+---
+
+## NOTES DE PRODUCTION
+
+**Termes et concepts utilisés :**
+- Transmission intergénérationnelle — mécanisme de transmission des patterns émotionnels
+- Neurones miroirs — cellules cérébrales découvertes par Giacomo Rizzolatti (1996) qui s'activent lors de l'observation comme lors de l'action
+- Loyautés invisibles — concept d'Ivan Boszormenyi-Nagy : engagements inconscients envers la souffrance parentale
+- Triangle émotionnel — concept de Murray Bowen : les conflits se déplacent sur une troisième personne
+
+**Sources :**
+- Giacomo Rizzolatti et al., Université de Parme, 1996 — découverte des neurones miroirs (*Nature*, vol. 392)
+- Murray Bowen, *Family Therapy in Clinical Practice* (1978) — transmission multigénérationnelle
+- Ivan Boszormenyi-Nagy, *Invisible Loyalties* (1973) — loyautés familiales inconscientes
+- Alice Miller, *Le drame de l'enfant doué* (1983) — conséquences des silences émotionnels
+- Carl Rogers, *On Becoming a Person* (1961) — la nomination comme voie de guérison
+
+**Musique suggérée :** Ambiance douce et universelle — piano léger, nappes synthétiques chaudes. Tonalité légèrement mélancolique — l'épisode porte sur l'héritage douloureux. Tempo 60-65 BPM.

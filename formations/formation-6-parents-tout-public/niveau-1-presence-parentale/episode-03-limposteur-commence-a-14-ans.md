@@ -18,7 +18,7 @@
 | Exercice | 10:30 | 4:00 | Le démontage du comparateur — un exercice à faire ensemble |
 | Application | 14:30 | 3:30 | La question « qui es-tu quand personne ne regarde ? » |
 | Débrief | 18:00 | 2:00 | Lien avec l'épisode suivant |
-| Clôture | 20:00 | 2:00 | Invitation |
+| Clôture | 20:00 | 2:00 | Citation de Brené Brown + invitation |
 
 ---
 
@@ -50,6 +50,8 @@ Le syndrome de l'imposteur. Avant, on le voyait chez les adultes — les cadres,
 
 Le syndrome de l'imposteur, c'est la certitude intime d'être un fraude malgré les preuves du contraire. La personne pense : « Si les gens me connaissaient vraiment, ils verraient que je ne vaux pas ce qu'ils croient. »
 
+Ce concept a été identifié pour la première fois en 1978 par deux psychologues américaines, Pauline Clance et Suzanne Imes, de la Georgia State University. Elles l'ont décrit chez des femmes hautement accomplies — mais depuis, la recherche a montré qu'il touche tout le monde, et de plus en plus tôt.
+
 [Voix réfléchie]
 
 À l'adolescence, ce syndrome est amplifié par trois facteurs qui n'existaient pas il y a 20 ans.
@@ -58,9 +60,13 @@ Le syndrome de l'imposteur, c'est la certitude intime d'être un fraude malgré 
 
 Les réseaux sociaux offrent un flux constant de vies « parfaites ». Les amis d'Emma postent leurs réussites, leurs voyages, leurs sourires. Ce qu'Emma ne voit pas — ce sont leurs doutes, leurs échecs, leurs nuits d'insomnie. Mais le cerveau d'Emma ne fait pas la distinction. Il compare sa réalité intérieure à leur réalité extérieure. Et il perd toujours.
 
+La chercheuse Erin Vogel, de l'Université de Houston, a publié en 2014 une étude montrant que le simple fait de regarder des profils Facebook augmentait significativement les sentiments d'imposteur — parce que la comparaison sociale active le système de récompense du cerveau tout en déclenchant simultanément le système de menace.
+
 **Deuxièmement : la performance comme identité.**
 
 On demande aux ados de performer constamment — notes, sport, activités, image sociale. Et ils finissent par confondre ce qu'ils **font** avec ce qu'ils **sont**. Si Emma a 16 de moyenne, Emma VAUT 16. Si un jour elle a 12 — qui est-elle ?
+
+La psychologue Carol Dweck, de l'Université de Stanford, a montré que les ados élevés dans une culture du « mindset fixe » — où la valeur est attachée au résultat plutôt qu'à l'effort — sont significativement plus vulnérables au syndrome de l'imposteur.
 
 **Troisièmement : le développement cérébral.**
 
@@ -102,7 +108,13 @@ Laissez-le répondre. S'il dit oui — et beaucoup d'ados diront oui — posez c
 
 Cette question crée un moment de vérité. Parce que votre ado sait, au fond, que la réponse est non. Mais il n'a jamais été autorisé à le dire.
 
-[Voix plus douce]
+Brené Brown, la chercheuse de l'Université de Houston qui a passé vingt ans à étudier la vulnérabilité, écrit :
+
+[Voix lente, chaque mot compte]
+
+« *L'imposteur ne naît pas du doute sur ses compétences. Il naît du doute sur son droit d'exister sans les prouver.* »
+
+[Pause 3 secondes pour laisser résonner]
 
 Et voici le deuxième pilier de l'explication : le **comparateur**.
 
@@ -140,6 +152,12 @@ Faites cet exercice pour **une** comparaison. Pas dix. Une seule. Et observez co
 
 Et dites à votre ado — ou à vous-même : « Le comparateur n'est pas la vérité. C'est un programme automatique. Et comme tout programme, il peut être mis à jour. »
 
+[Pause 3 secondes]
+
+Si vous faites cet exercice avec votre ado et qu'il résiste, ne forcez pas. Proposez-le comme un jeu : « On fait un truc marrant, tu veux ? » L'objectif n'est pas la performance de l'exercice — c'est le fait de le faire ensemble.
+
+[Transition en douceur]
+
 ---
 
 ### APPLICATION (14:30 — 18:00)
@@ -162,7 +180,9 @@ Quand vous complimentez votre ado, arrêtez de complimenter les résultats. « B
 
 Complimentez le **processus**. « J'ai vu à quel point tu t'es investi dans cette révision. » Ou : « J'admire ta persévérance. » Ou simplement : « Je suis fier de la personne que tu es — pas de ce que tu fais. »
 
-Cette distinction est subtile mais fondamentale. Votre ado a besoin d'entendre que votre amour n'est pas conditionnel. Qu'il ne dépend pas des notes, des résultats, des performances.
+Cette distinction est subtile mais fondamentale. La recherche de Carol Dweck a montré que les enfants complimentés sur l'effort développent un « mindset de croissance » — ils voient l'erreur comme un apprentissage, pas comme une preuve de leur nullité. Les enfants complimentés sur le résultat développent un « mindset fixe » — ils voient l'erreur comme une révélation de leur incompétence.
+
+Votre ado a besoin d'entendre que votre amour n'est pas conditionnel. Qu'il ne dépend pas des notes, des résultats, des performances.
 
 ---
 
@@ -178,6 +198,14 @@ L'épisode suivant aborde quelque chose que très peu de parents envisagent : *L
 
 [Voix douce, réconfortante]
 
+Je termine avec Brené Brown. Dans son livre *La puissance de la vulnérabilité*, elle écrit :
+
+[Voix lente, chaque mot compte]
+
+« *Le syndrome de l'imposteur se nourrit de trois choses : le silence, le perfectionnisme, et l'isolement. Il meurt de trois choses : le partage, l'imperfection assumée, et la connexion.* »
+
+[Pause 3 secondes]
+
 Votre ado n'est pas un imposteur. Il est un être humain qui apprend à exister dans un monde qui le pousse constamment à se comparer à une version irréelle de lui-même.
 
 Et vous êtes le seul espace où il n'a pas à performer. La question est : est-ce qu'il le sait ?
@@ -187,3 +215,23 @@ Pour cette semaine : la question existentielle, et les compliments sur le proces
 Dans le prochain épisode, nous parlerons du langage du corps.
 
 Prenez soin de vous.
+
+[Fin — musique de sortie douce, piano léger, 5 secondes]
+
+---
+
+## NOTES DE PRODUCTION
+
+**Termes et concepts utilisés :**
+- Syndrome de l'imposteur — la certitude intime d'être un fraude malgré les preuves (Clance & Imes, 1978)
+- Mindset fixe vs mindset de croissance — la croyance que les capacités sont innées vs développables (Carol Dweck, 2006)
+- Comparateur social — le mécanisme mental de comparaison permanente
+- Performance vs valeur — l'équation erronée qui lie l'identité aux résultats
+
+**Sources :**
+- Pauline Clance & Suzanne Imes, « The Impostor Phenomenon in High Achieving Women » (1978), Georgia State University — étude fondatrice
+- Erin Vogel et al., « Seeing Everyone Else's Highlighted Reels » (2014), Université de Houston — réseaux sociaux et imposteur
+- Carol Dweck, *Mindset: The New Psychology of Success* (2006), Université de Stanford — mindset fixe vs croissance
+- Brené Brown, *The Gifts of Imperfection* (2010), Université de Houston — vulnérabilité et imposteur
+
+**Musique suggérée :** Ambiance douce et universelle — piano léger, nappes synthétiques chaudes. Tonalité encourageante mais avec une pointe de mélancolie — l'épisode touche à la souffrance cachée. Tempo 65-70 BPM.

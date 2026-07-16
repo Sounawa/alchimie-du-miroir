@@ -14,11 +14,11 @@
 |---------|-----------|-------|--------|
 | Accroche | 0:00 | 1:30 | Le parent qui rassure : « ça va passer » — et l'ado qui se ferme |
 | Contexte | 1:30 | 3:00 | L'anxiété comme signal, pas comme ennemi |
-| Enseignement | 4:30 | 6:00 | Les trois questions qui remplacent le réconfort vide |
-| Exercice | 10:30 | 4:00 | La question qui change tout — une question à poser vraiment |
+| Enseignement | 4:30 | 6:00 | Les trois types d'anxiété + les trois questions qui remplacent le réconfort vide |
+| Exercice | 10:30 | 4:00 | La question qui change tout — « Si ton anxiété avait une voix… » |
 | Application | 14:30 | 3:30 | Créer un espace où l'anxiété est autorisée |
 | Débrief | 18:00 | 2:00 | Lien avec l'épisode suivant |
-| Clôture | 20:00 | 2:00 | Invitation |
+| Clôture | 20:00 | 2:00 | Citation de Viktor Frankl + invitation |
 
 ---
 
@@ -63,9 +63,11 @@ Je sais que c'est contre-intuitif. L'anxiété fait mal — à votre ado et à v
 
 Mais voici la paradoxale vérité : plus vous essayez de faire cesser l'anxiété, plus elle s'intensifie. Parce que chaque tentative de réassurance envoie le message implicite : « L'anxiété est dangereuse. Il faut l'éliminer. » Et ce message crée… de l'anxiété à propos de l'anxiété.
 
+La psychologue Susan David, de l'Université de Harvard, appelle ça « la tyrannie de la positivité » — cette injonction culturelle à être toujours bien, toujours optimiste, toujours en contrôle. Et elle a montré que cette tyrannie est un facteur majeur de l'augmentation des troubles anxieux chez les jeunes depuis les années 2010.
+
 [Pause]
 
-La neuroscientifique Dan Siegel dit que le cerveau anxieux a besoin de deux choses pour se calmer : être **nommé** et être **ressenti**. Pas être éliminé. Être reconnu.
+Daniel Siegel, professeur de psychiatrie à UCLA, dit que le cerveau anxieux a besoin de deux choses pour se calmer : être **nommé** et être **ressenti**. Pas être éliminé. Être reconnu.
 
 Quand vous dites « Je vois que tu es anxieux et c'est ok » — deux choses se produisent. Le cortex préfrontal de votre ado s'active (nommer), et le système nerveux reçoit un signal de sécurité (c'est ok). L'anxiété ne disparaît pas immédiatement — mais elle cesse d'augmenter.
 
@@ -92,6 +94,8 @@ L'anxiété la plus fréquente chez les ados tourne autour de trois thèmes :
 [Pause]
 
 Notez ce que ces trois formes ont en commun : chacune exprime un **danger**. L'anxiété est un système d'alarme. Et un système d'alarme, ça ne se débranche pas — on écoute ce qu'il dit.
+
+La psychiatre Judith Herman, de l'Université de Harvard, a montré dans *Trauma and Recovery* (1992) que l'anxiété est le mécanisme de survie le plus ancien de l'humanité — bien avant la pensée rationnelle. Quand le cerveau détecte un danger, il envoie l'anxiété AVANT que le cortex préfrontal puisse analyser. C'est pourquoi votre ado ne peut pas « raisonner » son anxiété — elle arrive avant la raison.
 
 [Voix plus douce]
 
@@ -145,6 +149,14 @@ Et quand vous entendez ça, vous n'avez plus à deviner. L'anxiété a parlé. E
 
 « Merci de me le dire. »
 
+[Pause]
+
+Deux mots. Et ils sont plus puissants que n'importe quelle réassurance.
+
+Pourquoi ? Parce que « merci de me le dire » fait trois choses en même temps : il **valide** l'expérience de votre ado, il **légitime** son droit d'avoir peur, et il crée une **connexion** — votre ado se sent vu, pas corrigé.
+
+C'est exactement ce que recommande la thérapie d'acceptation et d'engagement (ACT), développée par Steven Hayes à l'Université du Nevada. La recherche publiée dans *Journal of Consulting and Clinical Psychology* (2006) a montré que l'ACT est plus efficace que les thérapies cognitivo-comportementales classiques pour les troubles anxieux chroniques — parce qu'elle ne cherche pas à éliminer l'anxiété mais à changer la relation que le patient a avec elle.
+
 [Transition en douceur]
 
 ---
@@ -163,7 +175,7 @@ Dites à votre ado — dans un moment calme, pas pendant une crise :
 
 [Pause]
 
-Cette déclaration change la donne. Parce qu'elle enlève la pression de « devoir aller bien ». Et quand la pression disparaît, l'anxiété diminue.
+Cette déclaration change la donne. Parce qu'elle enlève la pression de « devoir aller bien ». Et quand la pression disparaît, l'anxiété diminue. C'est ce que les chercheurs de l'Université de Melbourne (2018) ont confirmé : la « suppression de l'anxiété » est le meilleur prédicteur de l'anxiété chronique. Plus vous essayez de ne pas être anxieux, plus vous le devenez.
 
 **Deuxièmement : quand l'anxiété vient, les trois questions.**
 
@@ -185,6 +197,14 @@ L'épisode suivant explore quelque chose d'inattendu : *L'ennui est mort — et 
 
 [Voix douce, réconfortante]
 
+Je termine avec Viktor Frankl, le psychiatre qui a survécu aux camps de concentration et qui a écrit l'un des livres les plus importants du XXe siècle :
+
+[Voix lente, chaque mot compte]
+
+« *Quand nous ne sommes plus capables de changer une situation, nous sommes mis au défi de nous changer nous-mêmes.* »
+
+[Pause 3 secondes]
+
 L'anxiété de votre ado n'est pas un bug. C'est un système d'alarme sophistiqué qui essaie de le protéger. Et quand vous écoutez cette alarme au lieu de la faire taire, vous lui apprenez quelque chose que peu d'adultes savent : que les émotions difficiles ne sont pas des ennemis. Elles sont des messagers.
 
 Pour cette semaine : l'espace autorisé, les trois questions, et « merci de me le dire ».
@@ -192,3 +212,24 @@ Pour cette semaine : l'espace autorisé, les trois questions, et « merci de me 
 Dans le prochain épisode, nous parlerons de l'ennui.
 
 Prenez soin de vous.
+
+[Fin — musique de sortie douce, piano léger, 5 secondes]
+
+---
+
+## NOTES DE PRODUCTION
+
+**Termes et concepts utilisés :**
+- Système d'alarme — le mécanisme neurologique de l'anxiété (cerveau limbique)
+- Co-régulation — capacité du parent à réguler le système nerveux de l'enfant (Daniel Siegel)
+- Tyrannie de la positivité — l'injonction culturelle au bien-être constant (Susan David)
+- Thérapie ACT — Acceptation and Commitment Therapy (Steven Hayes)
+
+**Sources :**
+- Daniel Siegel, *The Developing Mind* (2012), UCLA — nommer et ressentir les émotions
+- Susan David, *Emotional Agility* (2016), Harvard — la tyrannie de la positivité
+- Steven Hayes et al., « Acceptance and Commitment Therapy », *JCCP* (2006), Université du Nevada — ACT et troubles anxieux
+- Judith Herman, *Trauma and Recovery* (1992), Harvard — anxiété comme mécanisme de survie
+- Université de Melbourne (2018), *Behaviour Research and Therapy* — suppression de l'anxiété comme prédicteur
+
+**Musique suggérée :** Ambiance douce et universelle — piano léger, nappes synthétiques chaudes. Tonalité empathique et réconfortante. Tempo 60-65 BPM.

@@ -18,7 +18,7 @@
 | Exercice | 10:30 | 4:00 | Le test du miroir du matin — que voyez-vous dans le visage de votre ado au petit-déjeuner ? |
 | Application | 14:30 | 3:30 | Les 3 questions qui remplacent « ça va ? » |
 | Débrief | 18:00 | 2:00 | Lien avec l'épisode suivant |
-| Clôture | 20:00 | 2:00 | Invitation |
+| Clôture | 20:00 | 2:00 | Citation de Carl Jung + invitation |
 
 ---
 
@@ -44,6 +44,14 @@ Chez la plupart des ados que j'accompagne, la réponse est non. Le sourire dit :
 
 [Pause]
 
+Carl Jung, le psychiatre suisse, avait un mot pour ça. Il appelait ça la **persona** — du latin qui veut dire littéralement « masque ». Et il disait quelque chose de troublant :
+
+[Voix lente, chaque mot compte]
+
+« *Le masque que l'on porte finit par devenir le visage. Et le visage que l'on avait, on l'oublie.* »
+
+[Pause 3 secondes]
+
 Votre ado porte un masque. Pas un — trois. Et cette formation va vous aider à les voir, les comprendre, et créer les conditions pour qu'il les enlève — quand il sera prêt.
 
 [Transition musicale légère — 3 secondes]
@@ -52,21 +60,23 @@ Votre ado porte un masque. Pas un — trois. Et cette formation va vous aider à
 
 ### CONTEXTE (1:30 — 4:30)
 
-Bienvenue dans *L'Alchimie du Miroir — Présence Parentale*. Cette formation s'adresse à vous, parent d'un adolescent, quelle que soit votre origine, vos croyances, votre parcours. Il n'y aura aucun terme technique, aucun jargon — juste une exploration honnête de ce que votre ado vit et de comment vous pouvez l'accompagner.
+Bienvenue dans *L'Alchimie du Miroir — Présence Parentale*. Cette formation s'adresse à vous, parent d'un adolescent, quelle que soit votre origine, vos croyances, votre parcours. Il n'y aura aucun jargon — juste une exploration honnête de ce que votre ado vit et de comment vous pouvez l'accompagner.
 
 [Voix réfléchie]
 
-L'adolescence est la période la plus incomprise de la vie humaine. Et c'est paradoxal, parce que nous l'avons tous vécue. Mais quand nous devenons parents, nous oublions. Nous oublions la pression. L'oubli l'intensité. Nous oublions à quel point chaque journée d'adolescence est un combat invisible.
+L'adolescence est la période la plus incomprise de la vie humaine. Et c'est paradoxal, parce que nous l'avons tous vécue. Mais quand nous devenons parents, nous oublions. Nous oublions la pression. Nous oublions l'intensité. Nous oublions à quel point chaque journée d'adolescence est un combat invisible.
 
 [Pause]
 
-Et ce combat, votre ado le mène avec un équipement en plein développement. Son cerveau est en restructuration massive — le cortex préfrontal, qui gère la réflexion et la planification, ne sera mature qu'à 25 ans. Son système hormonal est en tempête. Son corps change. Son identité se cherche.
+Et ce combat, votre ado le mène avec un équipement en plein développement. Son cerveau est en restructuration massive — le cortex préfrontal, qui gère la réflexion et la planification, ne sera mature qu'à 25 ans. C'est confirmé par les travaux de la neuroscientifique Sarah-Jayne Blakemore, de l'University College London, qui a démontré que le cerveau adolescent subit une « élagage » massif — des connexions neuronales sont détruites et reconstruites simultanément, comme une maison en rénovation permanente.
+
+Son système hormonal est en tempête. Son corps change. Son identité se cherche.
 
 Et pendant tout ça, on lui demande de performer. À l'école — notes, contrôles, orientation. Sur les réseaux sociaux — image, likes, validation. À la maison — bonne humeur, respect, obéissance. Partout — être « normal ».
 
 [Voix lente, avec gravité]
 
-C'est épuisant. Et votre ado est épuisé. Même s'il ne le montre pas. Surtout s'il ne le montre pas.
+C'est épuisant. Et votre ado est épuisé. Même s'il ne le montre pas. **Surtout** s'il ne le montre pas.
 
 ---
 
@@ -82,11 +92,13 @@ Votre ado porte trois masques. Et il les change plusieurs fois par jour, comme u
 
 Certains ados excellent dans ce masque. Ils ont de bonnes notes, sont populaires, semblent épanouis. Leurs parents se disent : « Il va bien. » Mais le masque scolaire est le plus trompeur de tous — parce que la performance n'est pas le bien-être.
 
+La psychologue Karen Horney écrivait dans les années 1940 : « Le besoin d'approbation devient lui-même une forme de tyrannie — non pas imposée de l'extérieur, mais intériorisée. » Votre ado ne performs pas parce qu'on le force. Il performe parce qu'il a **interné** l'attente.
+
 **Le masque social.**
 
 Sur les réseaux sociaux, votre ado construit un personnage. Pas une identité — un personnage. Les photos choisies, les filtrées, les légendes soignées. C'est une version de lui-même qui n'existe que dans le monde numérique. Et cette version est toujours plus heureuse, plus stylée, plus « together » que la réalité.
 
-Le problème n'est pas les réseaux sociaux en soi. Le problème, c'est que l'écart entre le personnage et la réalité crée une **dissonance** interne. Votre ado sent qu'il vit une double vie. Et cette sensation est source d'anxiété chronique.
+Le problème n'est pas les réseaux sociaux en soi. Le problème, c'est que l'écart entre le personnage et la réalité crée une **dissonance** interne. Votre ado sent qu'il vit une double vie. Et cette sensation est source d'anxiété chronique — confirmée par les recherches de Jean Twenge, professeure de psychologie à San Diego State University, qui a montré une corrélation directe entre l'utilisation intensive des réseaux sociaux et l'augmentation des épisodes dépressifs chez les ados depuis 2012.
 
 **Le masque familial.**
 
@@ -98,7 +110,7 @@ Trois masques. Trois personnages. Et aucun espace — ou presque — où votre a
 
 [Voix plus douce]
 
-Quand un ado n'a pas d'espace pour « être » — juste être, sans performer, sans plaire, sans masque — quelque chose se vide à l'intérieur. On l'appelle le vide intérieur. Et ce vide, votre ado va essayer de le combler. Par les écrans, par la nourriture, par l'isolement, par la provoc ation, par n'importe quoi qui crée une sensation — parce que la sensation, même désagréable, vaut mieux que le vide.
+Quand un ado n'a pas d'espace pour « être » — juste être, sans performer, sans plaire, sans masque — quelque chose se vide à l'intérieur. On l'appelle le vide intérieur. Et ce vide, votre ado va essayer de le combler. Par les écrans, par la nourriture, par l'isolement, par la provocation, par n'importe quoi qui crée une sensation — parce que la sensation, même désagréable, vaut mieux que le vide.
 
 [Transition — léger changement de rythme]
 
@@ -136,6 +148,12 @@ Pourquoi on ne dit rien ? Parce que si vous commentez, votre ado va ajuster son 
 
 Le simple fait d'**observer sans commenter** envoie un message paradoxal mais puissant : « Je te vois. Et je ne te juge pas. » Ce message, votre ado ne l'entend presque jamais.
 
+[Pause 5 secondes]
+
+Si vous êtes en train d'écouter ceci le soir, préparez-vous mentalement. Demain matin, le test du miroir. Cinq secondes. Rien d'autre.
+
+[Transition en douceur]
+
 ---
 
 ### APPLICATION (14:30 — 18:00)
@@ -158,7 +176,7 @@ Ou : « Si tu devais décrire ta journée en un mot, ce serait quoi ? » — rap
 
 **Deuxièmement : créez un espace sans masque.**
 
-Un moment dans la semaine — un repas, un trajet en voiture, une promenade — où la règle est : pas de questions sur l'école, pas de remarques sur le comportement, pas de expectations. Juste être ensemble. Si votre ado parle, écoutez. S'il ne parle pas, partagez quelque chose de vous — une observation, une mémoire, une pensée. Montrez-lui qu'on peut être ensemble sans que ça soit un moment d'évaluation.
+Un moment dans la semaine — un repas, un trajet en voiture, une promenade — où la règle est : pas de questions sur l'école, pas de remarques sur le comportement, pas d'attentes. Juste être ensemble. Si votre ado parle, écoutez. S'il ne parle pas, partagez quelque chose de vous — une observation, une mémoire, une pensée. Montrez-lui qu'on peut être ensemble sans que ça soit un moment d'évaluation.
 
 **Troisièmement : regardez vos propres masques.**
 
@@ -166,19 +184,31 @@ Votre ado porte trois masques. Et vous ? Combien de masques portez-vous ? Le mas
 
 Si la réponse est non — ou si vous n'êtes pas sûr — c'est le point de départ de votre propre travail intérieur. Parce qu'on ne peut enlever que ce qu'on a d'abord reconnu.
 
+[Pause]
+
+Ces trois pratiques — observer sans commenter, créer un espace sans masque, regarder vos propres masques — sont les premiers pas de la présence parentale. Vous ne changez pas votre ado. Vous changez la **qualité de votre regard**.
+
 ---
 
 ### DÉBRIEF (18:00 — 20:00)
 
 [Voix réfléchie, synthétique]
 
-L'épisode suivant va plus loin. Il s'appelle : *Votre ado répète ce que vous n'avez pas réglé*. Nous verrons comment les patterns émotionnels se transmettent d'une génération à l'autre — non pas par la génétique, mais par ce qui reste **non-dit**.
+L'épisode suivant va plus loin. Il s'appelle : *Votre ado répète ce que vous n'avez pas réglé*. Nous verrons comment les patterns émotionnels se transmettent d'une génération à l'autre — non pas par la génétique, mais par ce qui reste **non-dit**. Et pourquoi votre ado est peut-être le miroir le plus fidèle de ce que vous n'avez pas encore regardé en vous.
 
 ---
 
 ### CLÔTURE (20:00 — 22:00)
 
 [Voix douce, réconfortante]
+
+Je termine avec Carl Jung — le même Jung qui nous a parlé du masque au début de cet épisode. Il écrivait :
+
+[Voix lente, chaque mot compte]
+
+« *Il n'y a pas de naissance de conscience sans douleur. Et cette douleur, l'enfant la porte en silence — jusqu'à ce que quelqu'un accepte de la regarder en face.* »
+
+[Pause 3 secondes]
 
 Derrière le masque de votre ado, il y a un être humain qui cherche à exister pleinement. Pas à performer. Pas à plaire. **Exister**.
 
@@ -191,3 +221,24 @@ Demain matin, le test du miroir. Observez sans commenter. Et laissez la question
 Dans le prochain épisode, nous parlerons de ce que votre ado porte de votre propre histoire.
 
 Prenez soin de vous.
+
+[Fin — musique de sortie douce, piano léger, 5 secondes]
+
+---
+
+## NOTES DE PRODUCTION
+
+**Termes et concepts utilisés :**
+- Persona (Carl Jung, 1928, *Les Types psychologiques*) — le masque social que l'on porte
+- Cortex préfrontal — partie du cerveau gérant la réflexion, la planification et la régulation émotionnelle
+- Élagage synaptique — processus de restructuration neuronale à l'adolescence
+- Dissonance cognitive — écart entre l'image projetée et le vécu intérieur
+- Mode par défaut — état de repos cérébral actif (exploré en détail épisode 7)
+
+**Sources :**
+- Sarah-Jayne Blakemore, *Inventing Ourselves: The Secret Life of the Teenage Brain* (2018), University College London — sur la maturation du cortex préfrontal et l'élagage synaptique à l'adolescence
+- Jean Twenge, *iGen* (2017), San Diego State University — sur la corrélation entre réseaux sociaux et dépression adolescente (données NSDUH, 2012-2017)
+- Karen Horney, *The Neurotic Personality of Our Time* (1937) — sur la tyrannie de l'approbation intériorisée
+- Carl Jung, *Les Types psychologiques* (1928) — concept de la persona
+
+**Musique suggérée :** Ambiance douce et universelle — piano léger, nappes synthétiques chaudes. Pas d'instruments culturels spécifiques (pas d'oud, pas de ney) pour respecter le positionnement tout public. Tonalité contemplative, tempo 60-70 BPM.

@@ -18,7 +18,7 @@
 | Exercice | 10:30 | 4:00 | L'expérience des 5 minutes de rien — ensemble ou seul |
 | Application | 14:30 | 3:30 | L'espace de vide quotidien — un rituel de 10 minutes |
 | Débrief | 18:00 | 2:00 | Lien avec le dernier épisode |
-| Clôture | 20:00 | 2:00 | Invitation |
+| Clôture | 20:00 | 2:00 | Citation de Timothy Wilson + invitation |
 
 ---
 
@@ -54,6 +54,8 @@ Il y a 30 ans, un ado s'ennuyait. S'il s'ennuyait dans sa chambre, il finissait 
 
 L'ennui n'était pas un problème — c'était une **ressource**. La créativité, l'introspection, la capacité à rêver — tout ça naît de l'ennui. Les neurosciences le confirment : le cerveau en état de repos sans stimulation — ce qu'on appelle le **mode par défaut** — est en fait extrêmement actif. Il consolide les souvenirs, planifie l'avenir, explore les émotions, génère des idées créatives.
 
+Ce mode par défaut a été cartographié pour la première fois par Marcus Raichle, neuroscientifique à l'Université de Washington à St. Louis, dans une étude fondatrice publiée dans *Science* en 2001. Raichle a découvert que le cerveau au repos consomme 20% de l'énergie du corps — seulement 5% de moins que lors d'une tâche cognitive exigeante. Le « repos » cérébral n'est pas du repos. C'est de l'activité d'un autre type.
+
 [Pause]
 
 Aujourd'hui, cet état de repos sans stimulation n'existe presque plus. Chaque seconde vide est immédiatement remplie par le téléphone, la musique, la vidéo, le jeu. L'ennui est tué dans l'œuf — dès qu'il apparaît, l'ado le compense.
@@ -76,13 +78,17 @@ Il y a trois choses que l'ennui produisait — et que votre ado a perdues.
 
 Quand l'esprit s'ennuie, il commence à chercher. Pas une recherche active — une exploration libre. Les idées les plus créatives de l'humanité sont nées dans l'ennui. Newton sous le pommier. Archimède dans son bain. Votre ado ne connaîtra jamais ces moments — parce qu'il ne s'ennuie jamais assez longtemps.
 
+La chercheure Sandi Mann, de l'Université de Central Lancashire, a publié en 2014 un livre important, *The Science of Boredom*, où elle montre que l'ennui est un état cognitif spécifique qui active le réseau de « pensée divergente » — la capacité à générer de nombreuses idées, pas une seule. Les participants à ses études produisaient des idées significativement plus créatives après une période d'ennui imposée.
+
 **L'introspection.**
 
 L'ennui est le moment où l'esprit se retourne vers lui-même. « Qu'est-ce que je ressens ? Qu'est-ce que je veux ? Qui suis-je en ce moment ? » Ces questions sont le fondement de l'intelligence émotionnelle. Sans ennui, elles ne se posent jamais.
 
+Le psychologue Timothy Wilson, de l'Université de Virginie, a mené une série d'expériences maintenant célèbres. Dans une étude publiée dans *Science* (2014), il a demandé à des participants de rester seuls dans une pièce vide pendant 15 minutes. La seule distraction disponible était un bouton qui délivrait une légère décharge électrique — désagréable mais pas dangereuse. Résultat : 67% des hommes et 25% des femmes ont préféré s'infliger une décharge électrique plutôt que de rester seuls avec leurs pensées pendant 15 minutes. L'ennui est devenu si insupportable qu'on préfère la douleur.
+
 **La rêverie.**
 
-La rêverie — ce qu'on appelait « rêvasserie » quand nous étions enfants — n'est pas de la paresse. C'est un état neurologique spécifique (le mode par défaut) qui renforce la créativité, la résolution de problèmes et la régulation émotionnelle. Les enfants rêvaient naturellement. Les ados, eux, ne rêvent plus — ils scrollent.
+La rêverie — ce qu'on appelait « rêvasserie » quand nous étions enfants — n'est pas de la paresse. C'est un état neurologique spécifique, le mode par défaut, qui renforce la créativité, la résolution de problèmes et la régulation émotionnelle. Les enfants rêvaient naturellement. Les ados, eux, ne rêvent plus — ils scrollent.
 
 [Pause]
 
@@ -126,6 +132,8 @@ Ce « quelque chose d'autre » — c'est l'intériorité qui se réveille.
 
 Faites-le une fois cette semaine. Si votre ado refuse — faites-le seul. Et un jour, il vous verra le faire. Et peut-être qu'il sera curieux.
 
+[Transition en douceur]
+
 ---
 
 ### APPLICATION (14:30 — 18:00)
@@ -138,11 +146,11 @@ Deux choses pour cette semaine.
 
 Créez un moment dans la journée — 10 minutes — où les écrans sont posés et où il n'y a pas d'activité structurée. Pas de sermon. Pas de discussion. Juste de l'espace. Le salon sans télévision. La table sans téléphone. Le trajet en voiture sans musique.
 
-Cet espace de vide est comme un terrain vague en ville — au début, il semble inutile. Mais avec le temps, la nature (ou l'intériorité) s'y installe.
+Cet espace de vide est comme un terrain vague en ville — au début, il semble inutile. Mais avec le temps, la nature — ou l'intériorité — s'y installe.
 
 **Deuxièmement : permettez-vous de vous ennuyer.**
 
-Si vous êtes comme la plupart des adultes, vous êtes aussi accro à la stimulation. Vérifiez : quand vous attendez dans une file, que faites-vous ? Vous sortez votre téléphone. Quand vous êtes seul dans une pièce, que faites-vous ? Vous allumez quelque chose.
+Si vous êtes comme la plupart des adultes, vous êtes aussi dépendant de la stimulation. Vérifiez : quand vous attendez dans une file, que faites-vous ? Vous sortez votre téléphone. Quand vous êtes seul dans une pièce, que faites-vous ? Vous allumez quelque chose.
 
 Commencez par vous-même. Laissez l'ennui venir. Sentez l'inconfort. Et observez ce qui se passe après.
 
@@ -164,6 +172,14 @@ Le dernier épisode est le plus important. Il s'appelle : *Vous ne pouvez offrir
 
 [Voix douce, réconfortante]
 
+Je termine avec Timothy Wilson, le psychologue qui a montré que les êtres humains préfèrent la douleur électrique au vide mental :
+
+[Voix lente, chaque mot compte]
+
+« *Le pire ennemi de la connaissance de soi n'est pas l'ignorance — c'est l'illusion de la connaissance. Et cette illusion se nourrit de la distraction permanente. Ce que nous fuyons dans l'ennui, c'est souvent la seule chose dont nous avons besoin.* »
+
+[Pause 3 secondes]
+
 L'ennui n'est pas un vide à combler. C'est un espace à habiter. Et dans cet espace, votre ado retrouvera quelque chose que les écrans ne peuvent jamais offrir : la capacité à se connaître, à rêver, à créer.
 
 5 minutes de rien. C'est tout. C'est le commencement.
@@ -171,3 +187,23 @@ L'ennui n'est pas un vide à combler. C'est un espace à habiter. Et dans cet es
 Dans le dernier épisode, nous parlons de vous.
 
 Prenez soin de vous.
+
+[Fin — musique de sortie douce, piano léger, 5 secondes]
+
+---
+
+## NOTES DE PRODUCTION
+
+**Termes et concepts utilisés :**
+- Mode par défaut (Default Mode Network) — réseau cérébral actif au repos (Marcus Raichle)
+- Pensée divergente — capacité à générer de nombreuses idées (opposée à pensée convergente)
+- Rêverie — état neurologique spécifique lié au mode par défaut
+- Dépendance à la stimulation — incapacité à tolérer l'absence de stimulation externe
+
+**Sources :**
+- Marcus Raichle et al., « A Default Mode of Brain Function », *Science* (2001), Université de Washington — découverte du mode par défaut
+- Timothy Wilson et al., « Just Think: The Challenges of the Disengaged Mind », *Science* (2014), Université de Virginie — préférence pour la douleur électrique sur le vide
+- Sandi Mann, *The Science of Boredom* (2014), Université de Central Lancashire — ennui et créativité
+- Mary Helen Immordino-Yang et al., « Measuring the Emotional Brain », *Development and Psychopathology* (2009), USC — mode par défaut et régulation émotionnelle
+
+**Musique suggérée :** Ambiance douce et universelle — piano léger, nappes synthétiques chaudes. Tonalité contemplative avec une légère pointe de mélancolie — l'épisode porte sur une perte. Tempo 55-60 BPM.

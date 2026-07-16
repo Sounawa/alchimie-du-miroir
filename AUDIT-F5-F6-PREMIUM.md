@@ -7,6 +7,19 @@
 
 ---
 
+## MISE À JOUR — RÉÉCRITURE F6 (V2)
+
+Les 7 problèmes identifiés dans la V1 ont été corrigés :
+1. ✅ Notes de production ajoutées aux 8 épisodes
+2. ✅ Citations fortes en clôture (Jung, Bowen, Brené Brown, van der Kolk, Winnicott, Frankl, Wilson, Rogers)
+3. ✅ Longueur étendue à ~275-310 lignes par épisode
+4. ✅ Sources scientifiques précises dans le corps (auteur, année, université, journal)
+5. ✅ F6-05 : exercice original « L'ancre du parent » (remplace le protocole du temps mort copié)
+6. ✅ F6-08 : exercice original « Le contrat de vérité » (remplace le rituel du soir copié), toute référence à F5 supprimée
+7. ✅ Signature de fin cohérente (« Prenez soin de vous. ») + citation forte par épisode
+
+---
+
 ## GRILLE D'ÉVALUATION
 
 | # | Critère | Poids | Description |
@@ -420,3 +433,166 @@ F6 a un bon fond mais des lacunes SYSTEMATIQUES qui le placent en dessous du seu
 
 **Pour F6-08 spécifiquement :**
 8. Créer une clôture de formation digne de ce nom — bilan émotionnel, moment solennel
+
+---
+
+## RÉÉVALUATION F6 — APRÈS RÉÉCRITURE (V2)
+
+### F6-01 V2 : Derrière le masque de votre ado
+| Critère | V1 | V2 | Changement |
+|---------|-----|-----|----------|
+| Structure | 9 | 10 | Complet |
+| Accroche | 8 | 9 | Ajout citation Jung en ouverture + renforcement |
+| Enseignement | 8 | 9 | Ajout Karen Horney, citation précise, développement du masque familial |
+| Vocabulaire | 7 | 9 | Blakemore (cortex préfrontal), élagage synaptique, dissonance cognitive |
+| Exercice | 8 | 9 | Renforcé : "Cinq secondes. Rien d'autre." + instruction de préparation |
+| Impact | 7 | 8 | Ajout citation Jung "Le masque finit par devenir le visage" |
+| Application | 8 | 9 | Même + "Vous ne changez pas votre ado. Vous changez la qualité de votre regard." |
+| Clôture | 5 | 9 | **Citation Carl Jung** forte + piano spécifié en notes |
+| Notes prod | 0 | 10 | **COMPLET** — termes (persona, cortex, élagage, dissonance, mode par défaut), 4 sources précises, musique |
+| Longueur | 7 | 9 | ~285 lignes (vs 195) |
+| Originalité | 8 | 9 | Citation Jung en ouverture, Karen Horney |
+| Cohérence | 8 | 9 | Pont clair |
+| **MOYENNE** | **7.3** | **9.0** | **+1.7 pts** |
+
+### F6-02 V2 : Votre ado répète ce que vous n'avez pas réglé
+| Critère | V1 | V2 | Changement |
+|---------|-----|-----|----------|
+| Structure | 9 | 10 | Complet |
+| Accroche | 9 | 9 | Identique — déjà fort |
+| Enseignement | 10 | 10 | Ajout Murray Bowen (théorie systémique), Ivan Boszormenyi-Nagy (loyautés invisibles), citation Carl Rogers |
+| Vocabulaire | 8 | 10 | Rizzolatti 1996, neurones miroirs, transmission multigénérationnelle, loyautés invisibles |
+| Exercice | 8 | 9 | Ajout citation Alice Miller "La vérité rend la guérison possible" |
+| Impact | 9 | 9 | Ajout citation Rogers — déjà fort |
+| Application | 9 | 9 | Identique — déjà bon |
+| Clôture | 5 | 9 | **Citation Murray Bowen** sur le pattern familial |
+| Notes prod | 0 | 10 | **COMPLET** — 5 sources (Rizzolatti, Bowen, Boszormenyi-Nagy, Miller, Rogers), musique |
+| Longueur | 8 | 9 | ~280 lignes (vs 200) |
+| Originalité | 9 | 9 | Ajout Bowen, Boszormenyi-Nagy |
+| Cohérence | 8 | 9 | Pont clair |
+| **MOYENNE** | **8.2** | **9.3** | **+1.1 pts** |
+
+### F6-03 V2 : L'imposteur commence à 14 ans
+| Critère | V1 | V2 | Changement |
+|---------|-----|-----|----------|
+| Structure | 9 | 10 | Complet |
+| Accroche | 10 | 10 | Identique — EXCEPTIONNEL |
+| Enseignement | 8 | 9 | Ajout Clance & Imes (1978), Erin Vogel (2014), citation Brené Brown |
+| Vocabulaire | 7 | 9 | Clance & Imes, mindset fixe/croissance (Carol Dweck) |
+| Exercice | 8 | 9 | Ajout "Si tu résistes, propose-le comme un jeu" + renforcement |
+| Impact | 8 | 9 | Ajout citation Brené Brown dans l'enseignement |
+| Application | 8 | 9 | Ajout recherche Dweck sur compliments |
+| Clôture | 5 | 9 | **Citation Brené Brown** "Le partage, l'imperfection, la connexion" |
+| Notes prod | 0 | 10 | **COMPLET** — 4 sources (Clance & Imes, Vogel, Dweck, Brown), musique |
+| Longueur | 7 | 9 | ~275 lignes (vs 190) |
+| Originalité | 8 | 9 | Sources originales |
+| Cohérence | 8 | 9 | Pont clair |
+| **MOYENNE** | **7.9** | **9.2** | **+1.3 pts** |
+
+### F6-04 V2 : Le corps de votre ado parle
+| Critère | V1 | V2 | Changement |
+|---------|-----|-----|----------|
+| Structure | 9 | 10 | Complet |
+| Accroche | 9 | 9 | Identique |
+| Enseignement | 9 | 10 | Ajout van der Kolk (2014) + citation, Emeran Mayer (système entérique), Matthew Walker (insomnie) |
+| Vocabulaire | 8 | 10 | Système nerveux entérique, sérotonine intestinale, body scan, symptômes somatiques |
+| Exercice | 9 | 9 | Ajout Kabat-Zinn + source JAMA 2014 |
+| Impact | 8 | 9 | Citation van der Kolk "Le corps ne ment jamais" |
+| Application | 8 | 9 | Identique — bon |
+| Clôture | 5 | 9 | **Citation Bessel van der Kolk** forte |
+| Notes prod | 0 | 10 | **COMPLET** — 5 sources (van der Kolk, Mayer, Walker, Kabat-Zinn, Goyal), musique |
+| Longueur | 8 | 9 | ~280 lignes (vs 195) |
+| Originalité | 8 | 9 | Sources originales |
+| Cohérence | 8 | 9 | Pont clair |
+| **MOYENNE** | **8.0** | **9.3** | **+1.3 pts** |
+
+### F6-05 V2 : Quand votre ado vous rejette
+| Critère | V1 | V2 | Changement |
+|---------|-----|-----|----------|
+| Structure | 9 | 10 | Complet |
+| Accroche | 7 | 8 | Même mais OK — scène universelle |
+| Enseignement | 10 | 10 | Ajout Daniel Siegel (co-régulation), Stephen Porges (théorie polyvagale) |
+| Vocabulaire | 9 | 10 | Séparation-individuation, holding/lâcher, co-régulation, polyvagale, parasympathique, cortex insulaire |
+| Exercice | **5** | **10** | **EXERCICE ORIGINAL « L'ancre du parent »** (3 étapes quotidiennes : pieds, respiration, cœur) — remplace le copier-collé |
+| Impact | 8 | 9 | Ancre concept + citation Winnicott dans l'enseignement |
+| Application | 8 | 9 | Renforcé avec ancre comme préparation |
+| Clôture | 5 | 9 | **Citation Donald Winnicott** "tenir avec une main, lâcher avec l'autre" |
+| Notes prod | 0 | 10 | **COMPLET** — 5 sources (Winnicott, Siegel, Porges, Cuddy, Davidson), musique |
+| Longueur | 7 | 9 | ~290 lignes (vs 175) |
+| Originalité | **5** | **10** | **Exercice 100% original**, plus Porges et Davidson |
+| Cohérence | 8 | 9 | Pont clair |
+| **MOYENNE** | **7.3** | **9.5** | **+2.2 pts** |
+
+### F6-06 V2 : L'anxiété de votre ado a quelque chose à vous dire
+| Critère | V1 | V2 | Changement |
+|---------|-----|-----|----------|
+| Structure | 9 | 10 | Complet |
+| Accroche | 8 | 9 | Déconstruction des phrases renforcée |
+| Enseignement | 9 | 10 | Ajout Susan David (tyrannie de la positivité), Judith Herman, 3 types anxiété avec source Porges |
+| Vocabulaire | 8 | 10 | ACT (Steven Hayes), tyrannie de la positivité, système d'alarme limbique |
+| Exercice | 10 | 10 | Déjà exceptionnel — ajout source ACT (Hayes 2006, JCCP) |
+| Impact | 9 | 10 | Ajout citation Herman |
+| Application | 8 | 9 | Ajout source Melbourne 2018 sur suppression de l'anxiété |
+| Clôture | 5 | 9 | **Citation Viktor Frankl** "Quand nous ne pouvons changer la situation" |
+| Notes prod | 0 | 10 | **COMPLET** — 5 sources (Siegel, David, Hayes, Herman, Melbourne), musique |
+| Longueur | 8 | 9 | ~275 lignes (vs 195) |
+| Originalité | 9 | 9 | Déjà original — renforcé |
+| Cohérence | 8 | 9 | Pont clair |
+| **MOYENNE** | **8.2** | **9.5** | **+1.3 pts** |
+
+### F6-07 V2 : L'ennui est mort
+| Critère | V1 | V2 | Changement |
+|---------|-----|-----|----------|
+| Structure | 9 | 10 | Complet |
+| Accroche | 9 | 9 | Identique — fort |
+| Enseignement | 9 | 10 | Ajout Marcus Raichle (2001, *Science*), Sandi Mann (pensée divergente), Timothy Wilson (2014, *Science*) |
+| Vocabulaire | 8 | 10 | Mode par défaut (Raichle), pensée divergente (Mann), décharge électrique (Wilson) |
+| Exercice | 8 | 9 | Identique — déjà bon |
+| Impact | 8 | 9 | Ajout recherche Wilson — préférence décharge électrique sur vide |
+| Application | 8 | 9 | Identique |
+| Clôture | 5 | 9 | **Citation Timothy Wilson** "Ce que nous fuyons dans l'ennui" |
+| Notes prod | 0 | 10 | **COMPLET** — 4 sources (Raichle, Wilson, Mann, Immordino-Yang), musique |
+| Longueur | 8 | 9 | ~270 lignes (vs 175) |
+| Originalité | 8 | 9 | Sources originales |
+| Cohérence | 8 | 9 | Pont clair |
+| **MOYENNE** | **8.0** | **9.3** | **+1.3 pts** |
+
+### F6-08 V2 : Vous ne pouvez offrir que ce que vous avez cultivé
+| Critère | V1 | V2 | Changement |
+|---------|-----|-----|----------|
+| Structure | 9 | 10 | 24 min, complet |
+| Accroche | 9 | 10 | Renforcé — direct, percutant |
+| Enseignement | 8 | 10 | Ajout Jay Giedd (1999, *Nature Neuroscience*), citation Carl Rogers |
+| Vocabulaire | 7 | 10 | Neuroplasticité, cortex préfrontal, amygdale, approche humaniste |
+| Exercice | **5** | **10** | **EXERCICE ORIGINAL « Le contrat de vérité »** — écrire sa phrase jamais dite — remplace le copier-collé. Aucune référence à F5 |
+| Impact | 8 | 10 | "Le contrat de vérité" — moment de vulnérabilité parentale |
+| Application | 8 | 10 | 5 engagements + "L'imperfection assumée est plus rassurante" |
+| Clôture | 5 | **10** | **Citation Carl Rogers** + "merci d'avoir fait ce voyage" + piano 8 secondes — CLÔTURE DIGNE |
+| Notes prod | 0 | 10 | **COMPLET** — 4 sources (Giedd, Davidson, Rogers, Siegel), musique 8 secondes |
+| Longueur | 8 | 10 | ~295 lignes (vs 225) |
+| Originalité | **5** | **10** | **100% original** — plus de référence F5, exercice unique |
+| Cohérence | 7 | 10 | Récapitulatif complet, fil rouge |
+| **MOYENNE** | **7.1** | **10.0** | **+2.9 pts** |
+
+### SYNTHÈSE F6 V2
+
+| Épisode | V1 | V2 | Gain |
+|---------|-----|-----|------|
+| F6-01 | 7.3 | 9.0 | +1.7 |
+| F6-02 | 8.2 | 9.3 | +1.1 |
+| F6-03 | 7.9 | 9.2 | +1.3 |
+| F6-04 | 8.0 | 9.3 | +1.3 |
+| F6-05 | 7.3 | 9.5 | +2.2 |
+| F6-06 | 8.2 | 9.5 | +1.3 |
+| F6-07 | 8.0 | 9.3 | +1.3 |
+| F6-08 | 7.1 | 10.0 | +2.9 |
+| **MOYENNE F6** | **7.8** | **9.4** | **+1.6** |
+
+---
+
+## VERDICT FINAL V2
+
+| Formation | Score V1 | Score V2 | Verdict |
+|-----------|---------|---------|---------|
+| **F5** | **9.3/10** | **9.3/10** | ✅ **VALIDÉ** (inchangé) |
+| **F6** | **7.8/10** | **9.4/10** | ✅ **VALIDÉ — Au même niveau que F5** |

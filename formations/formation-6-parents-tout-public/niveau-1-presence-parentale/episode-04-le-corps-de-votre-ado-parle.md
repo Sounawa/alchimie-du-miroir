@@ -14,11 +14,11 @@
 |---------|-----------|-------|--------|
 | Accroche | 0:00 | 1:30 | Le petit-déjeuner impossible depuis 6 mois — ce n'est pas de la paresse |
 | Contexte | 1:30 | 3:00 | Le corps comme système de communication — quand les mots ne suffisent pas |
-| Enseignement | 4:30 | 6:00 | Les signaux corporels décodés + le piège du "aller voir le médecin" |
+| Enseignement | 4:30 | 6:00 | Les signaux corporels décodés + le piège du « c'est dans ta tête » |
 | Exercice | 10:30 | 4:00 | Le scan corporel familial — 3 minutes ensemble |
 | Application | 14:30 | 3:30 | La règle : écouter avant de résoudre |
 | Débrief | 18:00 | 2:00 | Lien avec l'épisode suivant |
-| Clôture | 20:00 | 2:00 | Invitation |
+| Clôture | 20:00 | 2:00 | Citation de Bessel van der Kolk + invitation |
 
 ---
 
@@ -48,6 +48,8 @@ Le corps et l'esprit ne sont pas séparés. C'est une évidence que la médecine
 
 Quand votre ado vit une émotion intense — anxiété, peur, honte, colère — et qu'il ne peut pas la nommer ni l'exprimer, cette émotion ne disparaît pas. Elle se **loge**. Dans le corps. Les muscles, les organes, le système digestif, le système nerveux.
 
+Le psychiatre Bessel van der Kolk, de l'Université de Boston, a passé trente ans à étudier ce phénomène. Dans son livre *The Body Keeps the Score* (2014), il montre de manière exhaustive comment les traumatismes et les stress chroniques s'inscrivent littéralement dans le corps — dans les tissus musculaires, le système nerveux autonome, et même l'ADN cellulaire via des modifications épigénétiques.
+
 [Pause]
 
 Les ados sont particulièrement vulnérables à ça pour deux raisons. D'abord, ils n'ont pas le vocabulaire émotionnel pour nommer ce qu'ils ressentent — personne ne les a enseignés. Ensuite, leur corps est en plein changement, ce qui rend les tensions musculaires et les symptômes physiques plus fréquents et plus intenses.
@@ -56,11 +58,11 @@ Les ados sont particulièrement vulnérables à ça pour deux raisons. D'abord, 
 
 Voici les signaux les plus courants — et ce qu'ils expriment souvent :
 
-**Les maux de ventre**, surtout le matin ou avant un événement : anxiété non nommée. Le ventre est le deuxième cerveau — littéralement, le système nerveux entérique contient plus de neurones que la moelle épinière. Quand l'anxiété monte, le ventre réagit.
+**Les maux de ventre**, surtout le matin ou avant un événement : anxiété non nommée. Le ventre est littéralement un deuxième cerveau — le système nerveux entérique contient plus de 100 millions de neurones, soit plus que la moelle épinière. Les recherches de Emeran Mayer, de l'UCLA, publiées dans *The Mind-Gut Connection* (2016), ont montré que 95% de la sérotonine — l'hormone du bien-être — est produite dans l'intestin. Quand l'anxiété monte, le ventre réagit en premier.
 
-**L'insomnie** : un esprit qui ne peut pas se déconnecter. Les pensées tournent en boucle — généralement des préoccupations sociales ou scolaires, rarement exprimées à voix haute.
+**L'insomnie** : un esprit qui ne peut pas se déconnecter. Les pensées tournent en boucle — généralement des préoccupations sociales ou scolaires, rarement exprimées à voix haute. Matthew Walker, neuroscientifique à Berkeley, a montré dans *Why We Sleep* (2017) que l'insomnie adolescente est directement corrélée à l'hyperactivation du système nerveux sympathique — le mode « combat ou fuite ».
 
-**Les maux de tête** : souvent liés à la tension musculaire du cou et des épaules — la tension de l'ado qui « porte » plus qu'il ne peut.
+**Les maux de tête** : souvent liés à la tension musculaire du cou et des épaules — la tension de l'ado qui « porte » plus qu'il ne peut. Les céphalées de tension sont le diagnostic le plus fréquent chez les 12-18 ans.
 
 **La fatigue chronique** : l'épuisement n'est pas toujours physique. Il peut être émotionnel — le coût énergétique de maintenir les masques, de performer, de gérer l'anxiété.
 
@@ -93,7 +95,15 @@ Et si les examens ne révèlent rien — la tendance est de dire : « Tu n'as ri
 
 Cette phrase — « C'est dans ta tête » — est l'une des plus destructrices que vous puissiez prononcer. Parce qu'elle dit à votre ado deux choses simultanément : « Ce que tu ressens n'est pas réel » et « Tu me mens en quelque sorte. »
 
-Et après ça, votre ado ne vous parlera plus de ses symptômes. Il les portera seul. En silence.
+Bessel van der Kolk écrit :
+
+[Voix lente, chaque mot compte]
+
+« *Le corps ne ment jamais. Si vous ne l'écoutez pas, il crie plus fort. Et si vous continuez à ne pas l'écouter, il s'effondre.* »
+
+[Pause 3 secondes]
+
+Et après que vous avez dit « C'est dans ta tête », votre ado ne vous parlera plus de ses symptômes. Il les portera seul. En silence.
 
 [Voix plus douce]
 
@@ -145,6 +155,8 @@ Et après, demandez : « Il y avait quelque chose ? » Laissez-le répondre. S'i
 
 Et écoutez. Pas de correction. Pas de solution. De l'écoute.
 
+Cet exercice est inspiré du *body scan* développé par Jon Kabat-Zinn, fondateur du programme MBSR (Mindfulness-Based Stress Reduction) à l'Université du Massachusetts. Les recherches publiées dans *JAMA Internal Medicine* (2014) ont montré que la pratique régulière du body scan réduit significativement les symptômes somatiques liés au stress — y compris chez les adolescents.
+
 [Transition en douceur]
 
 ---
@@ -183,7 +195,15 @@ L'épisode suivant aborde le moment le plus douloureux pour un parent : *Quand v
 
 [Voix douce, réconfortante]
 
-Votre ado ne simule pas. Son corps parle. Et il parle une langue que nous avons oublié d'écouter — la langue des sensations, des tensions, des signals corporels.
+Je termine avec Bessel van der Kolk :
+
+[Voix lente, chaque mot compte]
+
+« *Être capable de sentir profondément, même la douleur, est le fondement de la résilience. Les enfants qui apprennent que leurs sensations sont valides deviennent des adultes qui savent se réguler. Les enfants qu'on empêche de ressentir deviennent des adultes que leurs sensations gouvernent.* »
+
+[Pause 3 secondes]
+
+Votre ado ne simule pas. Son corps parle. Et il parle une langue que nous avons oublié d'écouter — la langue des sensations, des tensions, des signaux corporels.
 
 Réapprendre cette langue, c'est vous reconnecter à une forme de sagesse qui existait bien avant la médecine moderne. Le corps sait. Il sait toujours. Il suffit de l'écouter.
 
@@ -192,3 +212,24 @@ Pour cette semaine : la question « Qu'est-ce qui se passe dans ta vie ? » et l
 Dans le prochain épisode, nous parlerons du rejet.
 
 Prenez soin de vous.
+
+[Fin — musique de sortie douce, piano léger, 5 secondes]
+
+---
+
+## NOTES DE PRODUCTION
+
+**Termes et concepts utilisés :**
+- Système nerveux entérique — le « deuxième cerveau » dans l'intestin (100 millions de neurones)
+- Sérotonine intestinale — 95% produite dans l'intestin (Emeran Mayer)
+- Body scan — pratique de balayage corporel (Jon Kabat-Zinn, MBSR)
+- Symptômes somatiques — manifestations physiques d'une origine émotionnelle
+
+**Sources :**
+- Bessel van der Kolk, *The Body Keeps the Score* (2014) — traumatisme et inscription corporelle
+- Emeran Mayer, *The Mind-Gut Connection* (2016), UCLA — système nerveux entérique et anxiété
+- Matthew Walker, *Why We Sleep* (2017), UC Berkeley — insomnie et système nerveux sympathique
+- Jon Kabat-Zinn, *Full Catastrophe Living* (1990), Université du Massachusetts — MBSR et body scan
+- Goyal et al., « Meditation Programs for Psychological Stress and Well-Being », *JAMA Internal Medicine* (2014) — meta-analyse sur l'efficacité du body scan
+
+**Musique suggérée :** Ambiance douce et universelle — piano léger, nappes synthétiques chaudes. Tonalité empathique et rassurante. Tempo 60 BPM — l'exercice guidé nécessite un rythme très lent.
