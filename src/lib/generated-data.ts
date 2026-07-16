@@ -31880,6 +31880,76 @@ export const leadMagnetsList: LeadMagnetListItem[] = [
     "audience": "F4-pro-tout-public",
     "audienceLabel": "Pro Tout Public",
     "meta": {}
+  },
+  {
+    "slug": "F5-parents-musulmans/01-le-test-de-la-porte.md",
+    "title": "Le test de la porte",
+    "audience": "F5-parents-musulmans",
+    "audienceLabel": "Parents Musulmans",
+    "meta": {}
+  },
+  {
+    "slug": "F5-parents-musulmans/02-le-verset-qui-vous-regarde.md",
+    "title": "Le verset qui vous regarde",
+    "audience": "F5-parents-musulmans",
+    "audienceLabel": "Parents Musulmans",
+    "meta": {}
+  },
+  {
+    "slug": "F5-parents-musulmans/03-90-secondes-avant-de-monter.md",
+    "title": "90 secondes avant de monter",
+    "audience": "F5-parents-musulmans",
+    "audienceLabel": "Parents Musulmans",
+    "meta": {}
+  },
+  {
+    "slug": "F5-parents-musulmans/04-langoisse-est-une-misericorde.md",
+    "title": "L'angoisse est une miséricorde",
+    "audience": "F5-parents-musulmans",
+    "audienceLabel": "Parents Musulmans",
+    "meta": {}
+  },
+  {
+    "slug": "F5-parents-musulmans/05-le-rituel-du-soir.md",
+    "title": "Le rituel du soir",
+    "audience": "F5-parents-musulmans",
+    "audienceLabel": "Parents Musulmans",
+    "meta": {}
+  },
+  {
+    "slug": "F6-parents-tout-public/01-le-test-du-miroir-du-matin.md",
+    "title": "Le test du miroir du matin",
+    "audience": "F6-parents-tout-public",
+    "audienceLabel": "Parents Tout Public",
+    "meta": {}
+  },
+  {
+    "slug": "F6-parents-tout-public/02-nommez-un-pattern.md",
+    "title": "Nommez un pattern",
+    "audience": "F6-parents-tout-public",
+    "audienceLabel": "Parents Tout Public",
+    "meta": {}
+  },
+  {
+    "slug": "F6-parents-tout-public/03-performance-nest-pas-valeur.md",
+    "title": "Performance n'est pas valeur",
+    "audience": "F6-parents-tout-public",
+    "audienceLabel": "Parents Tout Public",
+    "meta": {}
+  },
+  {
+    "slug": "F6-parents-tout-public/04-lancre-du-parent.md",
+    "title": "L'ancre du parent",
+    "audience": "F6-parents-tout-public",
+    "audienceLabel": "Parents Tout Public",
+    "meta": {}
+  },
+  {
+    "slug": "F6-parents-tout-public/05-5-minutes-de-rien.md",
+    "title": "5 minutes de rien",
+    "audience": "F6-parents-tout-public",
+    "audienceLabel": "Parents Tout Public",
+    "meta": {}
   }
 ] as LeadMagnetListItem[]
 
@@ -34639,5 +34709,1321 @@ Votre hippocampe commence à se régénérer à la première respiration. Pas en
     meta: {},
     audience: "F4-pro-tout-public",
     audienceLabel: "Pro Tout Public",
+  },
+  "F5-parents-musulmans/01-le-test-de-la-porte.md": {
+    title: "Le test de la porte",
+    content: `## SCRIPT
+
+### OUVERTURE (0:00 — 1:30)
+
+[Voix posée, chaleureuse, comme en cabinet]
+
+Je vais vous demander de faire quelque chose de très simple ce soir. Et ce quelque chose va changer la façon dont vous voyez votre ado.
+
+[Pause 2 secondes]
+
+Mais avant de vous le dire, je dois vous raconter une scène.
+
+C'est un père — Karim. Son fils de 15 ans, Younes, rentre du lycée. Karim est dans le couloir. Younes entre, pose son sac, le jette plutôt, et monte dans sa chambre sans un mot. La porte se ferme.
+
+Karim me racontait : « Il ne me parle plus. Je ne sais pas qui est cet enfant. »
+
+[Pause]
+
+Et je lui ai demandé : « Quand Younes entre, que voyez-vous ? »
+
+Karim a répondu : « Je ne vois rien. Il passe et c'est tout. »
+
+Et c'est exactement le problème. Karim ne voyait rien — parce qu'il n'avait jamais appris à **regarder**.
+
+[Transition musicale légère — 3 secondes]
+
+---
+
+### LE CONCEPT (1:30 — 3:00)
+
+[Voix pédagogique, douce]
+
+Dans la tradition islamique, il y a deux mots pour parler d'éducation. La plupart des parents connaissent le premier : **ta'dib** — la discipline, les règles, le cadre. Mais il y a un autre mot, plus profond : **tarbiya**.
+
+Tarbiya vient de la racine qui signifie « cultiver, faire grandir ». Comme une plante. On ne dit pas à une plante comment grandir. On lui donne de la lumière, de l'eau, du terreau. On crée les **conditions** de sa croissance.
+
+Et Al-Ghazālī (al-ġazālī) écrivait : « L'enfant est un observateur silencieux. Il ne retient pas ce que vous lui dites de retenir. Il retient ce que vous **êtes** quand vous ne lui parlez pas. »
+
+[Pause]
+
+Votre ado vous lit. Pas vos conseils — votre **vie**. Mais pour le lire, il faut d'abord le **regarder**.
+
+Ce soir, vous allez apprendre à regarder.
+
+---
+
+### EXERCICE GUIDÉ (3:00 — 6:15)
+
+[Changement de rythme — voix plus douce, plus lente]
+
+L'exercice s'appelle « Le test de la porte ». Voici comment ça marche.
+
+[Voix claire, instructions précises]
+
+Ce soir, quand votre ado rentre — du lycée, de la mosquée, de chez un ami — ne lui demandez rien. Pas « comment ça s'est passé ? ». Pas « tu as prié ? ». Pas « tu as fait tes devoirs ? ». Rien.
+
+[Pause 2 secondes]
+
+Dites simplement bonjour. Normalement. Avec un sourire si vous le pouvez. Puis retournez à ce que vous faisiez.
+
+Et observez. Pas avec un regard de surveillance. Avec un regard de **lecture**.
+
+[Voix très douce]
+
+Trois choses à observer, sans juger.
+
+**Premièrement : comment votre ado entre-t-il ?** Les épaules sont-elles tombantes ? Le sac jeté ? Le regard fuyant ou présent ? L'énergie lourde ou agitée ? Le corps parle avant les mots.
+
+[Pause 5 secondes]
+
+**Deuxièmement : que fait-il dans les dix premières minutes ?** Va-t-il directement dans sa chambre ? Cherche-t-il le téléphone immédiatement ? Prend-il à manger ? Chaque geste est un signal.
+
+[Pause 5 secondes]
+
+**Troisièmement — et c'est le plus important :** si votre ado vous adresse la parole de lui-même, sans sollicitation, **arrêtez tout**. Posez ce que vous tenez. Regardez-le. Et écoutez.
+
+[Pause 8 secondes]
+
+Et ce que vous observez — ne le dites pas. Pas « Tu as l'air fatigué. » Pas « Qu'est-ce qu'il y a ? ». Juste notez. Parce que si vous commentez, votre ado ajustera son masque. Si vous observez en silence, vous lui envoyez un message qu'il n'entend presque jamais : « Je te vois. Et je ne te juge pas. »
+
+[Pause 5 secondes]
+
+Si vous écoutez ceci maintenant, préparez-vous mentalement. Ce soir, c'est le test de la porte.
+
+[Transition en douceur]
+
+---
+
+### DÉBRIEF (6:15 — 7:00)
+
+[Retour au ton thérapeutique, chaleureux]
+
+Ce que vous allez observer ce soir, c'est le premier chapitre d'une histoire que votre ado n'a jamais eu l'autorisation de vous raconter. Les épaules, le sac, le premier geste — ce sont les lettres d'un texte qu'il écrit en permanence.
+
+La tarbiya commence par la lecture. Pas par l'action. Pas par la correction. Par le **regard**.
+
+Et Ibn Qayyim (ibn al-qayyim) disait : « La sagesse, c'est le timing. Le mot juste, au bon moment. Et pour trouver le bon mot, il faut d'abord savoir lire. »
+
+---
+
+## CTA FINAL
+
+Le test de la porte — ce soir. Bonjour, sourire, observation. Si la parole vient, accueillez-la sans corriger. La Formation 5 vous apprend à déchiffrer ce que vous lisez : huit épisodes pour passer du parent-surveillant au parent-compagnon. Tarbiya, pas seulement ta'dib.
+
+---
+
+## NOTES DE PRODUCTION
+
+**Profil voix :** Homme, 30-50 ans, timbre chaleureux et grave. Débit : 115 mots/min. La voix guidante est murmurée (-10% volume). Ton « confident entre parents ».
+
+**BPM & Sound Design :**
+- Ouverture : 60 BPM, oud très doux seul
+- Concept : ajout d'un drone très léger à -20dB
+- Exercice : la musique s'efface. Quasi a cappella. Les trois observations sont séparées par des silences longs
+- Débrief : retour oud + ney doux
+- CTA : musique seule 4 sec puis fondu
+
+**Pauses :** La pause après la troisième observation est le point culminant — le silence où le parent réalise qu'il n'a jamais vraiment regardé.
+
+**Termes arabes :**
+- Ta'dib (تَأْدِيبٌ) — discipline, éducation par les règles
+- Tarbiya (تَرْبِيَةٌ) — cultivation, faire grandir
+- Al-Ghazālī (al-ġazālī) — الغزالي
+- Ibn Qayyim (ibn al-qayyim) — ابن القيم
+
+**Sources :**
+- Al-Ghazālī, Iḥyāʾ ʿulūm al-dīn — Kitāb Ādāb al-Muʿālimīn
+- Ibn Qayyim al-Jawziyya, Tuḥfat al-Mawlūd`,
+    meta: {},
+    audience: "F5-parents-musulmans",
+    audienceLabel: "Parents Musulmans",
+  },
+  "F5-parents-musulmans/02-le-verset-qui-vous-regarde.md": {
+    title: "Le verset qui vous regarde",
+    content: `## SCRIPT
+
+### OUVERTURE (0:00 — 1:30)
+
+[Voix posée, chaleureuse]
+
+Deux ados. Deux familles. Un seul problème.
+
+Le premier prie cinq fois par jour. Chaque jour. Mais quand il prie, son cœur est au match du soir, au message qu'il attend. Sa bouche fait les mouvements. Le reste de lui est absent.
+
+Le deuxième ne prie presque plus. Son père le sermonne, menace, rappelle les obligations. L'ado écoute en silence et ne change rien.
+
+[Pause]
+
+Deux situations opposées. Et pourtant, la racine est identique. Aucun des deux n'a de **relation** avec la prière.
+
+[Transition musicale légère — 3 secondes]
+
+---
+
+### LE CONCEPT (1:30 — 3:00)
+
+[Voix pédagogique, claire]
+
+Ibn Qayyim (ibn al-qayyim) écrit quelque chose de stupéfiant :
+
+[Voix lente, chaque mot compte]
+
+« Il y a des gens qui prient depuis quarante ans et dont la prière n'a jamais dépassé leur gorge. Et il y a des gens dont un seul prosternement a transformé leur vie entière. La différence n'est pas dans la prière. Elle est dans le cœur. »
+
+[Pause 3 secondes]
+
+Quarante ans de prosternations sans que l'âme ne s'abaisse une seule fois.
+
+Et la différence, ce n'est pas la quantité. C'est un moment que la tradition appelle **tajalli** (تَجَلِّيّ) — l'instant où le verset cesse d'être un texte et devient un **miroir**. Où vous ne lisez plus le Coran — le Coran vous lit.
+
+Ce moment, vous pouvez le vivre avec votre ado. Pas en lui parlant de la prière. En partageant un verset dans le silence.
+
+---
+
+### EXERCICE GUIDÉ (3:00 — 6:00)
+
+[Changement de rythme — voix plus douce, plus lente]
+
+Cet exercice s'appelle « Le verset miroir familial ». Vous le ferez avec votre ado. Pas ce soir — dans un moment de calme. Un moment neutre. Pas après un conflit. Pas pendant le ramadan avec la pression du jeûne.
+
+[Pause]
+
+Si vous le faites maintenant, seul, préparez-vous pour plus tard.
+
+[Voix claire, instructions précises]
+
+Choisissez un verset. Je vous propose la sourate 13, verset 28 :
+
+[Voix lente, prononciation soignée]
+
+**A-lā bi-dhikri llāhi taṭma'innu l-qulūb.**
+
+(أَلَا بِذِكْرِ ٱللَّهِ تَطْمَئِنُّ ٱلْقُلُوبُ)
+
+« N'est-ce point par le rappel d'Allah que les cœurs se tranquillisent ? »
+
+[Pause 4 secondes]
+
+Asseyez-vous avec votre ado. Pas en face — côte à côte. C'est moins intimidant. Lisez ce verset ensemble. À voix haute si vous êtes à l'aise, ou chacun dans son cœur.
+
+Puis — et c'est le cœur de l'exercice — restez en silence pendant **deux minutes**. Pas trente secondes. Deux minutes.
+
+[Pause 8 secondes]
+
+Dans ce silence, le verset travaille. Pas dans la tête — dans le cœur. Peut-être que rien ne se passera les premières fois. C'est normal. Le cœur de votre ado n'est pas habitué à ce genre d'espace.
+
+[Voix très douce]
+
+Et après les deux minutes, ne demandez pas « Qu'est-ce que tu as ressenti ? ». Dites simplement :
+
+« On fait ça la semaine prochaine, si tu veux. »
+
+Et laissez-le choisir.
+
+[Pause 5 secondes]
+
+Si vous êtes seul en écoutant ceci, prenez ce verset. Lisez-le intérieurement. Deux minutes de silence. Et posez-vous la question :
+
+[Voix murmurée]
+
+*« Où est le lieu en moi qui a besoin de tranquillité en ce moment ? »*
+
+[Pause 10 secondes — le silence le plus long]
+
+---
+
+### DÉBRIEF (6:00 — 7:00)
+
+[Retour au ton thérapeutique, chaleureux]
+
+Le Prophète ﷺ disait : « Adorez Allah comme si vous Le voyiez. Et si vous ne Le voyez pas, sachez que Lui vous voit. »
+
+« Comme si vous Le voyiez » — c'est la **disposition**. Le cœur ouvert, présent. Et cette disposition, vous ne pouvez pas la forcer chez votre ado. Mais vous pouvez la **modéliser**. Un verset. Deux minutes de silence. Côte à côte.
+
+C'est la tarbiya dans sa forme la plus pure : créer les conditions. Et laisser Allah faire le reste.
+
+---
+
+## CTA FINAL
+
+Un verset. Deux minutes de silence. Côte à côte. Ce que vous venez de vivre en sept minutes, la Formation 5 vous en donne sept autres — huit épisodes pour retrouver la connexion perdue entre surveillance et compagnonnage spirituel.
+
+---
+
+## NOTES DE PRODUCTION
+
+**Profil voix :** Homme, 30-50 ans, timbre chaleureux et grave. Débit : 110 mots/min en exercice. La voix du verset arabe est solennelle, presque liturgique. La voix guidante est murmurée (-10% volume).
+
+**BPM & Sound Design :**
+- Ouverture : 60 BPM, oud très doux
+- Concept : drone léger à -20dB
+- Exercice : la musique s'efface progressivement. Au verset arabe : retour de l'oud à -18dB. Pendant les deux minutes de silence : quasi a cappella
+- Moment « Où est le lieu en moi » : la musique disparaît complètement
+- Débrief : oud + ney doux
+- CTA : musique seule 4 sec puis fondu
+
+**Pauses :** La pause de 10 secondes sur « Où est le lieu en moi » est le point culminant — le moment le plus intime du lead magnet.
+
+**Termes arabes :**
+- Tajalli (تَجَلِّيّ) — la manifestation, le verset qui devient miroir
+- A-lā bi-dhikri llāhi taṭma'innu l-qulūb (أَلَا بِذِكْرِ ٱللَّهِ تَطْمَئِنُّ ٱلْقُلُوبُ) — Coran 13:28
+- Ibn Qayyim (ibn al-qayyim) — ابن القيم
+
+**Sources :**
+- Coran 13:28
+- Ibn Qayyim al-Jawziyya, Madārij al-Sālikīn
+- Hadith prophétique : « Adorez Allah comme si vous Le voyiez » (Sahih Bukhari & Muslim)`,
+    meta: {},
+    audience: "F5-parents-musulmans",
+    audienceLabel: "Parents Musulmans",
+  },
+  "F5-parents-musulmans/03-90-secondes-avant-de-monter.md": {
+    title: "90 secondes avant de monter",
+    content: `## SCRIPT
+
+### OUVERTURE (0:00 — 1:30)
+
+[Voix posée, accessible]
+
+Une porte claque à l'étage.
+
+Vous êtes en bas. Le cœur s'accélère. Et dans votre tête, deux voix se déclenchent immédiatement.
+
+La première dit : « C'est encore ça. »
+La deuxième dit : « Qu'est-ce que j'ai fait de mal ? »
+
+[Pause]
+
+Vous montez ? Vous ne montez pas ? Vous frappez ? Vous attendez ?
+
+Tous les parents musulmans ont vécu cette scène. Et à chaque fois, la même sensation : l'impuissance mêlée à une colère que vous ne savez pas où poser.
+
+[Transition musicale légère — 3 secondes]
+
+---
+
+### LE CONCEPT (1:30 — 3:00)
+
+[Voix pédagogique, claire]
+
+Quand votre ado claque la porte, son système nerveux vient de basculer dans l'état de **combat**. Le cerveau amygdalien a pris le contrôle. Le cortex préfrontal — la réflexion, l'empathie — est **déconnecté**. Votre ado ne choisit pas de claquer la porte. Son corps le fait pour lui.
+
+La neuroscientifique Jill Bolte Taylor a montré que le cycle biologique d'une émotion dure **90 secondes**. Après 90 secondes, si rien ne relance l'émotion, le corps revient à son état de base naturellement.
+
+Et le Prophète ﷺ disait : « Ne soyez pas en colère. » Pas « ne vous fâchez pas ». Ne **devenez pas** votre colère.
+
+Les neurosciences et la tradition disent la même chose : **restez le parent, pas l'émotion**.
+
+---
+
+### EXERCICE GUIDÉ (3:00 — 6:00)
+
+[Changement de rythme — voix plus douce, instructions précises]
+
+Voici le protocole à mémoriser. Trois étapes exactement.
+
+[Pause]
+
+**Étape 1 : les 90 secondes du parent.**
+
+La porte claque. Respirez. Comptez jusqu'à 90. Si quelqu'un est dans la pièce, allez dans une autre pièce. Les 90 secondes, c'est pour **vous**.
+
+[Pause 5 secondes]
+
+**Étape 2 : le temps mort — 10 minutes.**
+
+Ne montez pas. Ne frappez pas. N'envoyez pas de message. Le temps mort n'est pas de la punition — c'est de l'espace. C'est le temps dont le système nerveux de votre ado a besoin.
+
+[Pause 5 secondes]
+
+**Étape 3 : la reconnexion.**
+
+Après les 10 minutes, frappez doucement. Et dites cette phrase :
+
+[Voix très douce, intime]
+
+« Je ne suis pas venu pour reparler de tout à l'heure. Je suis venu pour te dire que je suis là. »
+
+[Pause 3 secondes]
+
+C'est tout. Pas de discussion. Pas de leçon. Juste la présence.
+
+[Pause]
+
+Et si vous échouez — parce que vous allez échouer, c'est humain — revenez après et dites : « J'ai réagi trop vite. Je suis désolé. » Un parent qui s'excuse, dans la tradition prophétique, n'est pas faible. C'est un parent **juste** — et le mot juste, c'est **ʿādil** (عَادِلٌ).
+
+[Pause 5 secondes]
+
+Maintenant, si vous le pouvez, fermez les yeux. Et revisualisez la dernière fois que la porte a claqué. Sentez la montée de colère en vous. Et maintenant, appliquez les 90 secondes. Respirez. Comptez. Les pieds au sol.
+
+[Pause 10 secondes]
+
+Laissez l'orage passer. Il passe toujours. Si on ne le relance pas.
+
+[Transition en douceur]
+
+---
+
+### DÉBRIEF (6:00 — 7:00)
+
+[Retour au ton thérapeutique]
+
+Quand votre ado était petit et qu'il pleurait la nuit, vous montiez, vous le preniez dans vos bras, vous le berçait. Vous ne lui demandiez pas de justifier ses larmes.
+
+Votre ado de 15 ans qui claque la porte — c'est le même bébé qui pleure la nuit. Le langage a changé. L'intensité a changé. Mais le besoin n'a pas changé : il a besoin que vous soyez là.
+
+Le protocole du temps mort, c'est le bras qui berce. Adapté à la taille de l'orage.
+
+---
+
+## CTA FINAL
+
+90 secondes. 10 minutes. Puis : « Je suis là. » Si ce seul geste change votre prochaine dispute — vous saurez pourquoi. La Formation 5 vous en donne d'autres : conflit, identité, écrans, angoisse, et votre propre transformation.
+
+---
+
+## NOTES DE PRODUCTION
+
+**Profil voix :** Homme, 30-50 ans, timbre chaleureux et grave. Débit : 120 mots/min en ouverture, 105 en exercice. La voix de la phrase de reconnexion est la plus douce de tout le lead magnet.
+
+**BPM & Sound Design :**
+- Ouverture : 65 BPM, oud léger, ton « urgence contenue »
+- Concept : drone très doux à -20dB
+- Exercice : la musique s'efface. Les trois étapes sont énoncées en quasi a cappella
+- Moment « Je suis là » : retour de l'oud à -15dB, une seule note tenue
+- Débrief : oud + ney doux, tonalité ouverte
+- CTA : musique seule 4 sec puis fondu
+
+**Pauses :** La pause de 10 secondes sur la visualisation est le point culminant — le parent revit l'orage avec un nouvel outil.
+
+**Termes arabes :**
+- ʿĀdil (عَادِلٌ) — juste, équitable
+
+**Sources :**
+- Hadith prophétique : « Ne soyez pas en colère » (Bukhari)
+- Jill Bolte Taylor, *My Stroke of Insight* (cycle de 90 secondes)
+- Al-Ghazālī, Iḥyāʾ ʿulūm al-dīn (sur la gestion de la colère)`,
+    meta: {},
+    audience: "F5-parents-musulmans",
+    audienceLabel: "Parents Musulmans",
+  },
+  "F5-parents-musulmans/04-langoisse-est-une-misericorde.md": {
+    title: "L'angoisse est une miséricorde",
+    content: `## SCRIPT
+
+### OUVERTURE (0:00 — 1:30)
+
+[Voix posée, chaleureuse mais avec une pointe de gravité]
+
+Une mère me raconte :
+
+« Ma fille de 13 ans a des crises d'angoisse avant d'aller au collège. Le ventre qui noue, les mains qui tremblent. Je lui dis de faire istighfar, de demander la protection d'Allah. Elle me regarde et dit : "Maman, je fais tout ça. Mais mon corps ne m'écoute pas." »
+
+Et la mère ajoute : « Je ne sais pas quoi faire d'autre. Ma fille a la foi — pourquoi est-elle angoissée ? »
+
+[Pause]
+
+Cette question contient tout le problème. Parce qu'elle repose sur une croyance que beaucoup de familles musulmanes portent sans l'examiner : l'idée que la foi et l'angoisse seraient incompatibles.
+
+Aujourd'hui, nous allons déconstruire cette croyance. Et le Prophète ﷺ lui-même ne la partageait pas.
+
+[Transition musicale légère — 3 secondes]
+
+---
+
+### LE CONCEPT (1:30 — 3:00)
+
+[Voix pédagogique, sans jugement mais sans complaisance]
+
+Voici les phrases que j'entends le plus souvent :
+
+« Fais istighfar. »
+« Remets-toi en Allah. »
+« Les autres ont des vrais problèmes. »
+« C'est un manque de foi. »
+
+[Pause]
+
+Aucune n'est fausse théologiquement. Mais dans le contexte de l'angoisse d'un ado, elles sont **iatrogènes** — elles aggravent ce qu'elles prétendent soigner.
+
+Parce qu'elles disent à votre ado : « Ce que tu ressens est spirituellement anormal. »
+
+Et votre ado se retrouve avec **deux** problèmes : l'angoisse, ET la culpabilité d'avoir de l'angoisse.
+
+Le Prophète ﷺ pleurait. Il avait peur à Badr. Son visage rougissait de colère. Il ressentait pleinement — et ne se perdait pas dans ce qu'il ressentait. Les émotions et la foi ne s'excluent pas.
+
+Ibn Qayyim a écrit un livre entier — **al-Ṭibb al-nabawī**, la médecine prophétique — où il explique que le corps et l'âme sont un seul système. Ignorer le corps au nom de la foi, c'est ignorer la moitié de la révélation.
+
+---
+
+### EXERCICE GUIDÉ (3:00 — 6:00)
+
+[Changement de rythme — voix plus douce, plus lente]
+
+Je vais vous donner trois remplacements. Trois phrases à installer cette semaine.
+
+[Pause]
+
+**Premier remplacement.**
+
+Quand votre ado est angoissé, au lieu de : « Fais istighfar » — dites :
+
+[Voix très douce]
+
+« Je vois que tu souffres. »
+
+[Pause 5 secondes]
+
+La différence : la première propose une solution spirituelle à un problème qui est aussi corporel. La seconde commence par **reconnaître**. Vous pouvez dire l'istighfar ensuite — mais commencez par la reconnaissance.
+
+**Deuxième remplacement.**
+
+Au lieu de : « Les autres ont des vrais problèmes » — dites :
+
+« Ce que tu ressens est réel pour toi. »
+
+[Pause 5 secondes]
+
+La première phrase invalide. La seconde valide.
+
+**Troisième remplacement.**
+
+Au lieu de : « Tu manques de confiance en Allah » — dites :
+
+« Comment puis-je t'aider à te sentir plus en sécurité ? »
+
+[Pause 8 secondes]
+
+La première accuse. La seconde propose un **partenariat**. Et le partenariat, c'est de la tarbiya.
+
+[Pause]
+
+Maintenant, fermez les yeux une seconde. Posez-vous cette question — et soyez honnête :
+
+[Voix murmurée]
+
+*Est-ce que j'ai, même inconsciemment, repoussé mon ado quand il a montré sa vulnérabilité ?*
+
+[Pause 10 secondes — le silence le plus long]
+
+Ne jugez pas. Observez. C'est le début de la tarbiya.
+
+[Transition en douceur]
+
+---
+
+### DÉBRIEF (6:00 — 7:00)
+
+[Retour au ton thérapeutique]
+
+Le Prophète ﷺ disait, rapporté par Ibn Masʿūd : « L'angoisse est une part de la miséricorde. »
+
+L'angoisse n'est pas un manque de foi. C'est une part de la **raḥma** — la miséricorde divine. Le corps qui dit : « Quelque chose demande ton attention. »
+
+Quand votre ado est angoissé, il ne manque pas de foi. Il porte une miséricorde qu'il ne sait pas encore nommer. Et votre rôle, c'est de l'aider à la nommer — pas à la supprimer.
+
+---
+
+## CTA FINAL
+
+Trois phrases remplacées. La reconnaissance avant la solution. Si l'angoisse de votre ado change cette semaine — vous saurez pourquoi. La Formation 5 approfondit : conflit, écrans, identité, et le passage de la surveillance au compagnonnage.
+
+---
+
+## NOTES DE PRODUCTION
+
+**Profil voix :** Homme, 30-50 ans, timbre chaleureux. Débit : 115 mots/min. La voix des remplacements est la plus douce — chaque phrase est posée comme un cadeau.
+
+**BPM & Sound Design :**
+- Ouverture : 60 BPM, ney très doux, tonalité compatissante
+- Concept : drone à -20dB
+- Exercice : la musique s'efface. Les trois remplacements sont en quasi a cappella
+- Moment « Est-ce que j'ai repoussé » : silence complet
+- Débrief : ney + oud doux, tonalité réconfortante
+- CTA : musique seule 4 sec puis fondu
+
+**Pauses :** La pause de 10 secondes sur la question finale est le point culminant — le parent affronte sa propre part de responsabilité.
+
+**Termes arabes :**
+- Raḥma (رَحْمَةٌ) — miséricorde
+- Al-Ṭibb al-nabawī (الطِّبُّ ٱلنَّبَوِيّ) — la médecine prophétique
+- Ibn Qayyim (ibn al-qayyim) — ابن القيم
+
+**Sources :**
+- Hadith : « L'angoisse est une part de la miséricorde » (Sahih Bukhari, rapporté par Ibn Masʿūd)
+- Hadith : mort d'Ibrahim (Sahih Bukhari & Muslim)
+- Ibn Qayyim al-Jawziyya, al-Ṭibb al-nabawī`,
+    meta: {},
+    audience: "F5-parents-musulmans",
+    audienceLabel: "Parents Musulmans",
+  },
+  "F5-parents-musulmans/05-le-rituel-du-soir.md": {
+    title: "Le rituel du soir",
+    content: `## SCRIPT
+
+### OUVERTURE (0:00 — 1:30)
+
+[Voix posée, intime — le ton le plus personnel]
+
+Je voudrais que vous fassiez quelque chose avant de continuer.
+
+Posez-vous cette question, très calmement :
+
+« Est-ce que je suis un parent-guide ou un parent-surveillant ? »
+
+[Pause 4 secondes]
+
+Un parent-surveillant demande : « As-tu prié ? »
+Un parent-guide demande : « Comment tu te sens ce soir ? »
+
+Un parent-surveillant vérifie : « Tu as fini tes devoirs ? »
+Un parent-guide observe : « Tu as l'air fatigué aujourd'hui. »
+
+[Pause]
+
+Personne ne veut être **géré**. Tout le monde veut être **accompagné**. Et pour passer de l'un à l'autre, il y a un geste que personne ne vous a jamais enseigné.
+
+[Transition musicale légère — 3 secondes]
+
+---
+
+### LE CONCEPT (1:30 — 3:00)
+
+[Voix douce, réfléchie]
+
+Le geste s'appelle « Le rituel du soir ». C'est le plus simple et le plus puissant de tous les protocoles que je puisse vous donner.
+
+Chaque soir, quand votre ado se couche — ou quand vous vous couchez — prenez 3 minutes. Pas de Coran, pas de dhikr, pas de formule. Juste 3 minutes de **présence**.
+
+Ibn Qayyim (ibn al-qayyim) écrivait dans son *Tuḥfat al-Mawlūd* :
+
+« L'enfant est un dépôt sacré entre vos mains. Un jour, il vous sera rendu. Et on vous demandera : l'avez-vous cultivé, ou l'avez-vous seulement contenu ? »
+
+Le contenu, c'est les règles, les limites. La cultivation, c'est le cœur, la présence, la patience. Et la cultivation se fait dans les moments où il ne se passe **rien**.
+
+---
+
+### EXERCICE GUIDÉ (3:00 — 6:00)
+
+[Changement de rythme — voix plus douce, la plus tendre]
+
+Si vous le pouvez maintenant, préparez-vous mentalement pour ce soir. Et si vous voulez vivre l'exercice en imagination, fermez les yeux.
+
+[Pause 3 secondes]
+
+Asseyez-vous côte à côte avec votre ado. Pas en face. Côte à côte. Le contact physique léger est bienvenu — un genou qui touche, un bras contre l'autre.
+
+Et restez ensemble en silence.
+
+[Pause 5 secondes]
+
+Si votre ado parle, écoutez. S'il ne parle pas, restez en silence ensemble. S'il résiste et veut retourner sur son téléphone — dites :
+
+« C'est ok. On fera ça demain si tu veux. »
+
+[Pause 8 secondes]
+
+Pas de Coran. Pas de dhikr. Pas de questions sur la journée. Pas d'attente.
+
+Juste la présence.
+
+Et au fil des semaines — pas les premiers jours, les semaines — ce silence va se charger de sens. Votre ado va y déposer ses pensées. Peut-être pas aujourd'hui. Mais un jour, dans ce silence, il dira quelque chose qu'il n'aurait jamais dit dans une conversation normale.
+
+Parce que le silence est un **espace sans juge**.
+
+Et dans cet espace, la tarbiya se fait toute seule.
+
+[Voix très douce, presque murmurée]
+
+Si vous êtes seul en écoutant ceci — pratiquez ce soir. Asseyez-vous au bord de votre lit. 3 minutes. Juste vous et votre respiration. Et demandez-vous :
+
+*« Si je pouvais offrir une seule chose à mon ado ce soir — qu'est-ce que ce serait ? »*
+
+[Pause 12 secondes — le silence le plus long]
+
+[Transition en douceur]
+
+---
+
+### DÉBRIEF (6:00 — 7:00)
+
+[Retour au ton thérapeutique, chaleureux]
+
+Le Prophète ﷺ disait : « Vous êtes tous des bergers, et vous êtes tous responsables de votre troupeau. »
+
+Être berger, ce n'est pas être geôlier. C'est être présent dans le pré. À veiller sans contraindre. À guider sans forcer.
+
+3 minutes de silence. C'est tout. C'est le commencement du compagnonnage. Et peut-être — la chose la plus importante que vous ferez pour votre ado cette année.
+
+Que votre cœur trouve la paix. Que le cœur de votre ado trouve la sienne.
+
+**Wa salāmu ʿalaykum.**
+
+---
+
+## CTA FINAL
+
+3 minutes ce soir. Côte à côte. Sans agenda. Ce que vous venez de vivre, la Formation 5 le déploie en huit épisodes — du test de la porte au rituel du soir, du conflit à la confiance en Allah.
+
+---
+
+## NOTES DE PRODUCTION
+
+**Profil voix :** Homme, 30-50 ans, timbre intime et vulnérable. Débit : 105 mots/min. C'est le lead magnet le plus lent et le plus tendre de la série F5. La voix du « C'est ok » est murmurée.
+
+**BPM & Sound Design :**
+- Ouverture : 55 BPM, oud très doux, ton intime
+- Concept : ney seul à -15dB
+- Exercice : la musique s'efface presque complètement. Le silence est le message
+- Moment « Si je pouvais offrir » : silence total pendant 12 secondes
+- Débrief : ney + oud, tonalité « adieu bienveillant »
+- Clôture : ney seul, 6 secondes (plus long que les autres)
+
+**Pauses :** La pause de 12 secondes est la plus longue de tous les lead magnets F5 — le point culminant émotionnel.
+
+**Termes arabes :**
+- Tarbiya (تَرْبِيَةٌ) — cultivation intérieure
+- Ibn Qayyim (ibn al-qayyim) — ابن القيم
+- Tuḥfat al-Mawlūd (تُحْفَةُ ٱلْمَوْلُود) — Le Don de l'Enfant
+- Wa salāmu ʿalaykum — السلام عليكم
+
+**Sources :**
+- Ibn Qayyim al-Jawziyya, Tuḥfat al-Mawlūd
+- Hadith prophétique : « Vous êtes tous des bergers » (Sahih Bukhari & Muslim)`,
+    meta: {},
+    audience: "F5-parents-musulmans",
+    audienceLabel: "Parents Musulmans",
+  },
+  "F6-parents-tout-public/01-le-test-du-miroir-du-matin.md": {
+    title: "Le test du miroir du matin",
+    content: `## SCRIPT
+
+### OUVERTURE (0:00 — 1:30)
+
+[Voix posée, chaleureuse]
+
+Je veux que vous pensiez à la dernière photo de famille que vous avez prise. Pas une photo posée — un moment normal. Un repas. Un trajet en voiture.
+
+Regardez le visage de votre ado dans cette photo. Pas son sourire — ses **yeux**.
+
+[Pause 2 secondes]
+
+Est-ce que le sourire et les yeux disent la même chose ?
+
+Chez la plupart des ados que j'accompagne, la réponse est non. Le sourire dit : « Tout va bien. » Les yeux disent : de la fatigue, de la distance, de l'épuisement.
+
+Carl Jung appelait ça la **persona** — le masque. Et il disait : « Le masque que l'on porte finit par devenir le visage. Et le visage que l'on avait, on l'oublie. »
+
+[Transition musicale légère — 3 secondes]
+
+---
+
+### LE CONCEPT (1:30 — 3:00)
+
+[Voix pédagogique, accessible]
+
+Votre ado porte trois masques. Le masque scolaire — performer pour les notes et les pairs. Le masque social — un personnage pour les réseaux, toujours plus heureux que la réalité. Et le masque familial — être poli sans être hypocrite, proche sans être envahissant.
+
+Et aucun espace où il peut simplement **être**.
+
+Quand un ado n'a pas d'espace pour « être » — juste être, sans performer, sans plaire — quelque chose se vide à l'intérieur. Et ce vide, il va essayer de le combler. Par les écrans, par l'isolement, par n'importe quoi qui crée une sensation — parce que la sensation, même désagréable, vaut mieux que le vide.
+
+Les recherches de Jean Twenge, professeure à San Diego State University, ont montré une corrélation directe entre l'utilisation intensive des réseaux sociaux et l'augmentation des épisodes dépressifs chez les ados depuis 2012.
+
+Mais vous ne pouvez pas enlever les masques par la force. Vous pouvez créer un espace où il les enlève lui-même.
+
+---
+
+### EXERCICE GUIDÉ (3:00 — 6:00)
+
+[Changement de rythme — voix plus douce, plus lente]
+
+Cet exercice s'appelle « Le test du miroir du matin ». Vous allez le pratiquer demain. Et chaque matin cette semaine.
+
+[Voix claire, instructions précises]
+
+Demain, quand votre ado descend pour le petit-déjeuner, arrêtez-vous. Juste cinq secondes. Et regardez son visage.
+
+Pas son sourire. Son **visage**.
+
+Cherchez ces signes. Les yeux — sont-ils ouverts et présents, ou cernés et absents ? Le visage — les traits détendus ou tendus, la mâchoire serrée ? L'énergie — votre ado « arrive » dans la pièce ou la « traverse » comme un fantôme ?
+
+Et surtout — ne **dites rien** de ce que vous observez. Pas « Tu as l'air fatigué. » Pas « Qu'est-ce qu'il y a ? »
+
+[Pause 5 secondes]
+
+Si vous commentez, votre ado ajustera son masque. Le simple fait d'**observer sans commenter** envoie un message paradoxal mais puissant : « Je te vois. Et je ne te juge pas. » Ce message, votre ado ne l'entend presque jamais.
+
+[Voix très douce]
+
+Si vous écoutez ceci le soir, préparez-vous mentalement. Demain matin, cinq secondes. Rien d'autre.
+
+Et après — notez ce que vous avez vu. Les épaules. Le regard. L'énergie. Et posez-vous cette question :
+
+[Voix murmurée]
+
+*« Si le visage de mon ado était un texte, que me dit-il aujourd'hui ? »*
+
+[Pause 10 secondes — le silence le plus long]
+
+[Transition en douceur]
+
+---
+
+### DÉBRIEF (6:00 — 7:00)
+
+[Retour au ton thérapeutique, chaleureuse]
+
+Carl Jung écrivait : « Il n'y a pas de naissance de conscience sans douleur. Et cette douleur, l'enfant la porte en silence — jusqu'à ce que quelqu'un accepte de la regarder en face. »
+
+Derrière le masque de votre ado, il y a un être humain qui cherche à **exister** pleinement. Pas à performer. Pas à plaire. Exister.
+
+Demain matin, cinq secondes. Observez sans commenter. C'est le début de la présence parentale.
+
+---
+
+## CTA FINAL
+
+Cinq secondes de regard sans commentaire. Si le visage de votre ado vous dit quelque chose demain — vous saurez pourquoi. La Formation 6 approfondit : masques, transmission, imposteur, corps, rejet, anxiété, et votre propre transformation.
+
+---
+
+## NOTES DE PRODUCTION
+
+**Profil voix :** Homme ou femme, 30-50 ans, timbre intime et vulnérable. Débit : 115 mots/min. La voix guidante est murmurée (-10% volume). Ton « confident entre parents ».
+
+**BPM & Sound Design :**
+- Ouverture : 55 BPM, piano seul, très doux
+- Concept : ajout violoncelle à -18dB
+- Exercice : la musique s'efface progressivement. Quasi a cappella
+- Moment « Si le visage était un texte » : silence musical
+- Débrief : piano + violoncelle, tonalité contemplative
+- CTA : musique seule 4 sec puis fondu
+
+**Pauses :** La pause de 10 secondes sur « que me dit-il » est le point culminant.
+
+**Sources :**
+- Carl Jung, *Les Types psychologiques* (1928) — concept de la persona
+- Sarah-Jayne Blakemore, *Inventing Ourselves* (2018), University College London — maturation du cortex préfrontal
+- Jean Twenge, *iGen* (2017), San Diego State University — réseaux sociaux et dépression adolescente
+- Karen Horney, *The Neurotic Personality of Our Time* (1937)
+
+**Musique suggérée :** Ambiance douce et universelle — piano léger, nappes synthétiques chaudes. Tonalité contemplative, 60-70 BPM.`,
+    meta: {},
+    audience: "F6-parents-tout-public",
+    audienceLabel: "Parents Tout Public",
+  },
+  "F6-parents-tout-public/02-nommez-un-pattern.md": {
+    title: "Nommez un pattern",
+    content: `## SCRIPT
+
+### OUVERTURE (0:00 — 1:30)
+
+[Voix posée, narrative]
+
+Thomas a 45 ans. Sa fille Léa en a 16. Un jour, après une dispute avec sa femme, Thomas fait ce qu'il fait toujours : il se retire dans son bureau et ferme la porte. Silence total. Plus un mot pendant deux jours.
+
+Le soir même, Léa a une dispute avec sa copine. Sa réaction : elle bloque la copine, éteint son téléphone, et ne parle plus à personne pendant deux jours.
+
+Thomas me dit : « Elle me ressemble trop bien. Et ça me terrifie. »
+
+[Pause]
+
+Non pas parce que sa fille a un problème. Mais parce qu'il voit, dans le comportement de sa fille, le reflet exact de son propre mécanisme — celui qu'il n'a jamais réglé.
+
+[Transition musicale légère — 3 secondes]
+
+---
+
+### LE CONCEPT (1:30 — 3:00)
+
+[Voix réfléchie, pédagogique]
+
+La transmission intergénérationnelle n'est pas un mythe. C'est un mécanisme documenté. Les enfants reproduisent les **silences** de leurs parents — pas les comportements. Les mécanismes de défense qu'on a développés dans l'enfance pour survivre émotionnellement.
+
+Murray Bowen, qui a fondé la théorie systémique familiale, appelait ça la **transmission multigénérationnelle**. Les conflits et les silences non résolus se déplacent vers la génération suivante — comme une dette émotionnelle qu'on hérite sans l'avoir contractée.
+
+Les neurones miroirs, découverts par Giacomo Rizzolatti à Parme en 1996, expliquent pourquoi : quand votre ado vous observe, son cerveau **simule** vos réactions. Il les incorpore littéralement dans son propre répertoire neurologique.
+
+Mais la bonne nouvelle : quand vous nommez un mécanisme, il perd de son pouvoir.
+
+---
+
+### EXERCICE GUIDÉ (3:00 — 6:00)
+
+[Changement de rythme — voix plus douce, plus lente]
+
+Cet exercice est pour vous seul. Pas avec votre ado. Trois questions. Prenez le temps de sentir la réponse dans votre corps, pas seulement dans votre tête.
+
+[Voix lente]
+
+**Première question.**
+
+Quand vous étiez adolescent, quelle émotion étiez-vous le plus incapable de nommer ou d'exprimer ?
+
+[Pause 10 secondes]
+
+Ne cherchez pas la réponse élégante. La première chose qui monte.
+
+**Deuxième question.**
+
+Comment vos parents géraient-ils cette émotion ? Et si vous n'avez pas de souvenir — l'absence de souvenir est elle-même la réponse.
+
+[Pause 10 secondes]
+
+**Troisième question.**
+
+Est-ce que vous reconnaissez cette même émotion non-nommée chez votre ado aujourd'hui ?
+
+[Pause 12 secondes — le silence le plus long]
+
+[Retour progressif — voix normale]
+
+Prenez une inspiration. Relâchez.
+
+Ce que vous venez de faire, c'est tracer la ligne entre votre histoire et celle de votre ado. Comme l'écrivait Alice Miller : « La vérité ne guérit pas toujours. Mais elle rend la guérison possible. »
+
+[Voix très douce]
+
+Et maintenant, la phrase réparatrice. Si, cette semaine, vous vous surprenez à reproduire un mécanisme, revenez vers votre ado et dites :
+
+« Tout à l'heure, je me suis retiré sans expliquer pourquoi. Je fais ça depuis longtemps — c'est un mécanisme que j'ai hérité. Je ne veux pas te le transmettre. »
+
+Deux phrases. Honnêtes. Vulnérables. Et profondément réparatrices.
+
+[Transition en douceur]
+
+---
+
+### DÉBRIEF (6:00 — 7:00)
+
+[Retour au ton thérapeutique]
+
+Bowen écrivait : « Si un seul membre d'une famille peut voir le pattern qui le traverse — et le nommer — tout le système commence à se réorganiser. »
+
+Vous ne pouvez pas donner à votre ado ce que vous n'avez pas. Mais le moment où vous nommez vos propres patterns, vous lui donnez un outil qu'il n'aurait jamais eu autrement : le droit de ne pas être parfait.
+
+Cette semaine : nommez un pattern. Et la phrase réparatrice, si l'occasion se présente.
+
+---
+
+## CTA FINAL
+
+Nommer un pattern à voix haute. Deux phrases honnêtes. Si la relation avec votre ado change — vous saurez pourquoi. La Formation 6 approfondit : masques, imposteur, corps, rejet, anxiété, et votre propre transformation.
+
+---
+
+## NOTES DE PRODUCTION
+
+**Profil voix :** Homme ou femme, 30-50 ans, timbre intime et vulnérable. Débit : 110 mots/min dans les questions, 120 en concept. La voix de la phrase réparatrice est murmurée.
+
+**BPM & Sound Design :**
+- Ouverture : 60 BPM, piano seul, tonalité légèrement mélancolique
+- Concept : violoncelle à -18dB
+- Exercice : la musique s'efface. Les trois questions sont en quasi a cappella
+- Moment « Deuxième question » : silence complet
+- Débrief : piano + violoncelle, ton « douceur après la profondeur »
+- CTA : musique seule 4 sec puis fondu
+
+**Pauses :** La pause de 12 secondes sur la troisième question est le point culminant — le moment le plus vulnérable.
+
+**Sources :**
+- Murray Bowen, *Family Therapy in Clinical Practice* (1978)
+- Giacomo Rizzolatti et al., Université de Parme, 1996 — neurones miroirs (*Nature*, vol. 392)
+- Alice Miller, *Le drame de l'enfant doué* (1983)
+- Carl Rogers, *On Becoming a Person* (1961)
+- Ivan Boszormenyi-Nagy, *Invisible Loyalties* (1973)
+
+**Musique suggérée :** Ambiance douce et universelle — piano léger, violoncelle. Tonalité mélancolique, 60-65 BPM.`,
+    meta: {},
+    audience: "F6-parents-tout-public",
+    audienceLabel: "Parents Tout Public",
+  },
+  "F6-parents-tout-public/03-performance-nest-pas-valeur.md": {
+    title: "Performance n'est pas valeur",
+    content: `## SCRIPT
+
+### OUVERTURE (0:00 — 1:30)
+
+[Voix posée, narrative]
+
+Emma a 15 ans. 16 de moyenne. Théâtre, piano, sport. Ses parents sont fiers.
+
+Un soir, sa mère la trouve en larmes. Emma sanglote : « Je suis nulle. Je ne vaux rien. Tout le monde est meilleur que moi. »
+
+Sa mère est sidérée : « Mais Emma, tu as 16 de moyenne ! »
+
+Et Emma répond, avec une lucidité déchirante :
+
+« C'est pas moi qui ai 16 de moyenne. C'est le personnage que je joue. Le vrai moi est nul et tout le monde va s'en rendre compte un jour. »
+
+[Pause]
+
+Le syndrome de l'imposteur. Avant, on le voyait chez les adultes. Aujourd'hui, il frappe à 14 ans.
+
+[Transition musicale légère — 3 secondes]
+
+---
+
+### LE CONCEPT (1:30 — 3:00)
+
+[Voix pédagogique, claire]
+
+L'erreur, c'est de confondre **performance** et **valeur**.
+
+La performance, c'est ce qu'on fait : les notes, les résultats.
+La valeur, c'est ce qu'on **est** : indépendamment de ce qu'on fait.
+
+Votre ado pense : « Ma valeur = mes performances. » Et cette équation est fausse. Mais personne ne le lui a jamais dit.
+
+Brené Brown, qui a passé vingt ans à étudier la vulnérabilité à l'Université de Houston, écrit :
+
+[Voix lente, chaque mot compte]
+
+« L'imposteur ne naît pas du doute sur ses compétences. Il naît du doute sur son droit d'exister sans les prouver. »
+
+[Pause 3 secondes]
+
+Carol Dweck, de Stanford, a montré que les ados élevés dans une culture du « mindset fixe » — où la valeur est attachée au résultat — sont significativement plus vulnérables. Et les réseaux sociaux alimentent ce comparateur en permanence.
+
+Mais avant de démonter cette équation chez votre ado — il faut la démonter chez vous.
+
+---
+
+### EXERCICE GUIDÉ (3:00 — 6:00)
+
+[Changement de rythme — voix plus douce, plus lente]
+
+Posez-vous cette question — honnêtement, dans votre corps :
+
+[Voix lente]
+
+*« Est-ce que je confonds, moi aussi, ce que je fais avec ce que je vaux ? »*
+
+[Pause 8 secondes]
+
+Quand vous avez une bonne journée au travail — vous êtes content de vous. Et quand vous échouez — vous vous sentez diminué. N'est-ce pas ?
+
+Maintenant, posez cette question à votre ado — dans un moment calme, pas après un résultat scolaire :
+
+« Si tu n'avais plus aucune note, aucun diplôme — serais-tu moins digne d'être aimé ? »
+
+[Pause 5 secondes]
+
+Laissez la réponse venir. Et si la réponse est non — et elle le sera, au fond — dites :
+
+« Exactement. Et ça, c'est vrai tous les jours. Pas seulement les jours où ça va bien. »
+
+[Pause]
+
+Et quand vous complimentez votre ado — arrêtez de complimenter les résultats. « Bravo pour ta note de 18 » renforce l'équation toxique. Complimentez le **processus** :
+
+« J'ai vu à quel point tu t'es investi. »
+« J'admire ta persévérance. »
+« Je suis fier de la personne que tu es — pas de ce que tu fais. »
+
+[Voix très douce]
+
+Et cette semaine, une dernière question pour vous :
+
+[Voix murmurée]
+
+*« Est-ce que mon ado a déjà entendu que mon amour pour lui n'est pas conditionnel ? Pas en paroles — en actes ? »*
+
+[Pause 10 secondes — le silence le plus long]
+
+[Transition en douceur]
+
+---
+
+### DÉBRIEF (6:00 — 7:00)
+
+[Retour au ton thérapeutique]
+
+Brené Brown écrit : « Le syndrome de l'imposteur se nourrit de trois choses : le silence, le perfectionnisme, et l'isolement. Il meurt de trois choses : le partage, l'imperfection assumée, et la connexion. »
+
+Votre ado n'est pas un imposteur. Il est un être humain qui apprend à exister dans un monde qui le pousse à se comparer à une version irréelle de lui-même.
+
+Et vous êtes le seul espace où il n'a pas à performer. La question est : est-ce qu'il le sait ?
+
+---
+
+## CTA FINAL
+
+Une question : « Serais-tu moins digne d'être aimé sans tes notes ? » Si cette question ouvre quelque chose chez votre ado — vous saurez pourquoi. La Formation 6 approfondit : masques, patterns, corps, rejet, anxiété, ennui, et votre propre transformation.
+
+---
+
+## NOTES DE PRODUCTION
+
+**Profil voix :** Homme ou femme, 30-50 ans, timbre intime. Débit : 115 mots/min. La voix de la question finale est murmurée (-10% volume).
+
+**BPM & Sound Design :**
+- Ouverture : 65 BPM, piano léger, ton narrative
+- Concept : violoncelle à -18dB
+- Exercice : la musique s'efface. La citation de Brené Brown est en quasi a cappella
+- Moment « Est-ce que mon ado a entendu » : silence musical
+- Débrief : piano + violoncelle, tonalité encourageante
+- CTA : musique seule 4 sec puis fondu
+
+**Pauses :** La pause de 10 secondes sur la question finale est le point culminant.
+
+**Sources :**
+- Pauline Clance & Suzanne Imes, « The Impostor Phenomenon » (1978), Georgia State University
+- Carol Dweck, *Mindset* (2006), Stanford University
+- Brené Brown, *The Gifts of Imperfection* (2010), Université de Houston
+- Erin Vogel et al., « Seeing Everyone Else's Highlighted Reels » (2014), Université de Houston
+
+**Musique suggérée :** Ambiance douce et universelle — piano léger, nappes synthétiques chaudes. 65-70 BPM.`,
+    meta: {},
+    audience: "F6-parents-tout-public",
+    audienceLabel: "Parents Tout Public",
+  },
+  "F6-parents-tout-public/04-lancre-du-parent.md": {
+    title: "L'ancre du parent",
+    content: `## SCRIPT
+
+### OUVERTURE (0:00 — 1:30)
+
+[Voix posée, narrative]
+
+Votre ado vient de vous dire quelque chose de blessant. Peut-être « Je te hais. » Peut-être juste un regard froid et une porte qui se ferme.
+
+Et vous, sur le palier. Les pieds cloués au sol. Le cœur serré. L'envie de crier, de pleurer, de frapper la porte.
+
+[Pause]
+
+Quand votre ado vous rejette, votre propre système nerveux bascule. Votre cœur accélère, votre corps se tend, votre mental part en boucle. Et si vous réagissez dans cet état — deux systèmes nerveux dysrégulés s'amplifient mutuellement. C'est l'orage dans l'orage.
+
+Mais il existe un bouclier. Pas pour après la tempête — pour **avant**.
+
+[Transition musicale légère — 3 secondes]
+
+---
+
+### LE CONCEPT (1:30 — 3:00)
+
+[Voix pédagogique, claire]
+
+Donald Winnicott, l'un des plus grands penseurs de l'adolescence, écrivait que l'enfant a besoin de deux choses simultanées : être **tenu** et être **lâché**. Le parent qui tient avec une main et lâche avec l'autre — simultanément — c'est le parent « suffisamment bon ».
+
+Stephen Porges, professeur à l'Université de l'Indiana, a développé la **théorie polyvagale** : le système nerveux évalue en permanence la sécurité. Quand votre ado vous rejette, son système nerveux est en mode combat. Si le vôtre bascule aussi — personne ne régule personne.
+
+Mais si votre système reste en mode sécurité — calme, ancré — le système de votre ado peut s'y accorder. C'est ce qu'on appelle la **co-régulation**. Et elle fonctionne même à travers une porte fermée.
+
+Amy Cuddy, de Harvard, a montré que les ancrages corporels modifient notre état intérieur en moins de 2 minutes.
+
+Deux minutes. C'est ce que je vais vous donner.
+
+---
+
+### EXERCICE GUIDÉ (3:00 — 6:00)
+
+[Changement de rythme — voix plus douce, plus lente]
+
+L'ancre du parent. Chaque jour. Deux minutes. Pas plus. Trois étapes.
+
+[Pause]
+
+**Étape 1 : sentir vos pieds.** Pas symboliquement. Vraiment. Le contact contre le sol. La pression. La température. C'est l'ancrage le plus rapide que le système nerveux connaisse — le contact avec le sol envoie un signal de sécurité au cerveau.
+
+[Pause 5 secondes — sentez vos pieds maintenant si vous le pouvez]
+
+**Étape 2 : trois respirations.** Inspirez par le nez — lentement. Expirez par la bouche — encore plus lentement. Chaque expiration deux fois plus longue que l'inspiration. Ça active le système parasympathique — le frein du corps.
+
+[Pause 8 secondes — trois respirations ensemble]
+
+**Étape 3 : une main sur votre cœur.** Et simplement sentir votre cœur battre. Pas de pensée. Pas de méditation. Juste la sensation de votre propre cœur, sous votre main.
+
+[Pause 10 secondes]
+
+Richard Davidson, de l'Université du Wisconsin, a prouvé que la simple conscience du cœur active le cortex insulaire — la zone liée à l'empathie et à la régulation émotionnelle.
+
+[Voix très douce]
+
+Quand le conflit arrive — la porte qui claque, le « je te hais » — votre système nerveux sera **préparé**. Pas parce que vous aurez réprimé votre émotion. Mais parce que vous aurez un point d'ancrage auquel revenir.
+
+Puis — et seulement puis — vous montez. Et vous dites :
+
+« Je ne suis pas venu pour reparler de tout à l'heure. Je suis venu parce que je t'aime. Et tu as le droit d'être en colère contre moi. »
+
+[Transition en douceur]
+
+---
+
+### DÉBRIEF (6:00 — 7:00)
+
+[Retour au ton thérapeutique, chaleureuse]
+
+Lâcher prise n'est pas abandonner. Lâcher prise, c'est : « Je ne contrôle pas les émotions de mon ado. » Abandonner, c'est : « Je m'en fiche. »
+
+Le parent qui lâche prise est **présent et détaché**. Le parent qui abandonne est **absent et indifférent**. Votre ado a besoin de la première posture.
+
+Deux minutes par jour. Pieds, respiration, cœur. C'est l'ancre. Et quand la tempête vient — vous ne serez pas emporté.
+
+---
+
+## CTA FINAL
+
+Deux minutes par jour. Pieds, respiration, cœur. Si votre prochain conflit se passe différemment — vous saurez pourquoi. La Formation 6 approfondit : masques, patterns, imposteur, corps, anxiété, ennui, et votre propre transformation.
+
+---
+
+## NOTES DE PRODUCTION
+
+**Profil voix :** Homme ou femme, 30-50 ans, timbre profond et réconfortant. Débit : 105 mots/min dans l'exercice. La voix des trois étapes est guidante et lente.
+
+**BPM & Sound Design :**
+- Ouverture : 60 BPM, piano seul, tonalité mineure
+- Concept : violoncelle à -18dB
+- Exercice : la musique s'efface progressivement. Les trois étapes sont en quasi a cappella
+- Moment main sur le cœur : silence musical
+- Débrief : retour piano + violoncelle, 60 BPM
+- CTA : musique seule 4 sec puis fondu
+
+**Pauses :** La pause de 10 secondes sur la main sur le cœur est le point culminant.
+
+**Sources :**
+- Donald Winnicott, *Playing and Reality* (1971)
+- Stephen Porges, *The Polyvagal Theory* (2011), Université de l'Indiana
+- Amy Cuddy et al., Harvard Business School (2012), *Psychological Science*
+- Richard Davidson, Université du Wisconsin, *PNAS* (2019)
+- Daniel Siegel & Tina Payne Bryson, *The Whole-Brain Child* (2011)
+
+**Musique suggérée :** Ambiance douce et universelle — piano léger, nappes synthétiques chaudes. 60 BPM.`,
+    meta: {},
+    audience: "F6-parents-tout-public",
+    audienceLabel: "Parents Tout Public",
+  },
+  "F6-parents-tout-public/05-5-minutes-de-rien.md": {
+    title: "5 minutes de rien",
+    content: `## SCRIPT
+
+### OUVERTURE (0:00 — 1:30)
+
+[Voix posée, narrative]
+
+Faites l'expérience. Demandez à votre ado de s'asseoir dans un fauteuil. Pas de téléphone. Pas de musique. Pas de livre. Rien. Juste assis.
+
+Combien de temps pensez-vous qu'il tient ?
+
+[Pause]
+
+La plupart des ados tiennent entre 30 secondes et 2 minutes. Puis ils cherchent leur téléphone, ou demandent « C'est quand même ça se termine ? »
+
+[Pause 2 secondes]
+
+Un être humain qui ne peut pas rester seul avec ses pensées pendant deux minutes a perdu quelque chose de fondamental. Et votre ado est la première génération à laquelle ça arrive.
+
+[Transition musicale légère — 3 secondes]
+
+---
+
+### LE CONCEPT (1:30 — 3:00)
+
+[Voix réfléchie]
+
+L'ennui est mort. Pas métaphoriquement — littéralement.
+
+Il y a 30 ans, un ado s'ennuyait et finissait par dessiner, rêvasser, inventer. L'ennui était une **ressource**. Le cerveau en état de repos sans stimulation — le **mode par défaut**, cartographié par Marcus Raichle en 2001 — consomme 20% de l'énergie du corps. Ce « repos » est en fait extrêmement actif : il consolide les souvenirs, génère des idées créatives, explore les émotions.
+
+Timothy Wilson, de l'Université de Virginie, a mené une expérience maintenant célèbre. Des participants dans une pièce vide pendant 15 minutes, avec un bouton délivrant une légère décharge électrique. Résultat : 67% des hommes et 25% des femmes ont préféré s'infliger une décharge plutôt que de rester seuls avec leurs pensées.
+
+L'ennui est devenu si insupportable qu'on préfère la douleur.
+
+Votre ado n'est pas accro à son téléphone. Il est **dépendant** parce qu'il n'a jamais appris à vivre sans stimulation. Et avec l'ennui, il a perdu la créativité, l'introspection, et la capacité à rêver.
+
+Mais vous ne pouvez pas restaurer l'ennui en supprimant le téléphone. Ça se restaure en le **pratiquant**. Comme un muscle.
+
+---
+
+### EXERCICE GUIDÉ (3:00 — 6:15)
+
+[Changement de rythme — voix plus douce, plus lente]
+
+L'expérience des 5 minutes de rien. Vous pouvez la faire maintenant, en écoutant. Ou ce soir. Seul, ou avec votre ado.
+
+Asseyez-vous. Posez votre téléphone. Pas de musique. Pas de montre.
+
+Et restez. 5 minutes. Juste ça.
+
+[Pause 5 secondes]
+
+Votre esprit va dire « C'est nul. C'est trop long. Je ne vois pas le but. » C'est normal. Laissez l'agitation monter. Et observez-la.
+
+[Pause 10 secondes]
+
+Et puis — peut-être après 2 ou 3 minutes — quelque chose d'autre. Une pensée plus profonde. Une image. Une sensation de calme.
+
+[Pause 10 secondes]
+
+Ce « quelque chose d'autre » — c'est l'intériorité qui se réveille.
+
+[Voix très douce]
+
+Et si vous la proposez à votre ado et qu'il dit « C'est nul » — répondez :
+
+« Il n'y a pas de but. C'est ça le point. »
+
+Et faites-le seul. Un jour, il vous verra le faire. Et peut-être qu'il sera curieux.
+
+[Pause]
+
+Sandi Mann, de l'Université de Central Lancashire, a montré que l'ennui active le réseau de « pensée divergente » — la capacité à générer des idées créatives. Les participants produisaient des idées significativement plus créatives après une période d'ennui imposée.
+
+Votre ado a besoin de ce muscle. Vous aussi.
+
+[Transition en douceur]
+
+---
+
+### DÉBRIEF (6:15 — 7:00)
+
+[Retour au ton thérapeutique]
+
+L'ennui n'est pas un vide à combler. C'est un espace à habiter. Et dans cet espace, votre ado retrouvera la capacité à se connaître, à rêver, à créer.
+
+5 minutes de rien. C'est tout. C'est le commencement.
+
+Et si vous commencez par vous-même — votre ado apprendra ce qu'il vit. Si vous ne pouvez pas être seul avec vous-même, il ne le pourra pas non plus.
+
+---
+
+## CTA FINAL
+
+5 minutes de rien. Ce soir. Si quelque chose se réveille en vous — vous saurez pourquoi. La Formation 6 approfondit : masques, patterns, imposteur, corps, rejet, anxiété, et le rôle central de votre propre transformation.
+
+---
+
+## NOTES DE PRODUCTION
+
+**Profil voix :** Homme ou femme, 30-50 ans, timbre contemplatif. Débit : 100 mots/min dans l'exercice. La voix est la plus lente de tous les lead magnets F6.
+
+**BPM & Sound Design :**
+- Ouverture : 55 BPM, piano seul, tonalité contemplative
+- Concept : violoncelle à -20dB
+- Exercice : la musique s'efface presque complètement. L'expérience de 5 minutes est quasiment a cappella
+- Moment « quelque chose d'autre » : retour très léger du piano à -20dB
+- Débrief : piano + violoncelle, tonalité mélancolique mais apaisante
+- CTA : musique seule 4 sec puis fondu
+
+**Pauses :** Les deux pauses de 10 secondes pendant l'exercice sont structurales — elles simulent l'expérience de l'ennui pour l'auditeur.
+
+**Sources :**
+- Marcus Raichle et al., « A Default Mode of Brain Function », *Science* (2001), Université de Washington
+- Timothy Wilson et al., « Just Think », *Science* (2014), Université de Virginie
+- Sandi Mann, *The Science of Boredom* (2014), Université de Central Lancashire
+- Mary Helen Immordino-Yang et al., *Development and Psychopathology* (2009), USC
+
+**Musique suggérée :** Ambiance douce et universelle — piano léger, nappes synthétiques chaudes. Tonalité contemplative avec une légère pointe de mélancolie. 55-60 BPM.`,
+    meta: {},
+    audience: "F6-parents-tout-public",
+    audienceLabel: "Parents Tout Public",
   },
 }

@@ -94,6 +94,8 @@ const AUDIENCE_LABELS = {
   "F2-musulman-pro": "Musulman Professionnel",
   "F3-tout-public": "Tout Public",
   "F4-pro-tout-public": "Pro Tout Public",
+  "F5-parents-musulmans": "Parents Musulmans",
+  "F6-parents-tout-public": "Parents Tout Public",
 }
 
 async function main() {
