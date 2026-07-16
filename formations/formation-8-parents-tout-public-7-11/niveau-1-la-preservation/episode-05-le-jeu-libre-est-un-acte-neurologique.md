@@ -64,7 +64,7 @@ Le jeu libre. Pas le jeu organisé — le foot, le piano, les cours structurés.
 
 [Pause]
 
-Et voici ce que la recherche nous dit — ce qui devrait changer radicalement la façon dont vous voyez ces après-midi remplis.
+La recherche, elle, est sans appel.
 
 Stuart Brown, psychiatre à l'Université de Stanford, a passé 30 ans à étudier le jeu. Trente ans. Sa découverte est sans appel :
 
@@ -132,7 +132,7 @@ Quatre fonctions exécutives activées simultanément. Dans une activité que l'
 
 Comparez avec une activité structurée — le cours de piano, par exemple. L'enfant exécute. Il suit les instructions du professeur. Il reproduit les gestes demandés. Le cortex préfrontal est actif, oui — mais d'une seule façon : la **compliance**. Il obéit. Il ne décide pas. Il ne négocie pas. Il ne gère pas de frustration imprévue. Le circuit neuronal qui se renforce n'est pas le circuit de l'autonomie — c'est le circuit de la conformité.
 
-Et ce n'est pas le cas que le piano soit inutile. Le piano développe d'autres compétences — la discipline, la mémoire, la motricité fine. Mais il ne développe **pas** les quatre fonctions exécutives que le jeu libre active en une seule après-midi dans le jardin. Et entre 7 et 11 ans, ce sont précisément ces quatre fonctions qui forment le socle de la compétence sociale et professionnelle à l'âge adulte.
+Ce n'est pas que le piano soit inutile — loin de là. Le piano développe d'autres compétences — la discipline, la mémoire, la motricité fine. Mais il ne développe **pas** les quatre fonctions exécutives que le jeu libre active en une seule après-midi dans le jardin. Et entre 7 et 11 ans, ce sont précisément ces quatre fonctions qui forment le socle de la compétence sociale et professionnelle à l'âge adulte.
 
 [Voix directe]
 

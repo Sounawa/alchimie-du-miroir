@@ -106,8 +106,6 @@ Siegel utilise une image merveilleuse — « le modèle de la main ». Fermez vo
 
 Quand vous criez, le « couvercle » se soulève. Le pouce — l'amygdale — est exposé. Le cerveau de votre enfant est en mode survie. Vous ne pouvez pas lui demander de réfléchir dans cet état. C'est comme demander à quelqu'un qui court pour sauver sa vie de résoudre une équation mathématique.
 
-Et voici le renversement fondamental.
-
 [Voix lente, chaque mot compte]
 
 Le parent qui pense « je dois être ferme pour lui apprendre » ne comprend pas la neuroscience. La fermeté nécessite un cortex préfrontal fonctionnel. Le cortex préfrontal de votre enfant est **en construction** — il ne sera mature qu'à 25 ans. Quand vous criez, vous n'enseignez pas la fermeté. Vous inondez un chantier de construction avec du cortisol. Les ouvriers — les neurones — ne peuvent pas construire dans ces conditions.

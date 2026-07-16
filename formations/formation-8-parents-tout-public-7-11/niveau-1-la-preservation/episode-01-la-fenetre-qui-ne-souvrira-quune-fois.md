@@ -90,8 +90,6 @@ Et c'est là que ça devient fascinant — et vertigineux. En 2012, Richard Davi
 
 [Pause 2 secondes]
 
-Et voici le renversement que la plupart des parents ne voient pas.
-
 [Voix lente, chaque mot compte]
 
 Le parent confond l'**absence de symptômes** avec la **présence de santé**. Marc dit « Lucas va bien » parce que Lucas sourit, qu'il va à l'école, qu'il a des copains. Mais en 2016, Martin Teicher et son équipe à la Harvard Medical School ont publié une étude révélant que même un stress familial « normal » — pas de maltraitance, juste une tension chronique, des disputes fréquentes, un climat tendu — altère le développement cérébral des enfants. Pas les enfants maltraités. Les enfants « normaux ». Les enfants dont les parents disent « il va bien ».

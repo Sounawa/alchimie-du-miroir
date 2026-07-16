@@ -72,7 +72,7 @@ L'hippocampe. La zone du cerveau responsable de la mémoire et de la régulation
 
 Le cri ne « discipline » pas votre enfant. Il modifie son cerveau. Il coupe les connexions entre l'amygdale — le centre de la peur — et le cortex préfrontal — le centre de la pensée rationnelle. Plus ces connexions sont coupées, plus votre enfant aura du mal, plus tard, à réguler ses propres émotions. Parce que le câblage qui permettrait cette régulation n'a jamais été construit — il a été détruit.
 
-Et ce qui est tragique, c'est que l'hippocampe est exactement la zone que la fiṭra utilise pour encoder les savoirs émotionnels innés dont nous avons parlé dans les épisodes précédents. Le cri ne puni pas — il ampute la fiṭra de son support neurologique.
+Et ce qui est tragique, c'est que l'hippocampe est exactement la zone que la fiṭra utilise pour encoder les savoirs émotionnels innés dont nous avons parlé dans les épisodes précédents. Le cri ne punit pas — il prive la fiṭra de son support neurologique.
 
 ---
 
@@ -115,8 +115,6 @@ C'est-à-dire : le corps AVANT l'esprit. La posture avant la pensée. Le physiqu
 Et la neuroscience moderne confirme exactement cela. Lawrence Barsalou, chercheur en sciences cognitives à l'Université Emory, a publié en 2008 un cadre théorique appelé le « grounded cognition » — la cognition incarnée. Sa démonstration : changer sa posture physique modifie directement son état neurologique. Le corps n'est pas un véhicule de l'esprit — il en est un **composant**.
 
 Le Prophète ﷺ l'avait compris il y a quatorze siècles.
-
-Et voici le renversement :
 
 Quand vous criez sur votre enfant et que vous dites « je le discipline », vous n'êtes pas dans la tradition de l'adab — l'éducation. Vous êtes dans la tradition exactement opposée : vous détruisez la fiṭra de votre enfant en coupant les connexions neuronales qu'il est en train de construire.
 

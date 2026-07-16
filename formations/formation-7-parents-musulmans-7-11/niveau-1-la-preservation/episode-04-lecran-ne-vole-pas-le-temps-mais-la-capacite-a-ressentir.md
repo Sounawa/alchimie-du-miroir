@@ -94,7 +94,7 @@ Le Coran donne un commandement que beaucoup de parents musulmans connaissent mai
 
 « Et dis aux croyantes de **baisser** leurs regards… »
 
-Le mot arabe est **ghadd** (غَضّ). Et voici ce que presque toutes les traductions françaises se trompent en traduisant par « baisser ».
+Le mot arabe est **ghadd** (غَضّ). Et c'est là que presque toutes les traductions françaises se trompent — elles traduisent par « baisser ».
 
 [Pause]
 
@@ -111,8 +111,6 @@ Ibn Qayyim al-Jawziyya (ibn al-qayyim al-ǰawziyya), dans *Madārij al-Sālikīn
 Et il y a un détail anatomique que vous devez connaître. Les travaux de Jay Giedd, psychiatre au National Institute of Mental Health, publiés dans une série d'études longitudinales à partir de 1999, ont montré que le cortex préfrontal — la zone du cerveau responsable de la régulation de l'attention, de l'inhibition des impulsions et de la prise de décision — connaît son pic de croissance en volume de matière grise précisément entre 8 et 11 ans. Ce pic est suivi d'une phase d'élagage. Ce qui se passe pendant cette fenêtre — les habitudes d'attention que votre enfant forge, les circuits de récompense qu'il active jour après jour — détermine quels circuits survivront à l'élagage et lesquels seront éliminés. Autrement dit : les écrans ne se contentent pas de captiver votre enfant de 9 ans. Ils participent activement à la **construction** de son cortex préfrontal. Et un cortex préfrontal façonné par des stimuli à haute dopamine ne sera pas le même qu'un cortex préfrontal façonné par le jeu libre, la lecture, la conversation, et la contemplation.
 
 [Transition — léger changement de rythme]
-
-Et voici le renversement central de cet épisode :
 
 Le parent qui dit « 15 minutes d'écran, pas plus » applique une **règle**. Le parent qui dit « Ton cerveau est en train de construire ses routes du plaisir. L'écran construit une autoroute qui va écraser toutes les autres routes » applique un **cadre**.
 

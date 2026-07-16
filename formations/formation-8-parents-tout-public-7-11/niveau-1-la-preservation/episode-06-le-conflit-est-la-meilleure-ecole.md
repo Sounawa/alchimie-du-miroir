@@ -116,7 +116,7 @@ Laurie Kramer, chercheuse à l'Université de l'Illinois, a publié en 2010 une 
 
 [Voix directe, avec un léger sourire dans la voix]
 
-Et c'est là que les données de Kramer deviennent vraiment contre-intuitives — au point de déranger. Son équipe a comparé des adultes issus de fratries ayant connu des conflits modérés mais résolus de façon autonome, et des adultes issus de fratries « sans conflit » — des maisons où les parents intervenaient systématiquement pour prévenir toute tension. Les premiers présentent une régulation émotionnelle significativement supérieure. Ils tolerent mieux la frustration. Ils négocient avec plus de souplesse. Ils montrent une meilleure capacité à maintenir des relations intimes à long terme. Les seconds — ceux qui n'ont jamais eu à se disputer parce qu'un adulte l'a toujours empêché — présentent des taux plus élevés d'évitement des conflits et de difficulté à exprimer un besoin dans une relation.
+Et c'est là que les données de Kramer deviennent vraiment contre-intuitives — au point de déranger. Son équipe a comparé des adultes issus de fratries ayant connu des conflits modérés mais résolus de façon autonome, et des adultes issus de fratries « sans conflit » — des maisons où les parents intervenaient systématiquement pour prévenir toute tension. Les premiers présentent une régulation émotionnelle significativement supérieure. Ils tolèrent mieux la frustration. Ils négocient avec plus de souplesse. Ils montrent une meilleure capacité à maintenir des relations intimes à long terme. Les seconds — ceux qui n'ont jamais eu à se disputer parce qu'un adulte l'a toujours empêché — présentent des taux plus élevés d'évitement des conflits et de difficulté à exprimer un besoin dans une relation.
 
 [Pause]
 

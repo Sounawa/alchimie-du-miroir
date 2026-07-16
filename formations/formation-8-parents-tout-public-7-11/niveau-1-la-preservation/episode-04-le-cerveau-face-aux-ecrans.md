@@ -102,8 +102,6 @@ Et devinez ce qui détruit le développement des fonctions exécutives entre 7 e
 
 [Pause 2 secondes]
 
-Et voici le renversement.
-
 [Voix lente, chaque mot compte]
 
 Le parent qui dit « juste 15 minutes de plus » pense négocier. Il ne négocie pas. Il permet à une équipe d'ingénieurs dans la Silicon Valley de continuer à câbler le système de récompense de son enfant. Chaque minute supplémentaire est une pelletée d'asphalte sur une autoroute qui mène à la dépendance — pas à l'autorégulation.
