@@ -18,7 +18,7 @@
 | La Mission | 5:00 | 6:30 | Le scan corporel — dessine les émotions sur un contour de corps |
 | Ta Phrase Clé | 6:30 | 7:00 | Phrase clé à retenir |
 | Promesse | 7:00 | 8:30 | Le prochain territoire : le volcan |
-| Pour le Parent | 8:30 | 10:00 | Repères scientifiques et accompagnement |
+| Pour le Parent | 8:30 | 10:30 | Repères scientifiques et accompagnement |
 
 ---
 
@@ -140,6 +140,10 @@ Ensuite, on va faire quatre « cartes » — une pour chaque émotion principale
 
 Petite astuce : si tu n'es pas sûr pour une émotion — si tu ne sais pas où tu la sens — pas de panique. Ferme les yeux, rappelle-toi d'un moment où tu as ressenti cette émotion, et observe où ton corps réagit. Souvent, le souvenir suffit à faire revenir le signal.
 
+[Voix créative, donne des exemples concrets]
+
+Et pour t'aider, voici un exemple de ce que ça pourrait donner : colorie en rouge les endroits où tu sens la colère — peut-être les poings, le visage, la poitrine. En bleu, les endroits où tu sens la tristesse — la gorge, les yeux, le centre de la poitrine. En jaune, les endroits où tu sens la joie — le visage, les bras, partout. En violet, les endroits où tu sens la peur — le ventre, les jambes, les épaules. Mais rappelle-toi : ce sont des exemples. Ton corps à toi, c'est peut-être complètement différent — et c'est ça qui est intéressant.
+
 [Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
 
 [Transition]
@@ -184,7 +188,7 @@ La réponse est oui. Et elle va te surprendre.
 
 ---
 
-### POUR LE PARENT (8:30 — 10:00)
+### POUR LE PARENT (8:30 — 10:30)
 
 [Voix informative]
 
@@ -198,6 +202,9 @@ Antonio Damasio, neuroscientifique à l'Université de Californie du Sud, a publ
 - Faites le scan corporel avec votre enfant la première fois — proposez-lui de guider l'exercice.
 - Nommez vos propres signaux corporels devant lui : « Quand je suis stressé, moi je sens ça dans les épaules. » Cela normalise le fait que chaque corps est différent.
 - Ne corrigez pas si votre enfant place la peur dans les pieds plutôt que dans le ventre — l'intéroception est personnelle.
+
+**Cette semaine avec votre enfant :**
+Quand votre enfant exprime une émotion — colère, tristesse, frustration — résistez à l'envie de la « réparer ». Ne dites pas : « Mais non, ce n'est pas grave ! » ou « Tu vas voir, demain ça ira mieux. » Ces phrases, même bien intentionnées, disent à l'enfant que son émotion n'est pas légitime. Préférez deux phrases : « Je vois que tu ressens quelque chose de fort » — cela valide le ressenti sans le nommer à sa place — et « Tu veux m'en parler ou tu as juste besoin que je sois là ? » — cela lui redonne le contrôle. Valider, ce n'est pas approuver. C'est dire : « Ce que tu ressens existe. Je le vois. »
 
 [Fin — musique de sortie douce, 4 secondes]
 

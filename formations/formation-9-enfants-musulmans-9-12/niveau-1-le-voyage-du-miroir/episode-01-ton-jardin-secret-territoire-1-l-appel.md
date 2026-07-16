@@ -18,7 +18,7 @@
 | La Mission | 5:00 | 6:30 | Dessine ton jardin (Journal, pages 4-5) |
 | Ta Phrase Clé | 6:30 | 7:00 | "Je suis le jardinier de mon monde intérieur." |
 | Promesse | 7:00 | 8:30 | Teasing du territoire suivant |
-| Pour le Parent | 8:30 | 10:00 | Note à l'adulte accompagnateur |
+| Pour le Parent | 8:30 | 10:30 | Note à l'adulte accompagnateur |
 
 ---
 
@@ -210,7 +210,7 @@ Moi, j'ai hâte de t'y retrouver.
 
 ---
 
-### POUR LE PARENT (8:30 — 10:00)
+### POUR LE PARENT (8:30 — 10:30)
 
 [Voix adulte, claire et bienveillante]
 
@@ -225,6 +225,8 @@ Ce qui vient de se passer est simple et profond à la fois : votre enfant a mis 
 **Ce qu'il faut éviter :** Ne minimisez pas (« Mais non, t'as pas besoin d'être triste »). Ne rendez pas ça scolaire (« C'est bien, tu as fait ton exercice »). Laissez vivre. Laissez être.
 
 La porte de son jardin vient de s'ouvrir. Laissez-la ouverte.
+
+**Cette semaine avec votre enfant :** proposez un premier « moment de silence ensemble ». Pas un exercice formel — juste 30 secondes, après le dîner, assis côte à côte. Dites simplement : « On ferme les yeux, on respire trois fois, et on écoute ce qu'il y a autour de nous. » Pas de commentaire après. Pas de « qu'est-ce que tu as senti ? ». Juste le silence partagé. Ces 30 secondes font plus pour l'intelligence émotionnelle de votre enfant que n'importe quelle explication.
 
 **Wa salāmu ʿalaykum.**
 

@@ -18,7 +18,7 @@
 | La Mission | 5:00 | 6:30 | Dessine ton visiteur le plus fréquent (Journal, pages 6-7) |
 | Ta Phrase Clé | 6:30 | 7:00 | "Je ne suis pas mes émotions. Elles me visitent." |
 | Promesse | 7:00 | 8:30 | Teasing du Territoire 3 — le dragon |
-| Pour le Parent | 8:30 | 10:00 | Note à l'adulte accompagnateur |
+| Pour le Parent | 8:30 | 10:30 | Note à l'adulte accompagnateur |
 
 ---
 
@@ -196,7 +196,7 @@ Dans le prochain territoire — le Territoire du Dragon — tu vas apprendre à 
 
 ---
 
-### POUR LE PARENT (8:30 — 10:00)
+### POUR LE PARENT (8:30 — 10:30)
 
 [Voix adulte, claire et bienveillante]
 
@@ -213,6 +213,8 @@ Pourquoi ? Parce qu'un enfant qui peut nommer précisément « je me sens anxieu
 **Ce qu'il faut éviter :** Raccourcir son expérience. « Tu es juste fatigué » est l'une des phrases les plus destructrices pour le développement émotionnel — elle enseigne à l'enfant que ses ressentis sont des erreurs de diagnostic.
 
 Le vocabulaire arabe (ghaḍab, ḥuzn, farah, khawf) n'est pas décoratif — il est structurel. Les enfants bilingues sur le plan émotionnel développent une flexibilité cognitive supérieure. Votre enfant apprend à penser en deux langues du cœur.
+
+**Cette semaine avec votre enfant :** quand il exprime une émotion difficile, résistez à l'envie de le rassurer ou de trouver une solution. Deux phrases à avoir en poche : « Je vois que ça te touche beaucoup » — et rien d'autre. Ou : « Tu as le droit de ressentir ça. » Ni correction, ni conseil, ni comparaison. Valider, c'est dire : « Ce que tu ressens existe et a le droit d'exister. » L'enfant apprend alors que ses émotions ne sont pas des problèmes à résoudre, mais des messages à accueillir.
 
 **Wa salāmu ʿalaykum.**
 

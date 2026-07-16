@@ -106,6 +106,10 @@ Ibn Qayyim al-Jawziyya (ibn al-qayyim al-ǰawziyya), dans *Madārij al-Sālikīn
 
 À 7-11 ans, ghadd s'applique d'abord aux écrans. Parce que l'écran est l'endroit où votre enfant apprend pour la première fois à diriger — ou à ne pas diriger — son attention. Si la fiṭra inclut la capacité naturelle à se concentrer, à contempler, à trouver du plaisir dans les choses simples, les écrans avec leurs pics de dopamine constants détruisent cette capacité en la remplaçant.
 
+[Voix avec une urgence contenue]
+
+Et il y a un détail anatomique que vous devez connaître. Les travaux de Jay Giedd, psychiatre au National Institute of Mental Health, publiés dans une série d'études longitudinales à partir de 1999, ont montré que le cortex préfrontal — la zone du cerveau responsable de la régulation de l'attention, de l'inhibition des impulsions et de la prise de décision — connaît son pic de croissance en volume de matière grise précisément entre 8 et 11 ans. Ce pic est suivi d'une phase d'élagage. Ce qui se passe pendant cette fenêtre — les habitudes d'attention que votre enfant forge, les circuits de récompense qu'il active jour après jour — détermine quels circuits survivront à l'élagage et lesquels seront éliminés. Autrement dit : les écrans ne se contentent pas de captiver votre enfant de 9 ans. Ils participent activement à la **construction** de son cortex préfrontal. Et un cortex préfrontal façonné par des stimuli à haute dopamine ne sera pas le même qu'un cortex préfrontal façonné par le jeu libre, la lecture, la conversation, et la contemplation.
+
 [Transition — léger changement de rythme]
 
 Et voici le renversement central de cet épisode :
@@ -194,6 +198,21 @@ Cette semaine, observez — sans juger — combien de temps votre enfant passe d
 
 Ghadd al-baṣar n'est pas un interdit. C'est un acte de préservation. Et la préservation de la capacité de votre enfant à ressentir, à jouir du simple, à se concentrer — c'est peut-être le plus grand cadeau que vous puissiez lui faire entre 7 et 11 ans.
 
+[Voix plus douce, comme pour les plus jeunes]
+
+**Et si votre enfant a 7 ou 8 ans ?** Le contrat de regard peut être trop abstrait. Voici un exercice plus simple — **le test du silence partagé**.
+
+Asseyez-vous avec votre enfant côte à côte sur un canapé ou un tapis. Mettez un minuteur sur deux minutes. Dites simplement : « On ne dit rien pendant deux minutes. On est juste là, ensemble. »
+
+Puis observez ces quatre choses — sans commenter à voix haute pendant l'exercice :
+
+1. **Le corps de votre enfant** : est-ce qu'il se détend au bout de quelques secondes, ou reste-t-il tendu ? Son souffle se ralentit-il ?
+2. **Ses yeux** : où regardent-ils ? Est-ce qu'ils vous regardent, ou fixent un point au sol, ou cherchent quelque chose à faire ?
+3. **Ses mains** : est-ce qu'elles bougent, cherchent un objet, ou se posent tranquillement ?
+4. **Les bruits de la maison** : au bout d'un moment, votre enfant et vous entendrez des choses que vous n'entendez jamais — le tic d'une horloge, le vent dehors, votre propre souffle. Est-ce que votre enfant remarque ces sons ?
+
+Après les deux minutes, demandez-lui — sans jugement : « Qu'est-ce que tu as remarqué ? » Sa réponse vous dira si son système nerveux est capable de se poser — ou s'il a besoin de stimulation constante pour se sentir exister. C'est votre premier diagnostic de la santé du ghadd.
+
 ---
 
 ### DÉBRIEF (18:00 — 20:00)
@@ -252,6 +271,7 @@ Que votre cœur trouve la paix.
 - Coran 24:30-31 — ghadd al-baṣar, la protection du regard
 - Dimitri Christakis et al., « Association of Maternal Screen Time During Infancy With Children's Brain White Matter Microstructure » (2018), *JAMA Pediatrics*, Seattle Children's Hospital — lien entre temps d'écran et modification des voies dopaminergiques
 - Victoria Dunckley, *Reset Your Child's Brain* (2015), UCLA Semel Institute for Neuroscience and Human Behavior — Electronic Screen Syndrome
+- Jay Giedd et al., « Brain Development During Childhood and Adolescence: A Longitudinal MRI Study » (1999), *Nature Neuroscience*, National Institute of Mental Health — pic de matière grise du cortex préfrontal entre 8 et 11 ans
 - Ibn Qayyim al-Jawziyya, *Madārij al-Sālikīn* — commentaire sur le ghadd et la protection de l'attention comme spiritualité
 
 **Musique suggérée :** Ambiance douce, oud en fond très léger avec des nappes synthétiques subtiles. Tonalité contemplative — l'épisode porte sur la vue intérieure vs la vue extérieure. Tempo 60-65 BPM. Clôture ample — l'épisode porte sur la vue intérieure et annonce la dimension spirituelle des épisodes suivants.

@@ -102,6 +102,10 @@ Sauf que nous, les parents, avons souvent remplacé ce mouvement naturel par un 
 
 Les recherches de Kenneth Pargament, professeur de psychologie à l'Université de Bowling Green State, dans *The Psychology of Religion and Coping* (1997), ont montré que les styles d'engagement religieux ne produisent pas les mêmes effets psychologiques. La prière purement transactionnelle — « donne-moi ceci, épargne-moi cela » — peut, quand la demande n'est pas satisfaite, renforcer un sentiment d'abandon spirituel. En revanche, la prière d'expression — le fait de confier à Dieu son état intérieur, ses doutes, ses peurs — est associée à une meilleure résilience émotionnelle et à un sentiment plus stable de connexion.
 
+[Pause]
+
+Et ce que Pargament a démontré chez l'adulte, Lisa Miller l'a confirmé chez l'enfant. Lisa Miller, professeure de psychologie clinique à l'Université Columbia et directrice du Spirituality Mind Body Institute, a mené pendant plus de quinze ans des recherches longitudinales sur la spiritualité des enfants et des adolescents. Ses travaux, synthétisés dans *The Spiritual Child* (2015), montrent une distinction cruciale : les enfants qui développent une **spiritualité intrinsèque** — une relation personnelle, vécue et ressentie avec le sacré — présentent des taux de dépression et de conduites à risque significativement plus bas que ceux dont la pratique religieuse est uniquement **extrinsèque** — ritualisée, performée pour répondre aux attentes de l'entourage. La spiritualité intrinsèque protège. La performance religieuse, elle, ne protège pas — et peut même devenir un facteur de rigidité émotionnelle quand l'enfant sent que sa valeur dépend de sa conformité.
+
 L'enfant qui ne connaît que duʿāʾ al-maslaha fait l'expérience suivante : « Je demande à Allah, et parfois ça marche, parfois non. » Et si les « non » s'accumulent — un examen raté, un grand-père qui meurt — l'enfant conclut silencieusement : « La prière ne marche pas. » Non pas parce qu'Allah n'écoute pas. Mais parce qu'on ne lui a jamais appris que la prière n'est pas une **demande**. C'est une **présence**.
 
 [Voix douce, comme une confidence]
@@ -233,6 +237,7 @@ Que votre cœur trouve la paix.
 - Hadith : les prières nocturnes du Prophète ﷺ rapportées par ʿĀʾisha (Sahih al-Bukhārī)
 - Coran 30:30 — la fiṭra comme disposition originelle en hanīf
 - Kenneth Pargament, *The Psychology of Religion and Coping* (1997), Bowling Green State University — styles d'engagement religieux et différences entre prière transactionnelle et prière d'expression
+- Lisa Miller, *The Spiritual Child: The New Science on Parenting for Health and Lifelong Thriving* (2015), Université Columbia — spiritualité intrinsèque vs extrinsèque chez l'enfant et l'adolescent
 - Ibn ʿAṭāʾillāh, al-Ḥikam (sentence sur la présence dans l'invocation)
 
 **Musique suggérée :** Ambiance intime, oud ou ney en fond très léger. Tonalité contemplative, sans urgence. Tempo 60-65 BPM. L'épisode porte sur la conversation du cœur — la musique doit respecter ce silence intérieur.

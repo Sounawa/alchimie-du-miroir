@@ -18,7 +18,7 @@
 | La Mission | 5:00 | 6:30 | Fabriquer ton passeport intérieur |
 | Ta Phrase Clé | 6:30 | 7:00 | Phrase clé finale |
 | Clôture | 7:00 | 8:30 | Tu es prêt pour la suite — le vrai voyage commence maintenant |
-| Pour le Parent | 8:30 | 10:00 | Repères scientifiques et perspectives |
+| Pour le Parent | 8:30 | 10:30 | Repères scientifiques et perspectives |
 
 ---
 
@@ -197,13 +197,17 @@ Le gardien du château a une clé dans la main.
 
 [Pause 2 secondes]
 
+Ce passeport, tu l'as gagné. Personne ne peut te le prendre. Et quand tu seras grand — toi aussi, tu montreras le chemin à quelqu'un d'autre.
+
+[Pause 3 secondes]
+
 Je te retrouverai dans le prochain niveau, explorateur. Continue de regarder à l'intérieur. C'est là que se trouve tout ce dont tu as besoin.
 
 [Fin — musique de sortie chaleureuse et triomphante, mais douce. Pas fanfare. Juste un sentiment de « bien joué, tu es prêt ». 6 secondes.]
 
 ---
 
-### POUR LE PARENT (8:30 — 10:00)
+### POUR LE PARENT (8:30 — 10:30)
 
 [Voix informative]
 
@@ -220,6 +224,9 @@ La métaphore du miroir final — « nettoyer la poussière du miroir » — fai
 - Demandez à voir le passeport intérieur — mais seulement si l'enfant le propose. S'il ne le montre pas, respectez.
 - Laissez le journal accessible. L'enfant peut y retourner seul quand il en ressent le besoin.
 - Le niveau 2 approfondira ces compétences — ne forcez pas la répétition. Laissez le voyage se continuer naturellement.
+
+**Cette semaine avec votre enfant :**
+Organisez une petite « cérémonie du passeport » pour célébrer l'achèvement du niveau 1. Rien de compliqué — un moment intentionnel où vous reconnaissez ce que votre enfant a accompli. Par exemple : préparez un goûter spécial, demandez-lui s'il veut vous montrer son passeport intérieur, et dites-lui devant les autres membres de la famille : « Tu as terminé le premier voyage intérieur. Tu as cartographié des territoires que beaucoup d'adultes ne connaissent pas encore. » Vous pouvez même lui faire signer « officiellement » son passeport, comme un vrai document. Ce geste simple ancre dans la mémoire de l'enfant que ce qu'il a fait est réel, important, et digne d'être célébré.
 
 [Fin — musique de sortie, 4 secondes]
 

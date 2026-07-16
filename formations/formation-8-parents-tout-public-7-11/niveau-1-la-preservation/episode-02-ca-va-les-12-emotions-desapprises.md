@@ -42,6 +42,12 @@ Et sa mère — comme 95% des parents dans cette situation — sourit, dit « Bi
 
 « Ça va » est le mot le plus dangereux de la langue française quand il sort de la bouche d'un enfant de 8 ans. Parce qu'il ne veut pas dire « ça va ». Il veut dire : « Ce que je ressens n'a pas de place ici. »
 
+[Voix lente, chaque mot compte]
+
+Et ce n'est pas une exagération. Marc Brackett, chercheur à l'Université Yale et créateur de la méthode RULER, a mesuré le vocabulaire émotionnel spontané de milliers d'enfants d'âge scolaire. Son constat, publié dans *Permission to Feel* (2019), est sans appel : en moyenne, un enfant de 7 à 11 ans utilise spontanément moins d'une dizaine de mots pour nommer ce qu'il ressent. Moins de dix mots — pour décrire une palette de centaines d'états émotionnels possibles. Autrement dit : votre enfant possède un intérieur riche, complexe, nuancé — mais il n'a les mots pour en exprimer qu'une infime fraction.
+
+[Pause 3 secondes — laissez ce chiffre vous atteindre]
+
 [Transition musicale légère — 3 secondes]
 
 ---
@@ -234,6 +240,7 @@ Prenez soin de vous — et des mots que vous offrez.
 **Sources :**
 - John Gottman, *Raising an Emotionally Intelligent Child* (1997), Université de Washington — étude longitudinale de 130 familles sur 14 ans, prédiction des relations à 30 ans par le vocabulaire émotionnel à 7 ans
 - Matthew Lieberman et al., « Putting Feelings into Words: Affect Labeling Disrupts Amygdala Activity in Response to Affective Stimuli », *Psychological Science* (2007), UCLA — réduction de 30% de l'activation amygdalienne par l'étiquetage affectif
+- Marc Brackett, *Permission to Feel* (2019), Université Yale — mesure du vocabulaire émotionnel spontané chez les enfants d'âge scolaire, méthode RULER
 - Paul Ekman, *Emotions in the Human Face* (1972), Université de Californie à San Francisco — universalité des 6 émotions de base et leurs expressions faciales distinctes
 
 **Musique suggérée :** Ambiance douce et universelle — piano léger, nappes synthétiques chaudes. Tonalité pédagogique mais avec une gravité sous-jacente — l'épisode porte sur une perte invisible. Tempo 60-65 BPM.

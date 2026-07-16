@@ -18,7 +18,7 @@
 | La Mission | 5:00 | 6:30 | Ta carte d'amitié (Journal, pages 10-11) |
 | Ta Phrase Clé | 6:30 | 7:00 | "Je choisis mes miroirs. Et je suis un miroir pour les autres." |
 | Promesse | 7:00 | 8:30 | Teasing du Territoire 5 — le trésor caché |
-| Pour le Parent | 8:30 | 10:00 | Note à l'adulte accompagnateur |
+| Pour le Parent | 8:30 | 10:30 | Note à l'adulte accompagnateur |
 
 ---
 
@@ -38,7 +38,7 @@ Yūsuf a été trahi par ses propres frères. Les gens avec qui tu grandis, tu m
 
 Et pourtant, des années plus tard, quand Yūsuf a retrouvé ses frères… il les a pardonnés.
 
-Pas parce qu'il avait oublié. Pas parce qu'il était faible. Mais parce qu'il avait compris quelque chose que presque personne ne comprend :
+Pas parce qu'il avait oublié. Pas parce qu'il était faible. Le pardon n'était pas une obligation — c'était un **choix**. Son choix. Et il l'a fait parce qu'il avait compris quelque chose que presque personne ne comprend :
 
 Chaque personne est un miroir. Ce que les frères de Yūsuf lui ont montré, c'était le reflet de LEUR jalousie — pas la valeur de Yūsuf.
 
@@ -202,7 +202,7 @@ Dans le prochain territoire — le Territoire du Trésor Caché — nous allons 
 
 ---
 
-### POUR LE PARENT (8:30 — 10:00)
+### POUR LE PARENT (8:30 — 10:30)
 
 [Voix adulte, claire et bienveillante]
 
@@ -217,6 +217,8 @@ L'histoire de Yūsuf (Coran, sourate 12 — Yūsuf) sert ici de cadre narratif p
 **Ce que vous pouvez faire :** Si votre enfant vous parle de sa carte d'amitié — écoutez sans intervenir. Ne dites PAS « mais oui, ce copain-là est sympa, tu exagères » — cela invaliderait sa perception, qui est justement ce qu'il apprend à construire. Vous pouvez demander : « Qu'est-ce qui te fait te sentir grand avec cette personne ? » — cette question approfondit sa réflexion sans la diriger.
 
 **Ce qu'il faut éviter :** Contacter les parents des « miroirs rouges ». Votre enfant a besoin de sentir que son journal est un espace SAFE. Si ce qu'il écrit finit en action parentale, il arrêtera d'écrire. La carte d'amitié est un outil de prise de conscience, pas un outil de conflit.
+
+**Cette semaine avec votre enfant :** suggérez-lui de consacrer une page de son journal — juste après la couverture — à l'amitié. Pas une liste d'amis : une page libre où il dessine ou écrit ce que « être un bon ami » veut dire pour lui. Vous pouvez lancer avec une seule question : « Si tu devais dessiner à quoi ressemble un vrai ami, ça ferait quoi ? » Laissez-le faire seul. Cette page deviendra son point de repère quand il devra choisir ses miroirs.
 
 **Wa salāmu ʿalaykum.**
 

@@ -18,7 +18,7 @@
 | La Mission | 5:00 | 6:30 | Défi 10 minutes sans écran + observation avant/après |
 | Ta Phrase Clé | 6:30 | 7:00 | Phrase clé à retenir |
 | Promesse | 7:00 | 8:30 | Le dernier territoire : la clé — et ton passeport intérieur |
-| Pour le Parent | 8:30 | 10:00 | Repères scientifiques et accompagnement |
+| Pour le Parent | 8:30 | 10:30 | Repères scientifiques et accompagnement |
 
 ---
 
@@ -182,7 +182,7 @@ Le dernier épisode s'appelle « La clé ». Et il contient un objet spécial qu
 
 ---
 
-### POUR LE PARENT (8:30 — 10:00)
+### POUR LE PARENT (8:30 — 10:30)
 
 [Voix informative]
 
@@ -198,6 +198,9 @@ Anna Lembke, psychiatre à l'Université de Stanford, a publié *Dopamine Nation
 - Faites le défi des 10 minutes en même temps que votre enfant. Montrez l'exemple.
 - N'utilisez pas cet épisode comme prétexte pour confisquer l'écran. Le message est l'agentivité, pas la restriction.
 - Si votre enfant dit « j'ai réussi les 10 minutes et je me suis ennuyé », répondez : « Super ! L'ennui, c'est le début de la créativité. »
+
+**Cette semaine avec votre enfant :**
+Proposez un « challenge famille sans écran » pour la semaine à venir. Choisissez UN moment par jour — le repas du soir, les trente minutes avant le coucher, ou le trajet vers l'école — et déclarez-le « zone sans écran » pour toute la famille. Pas seulement pour l'enfant : pour vous aussi. Mettez les téléphones dans une boîte ou une autre pièce. Et pendant ce moment, faites quelque chose ensemble : racontez vos journées, jouez à un jeu de cartes, cuisinez, ou simplement... ne faites rien. L'important, c'est que la règle vaille pour tout le monde. Quand votre enfant voit que vous vous imposez la même discipline, le message devient : « Ce n'est pas une punition pour les enfants. C'est un choix conscient que toute la famille fait. »
 
 [Fin — musique de sortie douce, 4 secondes]
 

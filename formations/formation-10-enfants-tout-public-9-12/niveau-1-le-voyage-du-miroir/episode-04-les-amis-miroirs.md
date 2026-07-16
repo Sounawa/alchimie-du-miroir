@@ -18,7 +18,7 @@
 | La Mission | 5:00 | 6:30 | La carte d'amitié en trois couleurs |
 | Ta Phrase Clé | 6:30 | 7:00 | Phrase clé à retenir |
 | Promesse | 7:00 | 8:30 | Le prochain territoire : le muscle de la gratitude |
-| Pour le Parent | 8:30 | 10:00 | Repères scientifiques et accompagnement |
+| Pour le Parent | 8:30 | 10:30 | Repères scientifiques et accompagnement |
 
 ---
 
@@ -184,7 +184,7 @@ Le prochain épisode s'appelle « Le muscle de la gratitude ».
 
 ---
 
-### POUR LE PARENT (8:30 — 10:00)
+### POUR LE PARENT (8:30 — 10:30)
 
 [Voix informative]
 
@@ -200,6 +200,9 @@ La notion de « miroir social » renvoie aux travaux de George Herbert Mead (193
 - Ne commentez pas les choix de couleurs de votre enfant. S'il met un ami en rouge, c'est son ressenti.
 - Si votre enfant met tout le monde en vert, posez une question ouverte : « Est-ce qu'il y a des moments où tu ne te sens pas bien avec quelqu'un ? » sans forcer.
 - Si votre enfant identifie un ami rouge, demandez-lui : « Qu'est-ce que tu aimerais qui soit différent ? » — cela renforce son agentivité sans diaboliser l'autre.
+
+**Cette semaine avec votre enfant :**
+Suggérez-lui de consacrer une page de son Journal de Voyage Intérieur à un « journal de voyage de l'amitié ». Pas un exercice scolaire — un espace libre où il peut dessiner, écrire, coller des choses qui représentent ses relations. Par exemple : dessiner le moment où il s'est senti le mieux avec un ami, écrire le prénom de la personne devant qui il ose tout dire, ou même dessiner la « bonne distance » comme on l'a vue avec le hérisson et le renard — deux silhouettes avec un espace entre elles. Laissez-le choisir. Le simple fait d'avoir un endroit pour penser à ses amitiés, c'est déjà un acte de gardien du château.
 
 [Fin — musique de sortie douce, 4 secondes]
 

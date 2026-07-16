@@ -18,7 +18,7 @@
 | La Mission | 5:00 | 6:30 | Écrire une lettre à ton Créateur (Journal, pages 14-15) |
 | Ta Phrase Clé | 6:30 | 7:00 | "Même dans la nuit la plus noire, les étoiles sont là." |
 | Promesse | 7:00 | 8:30 | Teasing du Territoire 7 — le labyrinthe |
-| Pour le Parent | 8:30 | 10:00 | Note à l'adulte accompagnateur |
+| Pour le Parent | 8:30 | 10:30 | Note à l'adulte accompagnateur |
 
 ---
 
@@ -192,7 +192,7 @@ Il s'appelle le labyrinthe. Et dans le prochain territoire, tu vas comprendre co
 
 ---
 
-### POUR LE PARENT (8:30 — 10:00)
+### POUR LE PARENT (8:30 — 10:30)
 
 [Voix adulte, claire et bienveillante]
 
@@ -207,6 +207,8 @@ Si votre enfant ne vous montre PAS cette page : c'est normal. C'est son espace. 
 La distinction entre ṣalāh (prière rituelle) et munājāt (conversation intime du cœur) est fondamentale dans la tradition islamique. Al-Ghazālī (al-ġazālī) consacre un chapitre entier du *Iḥyāʾ ʿulūm al-dīn* aux secrets de la prière et à la munājāt. L'enseignement que nous transmettons ici n'est pas une innovation — c'est une pédagogie qui rend accessible à un enfant de 9-12 ans une pratique que les spirituels musulmans ont cultivée pendant 14 siècles.
 
 **Ce qu'il faut absolument éviter :** Ne jamais utiliser la lettre de votre enfant comme matière à sermon. Si vous y trouvez des questions difficiles (« pourquoi Tu as permis ça ? »), sachez que la théologie islamique COMPREND ces questions — les prophètes eux-mêmes les ont posées (Ayyūb, Yūsuf, Maryam). La foi n'est pas l'absence de doutes — c'est la décision de chercher malgré les doutes.
+
+**Cette semaine avec votre enfant :** s'il vous partage quelque chose de troublant dans sa lettre — une colère, un doute, une question difficile — ne paniquez pas et ne corrigez pas. Ne dites ni « tu ne devrais pas dire ça » ni « c'est normal, tout le monde a des doutes ». Faites simplement ceci : remerciez-le de sa confiance, puis demandez-lui : « Est-ce que tu veux qu'on en parle ensemble, ou tu préfères que ce reste entre toi et Allah ? » Et respectez sa réponse. Sa lettre est sacrée — votre respect le sera aussi.
 
 **Wa salāmu ʿalaykum.**
 

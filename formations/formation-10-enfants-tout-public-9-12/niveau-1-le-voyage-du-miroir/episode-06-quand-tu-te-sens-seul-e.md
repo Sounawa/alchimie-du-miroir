@@ -18,7 +18,7 @@
 | La Mission | 5:00 | 6:30 | Écrire à la personne de confiance — dire ce qu'on ne dit jamais |
 | Ta Phrase Clé | 6:30 | 7:00 | Phrase clé à retenir |
 | Promesse | 7:00 | 8:30 | Le prochain territoire : le labyrinthe d'écran |
-| Pour le Parent | 8:30 | 10:00 | Repères scientifiques et accompagnement |
+| Pour le Parent | 8:30 | 10:30 | Repères scientifiques et accompagnement |
 
 ---
 
@@ -146,6 +146,10 @@ Et dans cette lettre, tu vas écrire quelque chose que tu ne dis JAMAIS à voix 
 
 Ce que tu écris, c'est pour toi. Pas pour la personne à qui c'est adressé. C'est pour libérer ce qui est coincé. Comme ouvrir une valve sur un ballon trop gonflé.
 
+[Voix très douce, comme un coup de pouce]
+
+Et si tu ne sais pas par où commencer, tu peux utiliser cet amorce : « Cher [nom de la personne], cette semaine j'ai ressenti... parce que... » Et si les mots ne viennent vraiment pas — pas de panique. Tu peux dessiner ce que tu voudrais lui dire. Un dessin, c'est aussi une lettre. Les deux marchent.
+
 [Si tu n'arrives pas à trouver cette personne, écris la lettre à toi-même. Tu es aussi une personne digne de confiance.]
 
 [Voix encourageante]
@@ -198,7 +202,7 @@ Le prochain épisode s'appelle : « Le labyrinthe d'écran. »
 
 ---
 
-### POUR LE PARENT (8:30 — 10:00)
+### POUR LE PARENT (8:30 — 10:30)
 
 [Voix informative]
 
@@ -214,6 +218,9 @@ L'idée que « demander de l'aide est un signe de force » est étayée par les 
 - Si votre enfant vous montre sa lettre, ne cherchez pas à « résoudre » le problème. Dites : « Merci de me le montrer. Je suis là. »
 - Si votre enfant ne montre rien, ne demandez pas à voir. Faites simplement savoir : « Tu sais que tu peux me parler de tout, même des choses difficiles. »
 - Normalisez vos propres moments de solitude devant votre enfant : « Aujourd'hui, je me suis senti un peu seul au travail. J'en ai parlé à un collègue, et ça m'a aidé. »
+
+**Cette semaine avec votre enfant :**
+Si votre enfant vous montre sa lettre et que le contenu vous inquiète — une phrase qui fait mal à lire, un mot que vous n'attendiez pas — ne paniquez pas. Ne cherchez pas à corriger (« Mais non, tu te trompes ! ») et ne minimisez pas (« C'est rien, tu verras plus tard »). Ces réactions, même bien intentionnées, ferment la porte que l'enfant vient d'ouvrir. Faites plutôt ceci : respirez. Dites : « Merci de me le montrer. Ce que tu as écrit, c'est important. » Puis demandez : « Est-ce que tu veux qu'on en parle, ou tu avais juste besoin de l'écrire ? » Et si la lettre contient quelque chose qui vous semble préoccupant — un mot comme « je ne veux plus être là » ou « personne ne m'aime » — ne laissez pas passer. Écoutez, validez, puis cherchez de l'aide professionnelle si besoin. Mais la première étape, toujours : accueillir avant d'agir.
 
 [Fin — musique de sortie douce, réconfortante, 4 secondes]
 

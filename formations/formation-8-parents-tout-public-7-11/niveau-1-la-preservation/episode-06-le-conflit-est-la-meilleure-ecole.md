@@ -114,7 +114,17 @@ Le parent qui intervient dans chaque conflit pense enseigner la justice. Il ense
 
 Laurie Kramer, chercheuse à l'Université de l'Illinois, a publié en 2010 une étude longitudinale majeure montrant que les enfants qui ont appris à résoudre les conflits fraternels de façon autonome avant 12 ans présentent des compétences relationnelles significativement plus élevées à l'âge adulte — y compris dans le cadre professionnel. Son travail démontre que la fratrie n'est pas un simple décor de l'enfance : c'est le premier laboratoire social où l'enfant s'entraîne à naviguer la complexité des relations humaines. Les enfants qui n'ont jamais eu à résoudre un conflit avec un frère ou une sœur arrivent à l'âge adulte avec un déficit mesurable de compétences de négociation.
 
+[Voix directe, avec un léger sourire dans la voix]
+
+Et c'est là que les données de Kramer deviennent vraiment contre-intuitives — au point de déranger. Son équipe a comparé des adultes issus de fratries ayant connu des conflits modérés mais résolus de façon autonome, et des adultes issus de fratries « sans conflit » — des maisons où les parents intervenaient systématiquement pour prévenir toute tension. Les premiers présentent une régulation émotionnelle significativement supérieure. Ils tolerent mieux la frustration. Ils négocient avec plus de souplesse. Ils montrent une meilleure capacité à maintenir des relations intimes à long terme. Les seconds — ceux qui n'ont jamais eu à se disputer parce qu'un adulte l'a toujours empêché — présentent des taux plus élevés d'évitement des conflits et de difficulté à exprimer un besoin dans une relation.
+
 [Pause]
+
+En d'autres termes : la fratrie sans conflit n'est pas un paradis. C'est un enfant privé de son simulateur de vol. Et quand cet enfant devient adulte — quand la turbulence relationnelle arrive, inévitablement — il n'a jamais appris à piloter dans la tempête.
+
+Le parent qui empêche tout conflit entre ses enfants ne les protège pas — il les prive du simulateur de vol le plus puissant dont la nature les ait équipés.
+
+[Pause 2 secondes]
 
 Et ce qui se passe au niveau neurologique pendant un conflit résolu de façon autonome est fascinant. Quand un enfant de 9 ans utilise les quatre étapes du protocole, son cerveau active une cascade précise. D'abord, le cortex préfrontal ventromédian — la zone impliquée dans la conscience émotionnelle — s'active quand l'enfant nomme son ressenti. Ensuite, le cortex cingulaire antérieur — le pont entre l'émotion et la cognition — s'active quand il identifie le déclencheur. Puis le cortex préfrontal dorsolatéral — la planification et la formulation d'un besoin — entre en jeu quand il dit « j'aimerais ». Et enfin, le cortex temporal supérieur et la jonction temporo-pariétale — les zones de la théorie de l'esprit — s'illuminent quand il demande « et toi, tu as besoin de quoi ? ».
 

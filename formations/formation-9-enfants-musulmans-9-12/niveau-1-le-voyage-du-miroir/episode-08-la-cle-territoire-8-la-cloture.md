@@ -18,7 +18,7 @@
 | La Mission | 5:00 | 6:30 | Ton passeport intérieur (Journal, page 18) |
 | Ta Phrase Clé | 6:30 | 7:00 | "Je connais mon monde intérieur. Et je suis prêt pour la suite." |
 | Promesse | 7:00 | 8:30 | Ce n'est pas la fin — c'est le début |
-| Pour le Parent | 8:30 | 10:00 | Note à l'adulte accompagnateur — la suite du voyage |
+| Pour le Parent | 8:30 | 10:30 | Note à l'adulte accompagnateur — la suite du voyage |
 
 ---
 
@@ -204,11 +204,15 @@ Baraka Allāhu fīk — qu'Allah te donne Sa bénédiction.
 
 Et souviens-toi de ce que dit le Coran dans la sourate 94, versets 5 et 6 : « Après la difficulté, vient la facilité. Après la difficulté, vient la facilité. » — Fa-inna maʿa al-ʿusri yusrā. Ce voyage, tu l'as fait. Et pour chaque difficulté qui viendra, la facilité sera là, inchāʾAllāh.
 
+Ce passeport, tu l'as gagné. Personne ne peut te le prendre. Et quand tu seras grand — toi aussi, tu montreras le chemin à quelqu'un d'autre.
+
+[Pause 3 secondes]
+
 [Transition musicale — 3 secondes]
 
 ---
 
-### POUR LE PARENT (8:30 — 10:00)
+### POUR LE PARENT (8:30 — 10:30)
 
 [Voix adulte, claire et bienveillante]
 
@@ -225,6 +229,8 @@ Votre enfant possède maintenant un vocabulaire émotionnel en deux langues, un 
 2. **Continuez la pratique.** Le journal ne doit pas finir dans un tiroir. Suggérez — sans imposer — de le reprendre une fois par semaine. Le dimanche soir, par exemple : « On refait le point sur les saisons de ton jardin ? »
 
 **Ce qu'il faut éviter :** Ne transformez pas ce voyage en programme scolaire. Pas de contrôle, pas de « montre-moi ton journal ». Si votre enfant sent que son espace intérieur est surveillé, il fermera la porte. Laissez-le venir vers vous.
+
+**Cette semaine avec votre enfant :** organisez une petite « cérémonie du passeport ». Quand il a terminé son passeport intérieur, prenez un moment spécial — pas un événement compliqué, mais un moment intentionnel. Préparez une boisson chaude, asseyez-vous ensemble, et demandez-lui de vous lire un outil de son choix. Puis dites-lui : « Ce voyage, tu l'as fait. Personne ne peut te le prendre. » Vous pouvez même proposer de signer le bas de sa page en tant que « témoin du voyage ». C'est un souvenir qu'il gardera.
 
 **Wa salāmu ʿalaykum.**
 

@@ -18,7 +18,7 @@
 | La Mission | 5:00 | 6:30 | Ton plan anti-volcan : 3 signaux + ta technique personnelle |
 | Ta Phrase Clé | 6:30 | 7:00 | Phrase clé à retenir |
 | Promesse | 7:00 | 8:30 | Le prochain territoire : les amis miroirs |
-| Pour le Parent | 8:30 | 10:00 | Repères scientifiques et accompagnement |
+| Pour le Parent | 8:30 | 10:30 | Repères scientifiques et accompagnement |
 
 ---
 
@@ -192,7 +192,7 @@ Dans le prochain territoire, on va parler de ça : les amis miroirs. Ceux qui te
 
 ---
 
-### POUR LE PARENT (8:30 — 10:00)
+### POUR LE PARENT (8:30 — 10:30)
 
 [Voix informative]
 
@@ -206,6 +206,9 @@ La technique STOP-RESPIRE-OBSERVE est une adaptation enfant de la protocole STOP
 - Quand votre enfant explose, ne répondez PAS immédiatement — votre propre amygdale est peut-être activée aussi.
 - Quand le calme est revenu — pas pendant la crise, APRÈS — demandez-lui : « Qu'est-ce que ton corps t'a dit avant que tu t'énerves ? »
 - Encouragez le plan anti-volcan sans le juger. S'il écrit « mordre mon doudou », c'est sa méthode — tant qu'elle ne fait de mal à personne.
+
+**Cette semaine avec votre enfant :**
+Avant de demander à votre enfant d'utiliser le protocole STOP-RESPIRE-OBSERVE, commencez par le pratiquer vous-même — devant lui. Pas comme une démonstration, mais parce que vous en avez besoin. La prochaine fois que vous sentez votre propre colère monter — une remarque qui vous touche, un imprévu qui vous agace — dites-le à voix haute : « Là, je sens que je m'énerve. Je vais m'asseoir et prendre trois respirations. » Puis faites-le. Votre enfant apprend moins par ce que vous lui dites que par ce qu'il vous voit faire. Le modèle parental — c'est le professeur le plus puissant qui existe.
 
 [Fin — musique de sortie douce, 4 secondes]
 

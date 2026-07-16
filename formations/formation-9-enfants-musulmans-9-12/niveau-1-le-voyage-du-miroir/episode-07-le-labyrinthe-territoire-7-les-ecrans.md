@@ -18,7 +18,7 @@
 | La Mission | 5:00 | 6:30 | Le défi des 10 minutes (Journal, pages 16-17) |
 | Ta Phrase Clé | 6:30 | 7:00 | "Maintenant que je sais, c'est ma responsabilité." |
 | Promesse | 7:00 | 8:30 | Teasing du Territoire 8 — la clé et le passeport intérieur |
-| Pour le Parent | 8:30 | 10:00 | Note à l'adulte accompagnateur |
+| Pour le Parent | 8:30 | 10:30 | Note à l'adulte accompagnateur |
 
 ---
 
@@ -202,7 +202,7 @@ Dans le dernier épisode — le Territoire de la Clé — on ferme la boucle.
 
 ---
 
-### POUR LE PARENT (8:30 — 10:00)
+### POUR LE PARENT (8:30 — 10:30)
 
 [Voix adulte, claire et bienveillante]
 
@@ -219,6 +219,8 @@ Les chiffres : le temps d'écran moyen des 8-12 ans est de 4h30/jour (Common Sen
 **Ce que vous pouvez faire :** Faites le défi des 10 minutes EN MÊME TEMPS que votre enfant. Posez VOTRE téléphone. Et après, partagez vos deux mots. L'exemplarité n'est pas une option — elle est la seule méthode qui fonctionne.
 
 **Ce qu'il faut éviter :** Utiliser cet épisode comme arme : « Tu vois, même l'épisode dit que c'est mauvais ! » L'épisode ne dit PAS que c'est mauvais. Il dit que le DESIGN est conçu pour capturer. La nuance est essentielle pour maintenir la confiance de votre enfant.
+
+**Cette semaine avec votre enfant :** lancez un défi famille — une heure sans écran, samedi matin, ensemble, dans la nature. Pas un sermon, pas une punition : une aventure. Dites simplement : « Samedi, de 9h à 10h, on coupe tout. On sort. On voit ce qui se passe. » Marchez dans un parc, allez au marché, asseyez-vous sur un banc et regardez les nuages. L'important n'est pas l'activité — c'est que VOUS aussi participiez. Si votre téléphone est dans votre poche, le défi n'existe pas.
 
 **Wa salāmu ʿalaykum.**
 

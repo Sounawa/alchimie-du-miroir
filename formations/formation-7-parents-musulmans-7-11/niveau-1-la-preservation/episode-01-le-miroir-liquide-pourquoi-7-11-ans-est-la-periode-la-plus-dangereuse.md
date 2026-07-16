@@ -44,6 +44,12 @@ Ces deux situations sont liées. Pas par hasard. Par un mécanisme précis que l
 
 Aujourd'hui, nous allons comprendre pourquoi la période 7-11 ans est la plus dangereuse de la parentalité. Et pourquoi « mon enfant va bien » peut être la phrase la plus trompeuse que vous prononciez.
 
+[Voix lente, chaque mot est posé comme un clou]
+
+Les travaux de Peter Huttenlocher, neurologue à l'Université de Chicago, ont révélé quelque chose que presque aucun parent ne connaît : entre 7 et 12 ans, le cerveau de votre enfant **élimine** près de la moitié de ses connexions synaptiques. Ce n'est pas un déclin — c'est le processus le plus actif de toute sa vie neurologique. Le cerveau sélectionne : les connexions régulièrement activées se renforcent, les autres sont supprimées — définitivement. Ce qui signifie que tout ce que votre enfant ne vit pas, ne ressent pas, n'expérimente pas pendant ces années-là… ne sera tout simplement plus accessible ensuite.
+
+[Pause 3 secondes — laissez résonner]
+
 [Transition musicale légère — 3 secondes]
 
 ---
@@ -244,6 +250,7 @@ Que votre cœur trouve la paix.
 - Alison Gopnik, *The Philosophical Baby: What Children's Minds Tell Us About Truth, Love, and the Meaning of Life* (2009), Université de Californie à Berkeley — les théories intuitives du bébé
 - Daniel Siegel & Tina Payne Bryson, *The Whole-Brain Child* (2011), UCLA — le mindsight et l'intégration cérébrale entre 7 et 11 ans
 - Eric Kandel, *Principles of Neural Science* (2001), Université Columbia — périodes critiques du câblage neuronal et élagage synaptique
+- Peter Huttenlocher, *Neural Plasticity: The Effects of Environment on the Development of the Cerebral Cortex* (2002), Université de Chicago — élimination de près de la moitié des connexions synaptiques entre 7 et 12 ans
 - Ibn Qayyim al-Jawziyya, *Tuhfat al-Mawdūd bi-Aḥkām al-Mawlūd* — l'enfant comme amāna
 - Al-Ghazālī, *Iḥyāʾ ʿulūm al-dīn*, Livre I — l'enfant comme terre vierge à cultiver
 

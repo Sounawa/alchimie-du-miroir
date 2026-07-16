@@ -18,7 +18,7 @@
 | La Mission | 5:00 | 6:30 | Dessine ton château dans ton Journal de Voyage Intérieur |
 | Ta Phrase Clé | 6:30 | 7:00 | Phrase clé à retenir |
 | Promesse | 7:00 | 8:30 | Le prochain territoire : les messagers de ton corps |
-| Pour le Parent | 8:30 | 10:00 | Repères scientifiques et accompagnement |
+| Pour le Parent | 8:30 | 10:30 | Repères scientifiques et accompagnement |
 
 ---
 
@@ -147,6 +147,10 @@ Le donjon de la peur — à quoi ressemblent les portes ? Sont-elles en bois, en
 
 Et le jardin — qu'est-ce qu'il y a comme fleurs ? Un arbre ? Un banc ?
 
+[Voix plus intime, comme si on te chuchotait un secret]
+
+Et au cœur de ton château, il y a une pièce spéciale. Imagine-la : les murs sont recouverts de tes dessins d'enfant — ceux que tu as faits quand tu étais tout petit. Au centre, il y a un feu qui brille doucement. Ce feu est là depuis que tu es né. Il ne s'éteint jamais — même quand tu es triste, même quand tu as peur, même quand tu pleures. Ce feu, c'est toi. La version la plus vraie de toi. Celle qui est là avant les pensées, avant les émotions, avant tout.
+
 [Voix plus posée]
 
 Ensuite, écris une phrase sous ton dessin : « La pièce où je passe le plus de temps, c'est… »
@@ -207,7 +211,7 @@ Le prochain épisode s'appelle « Les messagers de ton corps ». Et ce que tu va
 
 ---
 
-### POUR LE PARENT (8:30 — 10:00)
+### POUR LE PARENT (8:30 — 10:30)
 
 [Voix plus posée, informative — s'adressant indirectement au parent qui écoute avec l'enfant]
 
@@ -221,6 +225,9 @@ L'image du château intérieur s'inspire d'une métaphore universelle d'explorat
 - Laissez votre enfant dessiner son château sans intervenir ni commenter.
 - Ne demandez pas à voir le dessin. S'il veut vous le montrer, accueillez sans juger.
 - Si votre enfant identifie le donjon de la peur comme la pièce principale, ne cherchez pas à « réparer » — écoutez simplement.
+
+**Cette semaine avec votre enfant :**
+Proposez un premier « moment de silence ensemble ». Pas une méditation compliquée — juste trente secondes, assis côte à côte, avant le dîner ou avant de dormir. Dites simplement : « On va faire trente secondes de silence. Tu fermes les yeux si tu veux. On écoute ce qui se passe à l'intérieur. » Et quand les trente secondes sont passées, demandez : « Tu as remarqué quelque chose ? » sans exiger de réponse. L'objectif n'est pas la performance — c'est de montrer que le silence, ce n'est pas vide. C'est un endroit où l'on va ensemble.
 
 [Fin — musique de sortie douce, 4 secondes]
 

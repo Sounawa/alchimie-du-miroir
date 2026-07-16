@@ -78,6 +78,22 @@ C'est pourquoi je vous propose aujourd'hui un outil simple — mais implacableme
 
 [Voix réfléchie, structurée, chaque pilier est posé comme une pierre]
 
+[Voix lente, chaque mot compte — c'est le moment le plus important de tout le niveau]
+
+Voici le renversement que la plupart des parents n'ont jamais entendu.
+
+Ce que vous installez entre 7 et 12 ans ne s'ajoute pas à l'éducation de votre enfant. Il la **DEVIENT**. Après 12 ans, la puberté ouvre un nouveau chapitre — et ce chapitre ne s'écrit pas sur une page blanche. Il s'écrit sur les fondations que vous avez posées, ou que vous n'avez pas posées. Et les fondations, elles ne se changent pas par des mots, des discours ou des leçons de morale. Elles se changent par des **répétitions** — des centaines, des milliers de micro-moments où votre enfant a vécu quelque chose dans son corps.
+
+[Pause 2 secondes]
+
+Et l'inverse est tout aussi vrai : ce que vous n'installez pas avant 12 ans ne pourra plus être installé — il devra être **réparé**. Pas enseigné de nouveau. Réparé. Avec un effort décuplé, et souvent avec la douleur d'un enfant qui doit défaire quelque chose qui aurait dû être là depuis le début.
+
+[Pause]
+
+Mais — et c'est essentiel — ce renversement n'est pas là pour vous faire peur. Il est là pour vous **libérer**. Parce que cela signifie que vous n'avez pas besoin d'être parfait. Vous n'avez pas besoin de cours de parentalité avancée. Vous avez besoin d'une chose simple : être présent, avec régularité, dans les actes quotidiens. Un duʿāʾ dit avec vulnérabilité devant votre enfant vaut plus que cent discours sur la prière. Un silence partagé vaut plus qu'une heure de sermon. La préservation n'est pas un exploit — c'est une **fidélité**. Et la fidélité, elle est à la portée de tout parent.
+
+[Pause 2 secondes]
+
 Il y a cinq choses que votre enfant doit avoir **intégré** avant 12 ans. Pas compris intellectuellement. Pas mémorisé. **Intégré** — c'est-à-dire que ces cinq choses font partie de ses réactions automatiques. Elles sont dans son corps.
 
 [Pause]

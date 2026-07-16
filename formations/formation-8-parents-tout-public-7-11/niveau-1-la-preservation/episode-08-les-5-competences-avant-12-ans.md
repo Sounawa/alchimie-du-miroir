@@ -198,7 +198,7 @@ L'essentiel est de ne pas s'arrêter. Parce que le cerveau de votre enfant ne s'
 
 ### CLÔTURE (20:00 — 22:00)
 
-[Voix douce, solennelle]
+[Voix douce, réconfortante]
 
 Je termine avec la pensée d'Alison Gopnik, professeure de psychologie à l'Université de Berkeley, l'une des plus grandes chercheuses mondiales sur le développement de l'enfant. Dans ses travaux, notamment *The Philosophical Baby* (2009), elle exprime l'idée que le cerveau d'un enfant est la machine à apprendre la plus puissante que nous connaissions. Et la responsabilité des adultes — parents, éducateurs, société — n'est pas de la programmer. C'est de préserver les conditions dans lesquelles elle peut se développer par elle-même.
 
@@ -211,6 +211,10 @@ Préserver. C'est un mot qui semble passif. Mais dans un monde qui pousse à rem
 Pour cette semaine : le bilan des 5 compétences. Honnête. Puis un plan d'action — une compétence à renforcer, un épisode à réécouter, un exercice à reprendre.
 
 Vous avez les outils. Vous avez les connaissances. Et vous avez le plus puissant des leviers — l'amour que vous portez à votre enfant. Maintenant, il faut agir. Un jour à la fois. Une interaction à la fois. Un mot à la fois.
+
+[Pause 3 secondes — pour laisser ce message s'installer]
+
+Vous n'avez pas besoin d'être parfait. Vous avez besoin d'être présent. Et vous l'êtes, puisque vous êtes là, maintenant, à écouter ces mots. Chaque seconde que vous passez à câbler avec votre enfant est une seconde qui ne sera jamais perdue.
 
 Prenez soin de vous.
 

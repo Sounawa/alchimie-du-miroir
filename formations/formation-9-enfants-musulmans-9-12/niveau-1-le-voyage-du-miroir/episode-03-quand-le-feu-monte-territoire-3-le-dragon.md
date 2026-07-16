@@ -18,7 +18,7 @@
 | La Mission | 5:00 | 6:30 | Crée ton plan anti-dragon (Journal, pages 8-9) |
 | Ta Phrase Clé | 6:30 | 7:00 | "Quand le feu monte, je m'assois, je souffle, je cherche." |
 | Promesse | 7:00 | 8:30 | Teasing du Territoire 4 — les miroirs |
-| Pour le Parent | 8:30 | 10:00 | Note à l'adulte accompagnateur |
+| Pour le Parent | 8:30 | 10:30 | Note à l'adulte accompagnateur |
 
 ---
 
@@ -211,7 +211,7 @@ Dans le prochain territoire — la Salle des Miroirs — nous allons explorer en
 
 ---
 
-### POUR LE PARENT (8:30 — 10:00)
+### POUR LE PARENT (8:30 — 10:30)
 
 [Voix adulte, claire et bienveillante]
 
@@ -224,6 +224,8 @@ La version pour enfant : STOP, SOUFFLE, CHERCHE. Trois étapes fondées sur la p
 **Ce que vous pouvez faire :** Pratiquez le protocole AVEC votre enfant. Pas pour lui — AVEC lui. La prochaine fois que VOUS vous mettez en colère, dites-le à voix haute : « Maman/Papa sent le feu monter. Je m'assois. Je souffle. Je cherche. » Et faites-le. Vraiment. C'est le modelage comportemental — l'outil pédagogique le plus puissant qui existe (Bandura, 1977). Votre enfant apprendra mille fois plus en vous voyant pratiquer qu'en écoutant cet épisode.
 
 **Ce qu'il faut éviter :** Dire « tu devrais utiliser ton plan anti-dragon » au moment où votre enfant est en colère. Au moment de la colère, le cortex préfrontal est déconnecté — les mots n'arrivent pas. Pratiquez à froid. Le matin, au calme : « On répète notre protocole ? STOP, SOUFFLE, CHERCHE. »
+
+**Cette semaine avec votre enfant :** avant de lui demander d'utiliser son protocole, pratiquez-le VOUS-MÊME en situation réelle — et nommez-le à voix haute. La prochaine fois que vous sentez la colère monter, dites : « Maman/Papa sent le feu. Je m'assois. Trois souffles. Je cherche ce qu'il y a dessous. » Vous n'avez pas besoin d'être parfait — vous avez besoin d'être authentique. C'est le modelage : votre enfant retiendra mille fois mieux en vous voyant pratiquer qu'en entendant vos conseils.
 
 **Wa salāmu ʿalaykum.**
 

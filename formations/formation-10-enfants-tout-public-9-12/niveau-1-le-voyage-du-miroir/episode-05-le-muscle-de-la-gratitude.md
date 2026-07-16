@@ -18,7 +18,7 @@
 | La Mission | 5:00 | 6:30 | Le journal de gratitude — 5 jours, 3 choses invisibles par jour |
 | Ta Phrase Clé | 6:30 | 7:00 | Phrase clé à retenir |
 | Promesse | 7:00 | 8:30 | Le prochain territoire : la nuit — quand tu te sens seul |
-| Pour le Parent | 8:30 | 10:00 | Repères scientifiques et accompagnement |
+| Pour le Parent | 8:30 | 10:30 | Repères scientifiques et accompagnement |
 
 ---
 
@@ -181,7 +181,7 @@ Le prochain épisode s'appelle : « Quand tu te sens seul. »
 
 ---
 
-### POUR LE PARENT (8:30 — 10:00)
+### POUR LE PARENT (8:30 — 10:30)
 
 [Voix informative]
 
@@ -197,6 +197,9 @@ La distinction entre gratitude « visible » (objets, cadeaux) et gratitude « i
 - Faites le défi des cinq jours EN MÊME TEMPS que votre enfant. Montrez-lui votre liste.
 - Ne jugez pas ses « choses invisibles ». Si c'est « le fait que j'ai pu manger des pâtes », c'est parfait.
 - Le soir, demandez-lui simplement : « Tu as trouvé tes trois choses ? » — sans exiger de les entendre. S'il veut partager, accueillez. S'il ne veut pas, c'est son journal.
+
+**Cette semaine avec votre enfant :**
+Instaurez un rituel de gratitude familiale — simple, rapide, quotidien. Par exemple : avant le dîner, chaque membre de la famille dit UNE chose invisible qu'il a remarquée dans sa journée. Pas besoin de longues explications. « Le soleil ce matin. » « Le fait que mon café était bon. » « Que mon frère m'a prêté son chargeur. » Les parents participent aussi — et vous pouvez montrer l'exemple en choisissant des choses très simples, même ordinaires. Ce rituel de trente secondes, répété chaque jour, renforce le muscle de la gratitude chez votre enfant bien plus qu'un long discours. Et il crée un moment de connexion familiale qui n'existait pas avant.
 
 [Fin — musique de sortie douce, 4 secondes]
 

@@ -18,7 +18,7 @@
 | La Mission | 5:00 | 6:30 | 3 trésors invisibles (Journal, pages 12-13) |
 | Ta Phrase Clé | 6:30 | 7:00 | "La gratitude est un muscle — plus je l'entraîne, plus il grandit." |
 | Promesse | 7:00 | 8:30 | Teasing du Territoire 6 — la nuit étoilée |
-| Pour le Parent | 8:30 | 10:00 | Note à l'adulte accompagnateur |
+| Pour le Parent | 8:30 | 10:30 | Note à l'adulte accompagnateur |
 
 ---
 
@@ -192,7 +192,7 @@ Une conversation qui ne nécessite ni téléphone, ni Wi-Fi, ni même de parler 
 
 ---
 
-### POUR LE PARENT (8:30 — 10:00)
+### POUR LE PARENT (8:30 — 10:30)
 
 [Voix adulte, claire et bienveillante]
 
@@ -207,6 +207,8 @@ La mention de Yaqūb et de « aṣ-ṣabr al-jamīl » (Coran 12:18) donne un ca
 **Ce que vous pouvez faire :** Le soir, au coucher, partagez VOTRE trésor invisible du jour. Pas un conseil, pas une leçon — juste un partage. « Moi, aujourd'hui, mon trésor invisible c'était… » Et écoutez le sien sans commenter. « Ah oui, c'est joli » suffit.
 
 **Ce qu'il faut éviter :** Dire « tu devrais être reconnaissant de ce que tu as, d'autres n'ont rien » — cette phrase provoque de la culpabilité, pas de la gratitude. La vraie gratitude ne se force pas par la comparaison. Elle se cultive par l'attention.
+
+**Cette semaine avec votre enfant :** instaurez un rituel de gratitude familial, simple et quotidien — le soir au dîner, chacun dit UNE chose invisible qu'il a remarquée dans sa journée. Pas un objet — un moment, une sensation, une parole reçue. Et vous aussi, parent : participez vraiment. Pas un exemple générique — quelque chose de VRAI que vous avez ressenti. Quand votre enfant voit que la gratitude n'est pas un exercice d'enfant mais une pratique de toute la famille, le muscle grandit pour tout le monde.
 
 **Wa salāmu ʿalaykum.**
 

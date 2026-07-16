@@ -26,19 +26,27 @@
 
 ### ACCROCHE (0:00 — 1:30)
 
-[Voix posée, narrative]
+[Voix posée, narrative — comme une histoire que l'on raconte à un ami]
 
-Je vais vous décrire un emploi du temps. Écoutez bien.
+Théo a 8 ans et demi. Depuis la rentrée de septembre, son emploi du temps ressemble à un planning de dirigeant d'entreprise : lundi foot, mardi piano, mercredi natation, jeudi anglais, vendredi dessin, samedi course d'orientation. Le dimanche, c'est « repos » — sauf qu'il y a les devoirs, la lecture imposée, et le projet scientifique de l'école à terminer.
 
-Lundi : foot. Mardi : piano. Mercredi : natation. Jeudi : anglais. Vendredi : dessin. Samedi : course d'orientation. Et le dimanche — repos. Enfin, repos relatif, parce qu'il y a les devoirs, les lectures obligatoires, le projet de l'école.
-
-L'enfant a 7 ans. Et quand vous demandez au parent comment ça va, il répond, sincèrement fier : « Il ne s'ennuie jamais ! Il est occupé, il apprend, il s'épanouit. »
+Sa mère, Sandrine, est fière. Elle le dit à ses amis, sincèrement : « Théo ne s'ennuie jamais. Il est occupé, il apprend, il s'épanouit. »
 
 [Pause 2 secondes]
 
-Ce parent est convaincu de bien faire. Et dans la logique de notre époque — la logique de l'enrichissement, de la stimulation, du « ne pas gâcher une fenêtre de développement » — il a raison. Sur le papier, tout est parfait.
+Puis, un mercredi de novembre — un mercredi pluvieux, sans activité — Sandrine tombe malade. Elle ne peut pas l'emmener au musée comme prévu. Théo se retrouve seul dans le salon. Pas d'écran. Pas de devoir urgent. Rien de prévu.
 
-Sauf que le cerveau de cet enfant n'est pas un papier.
+Et pendant deux heures, Théo — cet enfant qui « ne s'ennuie jamais » — ne fait rien. Il marche dans le couloir. Ouvre le frigo. Le referme. S'assied. Se relève. Demande « c'est quand qu'on mange ? » Sandrine, au lit avec de la fièvre, le regarde depuis le couloir. Et elle voit quelque chose qui la glace : son fils de 8 ans et demi ne sait pas quoi faire de lui-même.
+
+[Pause]
+
+Puis, au bout de deux heures — exactement deux heures — quelque chose se produit. Théo attrape les coussins du canapé, des draps, des pinces à linge. Et il commence à construire. Pas une cabane — une « base secrète ». Il y passe une heure et demie. Il y met un système de « sécurité » avec des fils de laine. Il y dessine une carte sur une feuille de papier. Et quand Sandrine vient le chercher pour le dîner, il la regarde avec des yeux qu'elle n'avait pas vus depuis des mois. Des yeux vivants. Présents. Allumés.
+
+[Voix plus lente, presque intime]
+
+Sandrine me l'a raconté six mois plus tard. Et elle a dit une phrase qui m'est restée : « Je croyais que je remplissais son temps. Ce soir-là, j'ai compris que je le vidais. »
+
+[Pause 2 secondes]
 
 [Transition musicale légère — 3 secondes]
 
