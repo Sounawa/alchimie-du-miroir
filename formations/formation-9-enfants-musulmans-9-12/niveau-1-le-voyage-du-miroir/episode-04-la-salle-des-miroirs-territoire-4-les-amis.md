@@ -28,17 +28,13 @@
 
 [Voix narrative, plus lente, comme une histoire ancienne]
 
+[Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
+
 Il s'appelait Yūsuf. ʿalayhi as-salām — que la paix soit sur lui.
 
-Il avait environ ton âge quand tout a basculé. Ses propres frères — ses FRÈRES — l'ont jeté dans un puits. Et puis ils ont menti à leur père. Ils ont dit que Yūsuf était mort. Dévoré par un loup.
+Yūsuf a été trahi par ses propres frères. Les gens avec qui tu grandis, tu manges, tu joues — et qui te trahissent. C'est l'une des choses les plus douloureuses qui puissent arriver.
 
 [Pause]
-
-Imagine. Tes frères. Les gens avec qui tu grandis, tu manges, tu joues. Ils te trahissent. Ils t'abandonnent. Et ils mentent sur toi.
-
-Puis Yūsuf a été vendu comme esclave. Emporté dans un pays lointain. Faux accusé. Jeté en prison. Des ANNÉES de souffrance — à cause de gens qui auraient dû le protéger.
-
-[Pause 2 secondes]
 
 Et pourtant, des années plus tard, quand Yūsuf a retrouvé ses frères… il les a pardonnés.
 
@@ -86,7 +82,7 @@ Je te propose de classer tes miroirs en trois couleurs :
 
 Et voici le truc le plus important de tout ce territoire :
 
-Les miroirs verts ne sont pas « bons » et les rouges ne sont pas « méchants ». Les gens ne sont pas des miroirs par choix — la plupart du temps, ils reflètent leurs propres problèmes. Le ami qui te fait te sentir petit ne le fait probablement pas exprès. Il reflète sa propre insécurité. Comme les frères de Yūsuf reflétaient leur propre jalousie.
+Les miroirs verts ne sont pas « bons » et les rouges ne sont pas « méchants ». Les gens ne sont pas des miroirs par choix — la plupart du temps, ils reflètent leurs propres problèmes. L'ami qui te fait te sentir petit ne le fait probablement pas exprès. Il reflète sa propre insécurité. Comme les frères de Yūsuf reflétaient leur propre jalousie.
 
 Yūsuf a compris ça. Et c'est pour ça qu'il a pu pardonner — parce qu'il savait que le problème n'était pas en lui. Le problème était dans le miroir.
 
@@ -128,6 +124,8 @@ Quand ton petit frère te parle, est-ce qu'il se sent grand ou petit ? Quand ton
 
 Parce qu'on parle souvent des miroirs des autres. Mais toi aussi, tu es un miroir. Et ce que tu reflètes, ça compte.
 
+[Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
+
 [Transition musicale — 2 secondes]
 
 ---
@@ -159,6 +157,8 @@ Quand tu as fini, regarde ta carte. Et pose-toi cette question : est-ce que tu p
 Parce que toi, tu as le pouvoir de choisir. Tu ne peux pas choisir tes parents, tes frères et sœurs, tes camarades de classe. Mais tu peux choisir à qui tu donnes ton temps et ton énergie.
 
 Choisis tes miroirs.
+
+[Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
 
 [Transition — petite musique]
 

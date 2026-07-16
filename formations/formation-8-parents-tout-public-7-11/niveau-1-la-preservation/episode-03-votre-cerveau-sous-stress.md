@@ -132,7 +132,7 @@ Cet exercice s'appelle « Le protocole STOP ». Quatre étapes. Pas pour votre e
 
 **O — Observe yourself.** Nommez ce que vous ressentez. Intérieurement, pas à voix haute. « Je suis en colère. Je suis fatigué. Je me sens dépassé. » Et rappelez-vous ce que nous avons vu dans l'épisode 2 : Lieberman (2007, UCLA) a montré que nommer une émotion réduit l'activation de l'amygdale de 30%. Ce qui fonctionne pour votre enfant fonctionne aussi pour vous.
 
-**P — Proceed.** Uniquement après ces trois étapes — uniquement quand votre propre « couvercle » est revenu — adressez-vous à votre enfant. Avec une voix basse. Avec les yeux à sa hauteur. En utilisant les phrases que nous avons apprises : « Je vois que tu es [émotion]. Qu'est-ce dont tu as besoin maintenant ? »
+**P — Proceed.** Uniquement après ces trois étapes — uniquement quand votre propre « couvercle » est revenu — adressez-vous à votre enfant. Avec une voix basse. Avec les yeux à sa hauteur. En utilisant les phrases que nous avons apprises : « Je vois que tu es [émotion]. De quoi as-tu besoin maintenant ? »
 
 [Pause 3 secondes]
 
@@ -188,7 +188,7 @@ Si la colère du parent est un danger interne, les écrans sont un danger extern
 
 [Pause]
 
-Le dernier épisode de ce niveau réunira tout ce que nous avons appris — et vous donnera une feuille de route concrète pour les mois à venir. Ce que vous avez commencé à préserver cette semaine, vous continuerez à le préserver.
+Les épisodes suivants de ce niveau approfondiront d'autres chantiers neuronaux — le jeu libre, le conflit, l'anxiété de performance — et le dernier épisode réunira tout ce que nous avons appris pour vous donner une feuille de route concrète.
 
 ---
 
@@ -196,11 +196,7 @@ Le dernier épisode de ce niveau réunira tout ce que nous avons appris — et v
 
 [Voix douce, réconfortante]
 
-Je termine avec Dan Siegel. Dans *The Whole-Brain Child* (2011), il écrit :
-
-[Voix lente, chaque mot compte]
-
-« *Le parent qui crie sur un enfant en crise, c'est comme un pompier qui jette de l'essence sur un incendie en pensant éteindre le feu. L'intention est bonne. Le résultat est catastrophique. Et la seule issue est de sortir de la maison d'abord — pour revenir avec les bons outils.* »
+Je termine avec la pensée de Dan Siegel, psychiatre à l'Université de Californie à Los Angeles. Dans *The Whole-Brain Child* (2011), co-écrit avec Tina Payne Bryson, il exprime un principe fondamental : quand un parent crie sur un enfant en crise, l'intention est bonne — mais le résultat est catastrophique. Parce que le cerveau de l'enfant en crise a besoin de connexion, pas de correction. Siegel et Bryson montrent que la régulation ne peut pas venir de l'extérieur tant que l'enfant n'a pas été reconnecté émotionnellement. La première étape n'est pas de corriger — c'est de retrouver le contact.
 
 [Pause 3 secondes]
 

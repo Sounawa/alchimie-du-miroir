@@ -44,6 +44,8 @@ Mais voici ce que le Coran dit de lui, dans la sourate 12, verset 18 :
 
 La BELLE patience. Pas la patience grinçante. Pas la patience qui dit « je n'ai pas le choix ». La BELLE patience — aṣ-ṣabr al-jamīl (ٱلصَّبْرُ ٱلْجَمِيلُ). Une patience qui a quelque chose de lumineux. Qui tient debout dans la tempête sans se plaindre. Pas parce qu'elle ne souffre pas — mais parce qu'elle a trouvé un trésor au cœur même de la souffrance.
 
+[Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
+
 Ce trésor, c'est la gratitude. Et aujourd'hui, tu vas comprendre pourquoi ce n'est pas juste une belle idée — c'est un super-pouvoir que la science a mesuré.
 
 [Transition musicale — 3 secondes]
@@ -112,6 +114,8 @@ Ces choses-là — elles existent. Elles sont partout. Mais ton cerveau n'est pa
 
 Shukr, c'est le bouton qui inverse ce programme.
 
+[Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
+
 [Transition musicale — 2 secondes]
 
 ---
@@ -145,6 +149,8 @@ Ouvre les yeux. Et écris :
 Et quand tu as écrit tes trois trésors — relis-les. Et dis, cette fois-ci en le pensant VRAIMENT : **alḥamdulillāh.**
 
 Pas par habitude. Par conviction.
+
+[Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
 
 [Transition — petite musique]
 

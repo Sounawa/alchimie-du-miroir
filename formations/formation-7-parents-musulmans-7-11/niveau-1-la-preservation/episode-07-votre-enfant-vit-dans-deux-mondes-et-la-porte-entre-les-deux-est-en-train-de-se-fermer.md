@@ -114,6 +114,10 @@ La chercheuse Veronica Benet-Martínez, de l'Université de Californie à Santa 
 
 Et ce qui détermine si l'enfant perçoit ses deux mondes comme compatibles ou conflictuels ? Ce n'est pas la société. C'est **vous**. C'est la façon dont vous, en tant que parent, portez — ou ne portez pas — votre propre tension.
 
+[Voix avec une urgence contenue]
+
+Les recherches de Jean Phinney, publiées en 1990 dans *Psychological Bulletin*, ont complété ce tableau. Phinney a montré que l'exploration identitaire — le fait de se poser des questions sur ses appartenances — n'est pas un signe de confusion mais un **stade nécessaire** du développement. Les enfants qui sont encouragés à explorer leurs appartenances développent une identité plus stable à l'âge adulte que ceux à qui l'on dit simplement « tu es les deux, il n'y a pas de problème. » Autrement dit : nier la tension, c'est empêcher le développement. La porter, c'est le nourrir.
+
 [Transition — léger changement de rythme]
 
 ---
@@ -187,6 +191,10 @@ Parce que cette phrase nie l'expérience de votre enfant. Et quand un parent nie
 
 Votre enfant n'a pas besoin que vous résolviez sa double appartenance. Il a besoin de vous **voir la porter** — avec ses difficultés, ses doutes, et sa dignité. Le waṣaṭ ne s'enseigne pas. Il se **montre**.
 
+[Voix intime, comme une confidence]
+
+Un exemple concret. Votre enfant de 9 ans revient de l'école et vous dit : « À l'école, on a parlé de Noël. Tout le monde en parlait. Moi, je ne savais pas quoi dire. » La phrase à éviter est : « Nous, on ne fête pas Noël, c'est pas notre fête. » Cette réponse ferme la porte — elle oppose les deux mondes. La phrase qui ouvre est : « Et toi, qu'est-ce que tu avais envie de dire ? » Et si l'enfant dit : « Je ne sais pas, j'avais l'impression d'être bizarre » — vous répondez : « Moi aussi, j'ai déjà eu cette impression. Et j'ai appris que ce n'est pas bizarre — c'est juste qu'on porte quelque chose que les autres ne portent pas. Et c'est OK. » Vous n'avez pas résolu la tension. Vous l'avez portée. Ensemble.
+
 ---
 
 ### DÉBRIEF (18:00 — 20:00)
@@ -235,8 +243,9 @@ Que votre cœur trouve la paix.
 **Sources :**
 - Coran 2:143 — « Ainsi Nous avons fait de vous une communauté de juste milieu (waṣaṭ) »
 - Veronica Benet-Martínez & Haritatos, « Bicultural Identity Integration (BII): Components and Psychosocial Antecedents » (2005), Université de Californie, Santa Barbara — étude fondatrice sur l'intégration de l'identité biculturelle
+- Jean Phinney, « Ethnic Identity in Adolescents and Adults: Review of Research » (1990), *Psychological Bulletin* — l'exploration identitaire comme stade nécessaire du développement
 - Jean Piaget, *La naissance de l'intelligence chez l'enfant* (1952), Université de Genève — stades du développement cognitif, stade des opérations concrètes (7-11 ans)
 - Sources biographiques sur Salmān al-Fārisī (Ṣaḥīḥ al-Bukhārī, al-Isābah fī tamyīz al-ṣaḥābah d'Ibn Ḥajar)
 - Hadith : « Salmān est de notre famille » (Sahih al-Bukhārī)
 
-**Musique suggérée :** Ambiance douce, ouverture — ney ou oud avec une nappesynthétique légère. Tonalité à la fois mélancolique et vaste — l'épisode porte sur la tension entre deux mondes, la musique doit évoquer un espace d'entre-deux sans le réduire. Tempo 60-65 BPM.
+**Musique suggérée :** Ambiance douce, ouverture — ney ou oud avec une nappe synthétique légère. Tonalité à la fois mélancolique et vaste — l'épisode porte sur la tension entre deux mondes, la musique doit évoquer un espace d'entre-deux sans le réduire. Tempo 60-65 BPM.

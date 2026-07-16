@@ -78,6 +78,8 @@ Tu vois ce qui se passe ? Pour chaque émotion, ton corps envoie un message pré
 
 Alors la question, c'est pas « est-ce que ton corps t'envoie des messages ? » — parce que oui, toujours. La question, c'est : « Est-ce que tu écoutes ? »
 
+[Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
+
 [Transition — changement de rythme]
 
 ---
@@ -99,6 +101,8 @@ Ou alors, un copain te dit « T'es nul au foot. » Et tout de suite, sans réfl�
 [Pause]
 
 La différence entre réagir et agir, c'est la différence entre un gardien qui dort et un gardien qui veille. Et pour veiller, il faut d'abord entendre les messagers.
+
+[Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
 
 [Transition douce]
 
@@ -130,11 +134,13 @@ Ensuite, on va faire quatre « cartes » — une pour chaque émotion principale
 
 [Voix plus posée]
 
-À la fin, tu auras une carte de ton corps avec des zones colorées pour chaque émotion. Et cette carte, elle est UNIQUE. Personne au monde n'a exactement la même que toi. C'est ta carte personnelle. Gardé-la précieusement — elle va te servir pour tous les territoires suivants.
+À la fin, tu auras une carte de ton corps avec des zones colorées pour chaque émotion. Et cette carte, elle est UNIQUE. Personne au monde n'a exactement la même que toi. C'est ta carte personnelle. Garde-la précieusement — elle va te servir pour tous les territoires suivants.
 
 [Pause]
 
 Petite astuce : si tu n'es pas sûr pour une émotion — si tu ne sais pas où tu la sens — pas de panique. Ferme les yeux, rappelle-toi d'un moment où tu as ressenti cette émotion, et observe où ton corps réagit. Souvent, le souvenir suffit à faire revenir le signal.
+
+[Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
 
 [Transition]
 
@@ -164,7 +170,7 @@ Elle te rappelle que tu as un système de messagerie en toi, et que le premier p
 
 [Voix mystérieuse, teasing]
 
-Tu connais maintenant les messagers de ton corps. Tu sais que ton ventre, ta gorge, ta poitrine, ton visage — ils parlent avant que tu penses. C'est déjà une superpower.
+Tu connais maintenant les messagers de ton corps. Tu sais que ton ventre, ta gorge, ta poitrine, ton visage — ils parlent avant que tu penses. C'est déjà un super-pouvoir.
 
 Mais voici le problème : parfois, les messagers arrivent en courant, en hurlant, en faisant sonner toutes les alarmes en même temps. Et là, c'est le chaos. Tu n'entends plus rien. Tu EXPLOSES. Sans savoir pourquoi. Sans pouvoir l'arrêter.
 
@@ -191,7 +197,7 @@ Antonio Damasio, neuroscientifique à l'Université de Californie du Sud, a publ
 **Ce que vous pouvez faire :**
 - Faites le scan corporel avec votre enfant la première fois — proposez-lui de guider l'exercice.
 - Nommez vos propres signaux corporels devant lui : « Quand je suis stressé, moi je sens ça dans les épaules. » Cela normalise le fait que chaque corps est différent.
-- Ne corrigez pas si son enfant place la peur dans les pieds plutôt que dans le ventre — l'intéroception est personnelle.
+- Ne corrigez pas si votre enfant place la peur dans les pieds plutôt que dans le ventre — l'intéroception est personnelle.
 
 [Fin — musique de sortie douce, 4 secondes]
 

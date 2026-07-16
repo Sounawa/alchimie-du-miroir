@@ -44,6 +44,8 @@ Résultat après dix semaines : le premier groupe dormait mieux, avait un systè
 
 Mais attends — ce n'est pas la partie la plus surprenante. La partie la plus surprenante, c'est que Robert Emmons a continué l'expérience sur des ADOLESCENTS et des ENFANTS. Et les résultats étaient les mêmes. Même chez les plus jeunes, la gratitude change le cerveau. Physiquement. Pas juste l'humeur. Le CERVEAU.
 
+[Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
+
 [Transition musicale — 2 secondes]
 
 ---
@@ -98,6 +100,8 @@ Tu vois la différence ? « Mon téléphone » — si tu le perds, tu es frustr�
 
 La vraie gratitude, c'est voir l'invisible. Et quand tu commences à voir l'invisible, quelque chose de bizarre se passe : tu te sens plus calme. Plus ancré. Comme si le sol sous tes pieds était plus solide. C'est ton cerveau sage qui prend le dessus.
 
+[Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
+
 [Transition douce]
 
 ---
@@ -130,6 +134,8 @@ Tu vois ? Rien de tout ça ne coûte de l'argent. Rien de tout ça ne se voit. E
 Sur cinq pages de ton journal — une par jour — tu écris la date et tes trois choses. Le sixième jour, tu relis les quinze choses que tu as écrites. Et tu observes : est-ce que tu te sens différent quand tu les relis ?
 
 C'est ton défi. Cinq jours. Trois choses invisibles. Le muscle de la gratitude commence à s'entraîner.
+
+[Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
 
 [Transition]
 

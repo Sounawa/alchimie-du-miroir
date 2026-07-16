@@ -32,7 +32,7 @@ Il était une fois un hérisson et un renard, qui vivaient tous les deux dans la
 
 Le hérisson avait des piquants. Des milliers de piquants pointus sur tout le corps. Le renard avait un pelage doux et chaud.
 
-Le hérisson avait froid. Le renard aussi. Alors un soir, le hérisson s'approcha du renard pour se réchauffer. Et là — aïe. Les piquants piquèrent le renard. Le renard s'éloigna. Le hérisson eu encore froid. Il s'approcha de nouveau. Aïe. Le renard s'éloigna encore.
+Le hérisson avait froid. Le renard aussi. Alors un soir, le hérisson s'approcha du renard pour se réchauffer. Et là — aïe. Les piquants piquèrent le renard. Le renard s'éloigna. Le hérisson eut encore froid. Il s'approcha de nouveau. Aïe. Le renard s'éloigna encore.
 
 [Pause 2 secondes]
 
@@ -41,6 +41,8 @@ Pendant des nuits, ils ont essayé. Trop près — les piquants blessent. Trop l
 [Pause]
 
 Cette histoire, un philosophe allemand du nom de Arthur Schopenhauer l'a racontée il y a plus de 170 ans. Et elle parle exactement de ce qu'on va explorer aujourd'hui : la bonne distance avec les autres. Et surtout, l'effet que les autres ont sur toi.
+
+[Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
 
 [Transition musicale légère — 2 secondes]
 
@@ -98,6 +100,8 @@ Et d'un autre côté — est-ce que tu as des amis miroirs clairs ? Des personne
 
 Le hérisson et le renard avaient compris quelque chose de fondamental : la bonne distance n'est pas la même avec tout le monde. Mais c'est à TOI de la trouver. Parce que tu es le gardien.
 
+[Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
+
 [Transition douce]
 
 ---
@@ -133,6 +137,8 @@ Ensuite, sous chaque nom, écris un mot ou deux pour expliquer POURQUOI tu as ch
 Et voici la partie la plus importante. Regarde tes noms rouges et jaunes. Pose-toi cette question — écris-la dans ton journal : « Est-ce que je CHOISIS de passer du temps avec cette personne, ou est-ce que c'est juste devenu une habitude ? »
 
 Parce que le gardien du château, il choisit qui entre. Et il a le droit de changer d'avis.
+
+[Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
 
 [Transition]
 

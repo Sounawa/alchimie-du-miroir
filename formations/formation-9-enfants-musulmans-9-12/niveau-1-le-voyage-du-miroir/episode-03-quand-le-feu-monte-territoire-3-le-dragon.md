@@ -44,6 +44,8 @@ Je ne l'ai pas fait. Mais j'ai failli. Et pendant des heures après, je me suis 
 
 Si tu as déjà ressenti ça — cette explosion intérieure, ce feu qui monte sans prévenir — tu n'es pas seul. Et tu n'es pas anormal. Tu as simplement un dragon dans ton jardin.
 
+[Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
+
 Aujourd'hui, on va apprendre à le dompter. Pas à le tuer. À le dompter.
 
 [Transition musicale — 2 secondes]
@@ -129,6 +131,8 @@ Quels sont tes trois signaux ? Si tu devais les lister maintenant, mentalement, 
 
 Tu n'as pas besoin de me répondre à voix haute. Mais retiens-les. Tu vas en avoir besoin pour ta mission.
 
+[Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
+
 [Transition musicale — 2 secondes]
 
 ---
@@ -156,6 +160,8 @@ Ensuite, remplis trois choses :
 [Pause]
 
 Quand tu as fini, lis ton plan une fois à voix haute. Personne d'autre n'entend. C'est un contrat entre toi et ton jardinier intérieur.
+
+[Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
 
 [Transition — petite musique]
 

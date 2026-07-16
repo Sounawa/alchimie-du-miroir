@@ -42,6 +42,8 @@ Parce qu'il y a quelques jours, quand tu as commencé ce voyage, tu ne savais pa
 
 Et maintenant, tu sais.
 
+[Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
+
 Ce deuxième dessin — le toi d'aujourd'hui — il est différent du toi d'avant. Pas parce que tu as changé. Parce que tu te VOIS maintenant. Comme dans un miroir qu'on nettoie après des mois de poussière. L'image était toujours là. Maintenant, elle est claire.
 
 [Transition musicale — 2 secondes]
@@ -98,6 +100,8 @@ Ce ne sont pas des trucs que tu as lus dans un livre d'école. Ce sont des outil
 
 Et c'est pour ça que tu es un explorateur différent aujourd'hui. Parce que tu ne connais pas juste la THÉORIE de ton monde intérieur. Tu y as voyagé.
 
+[Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
+
 [Transition douce]
 
 ---
@@ -138,6 +142,8 @@ Et sur la dernière page — la page de tampon final — écris cette question :
 Parce que ce voyage n'est pas FINI. C'est le NIVEAU 1. Il y a d'autres niveaux, d'autres profondeurs, d'autres territoires à découvrir. Ton monde intérieur est infini — comme l'espace. Tu n'auras jamais fini de l'explorer.
 
 Garde ce passeport. Sers-toi-en. Relis tes phrases clés quand tu en as besoin. Et surtout — sois fier de toi. Tu as fait quelque chose de rare.
+
+[Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
 
 [Transition]
 

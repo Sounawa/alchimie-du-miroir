@@ -62,6 +62,8 @@ Ce qui était intégré dans son corps avant 12 ans devient son **réflexe autom
 
 [Voix lente, avec une gravité mesurée]
 
+Le rapport *From Neurons to Neighborhoods* (2000), publié par le National Research Council américain sous la direction de Jack Shonkoff et Deborah Phillips, a établi de manière définitive que les fondations neurologiques, émotionnelles et sociales posées avant l'adolescence déterminent la trajectoire de développement de l'individu bien au-delà de l'enfance. Ce n'est pas une opinion parentale — c'est un consensus scientifique.
+
 C'est pour ça que cette tranche 7-11 ans est la **fenêtre de la préservation**. Ce qui est préservé dans cette fenêtre tiendra. Ce qui ne l'est pas devra être **réparé** — et la réparation, c'est une autre formation. La Formation 5, pour les 12-18 ans.
 
 La différence entre la préservation et la réparation, c'est un facteur 10. En termes d'énergie, de temps, et de douleur. Pour vous ET pour votre enfant.
@@ -162,7 +164,7 @@ Faites le total. Le score maximum est 25.
 
 Quel que soit votre score, voici la marche à suivre.
 
-**Pour tous :** sharez votre bilan avec votre partenaire si vous en avez un. Pas pour vous juger mutuellement — pour aligner vos efforts. Les parents qui sont désalignés sur les piliers créent une confusion supplémentaire pour l'enfant. L'enfant sent quand les parents ne sont pas d'accord — même s'ils ne se disputent pas devant lui.
+**Pour tous :** Partagez votre bilan avec votre partenaire si vous en avez un. Pas pour vous juger mutuellement — pour aligner vos efforts. Les parents qui sont désalignés sur les piliers créent une confusion supplémentaire pour l'enfant. L'enfant sent quand les parents ne sont pas d'accord — même s'ils ne se disputent pas devant lui.
 
 [Pause]
 
@@ -237,6 +239,7 @@ Que votre cœur trouve la paix. Que le cœur de votre enfant soit préservé.
 **Sources :**
 - Jean Piaget, *La psychologie de l'intelligence* (1947), Université de Genève — stades du développement cognitif, passage aux opérations formelles vers 11-12 ans
 - Ibn Qayyim al-Jawziyya, Tuhfat al-Mawdūd bi-ahkām al-mawlūd (تُحْفَةُ ٱلْمَوْلُودِ) — l'enfant comme amāna
+- Jack Shonkoff & Deborah Phillips (éd.), *From Neurons to Neighborhoods: The Science of Early Childhood Development* (2000), National Research Council / National Academies Press — les fondations posées avant l'adolescence déterminent la trajectoire de développement
 - Synthèse des sources des épisodes 1 à 7 : Coran 30:30 (fiṭra), al-Ghazālī Iḥyāʾ (munājāt), Kramer 2010 (fratrie), Benet-Martínez 2005 (identité biculturelle), Ibn ʿAṭāʾillāh (ḥikam), Rizzolatti 1996 (neurones miroirs)
 
 **Musique suggérée :** Ambiance solennelle et réconfortante — oud avec une nappe de cordes très légère. Tonalité qui évoque un achèvement et un commencement simultanés. L'épisode est à la fois un bilan et une ouverture — la musique doit porter cette dualité. Tempo 60 BPM.

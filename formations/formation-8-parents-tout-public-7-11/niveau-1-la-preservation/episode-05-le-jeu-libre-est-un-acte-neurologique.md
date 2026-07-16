@@ -58,11 +58,11 @@ Le jeu libre. Pas le jeu organisé — le foot, le piano, les cours structurés.
 
 Et voici ce que la recherche nous dit — ce qui devrait changer radicalement la façon dont vous voyez ces après-midi remplis.
 
-Stuart Brown, psychiatre à l'Université de Stanford, a passé 30 ans à étudier le jeu. Trente ans. Son finding est sans appel :
+Stuart Brown, psychiatre à l'Université de Stanford, a passé 30 ans à étudier le jeu. Trente ans. Sa découverte est sans appel :
 
 [Voix lente, chaque mot compte]
 
-« Les animaux privés de jeu libre développent des cerveaux anormaux. Pas des cerveaux 'moins sociables' — des cerveaux **anormaux**. Le cortex préfrontal, responsable de la fonction exécutive, de la créativité et de la régulation émotionnelle, se développe **principalement** par le jeu non structuré. »
+Les animaux privés de jeu libre développent des cerveaux anormaux. Pas des cerveaux « moins sociables » — des cerveaux **anormaux**. Le cortex préfrontal, responsable de la fonction exécutive, de la créativité et de la régulation émotionnelle, se développe **principalement** par le jeu non structuré.
 
 [Pause 3 secondes]
 
@@ -107,6 +107,30 @@ Quand vous organisez chaque après-midi de votre enfant, vous éliminez les méc
 [Voix directe]
 
 L'enfant « enrichi » est l'enfant **sur-câblé**. Son cerveau construit des autoroutes sans aires de repos. Et chaque route a besoin de pauses de construction. Les 30 minutes de « rien » quotidien ne sont pas du temps perdu. C'est le temps le plus productif de la journée de votre enfant.
+
+[Pause]
+
+Mais laissez-moi aller plus loin — parce que ce qui se passe dans le cortex préfrontal pendant le jeu libre entre 7 et 11 ans est remarquable.
+
+Prenons un exemple concret. Deux enfants de 9 ans sont dans le jardin. Rien n'est prévu. Après cinq minutes d'ennui, l'un d'eux dit : « On construit une cabane. » Et là, quelque chose de neurologique se déclenche.
+
+[Voix pédagogique, précise]
+
+L'enfant doit d'abord **planifier** — où ? avec quoi ? comment ? C'est la fonction exécutive d'anticipation, localisée dans le cortex préfrontal dorsolatéral. Puis il doit **résoudre des problèmes** — les branches sont trop lourdes, la corde n'est pas assez longue, la structure penche. Chaque obstacle active le cortex préfrontal ventrolatéral — la capacité à adapter une stratégie en temps réel. Ensuite, les deux enfants doivent **négocier** — « Moi je veux faire le toit. — Non, c'est moi qui ai eu l'idée. » C'est la théorie de l'esprit, activée dans le cortex préfrontal médian. Et quand la cabane s'écroule — parce qu'elle va s'écrouler — ils doivent **tolérer la frustration**, réévaluer, et recommencer. C'est la régulation émotionnelle, qui dépend des connexions entre le cortex préfrontal et l'amygdale.
+
+Quatre fonctions exécutives activées simultanément. Dans une activité que l'adulte n'a ni organisée ni supervisée.
+
+[Pause]
+
+Comparez avec une activité structurée — le cours de piano, par exemple. L'enfant exécute. Il suit les instructions du professeur. Il reproduit les gestes demandés. Le cortex préfrontal est actif, oui — mais d'une seule façon : la **compliance**. Il obéit. Il ne décide pas. Il ne négocie pas. Il ne gère pas de frustration imprévue. Le circuit neuronal qui se renforce n'est pas le circuit de l'autonomie — c'est le circuit de la conformité.
+
+Et ce n'est pas le cas que le piano soit inutile. Le piano développe d'autres compétences — la discipline, la mémoire, la motricité fine. Mais il ne développe **pas** les quatre fonctions exécutives que le jeu libre active en une seule après-midi dans le jardin. Et entre 7 et 11 ans, ce sont précisément ces quatre fonctions qui forment le socle de la compétence sociale et professionnelle à l'âge adulte.
+
+[Voix directe]
+
+Prenons un deuxième exemple. Une fille de 8 ans est seule dans sa chambre. Pas d'écran, pas de jeu. Elle regarde les murs. Elle est ennuyée. Au bout de dix minutes — et ce temps d'ennui est neurologiquement nécessaire — elle attrape des feuilles, des ciseaux, du ruban adhésif. Elle commence à fabriquer quelque chose. Un livre ? Une marionnette ? Une maison miniature ? Elle ne sait pas encore. Elle expérimente. Elle se trompe. Elle recommence. Personne ne lui dit ce qui est bien ou mal. Personne ne l'évalue.
+
+Ce qu'elle est en train de faire, neurologiquement, c'est de renforcer les connexions entre son cortex préfrontal et son cortex pariétal — les zones impliquées dans la créativité spatiale et la résolution de problèmes ouverte. Les études en IRMf montrent que ce type d'activité auto-dirigée génère un schéma d'activation préfrontal très différent de l'activité dirigée. Dans l'activité dirigée, le cerveau de l'enfant suit. Dans l'activité auto-dirigée, le cerveau de l'enfant **construit**.
 
 [Transition musicale — 3 secondes]
 
@@ -198,11 +222,7 @@ L'épisode suivant aborde un sujet que la plupart des parents trouvent inconfort
 
 [Voix douce, réconfortante]
 
-Je termine avec Stuart Brown. Dans son livre *Play*, il écrit :
-
-[Voix lente, chaque mot compte]
-
-« *Le contraire du jeu n'est pas le travail. Le contraire du jeu, c'est la dépression. Et un enfant qui ne joue pas librement ne développe pas seulement un cerveau plus pauvre — il développe une vie intérieure plus pauvre.* »
+Je termine avec la pensée de Stuart Brown, psychiatre à l'Université de Stanford. Après 30 ans de recherche sur le jeu, il exprime une idée centrale : le contraire du jeu n'est pas le travail — c'est la dépression. Ses recherches montrent que les animaux privés de jeu libre développent des cerveaux atrophiés au niveau du cortex préfrontal, et que les adultes qui ont joué librement pendant l'enfance présentent une résilience émotionnelle et une capacité de résolution créative de problèmes significativement plus élevées. Pour Brown, un enfant qui ne joue pas librement ne développe pas seulement un cerveau plus pauvre — il développe une vie intérieure plus pauvre.
 
 [Pause 3 secondes]
 

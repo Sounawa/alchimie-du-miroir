@@ -46,6 +46,8 @@ Pendant des heures, elle observe ses pensées disparaître une par une. D'abord 
 
 Autrement dit : il y a un TOI qui regarde tes pensées passer — comme on regarde les nuages dans le ciel. Et ce TOI-là, il ne disparaît jamais. Même quand tout le reste s'arrête.
 
+[Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
+
 [Transition musicale légère — 2 secondes]
 
 ---
@@ -112,6 +114,8 @@ Ou encore, tu es en classe, le prof pose une question, tu connais la réponse, m
 
 Si tu te reconnais dans au moins une de ces situations — alors ce voyage est pour toi. Et même si tu ne te reconnais pas, ça vaut la peine de continuer. Parce que le château, il est là. Et plus tu le connais, plus tu deviens fort.
 
+[Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
+
 [Transition douce]
 
 ---
@@ -152,6 +156,8 @@ Soyons honnêtes avec toi-même. Pas besoin de montrer à quelqu'un. C'est ton j
 [Pause]
 
 Et enfin, dessine-toi toi-même devant le château. Pas à l'intérieur. Devant. Comme le gardien. Avec une clé à la main.
+
+[Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
 
 [Transition]
 
@@ -209,7 +215,7 @@ Ce premier épisode repose sur un concept central en neurosciences cognitives : 
 
 Jill Bolte Taylor, neuroanatomiste à l'Université de l'Indiana, a publié en 2006 *My Stroke of Insight*, récit de son AVC et de sa récupération. Son observation — « You are the life force power of the universe » — a été validée par les travaux de Marc Raichle, neuroscientifique à la Washington University School of Medicine, qui a identifié en 2001 le « réseau du mode par défaut », un réseau cérébral actif lorsque le cerveau ne fait rien de particulier — et qui correspond précisément à cette conscience de fond, cette « présence » que l'enfant est invité à découvrir.
 
-L'image du château intérieur est une adaptation de la métaphore du « château intérieur » de Thérèse d'Avila, réinterprétée ici dans un cadre purement laïque et neuroscientifique.
+L'image du château intérieur s'inspire d'une métaphore universelle d'exploration intérieure, présente dans de nombreuses traditions philosophiques.
 
 **Ce que vous pouvez faire :**
 - Laissez votre enfant dessiner son château sans intervenir ni commenter.
@@ -231,6 +237,6 @@ L'image du château intérieur est une adaptation de la métaphore du « châtea
 **Sources :**
 - Jill Bolte Taylor, *My Stroke of Insight: A Brain Scientist's Personal Journey* (2006) — expérience d'observation de la conscience pendant un AVC
 - Marc Raichle, « Default Mode Network », *Proceedings of the National Academy of Sciences* (2001), Washington University School of Medicine — identification du réseau du mode par défaut
-- Appui métaphorique : Thérèse d'Avila, *Les Chemins du château intérieur* (1577) — adapté en cadre laïque
+- Appui métaphorique : image universelle du château intérieur, présente dans de nombreuses traditions philosophiques — adaptée en cadre laïque et neuroscientifique
 
 **Musique suggérée :** Ambiance fantaisiste et chaleureuse — clochettes légères, piano doux, nappes synthétiques chaleureuses. Éviter le mystère sombre. L'enfant doit se sentir en sécurité et curieux. Tempo 70-75 BPM.

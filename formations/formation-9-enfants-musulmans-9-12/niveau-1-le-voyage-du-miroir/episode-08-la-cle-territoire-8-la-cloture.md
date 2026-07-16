@@ -44,6 +44,8 @@ Et maintenant — après sept territoires, après avoir découvert ton jardin, n
 
 Tourne à la page 2. Regarde ton premier dessin.
 
+[Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
+
 Et prépare-toi à te dessiner une deuxième fois.
 
 [Transition musicale — 3 secondes]
@@ -54,7 +56,7 @@ Et prépare-toi à te dessiner une deuxième fois.
 
 [Voix claire, avec une fierté mesurée]
 
-Avant de te dessiner à nouveau, on va faire l'inventaire. Parce que tu voyages maintenant avec sept outils. Sept choses que tu savais peut-être confusément au début, mais que tu sais NOMMERAINTENANT.
+Avant de te dessiner à nouveau, on va faire l'inventaire. Parce que tu voyages maintenant avec sept outils. Sept choses que tu savais peut-être confusément au début, mais que tu sais NOMMER MAINTENANT.
 
 [Voix posée, énumératoire]
 
@@ -118,6 +120,8 @@ Et si tu vois une différence — même petite — sache que cette différence, 
 
 Et si tu ne vois PAS de différence ? C'est OK aussi. Parfois, les graines ont besoin de temps pour pousser. Ce que tu as semé ici va germer dans les mois qui viennent. Croye-moi.
 
+[Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
+
 [Transition musicale — 2 secondes]
 
 ---
@@ -152,6 +156,8 @@ Et quand tu as fini — signe-le. Écris ton prénom. Et la date d'aujourd'hui.
 
 Ce passeport est à toi. Personne ne te le donnera, personne ne te le prendra. C'est la preuve que tu as fait ce voyage. Que tu connais ton monde intérieur. Et que tu es prêt pour la suite.
 
+[Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
+
 [Transition — musique légère]
 
 ---
@@ -174,7 +180,7 @@ Ta phrase clé pour ce dernier territoire — et pour tout ce qui vient après :
 
 ### PROMESSE (7:00 — 8:30)
 
-[Voix douce, ferme, comme une bénédiction laïque]
+[Voix douce, ferme, comme une bénédiction sincère]
 
 Tu viens de terminer quelque chose que beaucoup d'adultes ne font jamais. Tu as exploré ton monde intérieur. Pas de l'extérieur — de l'intérieur. Pas avec des théories — avec des dessins, des lettres, des couleurs, des mots.
 
@@ -196,6 +202,8 @@ Que ton jardin continue de pousser, jardinier.
 
 Baraka Allāhu fīk — qu'Allah te donne Sa bénédiction.
 
+Et souviens-toi de ce que dit le Coran dans la sourate 94, versets 5 et 6 : « Après la difficulté, vient la facilité. Après la difficulté, vient la facilité. » — Fa-inna maʿa al-ʿusri yusrā. Ce voyage, tu l'as fait. Et pour chaque difficulté qui viendra, la facilité sera là, inchāʾAllāh.
+
 [Transition musicale — 3 secondes]
 
 ---
@@ -215,8 +223,6 @@ Votre enfant possède maintenant un vocabulaire émotionnel en deux langues, un 
 1. **Demandez à voir le passeport intérieur** — mais seulement si votre enfant le propose. S'il vous le montre, lisez-le sans corriger, sans commenter, sans noter. Dites : « Je suis fier de toi. » C'est suffisant.
 
 2. **Continuez la pratique.** Le journal ne doit pas finir dans un tiroir. Suggérez — sans imposer — de le reprendre une fois par semaine. Le dimanche soir, par exemple : « On refait le point sur les saisons de ton jardin ? »
-
-3. **Si vous souhaitez aller plus loin :** La Formation 7 — « La Préservation » — est conçue pour les PARENTS d'enfants de cet âge. Elle vous donnera les outils pour accompagner votre enfant dans la prochaine phase de son développement émotionnel (7-11 ans, puis pré-adolescence). C'est le complément naturel de ce que votre enfant vient de vivre.
 
 **Ce qu'il faut éviter :** Ne transformez pas ce voyage en programme scolaire. Pas de contrôle, pas de « montre-moi ton journal ». Si votre enfant sent que son espace intérieur est surveillé, il fermera la porte. Laissez-le venir vers vous.
 
@@ -239,8 +245,8 @@ Et baraka Allāhu fīkum — qu'Allah vous donne Sa bénédiction, à vous aussi
 
 **Sources :**
 - Récapitulation des 7 épisodes précédents et de leurs sources respectives
+- Coran 94:5-6 — « Après la difficulté vient la facilité » (fa-inna maʿa al-ʿusri yusrā)
 - Le concept de « passeport intérieur » est une métaphore originale de cette formation
-- La référence à la Formation 7 (« La Préservation ») comme suite logique pour les parents
 
 **Musique suggérée :** Ambiance célébratoire mais douce. Pas de fanfare — de la gratitude. Mélange d'instruments : kalimba, piano, peut-être un léger oud en fond. Tempo 68-72 BPM. La musique doit donner le sentiment d'un accomplissement, mais aussi d'une ouverture — « ce n'est pas la fin, c'est le début ». Un léger crescendo vers la fin de la section PROMESSE, puis un decrescendo pour le « Pour le Parent ».
 

@@ -66,17 +66,7 @@ La deuxième forme s'appelle **munājāt** (مُنَاجَاةٌ). Ce mot vient 
 
 [Pause]
 
-ʿĀʾisha (radiya llāhu ʿanhā) a dit une chose extraordinaire à propos du Prophète ﷺ :
-
-[Voix lente, comme si on lisait un texte sacré]
-
-« Le Prophète ﷺ nous a enseigné tout — les ablutions, la prière, le jeûne, le pèlerinage. Mais il ne nous a pas enseigné la munājāt. »
-
-Et elle ajoute : « Parce que la munājāt ne s'enseigne pas. Elle se **vit**. »
-
-[Pause 3 secondes]
-
-Réfléchissez à ce que cela implique. Le Prophète ﷺ, qui nous a enseigné comment nous essuyer après les besoins naturels — qui a codifié jusqu'au moindre geste de la vie quotidienne — n'a pas enseigné la forme de sa conversation privée avec Allah. Non pas par secret. Mais parce que cette conversation ne peut pas être **standardisée**. Elle est, par nature, personnelle.
+Al-Ghazālī (al-ġazālī), dans le Kitāb al-Duʿāʾ de son Iḥyāʾ ʿulūm al-dīn, décrit la munājāt comme « le dialogue secret du cœur avec son Seigneur, dans lequel le serviteur dépose ce que les mots ne peuvent pas porter. » Il insiste : ce dialogue n'a pas de forme prescrite, pas de formule, pas de moment imposé — il est aussi naturel que le souffle. Le Prophète ﷺ nous a enseigné les ablutions, la prière, le jeûne — des actes avec des règles. Mais le dialogue intime du cœur avec Allah, il l'a **vécu** sans jamais en faire un programme d'enseignement. Non pas par négligence. Mais parce que ce qui est personnel ne se standardise pas.
 
 Et c'est exactement ce que votre enfant de 7 à 11 ans possède par fiṭra (فِطْرَةٌ) — cette disposition naturelle à tourner vers son Créateur en toute vulnérabilité. Sauf que souvent, sans le vouloir, vous la détruisez.
 
@@ -102,7 +92,7 @@ Quand un enfant de 8 ans est angoissé et que le parent dit « fais duʿāʾ »,
 
 Et c'est là que la fiṭra entre en jeu. Le Coran dit :
 
-« Dirige ton visage vers la religion en purified, la fiṭra qu'Allah a originalement donnée aux hommes. » (30:30)
+« Dirige ton visage vers la religion en hanīf — telle est la fiṭra qu'Allah a originalement donnée aux hommes. » (30:30)
 
 La fiṭra, ce n'est pas une croyance intellectuelle. C'est une **disposition corporelle** — une orientation naturelle du cœur vers son Créateur. Et cette orientation s'exprime spontanément chez l'enfant : quand il est émerveillé devant un coucher de soleil, quand il est terrifié dans l'obscurité, quand il est ému par la misère de quelqu'un — dans ces moments-là, son cœur se tourne naturellement vers Allah.
 
@@ -110,7 +100,7 @@ Sauf que nous, les parents, avons souvent remplacé ce mouvement naturel par un 
 
 [Pause]
 
-Le chercheur en psychologie du développement Robert Emmons, de l'Université de Californie à Davis, a publié en 2003 une étude fondatrice montrant que la prière de demande — « donne-moi » — ne produit pas les mêmes effets psychologiques que la prière d'expression — « voici ce que je vis ». La première peut même augmenter le sentiment de dépendance et de frustration quand la demande n'est pas exaucée. La seconde, en revanche, renforce la résilience émotionnelle et le sentiment de connexion.
+Les recherches de Kenneth Pargament, professeur de psychologie à l'Université de Bowling Green State, dans *The Psychology of Religion and Coping* (1997), ont montré que les styles d'engagement religieux ne produisent pas les mêmes effets psychologiques. La prière purement transactionnelle — « donne-moi ceci, épargne-moi cela » — peut, quand la demande n'est pas satisfaite, renforcer un sentiment d'abandon spirituel. En revanche, la prière d'expression — le fait de confier à Dieu son état intérieur, ses doutes, ses peurs — est associée à une meilleure résilience émotionnelle et à un sentiment plus stable de connexion.
 
 L'enfant qui ne connaît que duʿāʾ al-maslaha fait l'expérience suivante : « Je demande à Allah, et parfois ça marche, parfois non. » Et si les « non » s'accumulent — un examen raté, un grand-père qui meurt — l'enfant conclut silencieusement : « La prière ne marche pas. » Non pas parce qu'Allah n'écoute pas. Mais parce qu'on ne lui a jamais appris que la prière n'est pas une **demande**. C'est une **présence**.
 
@@ -239,10 +229,10 @@ Que votre cœur trouve la paix.
 - Wa salāmu ʿalaykum (wa-salāmu ʿalaykum) — السلام عليكم
 
 **Sources :**
-- Al-Ghazālī, Iḥyāʾ ʿulūm al-dīn, Livre I — Kitāb al-ʿIlm (distinction entre ṣalāh, duʿāʾ et munājāt)
+- Al-Ghazālī, Iḥyāʾ ʿulūm al-dīn, Livre I — Kitāb al-ʿIlm (distinction entre ṣalāh, duʿāʾ et munājāt) ; Kitāb al-Duʿāʾ (description de la munājāt comme dialogue secret du cœur)
 - Hadith : les prières nocturnes du Prophète ﷺ rapportées par ʿĀʾisha (Sahih al-Bukhārī)
-- Coran 30:30 — « Dirige ton visage vers la religion en purified, la fiṭra qu'Allah a originalement donnée aux hommes »
-- Robert Emmons & Michael McCullough, « Counting Blessings Versus Burdens » (2003), Université de Californie, Davis — étude sur les effets différenciés de la prière de demande vs la prière d'expression
+- Coran 30:30 — la fiṭra comme disposition originelle en hanīf
+- Kenneth Pargament, *The Psychology of Religion and Coping* (1997), Bowling Green State University — styles d'engagement religieux et différences entre prière transactionnelle et prière d'expression
 - Ibn ʿAṭāʾillāh, al-Ḥikam (sentence sur la présence dans l'invocation)
 
 **Musique suggérée :** Ambiance intime, oud ou ney en fond très léger. Tonalité contemplative, sans urgence. Tempo 60-65 BPM. L'épisode porte sur la conversation du cœur — la musique doit respecter ce silence intérieur.

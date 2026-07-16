@@ -44,6 +44,8 @@ Tu sais quoi ? Ce n'est PAS Léa qui a fait ça. Pas vraiment. C'est une toute p
 
 Et cette partie, elle s'appelle l'amygdale. Et aujourd'hui, on va la rencontrer.
 
+[Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
+
 [Transition musicale — 2 secondes]
 
 ---
@@ -105,6 +107,8 @@ Ou alors, tu es en cours de sport. Tu rates un ballon. Quelqu'un rit. Et tu sens
 
 Rappelle-toi la carte de ton corps que tu as dessinée dans le dernier territoire. Tu sais maintenant où tu sens la colère. Eh bien, cette sensation — les poings serrés, le visage chaud, la respiration courte — c'est le messager de ton corps qui te dit : « L'alarme vient de sonner. Ne fais rien tout de suite. Attends. »
 
+[Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
+
 [Transition douce]
 
 ---
@@ -136,13 +140,15 @@ Repense aux dernières fois où tu as explosé. Qu'est-ce que ton corps t'a envo
 
 Quand tu reconnais tes trois signaux, que fais-tu ? Voici la méthode en trois étapes. Je te la donne, et toi, tu l'adaptes à ta façon :
 
-1. **STOP** — Tu t'assieds. Si tu es debout, tu te rassis. Juste ça. Asseyez-toi. Le corps assis envoie un signal au cerveau : « On est en sécurité. On ne fuit pas. »
+1. **STOP** — Tu t'assieds. Si tu es debout, tu te rassis. Juste ça. Assieds-toi. Le corps assis envoie un signal au cerveau : « On est en sécurité. On ne fuit pas. »
 2. **RESPIRE** — Tu prends trois respirations lentes. Inspire sur 4 secondes. Expire sur 6 secondes. Plus long à l'expiration qu'à l'inspiration — ça active le système de calme de ton corps.
 3. **OBSERVE** — Tu te poses une question : « Qu'est-ce qui se passe vraiment ? » Pas « pourquoi je suis en colère ? » — ça, c'est trop compliqué pour le moment. Juste : « Qu'est-ce qui se passe ? »
 
 [Voix encourageante]
 
 Écris ces trois étapes dans ton journal. Et personnalise-les. Peut-être que pour toi, « Stop » ce n'est pas s'asseoir — c'est fermer les yeux. Peut-être que « Respire » c'est souffler comme si tu avais une bougie devant toi. Trouve TA version. C'est ton plan.
+
+[Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
 
 [Transition]
 

@@ -46,6 +46,8 @@ Il a parlé. Pas à haute voix. Pas une prière formelle. Il a parlé depuis son
 
 [Pause]
 
+[Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
+
 Cette conversation, on lui donne un nom en arabe. Et c'est ce que tu vas découvrir aujourd'hui.
 
 [Transition musicale — 3 secondes]
@@ -106,6 +108,8 @@ La munājāt n'est pas un médicament. C'est une relation. Et comme toute relati
 
 Donc, dans cette lettre que tu vas écrire — pas de phrases toutes faites. Pas de « Ô Allah, pardonne-moi » par habitude. Non. Ce que TU as vraiment envie de dire. Ce que tu ne dis JAMAIS à voix haute. Tes doutes. Tes peurs. Tes questions. Même les questions difficiles. Surtout les questions difficiles.
 
+[Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
+
 [Transition musicale — 2 secondes]
 
 ---
@@ -143,6 +147,8 @@ Cette lettre reste dans ton journal. Personne ne la lit sans ta permission. Pas 
 Et si tu n'arrives pas à écrire — dessine. Un dessin vaut mille mots.
 
 Prends ton temps. Ce n'est pas pressé. Cette lettre peut prendre 5 minutes ou 30 minutes. Ce qui compte, c'est que ce soit VRAI.
+
+[Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
 
 [Transition — silence musical, 3 secondes]
 

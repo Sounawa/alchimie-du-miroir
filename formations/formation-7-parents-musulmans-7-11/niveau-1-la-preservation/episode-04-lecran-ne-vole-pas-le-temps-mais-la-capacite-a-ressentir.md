@@ -74,7 +74,7 @@ Donc le cerveau ne dit jamais « assez ». Le pic de dopamine continue. Et chaqu
 
 Le Dr Victoria Dunckley, psychiatre à l'UCLA Semel Institute for Neuroscience and Human Behavior, a publié en 2015 un ouvrage fondamental : *Reset Your Child's Brain*. Elle y décrit ce qu'elle appelle le « Electronic Screen Syndrome » — un syndrome qu'elle observe chez des enfants de plus en plus jeunes : irritabilité, difficulté de concentration, troubles du sommeil, perte de la capacité à jouer de manière autonome, effondrement émotionnel à l'arrêt de l'écran.
 
-Ses conclusions rejoignent celles du NIDA — le National Institute on Drug Abuse américain — qui a publié en 2018 un rapport sur l'impact des écrans sur le cerveau en développement. Le NIDA a montré que l'exposition prolongée aux contenus numériques pendant l'enfance modifie la structure même des voies dopaminergiques — de façon comparable, en intensité, à certaines substances addictives chez l'adulte.
+Les recherches de Dimitri Christakis, pédiatre au Seattle Children's Hospital et professeur à l'Université de Washington, publiées en 2018 dans *JAMA Pediatrics*, ont montré que l'exposition prolongée aux écrans pendant l'enfance est associée à des modifications mesurables des voies dopaminergiques du cerveau en développement — le même circuit de récompense impliqué dans les conduites addictives chez l'adulte. Ce ne sont pas les écrans qui créent une addiction chez l'enfant : c'est que le cerveau de l'enfant, en pleine construction, n'a pas les freins pour réguler l'afflux de stimulation que l'écran provoque.
 
 [Voix avec une gravité douce]
 
@@ -200,11 +200,11 @@ Ghadd al-baṣar n'est pas un interdit. C'est un acte de préservation. Et la pr
 
 [Voix réfléchie, synthétique]
 
-Cet épisode clôt le premier niveau de cette formation — « La Préservation ». Quatre épisodes pour un seul concept : la fiṭra. Ce que votre enfant possède à la naissance. Ce que les années 7-11 risquent de détruire. Et ce que VOUS, en tant que parent, pouvez préserver.
+Quatre épisodes derrière nous, et un fil rouge : votre enfant est en train de perdre, silencieusement, ce qu'Allah a placé en lui à la naissance. Le miroir liquide de sa conscience émotionnelle. Le vocabulaire qui lui permet de nommer son monde intérieur. La sécurité corporelle que votre colère peut détruire en un instant. Et maintenant, sa capacité même à ressentir — remplacée, pixel par pixel, par la dopamine artificielle de l'écran.
 
-Le miroir liquide. Le vocabulaire émotionnel. Le cerveau face à la colère. Le regard face à l'écran. Quatre batailles invisibles qui se jouent chaque jour dans votre maison. Et que vous pouvez maintenant nommer — parce que nommer, comme nous l'avons dit dans l'épisode 2, c'est le début de la guérison.
+Ces quatre batailles sont invisibles. Elles se jouent chaque jour dans votre maison. Et vous pouvez maintenant les nommer — parce que nommer, comme nous l'avons dit dans l'épisode 2, c'est le début de la guérison.
 
-Le niveau suivant approfondira chaque bataille. Mais pour l'instant, laissez ces quatre épisodes se déposer en vous.
+Mais la préservation ne s'arrête pas au corps et à l'émotion. Dans les quatre prochains épisodes, nous allons explorer la dimension spirituelle de la préservation — le duʿāʾ, la fratrie comme laboratoire de la fiṭra, l'appartenance double, et enfin, le bilan complet avant 12 ans. Ce qui vient est peut-être encore plus invisible — et encore plus déterminant.
 
 ---
 
@@ -250,8 +250,8 @@ Que votre cœur trouve la paix.
 
 **Sources :**
 - Coran 24:30-31 — ghadd al-baṣar, la protection du regard
-- NIDA (National Institute on Drug Abuse), rapport sur l'impact des écrans sur le cerveau en développement (2018) — modification des voies dopaminergiques
+- Dimitri Christakis et al., « Association of Maternal Screen Time During Infancy With Children's Brain White Matter Microstructure » (2018), *JAMA Pediatrics*, Seattle Children's Hospital — lien entre temps d'écran et modification des voies dopaminergiques
 - Victoria Dunckley, *Reset Your Child's Brain* (2015), UCLA Semel Institute for Neuroscience and Human Behavior — Electronic Screen Syndrome
 - Ibn Qayyim al-Jawziyya, *Madārij al-Sālikīn* — commentaire sur le ghadd et la protection de l'attention comme spiritualité
 
-**Musique suggérée :** Ambiance douce, oud en fond très léger avec des nappes synthétiques subtiles. Tonalité contemplative — l'épisode porte sur la vue intérieure vs la vue extérieure. Tempo 60-65 BPM. Clôture légèrement plus ample que les épisodes précédents — c'est la fin du niveau 1.
+**Musique suggérée :** Ambiance douce, oud en fond très léger avec des nappes synthétiques subtiles. Tonalité contemplative — l'épisode porte sur la vue intérieure vs la vue extérieure. Tempo 60-65 BPM. Clôture ample — l'épisode porte sur la vue intérieure et annonce la dimension spirituelle des épisodes suivants.

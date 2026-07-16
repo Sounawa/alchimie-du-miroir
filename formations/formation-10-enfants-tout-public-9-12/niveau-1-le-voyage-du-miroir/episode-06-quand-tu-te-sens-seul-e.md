@@ -42,6 +42,8 @@ Il n'était pas seul — même si physiquement, il était à des millions de kil
 
 La différence entre être seul et se sentir seul, c'est la préparation. Et c'est exactement ce qu'on va explorer aujourd'hui.
 
+[Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
+
 [Transition musicale — 2 secondes]
 
 ---
@@ -112,6 +114,8 @@ La question n'est pas de ne JAMAIS te sentir seul. C'est impossible. La question
 
 Est-ce que tu restes dans la nuit ? Ou est-ce que tu cherches la lumière — en parlant à quelqu'un, en écrivant, en sortant, en appelant ?
 
+[Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
+
 [Transition douce]
 
 ---
@@ -142,9 +146,13 @@ Et dans cette lettre, tu vas écrire quelque chose que tu ne dis JAMAIS à voix 
 
 Ce que tu écris, c'est pour toi. Pas pour la personne à qui c'est adressé. C'est pour libérer ce qui est coincé. Comme ouvrir une valve sur un ballon trop gonflé.
 
+[Si tu n'arrives pas à trouver cette personne, écris la lettre à toi-même. Tu es aussi une personne digne de confiance.]
+
 [Voix encourageante]
 
-Et si tu te sens prêt — et SEULEMENT si tu te sens prêt — tu peux montrer cette lettre à la personne en question. Mais c'est ton choix. Absolument aucunement obligatoire. L'acte d'écrire, à lui seul, est déjà puissant.
+Et si tu te sens prêt — et SEULEMENT si tu te sens prêt — tu peux montrer cette lettre à la personne en question. Mais c'est ton choix. Absolument pas obligatoire. L'acte d'écrire, à lui seul, est déjà puissant.
+
+[Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
 
 [Transition]
 

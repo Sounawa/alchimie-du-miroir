@@ -46,6 +46,8 @@ Ce quelqu'un, c'était moi.
 
 [Pause 2 secondes]
 
+[Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
+
 Aujourd'hui, je vais te montrer comment trouver ta porte. Parce que ce jardin — ton jardin secret — il existe. Et il a plus de pouvoir sur ta vie que tu ne l'imagines.
 
 [Transition musicale légère — 3 secondes]
@@ -78,7 +80,9 @@ L'hiver n'est pas mauvais. L'hiver est NÉCESSAIRE. Dans la vraie nature, c'est 
 
 [Pause]
 
-Tu sais qui avait un jardin secret lui aussi ? Le Prophète Muḥammad, ṣallā Allāhu ʿalayhi wa sallam. La nuit, quand tout le monde dormait, il se levait et allait prier. Pas parce qu'il devait — parce qu'il AIMÉ cette conversation privée avec son Créateur. C'était son jardin secret à lui. Un moment où personne d'autre n'était là. Juste lui et Celui qui l'avait créé.
+Le Coran dit quelque chose de magnifique dans la sourate 51, verset 21 : « Et en vous-mêmes aussi. Ne voyez-vous donc pas ? » — comme si Allah te disait : regarde à l'intérieur de toi, il y a des merveilles.
+
+Tu sais qui avait un jardin secret lui aussi ? Le Prophète Muḥammad, ṣallā Allāhu ʿalayhi wa sallam. La nuit, quand tout le monde dormait, il se levait et allait prier. Pas parce qu'il devait — parce qu'il AIMAIT cette conversation privée avec son Créateur. C'était son jardin secret à lui. Un moment où personne d'autre n'était là. Juste lui et Celui qui l'avait créé.
 
 [Voix avec une légère insistance]
 
@@ -115,6 +119,8 @@ Moi aussi, ça m'arrive. Et maintenant que je le sais, je ne panique plus quand 
 [Pause 2 secondes]
 
 Et toi ? Quelle est la saison en ce moment, dans ton jardin ?
+
+[Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
 
 [Transition musicale douce — 2 secondes]
 
@@ -155,6 +161,8 @@ Parce que la première étape pour connaître ton jardin, c'est de savoir quelle
 [Pause 2 secondes]
 
 Prends ton temps. Personne ne va te juger. C'est TON jardin.
+
+[Pause — Tu peux montrer ton dessin à papa ou maman. Partagez ensemble pendant trente secondes.]
 
 [Transition — petite musique]
 
@@ -230,6 +238,7 @@ La porte de son jardin vient de s'ouvrir. Laissez-la ouverte.
 - Ṣallā Allāhu ʿalayhi wa sallam (صَلَّى ٱللَّهُ عَلَيْهِ وَسَلَّمَ) — prière et salut sur le Prophète
 
 **Sources :**
+- Coran 51:21 — « Et en vous-mêmes aussi. Ne voyez-vous donc pas ? » (wa fī anfusikum, afalā tubṣirūn)
 - Concept des 4 saisons émotionnelles — adaptation pédagogique de la théorie de l'intelligence émotionnelle (Goleman, 1995)
 - Pratique nocturne du Prophète ﷺ — qiyyām al-layl, tradition prophétique rapportée par ʿĀʾisha (al-Bukhārī)
 

@@ -36,7 +36,7 @@ Clara relève les yeux. Et elle répond : « Ça va. »
 
 [Pause 2 secondes]
 
-Et sa mère — comme 95% des parents dans cette situation — sourit, dit « Bien, chérie », et repart. Le dialogue est terminé en 4 secondes. Et avec lui, une opportunity de connexion qui ne se représentera peut-être pas.
+Et sa mère — comme 95% des parents dans cette situation — sourit, dit « Bien, chérie », et repart. Le dialogue est terminé en 4 secondes. Et avec lui, une opportunité de connexion qui ne se représentera peut-être pas.
 
 [Pause]
 
@@ -178,7 +178,7 @@ Trois phrases à bannir. Trois phrases à installer. Pour cette semaine — et p
 
 « C'est normal de ressentir ça. » — Ces quatre mots font plus pour le cerveau de votre enfant que n'importe quelle leçon. Ils valident l'expérience. Ils renforcent le câble. Dites-les lentement. Regardez votre enfant dans les yeux quand vous les dites. Laissez la phrase atterrir.
 
-« Qu'est-ce dont tu as besoin maintenant ? » — Cette phrase fait quelque chose de remarquable : elle active le cortex préfrontal de votre enfant. Elle le passe de « je ressens » à « je réfléchis à ce dont j'ai besoin ». C'est de l'étiquetage affectif en action (Lieberman, 2007).
+« De quoi as-tu besoin maintenant ? » — Cette phrase fait quelque chose de remarquable : elle active le cortex préfrontal de votre enfant. Elle le passe de « je ressens » à « je réfléchis à ce dont j'ai besoin ». C'est de l'étiquetage affectif en action (Lieberman, 2007).
 
 [Pause]
 
@@ -206,11 +206,7 @@ Parce que quand vous comprendrez ce que votre cerveau fait au sien, vous ne crie
 
 [Voix douce, réconfortante]
 
-Je termine avec John Gottman. Dans *Raising an Emotionally Intelligent Child* (1997), il écrit :
-
-[Voix lente, chaque mot compte]
-
-« *Les parents qui ignorent les émotions de leurs enfants ne le font pas par manque d'amour. Ils le font par manque de vocabulaire — le leur, et celui qu'ils ont donné à leur enfant. L'intelligence émotionnelle ne se transmet pas par la génétique. Elle se transmet par les mots.* »
+Je termine avec la pensée de John Gottman, de l'Université de Washington. Dans *Raising an Emotionally Intelligent Child* (1997), après avoir suivi 130 familles pendant 14 ans, il démontre que les parents qui ignorent les émotions de leurs enfants ne le font pas par manque d'amour — ils le font par manque de vocabulaire. Le leur, et celui qu'ils ont donné à leur enfant. L'intelligence émotionnelle ne se transmet pas par la génétique, montre-t-il : elle se transmet par les mots.
 
 [Pause 3 secondes]
 

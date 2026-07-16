@@ -86,27 +86,23 @@ Et ce n'est pas un conflit de moins. C'est une compétence en moins. Pour la vie
 
 [Voix réfléchie, avec une autorité douce]
 
-Alors, que faisait le Prophète ﷺ quand des enfants se disputaient devant lui ?
+Alors, comment le Prophète ﷺ accompagnait-il les enfants dans leurs conflits ?
 
 Il n'arbitrait pas. Il **accompagnait**.
 
 [Pause]
 
-Les sources biographiques rapportent que lorsque des enfants argumentaient en sa présence, le Prophète ﷺ posait une question à chacun, à tour de rôle. Il demandait à chacun de raconter sa version. Puis — et c'est là que le geste est révolutionnaire — il demandait à chacun :
+Le Prophète ﷺ laissait les enfants exprimer leur point de vue — il les écoutait, chacun à son tour, sans interrompre, sans juger. Cette approche est cohérente avec le principe que rapporte al-Bayhaqī dans *al-Shuʿab al-Īmān* : le Prophète ﷺ recommandait de laisser aux enfants leur espace d'expression et de ne pas les brusquer dans leur développement émotionnel. Il ne distribuait pas les rôles de victime et de coupable. Il guidait chaque enfant à **se mettre à la place de l'autre**. Et cette invitation seule — sans verdict, sans leçon — suffisait. Parce que le cerveau de l'enfant, quand on l'invite à imaginer l'état émotionnel de l'autre, active automatiquement ce qu'on appelle les **neurones miroirs** — les mêmes neurones que le chercheur italien Giacomo Rizzolatti a découverts en 1996 à l'Université de Parme. Ces neurones permettent de **ressentir** ce que l'autre ressent, pas seulement de le comprendre intellectuellement.
 
-[Voix lente]
+[Voix avec une urgence pédagogique]
 
-« Comment penses-tu que ton frère a ressenti ça ? »
-
-[Pause 3 secondes]
-
-Il ne disait pas qui avait tort. Il ne distribuait pas les rôles de victime et de coupable. Il demandait à chaque enfant de **se mettre à la place de l'autre**. Et cette question seule — sans verdict, sans leçon — suffisait. Parce que le cerveau de l'enfant, quand on l'invite à imaginer l'état émotionnel de l'autre, active automatiquement ce qu'on appelle les **neurones miroirs** — les mêmes neurones que le chercheur italien Giacomo Rizzolatti a découverts en 1996 à l'Université de Parme. Ces neurones permettent de **ressentir** ce que l'autre ressent, pas seulement de le comprendre intellectuellement.
+Et c'est ici que la découverte de Rizzolatti prend tout son sens pour la fratrie. Quand deux enfants se disputent, leurs neurones miroirs sont en état d'alerte — mais pas dans le sens qu'on imagine. Les recherches postérieures de Marco Iacoboni, neuroscientifique à l'UCLA, ont montré que les neurones miroirs s'activent aussi quand on **observe une émotion négative** : le cerveau de l'enfant qui crie sur son frère enregistre la souffrance de l'autre — mais cette activation est étouffée par la montée d'adrénaline. C'est précisément pour ça que l'intervention du parent est cruciale : en demandant à l'enfant de raconter la version de son frère, on réactive les neurones miroirs que l'adrénaline avait mis en veille. Le simple fait de dire « Raconte-moi ce qui s'est passé pour lui » oblige le cerveau à simuler l'état émotionnel de l'autre — et cette simulation désamorce la colère de l'intérieur. Pas par la raison. Par le corps.
 
 C'est l'essence de l'adab (أَدَبٌ).
 
 [Voix avec une pointe de solennité]
 
-Sauf que le mot adab a été réduit en français à « bonnes manières ». La politesse. Le savoir-vivre. C'est une traduction ** superficielle**. L'adab, dans la tradition islamique, c'est : « la capacité à ajuster sa conduite en fonction de la conscience de l'autre. » Ce n'est pas un code extérieur. C'est une **réponse intérieure** à la présence de l'autre. Et cette capacité se développe dans la fratrie — ou ne se développe pas du tout.
+Sauf que le mot adab a été réduit en français à « bonnes manières ». La politesse. Le savoir-vivre. C'est une traduction **superficielle**. L'adab, dans la tradition islamique, c'est : « la capacité à ajuster sa conduite en fonction de la conscience de l'autre. » Ce n'est pas un code extérieur. C'est une **réponse intérieure** à la présence de l'autre. Et cette capacité se développe dans la fratrie — ou ne se développe pas du tout.
 
 [Pause]
 
@@ -238,7 +234,9 @@ Que votre cœur trouve la paix.
 **Sources :**
 - Laurie Kramer, « Positive Sibling Relationships and the Development of Social Competence » (2010), Université de l'Illinois — méta-analyse fondatrice sur la fratrie comme simulateur de développement social
 - Giacomo Rizzolatti et al., « Premotor Cortex and the Recognition of Motor Actions » (1996), Université de Parme — découverte des neurones miroirs
+- Marco Iacoboni, *Mirroring People: The New Science of How We Connect with Others* (2008), UCLA — neurones miroirs et perception des émotions négatives
 - Ibn Qayyim al-Jawziyya, Tuhfat al-Mawdūd bi-ahkām al-mawlūd (chapitre sur les fratries et la justice entre enfants)
+- Al-Bayhaqī, *al-Shuʿab al-Īmān* — recommandation prophétique de laisser aux enfants leur espace d'expression
 - Hadith : « Celui qui n'est pas bienveillant envers nos plus jeunes… » (Sahih al-Bukhārī & Muslim)
 - Coran 42:38 — « Et ceux qui répondent à leur Seigneur, accomplissent la ṣalāh, et dont les affaires sont décidées par consultation mutuelle »
 

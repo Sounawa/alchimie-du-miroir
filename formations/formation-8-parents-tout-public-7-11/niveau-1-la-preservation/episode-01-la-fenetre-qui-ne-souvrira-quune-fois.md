@@ -198,11 +198,7 @@ Gottman, le chercheur que nous aborderons, a suivi 130 familles pendant 14 ans. 
 
 [Voix douce, réconfortante]
 
-Je termine avec Alison Gopnik. Dans *The Philosophical Baby* (2009), elle écrit :
-
-[Voix lente, chaque mot compte]
-
-« *Les enfants ne sont pas des adultes incomplets. Ils sont le département recherche et développement de l'espèce humaine — des êtres dont le cerveau est conçu pour explorer, pour apprendre, et pour se câbler en fonction de ce qu'ils vivent. Notre responsabilité n'est pas de les remplir — elle est de ne pas les vider.* »
+Je termine avec la pensée d'Alison Gopnik, de l'Université de Californie à Berkeley. Dans *The Philosophical Baby* (2009), elle exprime une idée qui devrait transformer notre regard sur l'enfance : les enfants ne sont pas des adultes incomplets — ils constituent le département recherche et développement de l'espèce humaine. Leur cerveau est conçu pour explorer, pour apprendre, et pour se développer en fonction de ce qu'ils vivent. La responsabilité des adultes, selon elle, n'est pas de remplir ce cerveau d'informations — mais de préserver les conditions dans lesquelles il peut apprendre par lui-même.
 
 [Pause 3 secondes]
 

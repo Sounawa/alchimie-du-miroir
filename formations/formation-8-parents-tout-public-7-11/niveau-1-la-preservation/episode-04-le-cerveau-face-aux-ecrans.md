@@ -14,10 +14,10 @@
 |---------|-----------|-------|--------|
 | Accroche | 0:00 | 1:30 | Tristan Harris devant le Sénat américain : « Nos clients, comme les drogués » |
 | Contexte | 1:30 | 3:00 | Le cerveau d'un enfant de 8 ans face à un algorithme conçu par 10 000 ingénieurs |
-| Enseignement | 4:30 | 6:00 | NIDA (dopamine pédiatrique), Dunckley (4 semaines), Diamond (fonctions exécutives) |
+| Enseignement | 4:30 | 6:00 | Christakis (dopamine pédiatrique), Dunckley (4 semaines), Diamond (fonctions exécutives) |
 | Exercice | 10:30 | 4:00 | Le contrat numérique en famille — enfant et parent co-écrivent |
 | Application | 14:30 | 3:30 | Les 3 règles de préservation numérique |
-| Débrief | 18:00 | 2:00 | Synthèse du niveau 1 et lien avec le niveau 2 |
+| Débrief | 18:00 | 2:00 | Transition vers les épisodes 5-8 |
 | Clôture | 20:00 | 2:00 | Citation de Victoria Dunckley + invitation |
 
 ---
@@ -80,7 +80,7 @@ Il y a trois données scientifiques que chaque parent devrait connaître. Je vai
 
 **Donnée numéro 1 : le décalage dopamine.**
 
-Le NIDA — le National Institute on Drug Abuse, l'agence fédérale américaine spécialisée dans les addictions — a publié en 2018 un rapport sur le cerveau pédiatrique et la dopamine. Leur découverte : chez l'enfant et l'adolescent, le système de récompense (qui libère la dopamine) se développe **beaucoup plus vite** que le système inhibiteur (le cortex préfrontal, qui dit « stop »). Ce décalage crée une fenêtre de 10 à 15 ans — de 7 ans jusqu'à 20-22 ans — où la recherche de plaisir dépasse largement la capacité d'autorégulation.
+En 2018, Dimitri Christakis et son équipe au Seattle Children's Research Institute ont publié dans *JAMA Pediatrics* une étude majeure sur l'impact des écrans sur le cerveau des jeunes enfants. Leur découverte : chez l'enfant et l'adolescent, le système de récompense — qui libère la dopamine — se développe **beaucoup plus vite** que le système inhibiteur, le cortex préfrontal, celui qui dit « stop ». Ce décalage crée une fenêtre de 10 à 15 ans — de 7 ans jusqu'à 20-22 ans — où la recherche de plaisir dépasse largement la capacité d'autorégulation.
 
 Ce n'est pas une faiblesse de caractère. C'est de la neurobiologie. Pendant ces 10 à 15 ans, le cerveau de votre enfant est conçu pour chercher la stimulation plus fort qu'il ne peut la résister.
 
@@ -176,17 +176,15 @@ Et rappelez-vous : le but n'est pas de supprimer les écrans. Le but est de les 
 
 [Voix réfléchie, synthétique]
 
-Cet épisode clôt le premier niveau de *La Préservation*. Quatre épisodes. Quatre chantiers neuronaux : la fenêtre de câblage, le vocabulaire émotionnel, la régulation parentale, et la préservation numérique.
+Nous avons maintenant couvert quatre des huit épisodes de ce niveau. La fenêtre de câblage, le vocabulaire émotionnel, la régulation parentale, et la préservation numérique — quatre chantiers neuronaux essentiels.
 
 [Pause]
 
-Dans le niveau suivant, nous irons plus profondément — dans la relation entre le cerveau de votre enfant et le vôtre, dans la transmission transgénérationnelle des patterns émotionnels, et dans les outils concrets pour réparer ce qui a été endommagé.
-
-Mais avant de passer au niveau 2, prenez le temps de pratiquer. Chaque exercice que nous avons vu — le silence écouté, le dictionnaire de la famille, le protocole STOP, le contrat numérique — est un outil de préservation. Un outil que vous ne possédiez pas il y a quatre épisodes. Et un outil que votre enfant n'avait pas non plus.
+Mais il nous reste quatre épisodes tout aussi cruciaux. Dans les épisodes à venir, nous aborderons le jeu libre comme acte neurologique, le conflit comme école de vie, l'anxiété de performance qui commence bien plus tôt qu'on le croit — et enfin, un bilan complet avec les compétences à intégrer avant 12 ans.
 
 [Pause 2 secondes]
 
-Vous n'êtes pas le même parent qu'au début de ce niveau. Et c'est normal — parce que vous n'aviez pas les mêmes informations. L'information change le cerveau du parent. Et le cerveau du parent change le cerveau de l'enfant. C'est la chaîne de transmission qui fait de la parentalité le travail le plus important — et le plus sous-estimé — de la société.
+Prenez le temps de pratiquer ce que nous avons vu jusqu'ici. Chaque exercice — le silence écouté, le dictionnaire de la famille, le protocole STOP, le contrat numérique — est un outil de préservation. Et les épisodes suivants viendront s'appuyer sur ces fondations.
 
 ---
 
@@ -194,11 +192,7 @@ Vous n'êtes pas le même parent qu'au début de ce niveau. Et c'est normal — 
 
 [Voix douce, réconfortante]
 
-Je termine avec Victoria Dunckley. Dans *Reset Your Child's Brain* (2015), elle écrit :
-
-[Voix lente, chaque mot compte]
-
-« *Le cerveau de votre enfant n'est pas conçu pour l'écran. Il est conçu pour le monde réel — pour toucher, courir, s'ennuyer, rêver, se disputer et se réconcilier. Chaque heure passée devant un écran est une heure volée à ce pour quoi son cerveau a été câblé.* »
+Je termine avec la pensée de Victoria Dunckley, psychiatre au Semel Institute de l'Université de Californie à Los Angeles. Dans *Reset Your Child's Brain* (2015), elle documente ses années de pratique clinique et montre que les symptômes qu'elle observait le plus souvent chez les enfants — agitation, irritabilité, troubles du sommeil, difficultés d'attention — n'étaient pas des pathologies. C'étaient les conséquences directes et réversibles de la surstimulation électronique. Son message central est clair : le cerveau de l'enfant est conçu pour le monde réel — pour toucher, courir, s'ennuyer, rêver, se disputer et se réconcilier. Et chaque heure passée devant un écran est une heure soustraite à ce développement.
 
 [Pause 3 secondes]
 
@@ -220,14 +214,14 @@ Prenez soin de vous — et des yeux que vous protégez.
 
 **Termes et concepts utilisés :**
 - Circuit de renforcement dopamine — boucle de récompense activée par les écrans, similaire à une machine à sous
-- Décalage dopamine — écart de 10-15 ans entre le développement du système de récompense et du système inhibiteur (NIDA, 2018)
+- Décalage dopamine — écart de 10-15 ans entre le développement du système de récompense et du système inhibiteur (Christakis, 2018)
 - Reset électronique — protocole de Dunckley : 4 semaines de réduction des écrans pour normaliser l'activité cérébrale
 - Fonctions exécutives — planification, inhibition, flexibilité cognitive (Diamond, 2013)
 - Co-création des règles — activation du cortex préfrontal par la prise de décision
 
 **Sources :**
 - Tristan Harris, témoignage devant le Sénat des États-Unis (2019), Center for Humane Technology — « Seules deux industries appellent leurs clients des utilisateurs »
-- NIDA (National Institute on Drug Abuse), rapport sur la dopamine pédiatrique (2018) — décalage entre système de récompense et système inhibiteur chez l'enfant
+- Dimitri Christakis et al., *JAMA Pediatrics* (2018), Seattle Children's Research Institute — travaux sur l'impact des écrans sur le développement du système de récompense et la dopamine pédiatrique
 - Victoria Dunckley, *Reset Your Child's Brain* (2015), UCLA Semel Institute — 4 semaines de réduction des écrans et normalisation de l'activité cérébrale
 - Adele Diamond, « Executive Functions », *Annual Review of Psychology* (2013), Université de la Colombie-Britannique — fonctions exécutives comme meilleur prédicteur de réussite, impact négatif de la surstimulation par les écrans
 

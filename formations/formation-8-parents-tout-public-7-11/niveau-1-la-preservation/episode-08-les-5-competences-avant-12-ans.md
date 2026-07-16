@@ -110,11 +110,7 @@ Mais il y a une sixième compétence. Et elle est différente des cinq autres. P
 
 Un enfant ne peut pas apprendre à se réguler émotionnellement si son parent ne peut pas co-réguler. La co-régulation, c'est la capacité du parent à rester calme, présent et ancré quand l'enfant est en détresse émotionnelle. C'est le visage que vous faites quand votre enfant pleure. C'est la voix que vous utilisez quand il est en colère. C'est la posture corporelle que vous adoptez quand il vous provoque.
 
-Daniel Siegel, dans *The Developing Mind* publié en 2012, écrit :
-
-[Voix lente, avec solennité]
-
-« *La leçon émotionnelle la plus puissante que reçoit un enfant n'est pas ce que vous lui dites. C'est ce qu'il voit dans votre visage quand vous êtes stressé.* »
+Daniel Siegel, psychiatre à l'Université de Californie à Los Angeles, exprime une idée fondamentale dans son ouvrage *The Developing Mind* (2012) : la leçon émotionnelle la plus puissante que reçoit un enfant n'est pas ce que vous lui dites — c'est ce qu'il observe dans votre expression faciale, votre ton de voix et votre posture corporelle quand vous êtes stressé. L'enfant est un scanner émotionnel : il enregistre votre état nerveux bien avant de traiter vos mots.
 
 [Pause 3 secondes]
 
@@ -204,11 +200,7 @@ L'essentiel est de ne pas s'arrêter. Parce que le cerveau de votre enfant ne s'
 
 [Voix douce, solennelle]
 
-Je termine avec Alison Gopnik, professeure de psychologie à l'Université de Berkeley, l'une des plus grandes chercheuses mondiales sur le développement de l'enfant. Elle écrit :
-
-[Voix lente, chaque mot compte]
-
-« *Le cerveau d'un enfant est la machine à apprendre la plus puissante de l'univers connu. Et notre responsabilité — en tant que parents, en tant qu'éducateurs, en tant que société — n'est pas de la programmer. C'est de préserver les conditions dans lesquelles elle peut se programmer elle-même.* »
+Je termine avec la pensée d'Alison Gopnik, professeure de psychologie à l'Université de Berkeley, l'une des plus grandes chercheuses mondiales sur le développement de l'enfant. Dans ses travaux, notamment *The Philosophical Baby* (2009), elle exprime l'idée que le cerveau d'un enfant est la machine à apprendre la plus puissante que nous connaissions. Et la responsabilité des adultes — parents, éducateurs, société — n'est pas de la programmer. C'est de préserver les conditions dans lesquelles elle peut se développer par elle-même.
 
 [Pause 4 secondes]
 
@@ -216,7 +208,7 @@ Votre enfant de 7, 8, 9, 10, 11 ans a un cerveau en plein câblage. Et votre tra
 
 Préserver. C'est un mot qui semble passif. Mais dans un monde qui pousse à remplir, à intervenir, à contrôler — préserver est l'acte le plus **radical** que vous puissiez faire.
 
-Pour cette semaine : le bilan des 5 compétences. Honnête. Puis un plan d'action — une compétence à renforcer, un épisode à relisten, un exercice à reprendre.
+Pour cette semaine : le bilan des 5 compétences. Honnête. Puis un plan d'action — une compétence à renforcer, un épisode à réécouter, un exercice à reprendre.
 
 Vous avez les outils. Vous avez les connaissances. Et vous avez le plus puissant des leviers — l'amour que vous portez à votre enfant. Maintenant, il faut agir. Un jour à la fois. Une interaction à la fois. Un mot à la fois.
 

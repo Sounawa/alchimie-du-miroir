@@ -28,7 +28,9 @@
 
 [Voix un peu plus basse, comme une histoire de nuit]
 
-Il est 3 heures du matin. Tu es au lit. Et soudain — sans raison — quelque chose te réveille. Pas un bruit. Pas un rêve. Juste un sentiment. Lourd. Sombre. Comme si quelqu'un s'était assis sur ta poitrine.
+[Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
+
+Il est 3 heures du matin. Tu es au lit. Et soudain — tu te réveilles. Tu n'arrives pas à te rendormir. Ton cœur bat un peu plus vite. Tu ne sais pas pourquoi.
 
 Tu ouvres les yeux. Tu regardes le plafond. Tu ne sais pas ce qui se passe. Mais tu sais que quelque chose ne va pas.
 
@@ -116,6 +118,8 @@ Parfois, il y a deux visiteurs en même temps. La tristesse ET la colère. La pe
 
 Et toi, quel est ton visiteur le plus fréquent ? Celui qui revient le plus souvent dans ton jardin ?
 
+[Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
+
 [Pause 2 secondes]
 
 Si tu ne sais pas encore, ne t'inquiète pas. C'est exactement ce qu'on va découvrir dans ta mission.
@@ -138,13 +142,15 @@ Première étape : **Trouve ton visiteur.** Pose-toi cette question : « Ces der
 
 Deuxième étape : **Donne-lui un nom.** Pas le nom scientifique — TON nom. Celui qui te vient naturellement. « Le brouillard », « le dragon rouge », « la boule noire », « le soleil éclatant » — peu importe. C'est TIEN.
 
-Troisième étape : **Dessine-le.** Sur la page 6. Avec des couleurs, des formes, des mots autour. Est-ce qu'il est grand ? Petit ? Spiky ? Doux ? Est-ce qu'il a des yeux ? Est-ce qu'il fait du bruit ?
+Troisième étape : **Dessine-le.** Sur la page 6. Avec des couleurs, des formes, des mots autour. Est-ce qu'il est grand ? Petit ? Piquants ? Doux ? Est-ce qu'il a des yeux ? Est-ce qu'il fait du bruit ?
 
 Quatrième étape — la plus importante : **Où le sens-tu dans ton corps ?** La colère, souvent, c'est dans les poings et la mâchoire. La peur, c'est dans le ventre et la gorge. La tristesse, c'est dans la poitrine et les yeux. Mais toi, c'est où ? Dessine une flèche ou écris l'endroit sur ton dessin.
 
 [Pause]
 
 Prends ton temps. Ce dessin, tu vas le garder tout au long du voyage. Il deviendra ta carte personnelle.
+
+[Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
 
 [Transition — petite musique]
 

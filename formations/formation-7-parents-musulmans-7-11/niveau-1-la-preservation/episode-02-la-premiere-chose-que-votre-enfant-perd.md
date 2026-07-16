@@ -120,6 +120,8 @@ La recherche est formelle. John Gottman, psychologue à l'Université de Washing
 
 Vingt-trois ans plus tard. Les effets sont mesurables. Permanents.
 
+Les recherches de Marc Brackett, directeur du Yale Center for Emotional Intelligence, confortent ces résultats. Dans *Permission to Feel* (2019), Brackett montre que le simple fait d'enseigner aux enfants un vocabulaire émotionnel précis — sa méthode RULER, déployée dans des centaines d'écoles — améliore non seulement la santé émotionnelle des élèves, mais aussi leurs résultats scolaires et leur climat social. Le message est clair : les mots qu'un enfant possède pour décrire son monde intérieur déterminent sa capacité à y naviguer.
+
 Et dans la tradition prophétique, le Prophète ﷺ avait compris cela avant la neuroscience. Quand il rencontrait un compagnon, il ne disait pas « ça va ? ». Il disait :
 
 « Kayfa aṣbaḥta ? » — « Comment as-tu passé ton matin ? »
@@ -263,6 +265,7 @@ Que votre cœur trouve la paix.
 **Sources :**
 - Coran 3:134 (ghaḍab), 12:84 (ḥuzn), 28:21 (khawf), 12:83 (ḥasrat), vocabulaire coranique des émotions
 - John Gottman, *Raising an Emotionally Intelligent Child* (1997), Université de Washington — étude longitudinale, 130 familles, suivi sur 23 ans
+- Marc Brackett, *Permission to Feel* (2019), Yale Center for Emotional Intelligence — méthode RULER et impact du vocabulaire émotionnel sur le développement de l'enfant
 - Hadith : « Qu'il dise du bien ou qu'il se taise » (Sahih Bukhari & Muslim, rapporté par Abū Hurayra)
 - Hadith prophétique : « Kayfa aṣbaḥta ? » (salutation du Prophète ﷺ, sunna de la question ouverte)
 

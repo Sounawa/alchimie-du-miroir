@@ -42,6 +42,8 @@ Tristan Harris n'est pas un ennemi des écrans. Il utilise un téléphone, comme
 
 Aujourd'hui, on va entrer dans le labyrinthe d'écran. Et on va en sortir.
 
+[Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
+
 [Transition musicale — 2 secondes]
 
 ---
@@ -80,6 +82,8 @@ Anna Lembke, psychiatre à l'Université de Stanford, a publié en 2021 un livre
 
 Mais — et c'est crucial — je ne suis pas en train de te dire « jette ton téléphone ». Je suis en train de te dire : « Maintenant que tu sais, c'est ta responsabilité. »
 
+[Même les adultes ont du mal avec les écrans. Ce n'est pas facile pour personne — mais tu es en train d'apprendre quelque chose que beaucoup d'adultes ne savent pas encore faire.]
+
 Parce que le gardien du château, c'est toi. Même face à un labyrinthe d'écran conçu par des scientifiques.
 
 [Transition — changement de rythme]
@@ -101,6 +105,8 @@ Ou alors, tu es en train de regarder une vidéo. La vidéo se termine, et une au
 Rappelle-toi la carte de ton corps du territoire 2. Quand tu passes une heure sur ton téléphone sans t'en rendre compte, qu'est-ce que ton corps ressent après ? Des yeux fatigués ? La nuque raide ? Une vague de vide ? Une petite tristesse sans raison ?
 
 Ce n'est pas un hasard. C'est ton corps qui t'envoie un message. Le messager dit : « Ton système de récompense vient d'être bombardé. Ton cerveau est fatigué. Et la dopamine qui a monté… elle redescend. Et quand elle redescend, tu te sens vide. »
+
+[Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
 
 [Transition douce]
 
@@ -131,6 +137,8 @@ Et à la fin des 10 minutes — tu rescannes ton corps. Comment tu te sens MAINT
 [Pause]
 
 Maintenant, compare. Avant et après. Est-ce que quelque chose a changé ? Est-ce que tu es plus calme ? Plus agité ? Plus présent ? Plus ennuyé ? L'ennui est intéressant — note-le. L'ennui, c'est justement ce que les applications essaient de t'éviter à tout prix. Et l'ennui, c'est là où les bonnes idées naissent.
+
+[Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
 
 [Transition]
 
@@ -182,13 +190,13 @@ Cet épisode s'appuie sur les recherches en neurosciences de la récompense et s
 
 Tristan Harris, ancien design ethicist chez Google, a cofondé le Center for Humane Technology. Ses révélations sur l'utilisation de techniques psychologiques dans la conception d'applications ont été documentées dans le documentaire *The Social Dilemma* (2020, Netflix).
 
-La neurobiologie de la dopamine chez l'adolescent est documentée par B.J. Casey, neuroscientifique à l'Université de Yale, dans sa publication « The Teenage Brain: Self Control » dans *Current Directions in Psychological Science* (2014) : le circuit mésolimbique de la dopamine est matures avant le cortex préfrontal, créant un décalage entre la sensibilité à la récompense et la capacité d'inhibition.
+La neurobiologie de la dopamine chez l'adolescent est documentée par B.J. Casey, neuroscientifique à l'Université de Yale, dans sa publication « The Teenage Brain: Self Control » dans *Current Directions in Psychological Science* (2014) : le circuit mésolimbique de la dopamine est mature avant le cortex préfrontal, créant un décalage entre la sensibilité à la récompense et la capacité d'inhibition.
 
 Anna Lembke, psychiatre à l'Université de Stanford, a publié *Dopamine Nation: Finding Balance in the Age of Indulgence* (2021), démontrant que la sur-stimulation dopaminergique (écrans, réseaux sociaux, jeux) crée un cycle de tolérance et de sevrage similaire à celui des substances addictives.
 
 **Ce que vous pouvez faire :**
 - Faites le défi des 10 minutes en même temps que votre enfant. Montrez l'exemple.
-- Ne utilisez pas cet épisode comme prétexte pour confisquer l'écran. Le message est l'agentivité, pas la restriction.
+- N'utilisez pas cet épisode comme prétexte pour confisquer l'écran. Le message est l'agentivité, pas la restriction.
 - Si votre enfant dit « j'ai réussi les 10 minutes et je me suis ennuyé », répondez : « Super ! L'ennui, c'est le début de la créativité. »
 
 [Fin — musique de sortie douce, 4 secondes]

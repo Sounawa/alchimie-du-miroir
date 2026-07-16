@@ -98,6 +98,12 @@ Alison Gopnik, professeure de psychologie à l'Université de Californie à Berk
 
 Le cerveau de votre enfant ne construit pas à partir de rien. Il AFFINE ce qui est déjà là. Votre enfant sait intuitivement que la tristesse demande du réconfort, que la colère demande de l'espace, que la peur demande de la proximité. Ce ne sont pas des apprentissages. C'est de la fiṭra — ces savoirs pré-câblés qu'Allah a placés dans la nature humaine.
 
+[Transition — léger changement de rythme]
+
+Et ce processus d'affinement a une fenêtre temporelle précise. Daniel Siegel, psychiatre à l'UCLA, décrit dans *The Whole-Brain Child* (2011) la période 7-11 ans comme le moment où le cerveau développe ce qu'il appelle le **mindsight** — la capacité à percevoir ses propres états internes et ceux des autres. Cette capacité n'émerge pas par hasard : elle dépend des connexions qui se renforcent — ou non — pendant cette fenêtre. Si l'environnement ne nourrit pas cette intégration, les circuits restent fragmentés.
+
+Les recherches d'Eric Kandel — prix Nobel de médecine et professeur à l'Université Columbia — ont montré, dès ses travaux fondamentaux publiés dans *Principles of Neural Science* (2001), que les périodes critiques du câblage neuronal sont irréversibles. Les connexions neuronales fréquemment activées entre 7 et 11 ans se renforcent ; celles qui ne sont pas activées s'éliminent. Ce que la neuroscience appelle « l'élagage synaptique » — le cerveau supprime ce qui n'est pas utilisé. La fiṭra, si elle n'est pas activée par un environnement qui la reconnaît, peut être littéralement effacée par le câblage du cerveau.
+
 [Pause]
 
 Et le travail du parent entre 7 et 11 ans ? Ce n'est pas d'enseigner l'intelligence émotionnelle à votre enfant. Votre enfant l'a déjà. Votre travail est de ne pas la DÉTRUIRE.
@@ -236,6 +242,8 @@ Que votre cœur trouve la paix.
 **Sources :**
 - Coran 30:30 — la fiṭra comme disposition originelle
 - Alison Gopnik, *The Philosophical Baby: What Children's Minds Tell Us About Truth, Love, and the Meaning of Life* (2009), Université de Californie à Berkeley — les théories intuitives du bébé
+- Daniel Siegel & Tina Payne Bryson, *The Whole-Brain Child* (2011), UCLA — le mindsight et l'intégration cérébrale entre 7 et 11 ans
+- Eric Kandel, *Principles of Neural Science* (2001), Université Columbia — périodes critiques du câblage neuronal et élagage synaptique
 - Ibn Qayyim al-Jawziyya, *Tuhfat al-Mawdūd bi-Aḥkām al-Mawlūd* — l'enfant comme amāna
 - Al-Ghazālī, *Iḥyāʾ ʿulūm al-dīn*, Livre I — l'enfant comme terre vierge à cultiver
 

@@ -42,6 +42,8 @@ Tu ne sais pas ce qui s'est passé. Les 90 minutes ont disparu. Comme un trou no
 
 Si tu connais ce sentiment — écoute bien, parce que ce que je vais te dire n'est pas un sermon. C'est une explication. Et elle change tout.
 
+[Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
+
 Ce n'est PAS ta faute.
 
 [Transition musicale — 2 secondes]
@@ -58,7 +60,7 @@ Pour comprendre ce qui se passe, on va parler de ton cerveau. Et plus précisém
 
 Imagine une sonnette dans ton cerveau. À chaque fois que quelque chose d'excitant ou d'intéressant se passe — tu gagnes un jeu, tu reçois un message, tu vois une vidéo drôle — cette sonnette retentit : **DING ! WOW ! C'EST GÉNIAL !**
 
-Cette sonnette, en vrai, s'appelle la **dopamine** (دُوبَامِين). C'est une molécule que ton cerveau fabrique quand il perçoit une récompense. Et normalement, c'est un bon système. La dopamine te motive à explorer, à apprendre, à chercher.
+Cette sonnette, en vrai, s'appelle la **dopamine**. C'est une molécule que ton cerveau fabrique quand il perçoit une récompense. Et normalement, c'est un bon système. La dopamine te motive à explorer, à apprendre, à chercher.
 
 Le problème, c'est que les créateurs d'applications le savent. Ils savent EXACTEMENT comment faire sonner ta sonnette. Pas une fois — tout le temps. Chaque scroll, chaque notification, chaque like, chaque nouvelle vidéo — DING DING DING DING DING.
 
@@ -69,6 +71,10 @@ Et voici ce qui se passe : la sonnette se fatigue. Comme si quelqu'un sonnait à
 [Pause]
 
 C'est pour ça qu'après 90 minutes de scroll, tu te sens vide. Ce n'est pas que tu es fatigué — c'est que ta sonnette est épuisée. Et dans cet état, RIEN ne t'excite plus. Ni les vraies choses, ni les fausses.
+
+[Voix lente, avec douceur]
+
+Le Coran nous rappelle que le temps est un dépôt — une amānah — que Allah nous a confié. Un dépôt, ça veut dire que ça ne t'appartient pas. Ça t'est prêté. Et un jour, on te demandera comment tu l'as utilisé. Pas pour te faire peur — pour te faire réfléchir. Chaque minute passée dans le labyrinthe sans en avoir conscience, c'est une minute de ton dépôt qui s'écoule sans que tu la choisisses.
 
 [Voix avec insistance]
 
@@ -114,6 +120,8 @@ Mais si tu arrives à rester dans cet inconfort — juste quelques minutes — q
 
 C'est ça, la liberté. Pas supprimer les écrans. Les connaître.
 
+[Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
+
 [Transition musicale — 2 secondes]
 
 ---
@@ -145,6 +153,8 @@ Dix minutes. C'est court. Mais si tu as l'habitude d'être sur un écran en perm
 **APRÈS :** Quand les 10 minutes sont terminées, reprends ton journal et écris deux NOUVEAUX mots. Comment tu te sens MAINTENANT ?
 
 Et ensuite, la vraie question — écris-la sous tes mots : **Qu'est-ce qui a changé ?**
+
+[Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
 
 [Transition — petite musique]
 
@@ -219,9 +229,10 @@ Les chiffres : le temps d'écran moyen des 8-12 ans est de 4h30/jour (Common Sen
 ## NOTES DE PRODUCTION
 
 **Termes arabes utilisés (avec voyelles) :**
-- Dūbāmīn (دُوبَامِين) — dopamine (terme translittéré)
+- Amānah (أَمَانَةٌ) — dépôt, confiance, responsabilité
 
 **Sources :**
+- Coran 33:72 — « Nous avons proposé le dépôt (amānah) aux cieux, à la terre et aux montagnes. Ils ont refusé de le porter et en ont eu peur. L'homme l'a porté »
 - Tristan Harris, Center for Humane Technology — citation sur « users » comme terme commun entre drogues et logiciels
 - Common Sense Media, *The Common Sense Census: Media Use by Tweens and Teens* (2021) — 4h30/jour pour les 8-12 ans
 - Twenge, J.M. & Campbell, W.K., « Associations Between Screen Time and Lower Psychological Well-Being » (2018), SDSU — temps d'écran et régulation émotionnelle
