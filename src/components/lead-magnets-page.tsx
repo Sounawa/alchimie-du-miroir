@@ -1,12 +1,12 @@
 'use client'
 
-import { useState, useMemo } from "react"
-import { leadMagnetsList, leadMagnetsData } from "@/lib/generated-data"
+import { useState, useMemo, useEffect } from "react"
+import { loadLeadMagnets } from "@/lib/data-loader"
+import type { LeadMagnetData } from "@/lib/data-loader"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { ScrollArea } from "@/components/ui/scroll-area"
-import { Separator } from "@/components/ui/separator"
 import ReactMarkdown from "react-markdown"
 import {
   Mic,
@@ -18,6 +18,7 @@ import {
   Sparkles,
   Briefcase,
   Globe,
+  Loader2,
 } from "lucide-react"
 import { cn } from "@/lib/utils"
 
@@ -56,22 +57,46 @@ const AUDIENCE_CONFIG: Record<string, { color: string; bg: string; border: strin
   },
 }
 
+interface LeadMagnetsListData {
+  slug: string
+  title: string
+  audience: string
+  audienceLabel: string
+  meta: LeadMagnetData['meta']
+}
+
 export function LeadMagnetsPage() {
   const [selectedSlug, setSelectedSlug] = useState<string | null>(null)
   const [filterAudience, setFilterAudience] = useState<string>("all")
+  const [leadMagnetsList, setLeadMagnetsList] = useState<LeadMagnetsListData[]>([])
+  const [leadMagnetsDataMap, setLeadMagnetsDataMap] = useState<Record<string, LeadMagnetData>>({})
+  const [loading, setLoading] = useState(true)
+
+  useEffect(() => {
+    let cancelled = false
+    loadLeadMagnets().then(({ list, data }) => {
+      if (cancelled) return
+      setLeadMagnetsList(list)
+      setLeadMagnetsDataMap(data)
+      setLoading(false)
+    }).catch(() => {
+      if (!cancelled) setLoading(false)
+    })
+    return () => { cancelled = true }
+  }, [])
 
   const audiences = useMemo(() => {
     const set = new Set(leadMagnetsList.map(lm => lm.audience))
     return Array.from(set).sort()
-  }, [])
+  }, [leadMagnetsList])
 
   const filtered = useMemo(() => {
     if (filterAudience === "all") return leadMagnetsList
     return leadMagnetsList.filter(lm => lm.audience === filterAudience)
-  }, [filterAudience])
+  }, [filterAudience, leadMagnetsList])
 
   const grouped = useMemo(() => {
-    const groups: Record<string, typeof leadMagnetsList> = {}
+    const groups: Record<string, LeadMagnetsListData[]> = {}
     for (const lm of filtered) {
       if (!groups[lm.audience]) groups[lm.audience] = []
       groups[lm.audience].push(lm)
@@ -79,7 +104,16 @@ export function LeadMagnetsPage() {
     return groups
   }, [filtered])
 
-  const selectedItem = selectedSlug ? leadMagnetsData[selectedSlug] : null
+  const selectedItem = selectedSlug ? leadMagnetsDataMap[selectedSlug] : null
+
+  if (loading) {
+    return (
+      <div className="flex flex-col items-center justify-center h-full text-center px-8">
+        <Loader2 className="h-8 w-8 text-rose-600 dark:text-rose-400 animate-spin mb-4" />
+        <p className="text-sm text-muted-foreground">Chargement des scripts...</p>
+      </div>
+    )
+  }
 
   if (selectedItem) {
     const cfg = AUDIENCE_CONFIG[selectedItem.audience] || AUDIENCE_CONFIG["F1-musulman"]
@@ -169,7 +203,7 @@ export function LeadMagnetsPage() {
             return (
               <Button
                 key={aud}
-                variant={filterAudience === aud ? "default" : "outline"}
+                variant={filterAudience === aud ? 'default' : 'outline'}
                 size="sm"
                 className={cn(
                   "text-xs",

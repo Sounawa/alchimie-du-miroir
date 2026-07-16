@@ -1,16 +1,15 @@
 'use client'
 
-import { useMemo } from "react"
-import { formations as staticFormations, episodesData } from "@/lib/generated-data"
+import { useMemo, useState, useCallback, useEffect } from "react"
+import { formations as staticFormations, loadEpisode } from "@/lib/data-loader"
 import { FormationSidebar } from "@/components/formation-sidebar"
 import { EpisodeReader } from "@/components/episode-reader"
 import { PricingPage } from "@/components/pricing-page"
 import { LeadMagnetsPage } from "@/components/lead-magnets-page"
 import { Sheet, SheetContent, SheetTitle } from "@/components/ui/sheet"
 import { Button } from "@/components/ui/button"
-import { Menu, Sparkles, BookOpen, Crown, FileAudio } from "lucide-react"
+import { Menu, Sparkles, BookOpen, Crown, FileAudio, Loader2 } from "lucide-react"
 import { cn } from "@/lib/utils"
-import { useState, useCallback } from "react"
 
 export interface Formation {
   id: string
@@ -48,17 +47,34 @@ export default function Home() {
   const [episodeMeta, setEpisodeMeta] = useState<Record<string, string>>({})
   const [sidebarOpen, setSidebarOpen] = useState(false)
   const [currentView, setCurrentView] = useState<ViewMode>("reader")
+  const [loadingEpisode, setLoadingEpisode] = useState(false)
 
   const handleSelectEpisode = useCallback((slug: string) => {
     setSelectedPath(slug)
-    const data = episodesData[slug]
-    if (data) {
-      setEpisodeTitle(data.title || "")
-      setEpisodeContent(data.content || "")
-      setEpisodeMeta(data.meta || {})
-    }
+    setEpisodeContent("")
+    setEpisodeTitle("")
+    setEpisodeMeta({})
+    setLoadingEpisode(true)
     setSidebarOpen(false)
   }, [])
+
+  // Load episode content when selectedPath changes
+  useEffect(() => {
+    if (!selectedPath) return
+    let cancelled = false
+    loadEpisode(selectedPath).then((data) => {
+      if (cancelled) return
+      if (data) {
+        setEpisodeTitle(data.title || "")
+        setEpisodeContent(data.content || "")
+        setEpisodeMeta(data.meta || {})
+      }
+      setLoadingEpisode(false)
+    }).catch(() => {
+      if (!cancelled) setLoadingEpisode(false)
+    })
+    return () => { cancelled = true }
+  }, [selectedPath])
 
   const totalEpisodes = formations.reduce(
     (acc, f) => acc + f.niveaux.reduce((a, n) => a + n.episodes.length, 0),
@@ -157,12 +173,19 @@ export default function Home() {
 
             {/* Content Area */}
             <div className="flex-1 overflow-hidden bg-white dark:bg-stone-950">
-              <EpisodeReader
-                formations={formations}
-                selectedPath={selectedPath}
-                episodeContent={episodeContent}
-                episodeMeta={episodeMeta}
-              />
+              {loadingEpisode ? (
+                <div className="flex flex-col items-center justify-center h-full text-center px-8">
+                  <Loader2 className="h-8 w-8 text-emerald-700 dark:text-emerald-400 animate-spin mb-4" />
+                  <p className="text-sm text-muted-foreground">Chargement de l&apos;episode...</p>
+                </div>
+              ) : (
+                <EpisodeReader
+                  formations={formations}
+                  selectedPath={selectedPath}
+                  episodeContent={episodeContent}
+                  episodeMeta={episodeMeta}
+                />
+              )}
             </div>
           </>
         ) : currentView === 'leadmagnets' ? (
@@ -181,7 +204,7 @@ export default function Home() {
         <div className="px-6 py-3 flex items-center justify-between text-xs text-stone-500 dark:text-stone-400">
           <span>© L&apos;Alchimie du Miroir — Spiritualite au service du professionnel</span>
           <span className="hidden sm:inline">
-            {formations.length} formations · {totalNiveaux} niveaux · {totalEpisodes} episodes · ~56h de contenu
+            {formations.length} formations · {totalNiveaux} niveaux · {totalEpisodes} episodes · ~65h de contenu
           </span>
         </div>
       </footer>

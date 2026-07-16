@@ -64,19 +64,23 @@ Certains amis sont comme ces miroirs déformants. Quand tu passes du temps avec 
 
 [Pause]
 
-Le deuxième type de miroir, c'est le miroir clair. Le vrai miroir. Celui qui te montre exactement qui tu es — ni meilleur, ni pire. Toi.
+Le deuxième type de miroir, c'est le miroir clair. Le vrai. Celui qui te montre exactement qui tu es — ni meilleur, ni pire. Toi.
 
 Quand tu es avec un ami miroir clair, qu'est-ce que tu ressens ? Tu es détendu. Tu n'as pas besoin de faire le rigolo. Tu n'as pas besoin de te montrer. Tu peux être silencieux et c'est OK. Tu peux dire quelque chose de bête et tu sais que l'autre ne va pas s'en servir contre toi.
 
 [Voix douce]
 
-Le mot « miroir » n'est pas choisi par hasard. Giacomo Rizzolatti, neuroscientifique à l'Université de Parme en Italie, a découvert en 1996 qu'on a dans le cerveau des « neurones miroirs » — des neurones qui s'activent quand tu observes quelqu'un comme si c'était toi qui vivais la chose. C'est pour ça que quand ton copain est triste, tu ressens quelque chose aussi. Ton cerveau EST un miroir. Et le cerveau des autres est aussi un miroir.
+Le mot « miroir » n'est pas choisi par hasard. Giacomo Rizzolatti, neuroscientifique à l'Université de Parme en Italie, a découvert en 1996 qu'on a dans le cerveau des « neurones miroirs » — des neurones qui s'activent quand tu observes quelqu'un comme si c'était toi qui vivais la chose.
+
+Ton cerveau EST un miroir. Et le cerveau des autres aussi.
 
 Donc la question que tu peux te poser, c'est : « Quand je suis avec cette personne, qu'est-ce que mon miroir intérieur me renvoie ? Est-ce que je me vois déformé ou vrai ? »
 
 [Voix avec conviction]
 
-Ce n'est pas que les amis miroirs déformants sont méchants. Parfois ils sont juste perdus, ils ne se rendent pas compte. Mais l'effet sur toi est réel. Et toi, le gardien de ton château, tu as le droit de choisir qui entre.
+Ce n'est pas que les amis miroirs déformants sont méchants. Parfois ils sont juste perdus.
+
+Mais l'effet sur toi est réel. Et toi, le gardien de ton château, tu as le droit de choisir qui entre.
 
 [Transition — changement de rythme]
 
@@ -134,9 +138,11 @@ Ensuite, sous chaque nom, écris un mot ou deux pour expliquer POURQUOI tu as ch
 
 [Pause]
 
-Et voici la partie la plus importante. Regarde tes noms rouges et jaunes. Pose-toi cette question — écris-la dans ton journal : « Est-ce que je CHOISIS de passer du temps avec cette personne, ou est-ce que c'est juste devenu une habitude ? »
+Regarde tes noms rouges et jaunes. Pose-toi cette question — écris-la dans ton journal : « Est-ce que je CHOISIS de passer du temps avec cette personne, ou est-ce que c'est juste devenu une habitude ? »
 
-Parce que le gardien du château, il choisit qui entre. Et il a le droit de changer d'avis.
+Parce que le gardien du château, il choisit qui entre.
+
+Il a le droit de changer d'avis.
 
 [Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
 
@@ -176,9 +182,7 @@ Ce trésor, ce n'est pas de l'or ou des bijoux. C'est quelque chose dans ton cer
 
 Et non, ce n'est pas un médicament. C'est un MUSCLE. Un muscle que tu as déjà — mais que tu n'entraînes peut-être pas.
 
-Le prochain épisode s'appelle « Le muscle de la gratitude ».
-
-À très vite, explorateur.
+Le prochain épisode s'appelle « Le muscle de la gratitude ». Réfléchis à ça d'ici là : qu'est-ce qui est invisible dans ta vie et que tu pourrais perdre sans même t'en rendre compte ?
 
 [Transition musicale douce — 3 secondes]
 

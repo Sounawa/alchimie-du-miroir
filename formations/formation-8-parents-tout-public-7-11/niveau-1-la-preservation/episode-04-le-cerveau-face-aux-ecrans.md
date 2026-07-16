@@ -54,17 +54,17 @@ C'est ce qu'on appelle un circuit de renforcement. Et il fonctionne exactement c
 
 [Pause]
 
-Mais voici la différence cruciale : un adulte a un cortex préfrontal mature. Il peut dire « assez ». Il peut reconnaître le piège. Il peut éteindre l'écran — même si c'est difficile.
+Mais la différence est là. Un adulte a un cortex préfrontal mature. Il peut dire « assez ». Il peut reconnaître le piège. Il peut éteindre l'écran — même si c'est difficile.
 
-Un enfant de 8 ans ne le peut pas. Son cortex préfrontal est en construction. Son système de récompense — qui se développe plus vite que son système d'inhibition — fonctionne à plein régime. Son système de freinage, lui, n'existe pas encore.
+Un enfant de 8 ans ne le peut pas.
+
+Son cortex préfrontal est en construction. Son système de récompense fonctionne à plein régime. Son système de freinage n'existe pas encore.
 
 [Voix lente, avec gravité]
 
-Et de l'autre côté de l'écran, il y a une équipe de 10 000 ingénieurs — les meilleurs au monde — dont le travail est de garder les yeux de votre enfant fixés sur l'écran. Ils connaissent la neuroscience pédiatrique mieux que la plupart des pédiatres. Ils savent exactement combien de secondes d'attente avant que le cerveau d'un enfant de 8 ans ne décroche. Ils savent quelles couleurs activent son amygdale. Ils savent quel type de notification déclenche une réponse compulsive.
+Et de l'autre côté de l'écran, il y a une équipe de 10 000 ingénieurs — les meilleurs au monde — dont le travail est de garder les yeux de votre enfant fixés sur l'écran. Ils connaissent la neuroscience pédiatrique mieux que la plupart des pédiatres. Ils savent combien de secondes avant que le cerveau d'un enfant de 8 ans ne décroche. Ils savent quelles couleurs activent son amygdale. Ils savent quel type de notification déclenche une réponse compulsive.
 
-[Pause 2 secondes]
-
-Et ils ne sont pas méchants. Ils font leur travail. Mais leur travail consiste à optimiser le temps passé sur l'application — c'est ce que leurs actionnaires exigent. Votre enfant n'est pas leur priorité. Le temps d'écran de votre enfant est leur métrique.
+Ils ne sont pas méchants. Ils font leur travail. Mais leur travail consiste à optimiser le temps passé sur l'application. Votre enfant n'est pas leur priorité. Le temps d'écran de votre enfant est leur métrique.
 
 La question n'est pas : « Mon enfant est-il accro ? » La question est : « Comprenez-vous que l'autre camp a une équipe de 10 000 personnes travaillant à garder votre enfant captif ? »
 
@@ -90,7 +90,7 @@ Victoria Dunckley, psychiatre au Semel Institute de l'Université de Californie 
 
 Quatre semaines. Pas quatre mois. Pas un an. Quatre semaines pour que le cerveau d'un enfant de 8 ans retrouve son fonctionnement normal.
 
-Et Dunckley précise quelque chose d'essentiel : ces enfants n'étaient pas « malades ». Leurs symptômes — l'agitation, l'irritabilité, les troubles du sommeil — n'étaient pas des pathologies. C'étaient les conséquences directes et réversibles de la surstimulation électronique. L'écran n'avait pas créé un problème. Il avait empêché le cerveau de se développer normalement.
+Et Dunckley précise quelque chose d'essentiel : ces enfants n'étaient pas « malades ». L'agitation, l'irritabilité, les troubles du sommeil — ce n'étaient pas des pathologies. C'étaient les conséquences directes et réversibles de la surstimulation électronique. L'écran n'avait pas créé un problème. Il avait empêché le cerveau de se développer normalement.
 
 [Pause]
 
@@ -98,7 +98,7 @@ Et Dunckley précise quelque chose d'essentiel : ces enfants n'étaient pas « m
 
 Adele Diamond, neuroscientifique à l'Université de la Colombie-Britannique, a consacré sa carrière à l'étude des fonctions exécutives — la capacité à planifier, à inhiber une impulsion, à passer d'une tâche à l'autre, à maintenir l'attention. En 2013, elle a publié une synthèse majeure montrant que les fonctions exécutives sont le meilleur prédicteur de la réussite scolaire, professionnelle et sociale — meilleur que le QI.
 
-Et devinez ce qui détruit le développement des fonctions exécutives entre 7 et 11 ans ? La surstimulation par les écrans. Parce que les fonctions exécutives se développent précisément par l'effort, l'ennui, la frustration surmontée, l'attention soutenue — tout ce que l'écran supprime.
+Et devinez ce qui détruit le développement des fonctions exécutives entre 7 et 11 ans ? La surstimulation par les écrans. Les fonctions exécutives se développent par l'effort, l'ennui, la frustration surmontée, l'attention soutenue — tout ce que l'écran supprime.
 
 [Pause 2 secondes]
 
@@ -194,13 +194,11 @@ Je termine avec la pensée de Victoria Dunckley, psychiatre au Semel Institute d
 
 [Pause 3 secondes]
 
-Vous êtes le préserveur du chantier neuronal le plus complexe de l'univers — le cerveau de votre enfant. Cette semaine, posez une limite. Pas avec colère. Pas avec culpabilité. Avec la certitude tranquille que vous faites votre travail.
+Vous êtes le préserveur du chantier neuronal le plus complexe de l'univers.
 
-[Pause]
+Cette semaine, posez une limite. Pas avec colère. Pas avec culpabilité. Avec la certitude tranquille que vous faites votre travail.
 
 Et si votre enfant vous dit « c'est injuste » — répondez avec le sourire et la conviction de quelqu'un qui sait : « Je sais. Et c'est justement pour ça que je le fais. »
-
-Le contrat numérique. Les trois règles. Et un regard posé sur l'enfant qui grandit sous votre toit.
 
 Prenez soin de vous — et des yeux que vous protégez.
 

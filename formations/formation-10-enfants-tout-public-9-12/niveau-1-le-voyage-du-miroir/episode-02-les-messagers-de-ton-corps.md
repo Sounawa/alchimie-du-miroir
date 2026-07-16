@@ -72,7 +72,11 @@ Prenons les émotions une par une. Je vais te décrire ce qui se passe dans ton 
 
 [Voix plus intime]
 
-Tu vois ce qui se passe ? Pour chaque émotion, ton corps envoie un message précis. Ce n'est pas un hasard. Antonio Damasio, un neuroscientifique à l'Université de Californie du Sud, a passé sa vie à étudier ça. En 1994, il a publié un livre qui a tout changé — *L'Erreur de Descartes*. Son idée, c'est que sans les signaux de ton corps, tu ne pourrais même pas prendre une décision simple. Tu ne saurais pas si tu aimes ou non un plat, une personne, une situation. Ton corps est ton premier cerveau émotionnel.
+Tu vois ce qui se passe ? Pour chaque émotion, ton corps envoie un message précis.
+
+Ce n'est pas un hasard. Antonio Damasio, un neuroscientifique à l'Université de Californie du Sud, a passé sa vie à étudier ça. Son idée : sans les signaux de ton corps, tu ne pourrais même pas prendre une décision simple. Tu ne saurais pas si tu aimes ou non un plat, une personne, une situation.
+
+Ton corps est ton premier cerveau émotionnel.
 
 [Voix douce, avec conviction]
 
@@ -96,11 +100,13 @@ Tu es en cours. Le prof te rend un contrôle. Tu regardes ta note et… tu sens 
 
 Et là, tu viens de rater le message. Parce que ton corps t'envoyait une information précieuse. Si tu avais pris trois secondes pour sentir où ça se trouve — ventre ? gorge ? poitrine ? — tu aurais su QUOI tu ressentais. Pas pourquoi. Juste quoi. Et c'est déjà énorme.
 
-Ou alors, un copain te dit « T'es nul au foot. » Et tout de suite, sans réfléchir, tu l'insultes ou tu pars bouder. Tu n'as pas pris une seule seconde pour remarquer que tes poings s'étaient serrés, que ta respiration était devenue courte, que ton visage était devenu chaud. Ton corps t'avait dit : « Colère. » Mais tu n'as pas écouté. Et du coup, tu as réagi au lieu d'agir.
+Ou alors, un copain te dit « T'es nul au foot. » Et tout de suite, sans réfléchir, tu l'insultes. Tu pars bouder. Tu n'as pas pris une seule seconde pour remarquer que tes poings s'étaient serrés, que ta respiration était devenue courte, que ton visage était devenu chaud. Ton corps t'avait dit : « Colère. » Mais tu n'as pas écouté. Et du coup, tu as réagi au lieu d'agir.
 
 [Pause]
 
-La différence entre réagir et agir, c'est la différence entre un gardien qui dort et un gardien qui veille. Et pour veiller, il faut d'abord entendre les messagers.
+La différence entre réagir et agir, c'est la différence entre un gardien qui dort et un gardien qui veille.
+
+Pour veiller, il faut d'abord entendre les messagers.
 
 [Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
 
@@ -142,7 +148,7 @@ Petite astuce : si tu n'es pas sûr pour une émotion — si tu ne sais pas où 
 
 [Voix créative, donne des exemples concrets]
 
-Et pour t'aider, voici un exemple de ce que ça pourrait donner : colorie en rouge les endroits où tu sens la colère — peut-être les poings, le visage, la poitrine. En bleu, les endroits où tu sens la tristesse — la gorge, les yeux, le centre de la poitrine. En jaune, les endroits où tu sens la joie — le visage, les bras, partout. En violet, les endroits où tu sens la peur — le ventre, les jambes, les épaules. Mais rappelle-toi : ce sont des exemples. Ton corps à toi, c'est peut-être complètement différent — et c'est ça qui est intéressant.
+Pour te donner une idée : colorie en rouge les endroits où tu sens la colère — peut-être les poings, le visage, la poitrine. En bleu, la tristesse — la gorge, les yeux, le centre de la poitrine. En jaune, la joie — le visage, les bras, partout. En violet, la peur — le ventre, les jambes, les épaules. Mais rappelle-toi : ce sont des exemples. Ton corps à toi, c'est peut-être complètement différent — et c'est ça qui est intéressant.
 
 [Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
 
@@ -176,13 +182,13 @@ Elle te rappelle que tu as un système de messagerie en toi, et que le premier p
 
 Tu connais maintenant les messagers de ton corps. Tu sais que ton ventre, ta gorge, ta poitrine, ton visage — ils parlent avant que tu penses. C'est déjà un super-pouvoir.
 
-Mais voici le problème : parfois, les messagers arrivent en courant, en hurlant, en faisant sonner toutes les alarmes en même temps. Et là, c'est le chaos. Tu n'entends plus rien. Tu EXPLOSES. Sans savoir pourquoi. Sans pouvoir l'arrêter.
+Le problème : parfois, les messagers arrivent en courant, en hurlant, en faisant sonner toutes les alarmes en même temps. Et là, c'est le chaos. Tu n'entends plus rien. Tu EXPLOSES. Sans savoir pourquoi. Sans pouvoir l'arrêter.
 
 Dans le prochain territoire, on va explorer exactement ça : quand le volcan éclate. Pourquoi est-ce que tu perds le contrôle ? Qu'est-ce qui se passe dans ton cerveau pendant ces quelques secondes ? Et surtout — est-ce qu'il y a un bouton « pause » ?
 
 La réponse est oui. Et elle va te surprendre.
 
-À très vite, explorateur.
+D'ici le prochain territoire, un défi : ce soir, avant de dormir, ferme les yeux trente secondes et écoute ton corps. Juste trente secondes. Tu seras surpris de ce que tu vas entendre.
 
 [Transition musicale douce — 3 secondes]
 

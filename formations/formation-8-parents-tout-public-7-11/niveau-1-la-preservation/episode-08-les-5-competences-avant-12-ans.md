@@ -30,7 +30,7 @@
 
 Vous avez écouté sept épisodes. Vous comprenez le câblage. Vous connaissez les recherches. Vous avez vu les renversements. Le jeu libre est neurologique. Le conflit est une école. L'anxiété de performance commence à 8 ans.
 
-Mais voici la question honnête — la question que personne ne pose :
+Mais la question honnête — la question que personne ne pose :
 
 [Pause 2 secondes]
 
@@ -64,7 +64,9 @@ Et vous passerez de la préservation à la réparation. Et la différence de dif
 
 La réparation, c'est ce que nous faisons avec les ados dans la Formation 6 — « Présence Parentale. » Et c'est possible. Mais c'est dix fois plus difficile que la préservation. Parce qu'à l'adolescence, le cerveau est en restructuration massive, les hormones sont en tempête, et les circuits qui auraient dû être posés entre 7 et 11 ans sont devenus des ornières profondes.
 
-Jean Piaget, le psychologue suisse, a identifié les stades du développement cognitif. La période de 7 à 11 ans correspond à ce qu'il appelle les « opérations concrètes » — le cerveau est capable de logique, de causalité, de perspective. Mais il n'est pas encore capable d'abstraction réflexive. Ce qui signifie que tout ce qui est appris pendant cette période est appris de façon **incarnée** — corps et cerveau ensemble, pas intellectuellement.
+Jean Piaget a identifié les stades du développement cognitif. La période de 7 à 11 ans correspond aux « opérations concrètes » — le cerveau est capable de logique, de causalité, de perspective. Mais pas encore d'abstraction réflexive.
+
+Tout ce qui est appris pendant cette période est appris de façon **incarnée** — corps et cerveau ensemble.
 
 C'est pour ça que j'insiste : intégré, pas compris.
 
@@ -74,7 +76,7 @@ C'est pour ça que j'insiste : intégré, pas compris.
 
 ### ENSEIGNEMENT (4:30 — 10:30)
 
-Voici les cinq compétences. Chacune correspond à un épisode de cette formation. Chacune est un circuit neuronal qui se câble — ou qui s'atrophie — entre 7 et 11 ans.
+Les cinq compétences. Chacune correspond à un épisode de cette formation. Chacune est un circuit neuronal qui se câble — ou qui s'atrophie — entre 7 et 11 ans.
 
 [Voix pédagogique, claire, avec du rythme]
 
@@ -108,7 +110,9 @@ Mais il y a une sixième compétence. Et elle est différente des cinq autres. P
 
 **La 6e compétence : la régulation de soi — dépend de la co-régulation parentale.**
 
-Un enfant ne peut pas apprendre à se réguler émotionnellement si son parent ne peut pas co-réguler. La co-régulation, c'est la capacité du parent à rester calme, présent et ancré quand l'enfant est en détresse émotionnelle. C'est le visage que vous faites quand votre enfant pleure. C'est la voix que vous utilisez quand il est en colère. C'est la posture corporelle que vous adoptez quand il vous provoque.
+Un enfant ne peut pas apprendre à se réguler émotionnellement si son parent ne peut pas co-réguler.
+
+La co-régulation, c'est la capacité du parent à rester calme, présent et ancré quand l'enfant est en détresse émotionnelle. C'est le visage que vous faites quand votre enfant pleure. C'est la voix que vous utilisez quand il est en colère. C'est la posture corporelle que vous adoptez quand il vous provoque.
 
 Daniel Siegel, psychiatre à l'Université de Californie à Los Angeles, exprime une idée fondamentale dans son ouvrage *The Developing Mind* (2012) : la leçon émotionnelle la plus puissante que reçoit un enfant n'est pas ce que vous lui dites — c'est ce qu'il observe dans votre expression faciale, votre ton de voix et votre posture corporelle quand vous êtes stressé. L'enfant est un scanner émotionnel : il enregistre votre état nerveux bien avant de traiter vos mots.
 
@@ -206,15 +210,9 @@ Je termine avec la pensée d'Alison Gopnik, professeure de psychologie à l'Univ
 
 Votre enfant de 7, 8, 9, 10, 11 ans a un cerveau en plein câblage. Et votre travail — pas de le construire, pas de le programmer — est de préserver les conditions. Les 30 minutes de rien. Le silence dans les conflits. Les questions sur l'effort, pas le résultat. Le droit à l'ennui. Le droit à l'erreur. Le droit à la difficulté.
 
-Préserver. C'est un mot qui semble passif. Mais dans un monde qui pousse à remplir, à intervenir, à contrôler — préserver est l'acte le plus **radical** que vous puissiez faire.
+Préserver. C'est un mot qui semble passif.
 
-Pour cette semaine : le bilan des 5 compétences. Honnête. Puis un plan d'action — une compétence à renforcer, un épisode à réécouter, un exercice à reprendre.
-
-Vous avez les outils. Vous avez les connaissances. Et vous avez le plus puissant des leviers — l'amour que vous portez à votre enfant. Maintenant, il faut agir. Un jour à la fois. Une interaction à la fois. Un mot à la fois.
-
-[Pause 3 secondes — pour laisser ce message s'installer]
-
-Vous n'avez pas besoin d'être parfait. Vous avez besoin d'être présent. Et vous l'êtes, puisque vous êtes là, maintenant, à écouter ces mots. Chaque seconde que vous passez à câbler avec votre enfant est une seconde qui ne sera jamais perdue.
+Mais dans un monde qui pousse à remplir, à intervenir, à contrôler — préserver est l'acte le plus **radical** que vous puissiez faire.
 
 Prenez soin de vous.
 

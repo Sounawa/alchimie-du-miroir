@@ -54,11 +54,7 @@ Commençons par une vérité contre-intuitive :
 
 Votre enfant de 8 ans n'est pas « accro » aux écrans.
 
-[Pause]
-
-L'addiction, au sens clinique du terme, exige un cortex préfrontal mature — celui qui permet de dire « j'en ai assez, je sais que c'est nocif, et je choisis d'arrêter ». Ce cortex ne sera pas mature avant 25 ans. Votre enfant de 8 ans n'a pas l'équipement neurologique pour être accro.
-
-Mais ce que votre enfant vit est **pire** que l'addiction. C'est un **détournement** de son système de récompense — un système qui est en pleine construction.
+L'addiction, au sens clinique du terme, exige un cortex préfrontal mature — celui qui permet de dire « j'en ai assez, je sais que c'est nocif, et je choisis d'arrêter ». Ce cortex ne sera pas mature avant 25 ans.
 
 [Voix lente, chaque mot compte]
 
@@ -108,7 +104,11 @@ Ibn Qayyim al-Jawziyya (ibn al-qayyim al-ǰawziyya), dans *Madārij al-Sālikīn
 
 [Voix avec une urgence contenue]
 
-Et il y a un détail anatomique que vous devez connaître. Les travaux de Jay Giedd, psychiatre au National Institute of Mental Health, publiés dans une série d'études longitudinales à partir de 1999, ont montré que le cortex préfrontal — la zone du cerveau responsable de la régulation de l'attention, de l'inhibition des impulsions et de la prise de décision — connaît son pic de croissance en volume de matière grise précisément entre 8 et 11 ans. Ce pic est suivi d'une phase d'élagage. Ce qui se passe pendant cette fenêtre — les habitudes d'attention que votre enfant forge, les circuits de récompense qu'il active jour après jour — détermine quels circuits survivront à l'élagage et lesquels seront éliminés. Autrement dit : les écrans ne se contentent pas de captiver votre enfant de 9 ans. Ils participent activement à la **construction** de son cortex préfrontal. Et un cortex préfrontal façonné par des stimuli à haute dopamine ne sera pas le même qu'un cortex préfrontal façonné par le jeu libre, la lecture, la conversation, et la contemplation.
+Et il y a un détail anatomique que vous devez connaître. Les travaux de Jay Giedd, psychiatre au National Institute of Mental Health, publiés dans une série d'études longitudinales à partir de 1999, ont montré que le cortex préfrontal connaît son pic de croissance en volume de matière grise précisément entre 8 et 11 ans.
+
+Ce pic est suivi d'une phase d'élagage. Les habitudes d'attention que votre enfant forge pendant cette fenêtre déterminent quels circuits survivront et lesquels seront éliminés.
+
+Les écrans ne se contentent pas de captiver votre enfant de 9 ans. Ils participent activement à la **construction** de son cortex préfrontal.
 
 [Transition — léger changement de rythme]
 
@@ -118,11 +118,11 @@ Le parent qui dit « 15 minutes d'écran, pas plus » applique une **règle**. L
 
 Les règles se heurtent. Les cadres donnent du sens.
 
-Quand vous dites « 15 minutes », votre enfant entend : « Ma mère me prive de quelque chose que j'aime. » Il va essayer de contourner, de négocier, de tricher. Parce que la règle est perçue comme arbitraire.
+Quand vous dites « 15 minutes », votre enfant entend : « Ma mère me prive de quelque chose que j'aime. » Il va essayer de contourner, de négocier, de tricher.
 
-Quand vous dites « Ton cerveau construit ses routes du plaisir. Chaque vidéo renforce l'autoroute de l'écran et affaiblit les routes du reste. Je ne te prive pas de l'écran — je te protège de perdre la capacité à aimer autre chose » — votre enfant entend : « Mon parent me comprend. Mon parent a une raison. Et cette raison, elle me concerne. »
+Quand vous dites « Ton cerveau construit ses routes du plaisir. Chaque vidéo renforce l'autoroute de l'écran et affaiblit les routes du reste. Je ne te prive pas de l'écran — je te protège de perdre la capacité à aimer autre chose » — votre enfant entend : « Mon parent me comprend. Mon parent a une raison. »
 
-Et un enfant de 8 ans est parfaitement capable de comprendre ça — si vous lui donnez les bons mots.
+Et un enfant de 8 ans est parfaitement capable de comprendre ça.
 
 ---
 
@@ -239,7 +239,9 @@ Le second est **baṣīra** (بَصِيرَةٌ) — la vue intérieure. La capa
 
 [Pause]
 
-Le Coran demande de protéger le baṣar pour préserver la baṣīra. Parce qu'un regard constamment bombardé de stimuli intenses perd la capacité à voir subtilement. L'œil s'habitue au flash et ne perçoit plus la lueur.
+Le Coran demande de protéger le baṣar pour préserver la baṣīra.
+
+Un regard constamment bombardé de stimuli intenses perd la capacité à voir subtilement. L'œil s'habitue au flash et ne perçoit plus la lueur.
 
 Votre enfant de 8 ans a encore les deux — le baṣar et la baṣīra. L'écran nourrit le premier et affame le second. Et votre rôle, c'est de veiller à ce que la baṣīra survive.
 

@@ -56,7 +56,7 @@ La question est : qu'est-ce que tu vois dans ces miroirs ?
 
 [Voix claire, avec une énergie nouvelle]
 
-Voici une expérience que tu connais sans doute :
+Tu connais sans doute cette expérience :
 
 Tu passes la journée avec un ami. Avec cet ami, tu te sens drôle. T'impressionnant. Courageux. Tu oses dire des choses que tu ne dirais jamais d'habitude. Tu ris plus fort. Tu te sens… plus grand.
 
@@ -64,7 +64,9 @@ Et puis, le lendemain, tu passes du temps avec un autre ami. Et là, tout change
 
 [Pause]
 
-Ce n'est pas toi qui as changé en 24 heures. C'est le miroir.
+Ce n'est pas toi qui as changé en 24 heures.
+
+C'est le miroir.
 
 Chaque personne que tu fréquentes agit comme un miroir invisible. Certains miroirs te grossissent — ils te montrent ta meilleure version. D'autres te rapetissent — ils déforment ton image, et tu finis par croire que tu es cette version déformée.
 
@@ -80,9 +82,9 @@ Je te propose de classer tes miroirs en trois couleurs :
 
 [Pause 2 secondes]
 
-Et voici le truc le plus important de tout ce territoire :
+Le truc le plus important de tout ce territoire :
 
-Les miroirs verts ne sont pas « bons » et les rouges ne sont pas « méchants ». Les gens ne sont pas des miroirs par choix — la plupart du temps, ils reflètent leurs propres problèmes. L'ami qui te fait te sentir petit ne le fait probablement pas exprès. Il reflète sa propre insécurité. Comme les frères de Yūsuf reflétaient leur propre jalousie.
+Les miroirs verts ne sont pas « bons » et les rouges ne sont pas « méchants ». La plupart du temps, les gens reflètent leurs propres problèmes. L'ami qui te fait te sentir petit ne le fait probablement pas exprès. Comme les frères de Yūsuf reflétaient leur propre jalousie.
 
 Yūsuf a compris ça. Et c'est pour ça qu'il a pu pardonner — parce qu'il savait que le problème n'était pas en lui. Le problème était dans le miroir.
 
@@ -110,7 +112,9 @@ Et la deuxième question :
 
 [Pause 2 secondes]
 
-Si le nom est venu vite pour la première question mais que tu hésites pour la deuxième… c'est normal. On n'aime pas admettre que quelqu'un nous fait du mal. Mais le dire — ne serait-ce que dans ta tête, ne serait-ce que sur ton journal — c'est le premier pas pour te protéger.
+On n'aime pas admettre que quelqu'un nous fait du mal.
+
+Mais le dire — ne serait-ce que dans ta tête, ne serait-ce que sur ton journal — c'est le premier pas pour te protéger.
 
 [Voix douce]
 
@@ -122,7 +126,9 @@ Et la troisième question, peut-être la plus difficile :
 
 Quand ton petit frère te parle, est-ce qu'il se sent grand ou petit ? Quand ton meilleur ami te raconte quelque chose de personnel, est-ce qu'il se sent écouté ou jugé ?
 
-Parce qu'on parle souvent des miroirs des autres. Mais toi aussi, tu es un miroir. Et ce que tu reflètes, ça compte.
+On parle souvent des miroirs des autres. Mais toi aussi, tu es un miroir.
+
+Et ce que tu reflètes, ça compte.
 
 [Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
 
@@ -196,7 +202,7 @@ Ce muscle, c'est la gratitude. Et le trésor qu'il révèle est invisible. On ne
 
 Dans le prochain territoire — le Territoire du Trésor Caché — nous allons rencontrer Yaqūb, ʿalayhi as-salām, le père de Yūsuf. Un homme qui a perdu son fils pendant des années. Et qui, au milieu de sa souffrance, a trouvé un trésor que même les rois n'avaient pas.
 
-À très vite, jardinier.
+Cette semaine, choisis un miroir vert. Passe du temps avec lui. Et regarde ce qui change.
 
 [Transition musicale — 3 secondes]
 

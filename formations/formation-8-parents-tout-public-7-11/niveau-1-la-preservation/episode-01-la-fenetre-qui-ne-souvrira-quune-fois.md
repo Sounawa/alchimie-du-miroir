@@ -50,7 +50,9 @@ Bienvenue dans *L'Alchimie du Miroir — La Préservation*. Cette formation s'ad
 
 [Voix réfléchie]
 
-Et c'est précisément là que se trouve le piège le plus dangereux de toute la parentalité. Parce que la période 7-11 ans — ce que les neuroscientifiques appellent l'enfance moyenne — est la période la plus critique du développement cérébral émotionnel. Et presque personne ne le sait.
+Le piège le plus dangereux de toute la parentalité est là. Parce que la période 7-11 ans — ce que les neuroscientifiques appellent l'enfance moyenne — est la période la plus critique du développement cérébral émotionnel.
+
+Et presque personne ne le sait.
 
 Quand votre enfant était bébé, vous étiez vigilant. Chaque mois, vous suiviez les étapes. Il sourit-t-il ? Il se retourne-t-il ? Il marche-t-il ? Vous étiez un observateur attentif. Puis l'enfant a grandi. Il a appris à parler, à aller à l'école, à se débrouiller. Et vous avez baissé la garde. C'est naturel. C'est humain. Mais c'est une erreur.
 
@@ -84,19 +86,23 @@ La psychologue et chercheuse Alison Gopnik, de l'Université de Californie à Be
 
 [Pause]
 
-Puis il y a Lev Vygotsky, le psychologue soviétique dont les travaux, publiés dans les années 1930, ont révolutionné notre compréhension de l'apprentissage. Vygotsky a identifié ce qu'il appelait la « zone de développement proximal » — l'espace entre ce que l'enfant peut faire seul et ce qu'il peut faire avec l'aide d'un adulte. Et voici ce que beaucoup de parents ignorent : cette zone n'est pas scolaire. Elle est **émotionnelle**. Quand votre enfant de 8 ans est frustré parce qu'il a perdu un jeu, il est dans sa zone proximale émotionnelle. Ce qu'il ne peut pas gérer seul, il peut le gérer avec vous — à condition que vous soyez présent de la bonne manière.
+Puis il y a Lev Vygotsky, le psychologue soviétique dont les travaux, publiés dans les années 1930, ont révolutionné notre compréhension de l'apprentissage. Vygotsky a identifié ce qu'il appelait la « zone de développement proximal » — l'espace entre ce que l'enfant peut faire seul et ce qu'il peut faire avec l'aide d'un adulte. Ce que beaucoup de parents ignorent : cette zone n'est pas scolaire. Elle est **émotionnelle**. Quand votre enfant de 8 ans est frustré parce qu'il a perdu un jeu, il est dans sa zone proximale émotionnelle. Ce qu'il ne peut pas gérer seul, il peut le gérer avec vous — à condition que vous soyez présent de la bonne manière.
 
-Et c'est là que ça devient fascinant — et vertigineux. En 2012, Richard Davidson, neuroscientifique à l'Université du Wisconsin-Madison, et Bruce McEwen, de l'Université Rockefeller, ont publié une étude majeure dans le *Journal of Neuroscience* intitulée « Social Influences on Neuroplasticity ». Leur conclusion : les expériences sociales — les interactions quotidiennes avec les parents, les pairs, l'environnement familial — altèrent **physiquement** la structure du cerveau. Pas métaphoriquement. Physiquement. Les connexions synaptiques se reforment en fonction de ce que l'enfant vit émotionnellement.
+En 2012, Richard Davidson, neuroscientifique à l'Université du Wisconsin-Madison, et Bruce McEwen, de l'Université Rockefeller, ont publié une étude majeure dans le *Journal of Neuroscience* intitulée « Social Influences on Neuroplasticity ». Leur conclusion : les expériences sociales — les interactions quotidiennes avec les parents, les pairs, l'environnement familial — altèrent **physiquement** la structure du cerveau. Pas métaphoriquement. Physiquement. Les connexions synaptiques se reforment en fonction de ce que l'enfant vit émotionnellement.
 
 [Pause 2 secondes]
 
 [Voix lente, chaque mot compte]
 
-Le parent confond l'**absence de symptômes** avec la **présence de santé**. Marc dit « Lucas va bien » parce que Lucas sourit, qu'il va à l'école, qu'il a des copains. Mais en 2016, Martin Teicher et son équipe à la Harvard Medical School ont publié une étude révélant que même un stress familial « normal » — pas de maltraitance, juste une tension chronique, des disputes fréquentes, un climat tendu — altère le développement cérébral des enfants. Pas les enfants maltraités. Les enfants « normaux ». Les enfants dont les parents disent « il va bien ».
+Le parent confond l'**absence de symptômes** avec la **présence de santé**. Marc dit « Lucas va bien » parce que Lucas sourit, qu'il va à l'école, qu'il a des copains. Mais en 2016, Martin Teicher et son équipe à la Harvard Medical School ont montré que même un stress familial « normal » — pas de maltraitance, juste une tension chronique, des disputes fréquentes, un climat tendu — altère le développement cérébral.
+
+Pas les enfants maltraités. Les enfants « normaux ». Les enfants dont les parents disent « il va bien ».
 
 [Pause]
 
-Et c'est là que le cadre conceptuel de cette formation prend tout son sens. Le titre de ce niveau, c'est « La Préservation ». Pas « L'Éducation ». Pas « La Correction ». La Préservation. Parce que votre enfant a déjà tout ce qu'il faut à l'intérieur. Les circuits de l'empathie — câblés. Les circuits de la résilience — câblés. Les circuits de l'autorégulation — câblés. Ils existent depuis la naissance. Ce que Gopnik (2009) nous apprend, c'est que le bébé naît avec un cerveau extraordinairement « pré-équipé ».
+Le cadre de cette formation prend tout son sens ici. Le titre de ce niveau, c'est « La Préservation ». Pas « L'Éducation ». Pas « La Correction ».
+
+La Préservation. Parce que votre enfant a déjà tout ce qu'il faut à l'intérieur. Les circuits de l'empathie — câblés. Les circuits de la résilience — câblés. Les circuits de l'autorégulation — câblés. Ils existent depuis la naissance. Ce que Gopnik (2009) nous apprend, c'est que le bébé naît avec un cerveau extraordinairement « pré-équipé ».
 
 Votre travail n'est pas de construire ces circuits. Votre travail est de ne pas les **détruire** pendant la période critique où ils se renforcent. Le parent qui dit « arrête de pleurer, ce n'est rien » n'est pas en train de « corriger » son enfant. Il est en train de couper un câble sous construction.
 
@@ -104,7 +110,9 @@ Votre travail n'est pas de construire ces circuits. Votre travail est de ne pas 
 
 Je sais que c'est difficile à entendre. Personne ne vous a dit ça avant. Mais la neuroscience est claire : vous n'êtes pas un enseignant. Vous êtes un **préserveur**. Et le chantier que vous supervisez ne tolère pas l'inattention.
 
-L'enfant qui « semble aller bien » est l'enfant dont le cerveau est en train d'être câblé sans que personne ne surveille le chantier.
+L'enfant qui « semble aller bien ».
+
+C'est l'enfant dont le cerveau est en train d'être câblé sans que personne ne surveille le chantier.
 
 [Transition — léger changement de rythme]
 
@@ -174,7 +182,7 @@ Chaque mot que vous dites est un matériau. Chaque silence que vous partagez est
 
 [Pause]
 
-Et les mauvais matériaux — les mots qui dévalorisent, les silences froids, les tensions chroniques — ne disparaissent pas. Ils restent dans la structure. Vous pouvez les recouvrir plus tard avec de meilleurs matériaux, mais le câblage initial laisse des traces. C'est ce que Teicher (2016) a mesuré : les altérations cérébrales liées au stress familial « normal » sont détectables à l'âge adulte. Des décennies plus tard.
+Et les mauvais matériaux — les mots qui dévalorisent, les silences froids, les tensions chroniques — ne disparaissent pas. Ils restent dans la structure. Vous pouvez les recouvrir plus tard, mais le câblage initial laisse des traces. Des décennies plus tard, Teicher (2016) les détecte encore sur l'IRM.
 
 La question n'est pas « Est-ce que mon enfant va bien ? » La question est : « Est-ce que je suis en train de construire les bonnes autoroutes ? »
 
@@ -188,7 +196,9 @@ L'épisode suivant va plonger dans le cœur du chantier émotionnel. Il s'appell
 
 [Pause]
 
-Gottman, le chercheur que nous aborderons, a suivi 130 familles pendant 14 ans. Ce qu'il a découvert va transformer votre façon d'écouter votre enfant. Et c'est précisément là que la préservation commence — par les mots que vous lui donnez, ou que vous lui prenez.
+Gottman, le chercheur que nous aborderons, a suivi 130 familles pendant 14 ans. Ce qu'il a découvert va transformer votre façon d'écouter votre enfant.
+
+La préservation commence par les mots que vous lui donnez, ou que vous lui prenez.
 
 ---
 

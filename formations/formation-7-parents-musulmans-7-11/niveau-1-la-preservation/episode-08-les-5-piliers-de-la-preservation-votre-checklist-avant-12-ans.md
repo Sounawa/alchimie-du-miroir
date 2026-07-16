@@ -54,11 +54,11 @@ Pourquoi 12 ans ? Pourquoi ce seuil ?
 
 Jean Piaget, le psychologue suisse de l'Université de Genève, a identifié un moment crucial dans le développement cognitif de l'enfant. Vers 11-12 ans, l'enfant entre dans le stade des **opérations formelles**. Jusque-là — de 7 à 11 ans — l'enfant pense de manière concrète. Il a besoin d'exemples réels, de situations vécues, d'expériences tangibles pour apprendre.
 
-Après 12 ans, tout change. L'enfant devient capable de pensée **abstraite**. Il peut imaginer des situations qu'il n'a pas vécues. Il peut remettre en question les règles qu'il a acceptées. Il peut penser à la pensée — ce qu'on appelle la **métacognition**.
+Après 12 ans, tout change. L'enfant devient capable de pensée **abstraite**. Il peut imaginer des situations qu'il n'a pas vécues. Il peut remettre en question les règles qu'il a acceptées. Il peut penser à la pensée.
 
 [Pause]
 
-Ce qui était intégré dans son corps avant 12 ans devient son **réflexe automatique** après. Ce qui ne l'a pas été devient extrêmement difficile à installer — parce que le cerveau ne fonctionne plus de la même manière. L'apprentissage implicite cède la place à l'apprentissage explicite. Et l'effort requis est décuplé.
+Ce qui était intégré dans son corps avant 12 ans devient son **réflexe automatique** après. Ce qui ne l'a pas été devient extrêmement difficile à installer.
 
 [Voix lente, avec une gravité mesurée]
 
@@ -66,7 +66,7 @@ Le rapport *From Neurons to Neighborhoods* (2000), publié par le National Resea
 
 C'est pour ça que cette tranche 7-11 ans est la **fenêtre de la préservation**. Ce qui est préservé dans cette fenêtre tiendra. Ce qui ne l'est pas devra être **réparé** — et la réparation, c'est une autre formation. La Formation 5, pour les 12-18 ans.
 
-La différence entre la préservation et la réparation, c'est un facteur 10. En termes d'énergie, de temps, et de douleur. Pour vous ET pour votre enfant.
+La différence entre la préservation et la réparation, c'est un facteur 10. En termes d'énergie, de temps, et de douleur.
 
 [Pause]
 
@@ -80,17 +80,21 @@ C'est pourquoi je vous propose aujourd'hui un outil simple — mais implacableme
 
 [Voix lente, chaque mot compte — c'est le moment le plus important de tout le niveau]
 
-Voici le renversement que la plupart des parents n'ont jamais entendu.
-
 Ce que vous installez entre 7 et 12 ans ne s'ajoute pas à l'éducation de votre enfant. Il la **DEVIENT**. Après 12 ans, la puberté ouvre un nouveau chapitre — et ce chapitre ne s'écrit pas sur une page blanche. Il s'écrit sur les fondations que vous avez posées, ou que vous n'avez pas posées. Et les fondations, elles ne se changent pas par des mots, des discours ou des leçons de morale. Elles se changent par des **répétitions** — des centaines, des milliers de micro-moments où votre enfant a vécu quelque chose dans son corps.
 
 [Pause 2 secondes]
 
-Et l'inverse est tout aussi vrai : ce que vous n'installez pas avant 12 ans ne pourra plus être installé — il devra être **réparé**. Pas enseigné de nouveau. Réparé. Avec un effort décuplé, et souvent avec la douleur d'un enfant qui doit défaire quelque chose qui aurait dû être là depuis le début.
+Et l'inverse est tout aussi vrai : ce que vous n'installez pas avant 12 ans devra être **réparé**.
+
+Pas enseigné de nouveau. Réparé.
 
 [Pause]
 
-Mais — et c'est essentiel — ce renversement n'est pas là pour vous faire peur. Il est là pour vous **libérer**. Parce que cela signifie que vous n'avez pas besoin d'être parfait. Vous n'avez pas besoin de cours de parentalité avancée. Vous avez besoin d'une chose simple : être présent, avec régularité, dans les actes quotidiens. Un duʿāʾ dit avec vulnérabilité devant votre enfant vaut plus que cent discours sur la prière. Un silence partagé vaut plus qu'une heure de sermon. La préservation n'est pas un exploit — c'est une **fidélité**. Et la fidélité, elle est à la portée de tout parent.
+Mais — et c'est essentiel — ce renversement n'est pas là pour vous faire peur. Il est là pour vous **libérer**.
+
+Vous n'avez pas besoin d'être parfait. Vous avez besoin d'une chose simple : être présent, avec régularité, dans les actes quotidiens. Un duʿāʾ dit avec vulnérabilité devant votre enfant vaut plus que cent discours sur la prière. Un silence partagé vaut plus qu'une heure de sermon.
+
+La préservation n'est pas un exploit. C'est une **fidélité**.
 
 [Pause 2 secondes]
 
@@ -178,7 +182,7 @@ Faites le total. Le score maximum est 25.
 
 [Retour au ton thérapeutique, chaleureux]
 
-Quel que soit votre score, voici la marche à suivre.
+Quel que soit votre score, la marche à suivre est celle-ci.
 
 **Pour tous :** Partagez votre bilan avec votre partenaire si vous en avez un. Pas pour vous juger mutuellement — pour aligner vos efforts. Les parents qui sont désalignés sur les piliers créent une confusion supplémentaire pour l'enfant. L'enfant sent quand les parents ne sont pas d'accord — même s'ils ne se disputent pas devant lui.
 

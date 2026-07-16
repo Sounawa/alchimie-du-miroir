@@ -32,7 +32,9 @@
 
 C'est ce que tu dis à 20 heures. Tu prends ton téléphone, tu ouvres une application. Cinq minutes.
 
-Et quand tu regardes l'heure… il est 21h30.
+Et quand tu regardes l'heure…
+
+21h30.
 
 [Pause]
 
@@ -62,11 +64,11 @@ Imagine une sonnette dans ton cerveau. À chaque fois que quelque chose d'excita
 
 Cette sonnette, en vrai, s'appelle la **dopamine**. C'est une molécule que ton cerveau fabrique quand il perçoit une récompense. Et normalement, c'est un bon système. La dopamine te motive à explorer, à apprendre, à chercher.
 
-Le problème, c'est que les créateurs d'applications le savent. Ils savent EXACTEMENT comment faire sonner ta sonnette. Pas une fois — tout le temps. Chaque scroll, chaque notification, chaque like, chaque nouvelle vidéo — DING DING DING DING DING.
+Le problème, c'est que les créateurs d'applications le savent. Ils savent EXACTEMENT comment faire sonner ta sonnette. Pas une fois — tout le temps. Chaque scroll, chaque notification, chaque like.
 
 [Voix lente, avec un léger ton d'avertissement]
 
-Et voici ce qui se passe : la sonnette se fatigue. Comme si quelqu'un sonnait à ta porte 100 fois par jour — au bout d'un moment, tu arrêtes de réagir. La dopamine perd son pouvoir. Les choses normales de la vie — jouer dehors, lire un livre, discuter avec un ami, construire quelque chose de tes mains — ne font plus sonner la sonnette. Elles ne sont plus assez « fortes ». Parce que la barre a été montée trop haut.
+La sonnette se fatigue. Comme si quelqu'un sonnait à ta porte 100 fois par jour — au bout d'un moment, tu arrêtes de réagir. La dopamine perd son pouvoir. Les choses normales de la vie — jouer dehors, lire un livre, discuter avec un ami, construire quelque chose de tes mains — ne font plus sonner la sonnette. Elles ne sont plus assez « fortes ». Parce que la barre a été montée trop haut.
 
 [Pause]
 
@@ -74,7 +76,7 @@ C'est pour ça qu'après 90 minutes de scroll, tu te sens vide. Ce n'est pas que
 
 [Voix lente, avec douceur]
 
-Le Coran nous rappelle que le temps est un dépôt — une amānah — que Allah nous a confié. Un dépôt, ça veut dire que ça ne t'appartient pas. Ça t'est prêté. Et un jour, on te demandera comment tu l'as utilisé. Pas pour te faire peur — pour te faire réfléchir. Chaque minute passée dans le labyrinthe sans en avoir conscience, c'est une minute de ton dépôt qui s'écoule sans que tu la choisisses.
+Le Coran nous rappelle que le temps est un dépôt — une amānah — qu'Allah nous a confié. Ça ne t'appartient pas. Ça t'est prêté.
 
 [Voix avec insistance]
 
@@ -110,15 +112,19 @@ Pas quand tu t'ennuies — quand tu es réellement sans. Juste toi, tes pensées
 
 [Pause]
 
-Pour beaucoup d'enfants — et d'adultes — la réponse est : l'inconfort. L'agitation. Une envie presque physique de retourner vers l'écran. Comme une démangeaison qu'on ne peut pas gratter.
+Pour beaucoup d'enfants — et d'adultes — la réponse est : l'inconfort. L'agitation. Une envie presque physique de retourner vers l'écran.
 
-Et cette démangeaison, elle a un nom : c'est ta sonnette dopamine qui appelle. Qui réclame son DING.
+Comme une démangeaison qu'on ne peut pas gratter.
+
+Et cette démangeaison, elle a un nom : c'est ta sonnette dopamine.
 
 [Pause 2 secondes]
 
 Mais si tu arrives à rester dans cet inconfort — juste quelques minutes — quelque chose d'intéressant se passe. La sonnette se calme. Ton cerveau commence à trouver de l'intérêt dans les choses simples. Le silence devient moins effrayant. Et tu retrouves — lentement — la capacité d'être content avec RIEN.
 
-C'est ça, la liberté. Pas supprimer les écrans. Les connaître.
+Pas supprimer les écrans.
+
+Les connaître.
 
 [Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
 

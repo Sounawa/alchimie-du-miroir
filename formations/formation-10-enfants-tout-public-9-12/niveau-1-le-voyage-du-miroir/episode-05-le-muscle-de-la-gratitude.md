@@ -56,25 +56,25 @@ Mais attends — ce n'est pas la partie la plus surprenante. La partie la plus s
 
 Alors, qu'est-ce que la gratitude exactement ? Et pourquoi est-ce que je l'appelle un muscle ?
 
-D'abord, oublie l'idée que la gratitude c'est dire « merci » quand on te donne un cadeau. Ce n'est pas ça. Ou plutôt, ça n'est QUE ça si tu le dis machinalement, sans le penser.
+D'abord, oublie l'idée que la gratitude c'est dire « merci » quand on te donne un cadeau. Ce n'est pas ça.
 
 La vraie gratitude, c'est le fait de REMARQUER quelque chose de bien dans ta vie et de le ressentir dans ton corps. Pas juste le penser dans ta tête — le SENTIR. Te souvenir d'un moment agréable et ressentir cette chaleur dans ta poitrine. Penser à quelqu'un qui t'aide et sentir ce petit pincement de tendresse.
 
 [Pause]
 
-Et voici pourquoi c'est un muscle. Imagine que tu ne fasses jamais de sport. Tes muscles sont faibles. Le jour où tu dois courir pour attraper un bus, tu es essoufflé. Ta jambe fait mal. Tu n'y arrives pas. Mais si tu t'entraînes un peu chaque jour — même cinq minutes — au bout de quelques semaines, tu cours sans effort. Le muscle s'est renforcé.
+C'est un muscle. Imagine que tu ne fasses jamais de sport. Tes muscles sont faibles. Le jour où tu dois courir pour attraper un bus, tu es essoufflé. Ta jambe fait mal. Tu n'y arrives pas. Mais si tu t'entraînes un peu chaque jour — même cinq minutes — au bout de quelques semaines, tu cours sans effort. Le muscle s'est renforcé.
 
-La gratitude, c'est exactement pareil. Si tu ne t'entraînes jamais à remarquer le positif, ton cerveau devient très bon à remarquer le négatif. Parce que par défaut — et c'est prouvé par la science — le cerveau humain est programmé pour voir les dangers, les problèmes, ce qui ne va pas. C'est ce qui nous a aidés à survivre pendant des centaines de milliers d'années. Voir le danger, c'est utile quand tu es dans la forêt avec des prédateurs. Mais dans ta chambre, le soir, ça te sert à quoi de voir tout ce qui ne va pas ? À rien. Ça te gâche juste la vie.
+La gratitude, c'est pareil. Si tu ne t'entraînes jamais à remarquer le positif, ton cerveau devient très bon à remarquer le négatif. Par défaut — et c'est prouvé par la science — le cerveau humain est programmé pour voir les dangers, les problèmes, ce qui ne va pas. Utile quand tu es dans la forêt avec des prédateurs. Dans ta chambre, le soir ? Ça te sert à rien. Ça te gâche juste la vie.
 
 [Pause]
 
-Robert Emmons, le chercheur dont je t'ai parlé, a publié en 2003 une étude dans le *Journal of Personality and Social Psychology*. Et en 2013, il a publié un livre qui résume vingt ans de recherche : *Gratitude Works!*. Sa conclusion est claire : la pratique régulière de la gratitude modifie l'activité du cortex préfrontal — la partie sage de ton cerveau — et réduit l'activité de l'amygdale — le veilleur de nuit dont on a parlé dans le territoire du volcan.
+Robert Emmons, le chercheur dont je t'ai parlé, a publié en 2003 une étude dans le *Journal of Personality and Social Psychology*. Sa conclusion : la pratique régulière de la gratitude modifie l'activité du cortex préfrontal — la partie sage de ton cerveau — et réduit l'activité de l'amygdale — le veilleur de nuit du territoire du volcan.
 
-Autrement dit : la gratitude rend ton cerveau sage plus fort et ton alarme moins sensible.
+La gratitude rend ton cerveau sage plus fort et ton alarme moins sensible.
 
 [Voix avec un peu d'émerveillement]
 
-Mais voici l'astuce — et c'est là que la plupart des gens se trompent. Les choses pour lesquelles tu es reconnaissant, elles doivent être INVISIBLES.
+L'astuce — là où la plupart des gens se trompent : les choses pour lesquelles tu es reconnaissant, elles doivent être INVISIBLES.
 
 [Transition — changement de rythme]
 
@@ -94,11 +94,15 @@ Mais essaie quelque chose de différent. Ferme les yeux une seconde et pense à 
 
 L'air que tu respires. La capacité de voir les couleurs. Le fait que tu entends la voix de ta mère. Qu'un matin, tu te réveilles et tes jambes fonctionnent. Que tu as un lit où dormir. Que quelqu'un, quelque part, pense à toi.
 
-Tu vois la différence ? « Mon téléphone » — si tu le perds, tu es frustré pendant deux jours. « La capacité de marcher » — si tu la perds, ta vie change pour toujours. Et pourtant, tu n'y penses jamais. Parce qu'elle est invisible. Elle a toujours été là.
+Tu vois la différence ? « Mon téléphone » — si tu le perds, tu es frustré pendant deux jours. « La capacité de marcher » — si tu la perds, ta vie change pour toujours.
+
+Et pourtant, tu n'y penses jamais. Elle a toujours été là.
 
 [Pause]
 
-La vraie gratitude, c'est voir l'invisible. Et quand tu commences à voir l'invisible, quelque chose de bizarre se passe : tu te sens plus calme. Plus ancré. Comme si le sol sous tes pieds était plus solide. C'est ton cerveau sage qui prend le dessus.
+La vraie gratitude, c'est voir l'invisible.
+
+Et quand tu commences à voir l'invisible, quelque chose de bizarre se passe : tu te sens plus calme. Plus ancré. Comme si le sol sous tes pieds était plus solide.
 
 [Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
 
@@ -116,7 +120,7 @@ Prends ton Journal de Voyage Intérieur. On passe au territoire du trésor — e
 
 Tu vas créer un mini-journal de gratitude. Pas pour la vie — juste pour cinq jours. C'est un défi de cinq jours. Après, tu verras si tu veux continuer.
 
-Voici la règle : chaque soir, avant de dormir, tu écris TROIS choses invisibles pour lesquelles tu es reconnaissant. Pas des objets. Pas des trucs que tu as achetés. Des choses que tu ne vois pas, que tu ne touches pas, mais qui sont là.
+La règle : chaque soir, avant de dormir, tu écris TROIS choses invisibles pour lesquelles tu es reconnaissant. Pas des objets. Pas des trucs que tu as achetés. Des choses que tu ne vois pas, que tu ne touches pas, mais qui sont là.
 
 [Voix donne des exemples]
 
@@ -133,7 +137,9 @@ Tu vois ? Rien de tout ça ne coûte de l'argent. Rien de tout ça ne se voit. E
 
 Sur cinq pages de ton journal — une par jour — tu écris la date et tes trois choses. Le sixième jour, tu relis les quinze choses que tu as écrites. Et tu observes : est-ce que tu te sens différent quand tu les relis ?
 
-C'est ton défi. Cinq jours. Trois choses invisibles. Le muscle de la gratitude commence à s'entraîner.
+Cinq jours. Trois choses invisibles.
+
+Le muscle commence à s'entraîner.
 
 [Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
 

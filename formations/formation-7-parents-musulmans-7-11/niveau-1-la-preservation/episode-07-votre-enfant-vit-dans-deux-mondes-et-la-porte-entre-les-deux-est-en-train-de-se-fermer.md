@@ -40,9 +40,9 @@ Amira ne dit rien. Elle a 10 ans — elle n'a pas les mots pour dire : « Ces de
 
 Mais son corps le dit. Maux de ventre le dimanche soir — la veille de l'école. Maux de ventre le mercredi matin — la veille de la mosquée.
 
-[Pause 2 secondes]
+Sa mère l'emmène chez le pédiatre. Le pédiatre ne trouve rien. « C'est sûrement stress scolaire. »
 
-Sa mère l'emmène chez le pédiatre. Le pédiatre ne trouve rien. « C'est sûrement stress scolaire. » Et la mère repart avec un conseil de repos — sans comprendre que le repos ne guérit pas la **déchirure**.
+Et la mère repart avec un conseil de repos — sans comprendre que le repos ne guérit pas la **déchirure**.
 
 [Transition musicale légère — 3 secondes]
 
@@ -67,8 +67,6 @@ Cette question, les enfants de 10 ans ne se la posent presque jamais. C'est une 
 La vraie question que votre enfant se pose est beaucoup plus brute et beaucoup plus intime. C'est :
 
 « Est-ce que je peux être les deux sans me **déchirer** ? »
-
-[Pause 3 secondes]
 
 Et la réponse que la plupart des parents donnent est : « Bien sûr que oui, tu es français ET musulman, il n'y a pas de problème. »
 
@@ -112,11 +110,17 @@ La chercheuse Veronica Benet-Martínez, de l'Université de Californie à Santa 
 
 [Voix douce, intime]
 
-Et ce qui détermine si l'enfant perçoit ses deux mondes comme compatibles ou conflictuels ? Ce n'est pas la société. C'est **vous**. C'est la façon dont vous, en tant que parent, portez — ou ne portez pas — votre propre tension.
+Et ce qui détermine si l'enfant perçoit ses deux mondes comme compatibles ou conflictuels ?
+
+Ce n'est pas la société.
+
+C'est **vous**.
 
 [Voix avec une urgence contenue]
 
-Les recherches de Jean Phinney, publiées en 1990 dans *Psychological Bulletin*, ont complété ce tableau. Phinney a montré que l'exploration identitaire — le fait de se poser des questions sur ses appartenances — n'est pas un signe de confusion mais un **stade nécessaire** du développement. Les enfants qui sont encouragés à explorer leurs appartenances développent une identité plus stable à l'âge adulte que ceux à qui l'on dit simplement « tu es les deux, il n'y a pas de problème. » Autrement dit : nier la tension, c'est empêcher le développement. La porter, c'est le nourrir.
+Les recherches de Jean Phinney, publiées en 1990 dans *Psychological Bulletin*, ont complété ce tableau. L'exploration identitaire — le fait de se poser des questions sur ses appartenances — n'est pas un signe de confusion mais un **stade nécessaire** du développement. Les enfants encouragés à explorer leurs appartenances développent une identité plus stable à l'âge adulte.
+
+Nier la tension, c'est empêcher le développement. La porter, c'est le nourrir.
 
 [Transition — léger changement de rythme]
 
@@ -211,19 +215,15 @@ Le dernier épisode de ce niveau sera un bilan — *Les 5 piliers de la préserv
 
 Le Prophète ﷺ lui-même a été le waṣaṭ ultime. Entre la Mecque et Médine. Entre les Ansār et les Muhājirūn. Entre les païens qui devinrent musulmans et les juifs qui restèrent juifs et avec qui il signa un pacte de coexistence. Entre le connu et l'inconnu. Entre l'ancien monde et le nouveau.
 
-Il n'a jamais résolu la tension en annulant un côté. Il l'a portée. Et en la portant, il a créé quelque chose de nouveau — une communauté qui n'existait pas avant lui.
+Il n'a jamais résolu la tension en annulant un côté. Il l'a portée.
+
+Et en la portant, il a créé quelque chose de nouveau — une communauté qui n'existait pas avant lui.
 
 [Pause]
 
-Votre enfant, à 10 ans, est dans la même posture. Il est entre deux mondes. Et si vous l'aidez à porter cette tension au lieu de la nier, il fera quelque chose de similaire — il deviendra une personne qui n'existait pas avant lui. Pas un hybride indécis. Un être complet, dont les deux moitiés se regardent sans peur.
+Votre enfant, à 10 ans, est dans la même posture. Il est entre deux mondes. Et si vous l'aidez à porter cette tension au lieu de la nier, il fera quelque chose de similaire — il deviendra une personne qui n'existait pas avant lui. Pas un hybride indécis. Un être complet.
 
 Pour cette semaine : la carte d'identité intérieure. Et les deux phrases.
-
-[Pause]
-
-Rappelez-vous : votre enfant ne vous demande pas de résoudre la tension. Il vous demande de la **voir**. Et de la porter avec lui.
-
-Que votre cœur trouve la paix.
 
 **Wa salāmu ʿalaykum.**
 

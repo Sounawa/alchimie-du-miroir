@@ -34,7 +34,7 @@ Yaqūb, ʿalayhi as-salām, n'avait plus que ses yeux. Et ses yeux pleuraient. T
 
 [Pause]
 
-Mais voici ce que le Coran dit de lui, dans la sourate 12, verset 18 :
+Ce que le Coran dit de lui, dans la sourate 12, verset 18 :
 
 **« Wa jabar al-ghayra ṣabran jamīlan. »**
 
@@ -46,7 +46,9 @@ La BELLE patience. Pas la patience grinçante. Pas la patience qui dit « je n'a
 
 [Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
 
-Ce trésor, c'est la gratitude. Et aujourd'hui, tu vas comprendre pourquoi ce n'est pas juste une belle idée — c'est un super-pouvoir que la science a mesuré.
+Ce trésor, c'est la gratitude.
+
+Pas un sentiment. Un super-pouvoir.
 
 [Transition musicale — 3 secondes]
 
@@ -60,7 +62,7 @@ Shukr (شُكْرٌ). Tu connais ce mot ? C'est le mot arabe pour la gratitude. 
 
 Alḥamdulillāh — « louange à Allah ». Tu l'as dit des centaines de fois. Peut-être avant de manger, avant de dormir, après un événement heureux.
 
-Mais voici la différence entre dire « alḥamdulillāh » par habitude et VRAIMENT pratiquer shukr :
+La différence entre dire « alḥamdulillāh » par habitude et VRAIMENT pratiquer shukr :
 
 [Pause]
 
@@ -80,13 +82,15 @@ Le groupe gratitude dormait mieux. Était en meilleure santé. Se sentait plus o
 
 [Pause]
 
-Pourquoi ? Parce que la gratitude libère deux substances dans ton cerveau : la dopamine et la sérotonine. Ce sont les molécules du bien-être. Et le truc dingue, c'est que tu peux les déclencher TOI-MÊME — sans pilule, sans appareil, sans rien d'extérieur. Juste en utilisant ton attention.
+Pourquoi ? Parce que la gratitude libère dans ton cerveau la dopamine et la sérotonine — les molécules du bien-être. Et le truc dingue : tu peux les déclencher TOI-MÊME. Sans pilule. Sans appareil. Juste en utilisant ton attention.
 
 [Voix avec conviction]
 
 La gratitude n'est pas un sentiment que tu as ou que tu n'as pas. C'est un **muscle**. Plus tu l'utilises, plus il devient fort. Plus tu le négliges, plus il s'atrophie.
 
-Et le meilleur entraînement ? Pas remercier pour les choses évidentes — « merci pour mon téléphone, merci pour mes baskets ». Non. Le vrai trésor, c'est remercier pour ce qui est **invisible**.
+Et le meilleur entraînement ? Pas remercier pour les choses évidentes — « merci pour mon téléphone, merci pour mes baskets ».
+
+Le vrai trésor, c'est remercier pour ce qui est **invisible**.
 
 [Transition — changement de rythme]
 
@@ -102,7 +106,9 @@ Comme si tu disais les mots mais que ton cœur n'était pas là ?
 
 [Pause]
 
-C'est normal. Ce n'est pas ta faute. Personne ne t'a jamais appris à CHERCHER les raisons de la gratitude. On t'a appris à dire le mot. Pas à voir ce qu'il recouvre.
+C'est normal.
+
+Ce n'est pas ta faute.
 
 Alors je te pose la question : si tu devais trouver UNE chose invisible pour laquelle tu es reconnaissant EN CE MOMENT — pas ton téléphone, pas ta console, pas tes affaires — quelque chose que tu ne peux pas toucher… est-ce que tu trouves ?
 
@@ -186,7 +192,7 @@ Dans le prochain territoire — la Nuit Étoilée — nous allons parler de cett
 
 Une conversation qui ne nécessite ni téléphone, ni Wi-Fi, ni même de parler à voix haute.
 
-À très vite, jardinier.
+Quel sera ton trésor invisible demain ?
 
 [Transition musicale — 3 secondes]
 

@@ -82,13 +82,17 @@ Qu'est-ce que ces sept outils ont changé en toi ?
 
 [Voix avec une douceur particulière]
 
-Parce que je vais te dire un secret. Ce voyage ne t'a pas donné quelque chose de nouveau. Il t'a donné quelque chose que tu avais DÉJÀ — mais que tu ne voyais pas. Comme un trésor enfoui sous ta propre maison. Le trésor était là depuis le début. Tu avais juste besoin qu'on te montre où creuser.
+Parce que je vais te dire un secret.
+
+Ce voyage ne t'a pas donné quelque chose de nouveau. Il t'a donné quelque chose que tu avais DÉJÀ — mais que tu ne voyais pas. Comme un trésor enfoui sous ta propre maison. Le trésor était là depuis le début. Tu avais juste besoin qu'on te montre où creuser.
 
 Et le miroir ? Le vrai miroir de ce voyage ?
 
 [Voix lente, solennelle]
 
-C'est toi. Tu es devenu un miroir. Un miroir qui reflète la conscience. Qui sait ce qui se passe en lui. Qui peut choisir au lieu de réagir. Et la question qui reste — la question que tu vas te poser pour les années qui viennent — c'est :
+C'est toi.
+
+Un miroir qui reflète la conscience. Qui sait ce qui se passe en lui. Qui peut choisir au lieu de réagir. Et la question qui reste — la question que tu vas te poser pour les années qui viennent — c'est :
 
 **Que montre ton miroir au monde ?**
 
@@ -186,6 +190,8 @@ Tu viens de terminer quelque chose que beaucoup d'adultes ne font jamais. Tu as 
 
 Tu as un jardin. Tu connais tes visiteurs. Tu sais dompter le feu. Tu choisis tes miroirs. Tu cultives la gratitude. Tu as une conversation secrète. Et tu connais le labyrinthe.
 
+Sept outils. Sept territoires.
+
 Ce n'est pas la fin.
 
 C'est le début.
@@ -194,7 +200,9 @@ C'est le début.
 
 Parce que ton monde intérieur va continuer à grandir. De nouvelles saisons vont arriver. De nouveaux visiteurs. De nouveaux miroirs. Et chaque fois, tu pourras revenir à tes outils. Ils sont dans ton passeport. Ils sont dans ton cœur. Ils sont à toi.
 
-Et un dernier mot : tu sais maintenant quelque chose que beaucoup, beaucoup d'adultes ne savent pas. Et c'est ton secret le plus puissant. Pas pour le cacher — pour le protéger. Pour le vivre.
+Et un dernier mot : tu sais maintenant quelque chose que beaucoup, beaucoup d'adultes ne savent pas. Et c'est ton secret le plus puissant. Pas pour le cacher — pour le protéger.
+
+Pour le vivre.
 
 [Voix très douce]
 

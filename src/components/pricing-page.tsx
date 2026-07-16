@@ -1,6 +1,5 @@
 'use client'
 
-import { useAppStore } from "@/lib/store"
 import { Badge } from "@/components/ui/badge"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from "@/components/ui/card"
@@ -392,7 +391,7 @@ const FORMATIONS = [
           'Neuroplasticite critique (Gopnik 2009)',
           'Connecter avant de corriger (Siegel 2011)',
           'Hippocampe reduit de 6-10% (Teicher, Harvard 2016)',
-          'Systeme de recompense pirate par les ecrans (NIDA 2018)',
+          'Systeme de recompense pirate par les ecrans (Christakis 2018)',
           'Jeu libre = acte neurologique (Brown 2009)',
           'Mindset de croissance (Dweck 2006, Stanford)',
           'Diagnostic « Radiographie emotionnelle » inclus',
@@ -863,7 +862,7 @@ export function PricingPage() {
             spirituelle
           </h1>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-            {totalWords.toLocaleString('fr-FR')} mots de contenu structure, {totalEpisodes} episodes, ~56 heures de formation.
+            {totalWords.toLocaleString('fr-FR')} mots de contenu structure, {totalEpisodes} episodes, ~65 heures de formation.
             Un programme unique qui croise spiritualite, parentalite et performance professionnelle.
           </p>
           <div className="mt-6 flex items-center justify-center gap-6 text-sm text-muted-foreground">
@@ -873,11 +872,11 @@ export function PricingPage() {
             </div>
             <div className="flex items-center gap-1.5">
               <Clock className="h-4 w-4" />
-              ~56 heures
+              ~65 heures
             </div>
             <div className="flex items-center gap-1.5">
               <Users className="h-4 w-4" />
-              4 publics
+              5 publics
             </div>
             <div className="flex items-center gap-1.5">
               <GraduationCap className="h-4 w-4" />

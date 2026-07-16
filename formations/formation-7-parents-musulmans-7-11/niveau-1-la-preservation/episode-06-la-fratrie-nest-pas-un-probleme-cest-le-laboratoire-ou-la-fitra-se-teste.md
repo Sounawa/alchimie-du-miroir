@@ -64,19 +64,19 @@ La chercheuse Laurie Kramer, de l'Université de l'Illinois, a publié en 2010 u
 
 Les conflits entre frères et sœurs sont le **simulateur de vol** du cerveau de votre enfant.
 
-[Pause 2 secondes]
+Un simulateur de vol, c'est ce dans quoi les pilotes s'entraînent avant de voler pour vrai. Ils y testent les turbulences, les pannes, les atterrissages d'urgence — dans un environnement sûr.
 
-Un simulateur de vol, c'est ce dans quoi les pilotes s'entraînent avant de voler pour vrai. Ils y testent les turbulences, les pannes, les atterrissages d'urgence — dans un environnement sûr, où l'erreur ne coûte pas la vie.
+La fratrie, c'est exactement ça. Votre enfant y apprend à négocier, à faire des compromis, à tolérer la frustration — avant de le faire à l'école, avec des amis, puis au travail, avec des collègues.
 
-La fratrie, c'est exactement ça. Votre enfant y apprend à négocier, à faire des compromis, à tolérer la frustration, à reconnaître les émotions de l'autre — et il apprend tout cela **avant** de le faire à l'école, avec des amis, puis au travail, avec des collègues.
-
-Kramer a montré que les enfants qui ont eu des conflits fraternels significatifs — mais accompagnés — développent une compétence sociale supérieure de 30 à 40 % par rapport aux enfants sans fratrie ou dont les conflits ont été systématiquement étouffés par les adultes.
-
-[Pause]
+Kramer a montré que les enfants qui ont eu des conflits fraternels significatifs — mais **accompagnés** — développent une compétence sociale supérieure de 30 à 40 % par rapport aux enfants sans fratrie ou dont les conflits ont été étouffés par les adultes.
 
 Le mot clé, c'est **accompagnés**.
 
-Parce que quand vous intervenez pour « résoudre » le conflit — « donne à ton frère, tu es le grand » ou « arrêtez de vous chamailler, je vais tout confisquer » — vous ne résolvez rien. Vous **désactivez le simulateur**. Votre enfant n'apprend plus à résoudre. Il apprend à attendre qu'un adulte le fasse pour lui.
+Quand vous intervenez pour « résoudre » le conflit — « donne à ton frère, tu es le grand » ou « arrêtez de vous chamailler, je vais tout confisquer » — vous ne résolvez rien.
+
+Vous **désactivez le simulateur**.
+
+Votre enfant n'apprend plus à résoudre. Il apprend à attendre qu'un adulte le fasse pour lui.
 
 Et ce n'est pas un conflit de moins. C'est une compétence en moins. Pour la vie.
 
@@ -96,13 +96,17 @@ Le Prophète ﷺ laissait les enfants exprimer leur point de vue — il les éco
 
 [Voix avec une urgence pédagogique]
 
-Et c'est ici que la découverte de Rizzolatti prend tout son sens pour la fratrie. Quand deux enfants se disputent, leurs neurones miroirs sont en état d'alerte — mais pas dans le sens qu'on imagine. Les recherches postérieures de Marco Iacoboni, neuroscientifique à l'UCLA, ont montré que les neurones miroirs s'activent aussi quand on **observe une émotion négative** : le cerveau de l'enfant qui crie sur son frère enregistre la souffrance de l'autre — mais cette activation est étouffée par la montée d'adrénaline. C'est précisément pour ça que l'intervention du parent est cruciale : en demandant à l'enfant de raconter la version de son frère, on réactive les neurones miroirs que l'adrénaline avait mis en veille. Le simple fait de dire « Raconte-moi ce qui s'est passé pour lui » oblige le cerveau à simuler l'état émotionnel de l'autre — et cette simulation désamorce la colère de l'intérieur. Pas par la raison. Par le corps.
+Et la découverte de Rizzolatti prend tout son sens pour la fratrie. Quand deux enfants se disputent, leurs neurones miroirs sont en état d'alerte — mais pas dans le sens qu'on imagine. Le cerveau de l'enfant qui crie sur son frère enregistre la souffrance de l'autre — mais cette activation est étouffée par la montée d'adrénaline.
+
+C'est précisément pour ça que l'intervention du parent est cruciale : en demandant à l'enfant de raconter la version de son frère, on réactive les neurones miroirs que l'adrénaline avait mis en veille.
+
+Pas par la raison. Par le corps.
 
 C'est l'essence de l'adab (أَدَبٌ).
 
 [Voix avec une pointe de solennité]
 
-Sauf que le mot adab a été réduit en français à « bonnes manières ». La politesse. Le savoir-vivre. C'est une traduction **superficielle**. L'adab, dans la tradition islamique, c'est : « la capacité à ajuster sa conduite en fonction de la conscience de l'autre. » Ce n'est pas un code extérieur. C'est une **réponse intérieure** à la présence de l'autre. Et cette capacité se développe dans la fratrie — ou ne se développe pas du tout.
+Sauf que le mot adab a été réduit en français à « bonnes manières ». La politesse. Le savoir-vivre. C'est une traduction **superficielle**. L'adab, dans la tradition islamique, c'est : « la capacité à ajuster sa conduite en fonction de la conscience de l'autre. » Ce n'est pas un code extérieur. C'est une **réponse intérieure**. Et cette capacité se développe dans la fratrie — ou ne se développe pas du tout.
 
 [Pause]
 
@@ -210,11 +214,9 @@ Le Prophète ﷺ a dit :
 
 [Pause 3 secondes]
 
-La bienveillance envers les plus jeunes, ce n'est pas les protéger de tout conflit. C'est leur donner un espace où le conflit peut exister — et où ils peuvent apprendre à le traverser. La fratrie est un don d'Allah, pas un problème à éliminer. Et chaque dispute, quand elle est accompagnée plutôt qu'étouffée, est un pas de plus vers l'adab — la conscience ajustée de l'autre.
+La bienveillance envers les plus jeunes, ce n'est pas les protéger de tout conflit. C'est leur donner un espace où le conflit peut exister — et où ils peuvent apprendre à le traverser.
 
-Pour cette semaine : le conseil de famille, et les trois erreurs cessées. Observez. Laissez le simulateur fonctionner.
-
-Que votre cœur trouve la paix.
+Pour cette semaine : le conseil de famille, et les trois erreurs cessées.
 
 **Wa salāmu ʿalaykum.**
 

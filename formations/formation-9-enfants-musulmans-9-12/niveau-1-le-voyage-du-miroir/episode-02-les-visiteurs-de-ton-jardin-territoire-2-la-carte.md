@@ -56,7 +56,7 @@ Ce ne sont pas tes ennemis.
 
 [Voix claire, pédagogique mais jamais scolaire]
 
-Voici l'idée la plus simple et la plus puissante de tout ce voyage :
+L'idée la plus simple et la plus puissante de tout ce voyage :
 
 **Les émotions sont des visiteurs. Elles arrivent, elles séjournent un moment, et elles partent.**
 
@@ -64,11 +64,13 @@ Exactement comme quand quelqu'un vient chez toi. Tu ne deviens pas cette personn
 
 C'est pareil pour les émotions.
 
+Exactement.
+
 [Pause]
 
-Mais voici le problème : la plupart des gens — même les adultes — ne connaissent pas le nom de leurs visiteurs. Ils ressentent quelque chose, mais ils ne savent pas le nommer. Et quand tu ne connais pas le nom de quelque chose, il devient beaucoup plus grand et beaucoup plus effrayant.
+Le problème : la plupart des gens — même les adultes — ne connaissent pas le nom de leurs visiteurs. Ils ressentent quelque chose, mais ils ne savent pas le nommer. Et sans nom, tout devient plus grand. Plus effrayant.
 
-C'est pour ça que le Coran est si précis quand il parle des émotions. Il ne dit pas juste « tu es triste » ou « tu es en colère ». Il utilise des mots différents pour chaque nuance.
+C'est pour ça que le Coran est si précis. Il ne dit pas juste « tu es triste » ou « tu es en colère ». Des mots différents pour chaque nuance.
 
 [Voix lente, chaque mot est un trésor]
 
@@ -86,7 +88,11 @@ C'est pour ça que le Coran est si précis quand il parle des émotions. Il ne d
 
 Quatre visiteurs. Quatre noms en arabe. Quatre noms en français. Huit mots pour te donner du pouvoir sur ce qui se passe en toi.
 
-Parce que quand tu peux dire « c'est du ghaḍab » au lieu de dire « je suis en colère », tu ne dis plus la même chose. Tu ne dis plus « JE SUIS la colère ». Tu dis « la colère est là ». C'est un visiteur. Et toi, tu es toujours le jardinier.
+Parce que quand tu peux dire « c'est du ghaḍab » au lieu de dire « je suis en colère », tu ne dis plus la même chose. Tu ne dis plus « JE SUIS la colère ». Tu dis « la colère est là ».
+
+C'est un visiteur.
+
+Et toi, tu es toujours le jardinier.
 
 [Transition — léger changement de rythme]
 
@@ -104,7 +110,9 @@ Est-ce que tu connais le nom de tes visiteurs ?
 
 Parce que la plupart des enfants — et la plupart des adultes aussi — confondent deux choses. Ils disent « je SUIS triste » au lieu de dire « la tristesse me visite ». Et ce petit mot — « je suis » — ça change tout.
 
-Si tu es triste, tu ES la tristesse. Tu ne peux pas t'en séparer. C'est toi.
+Si tu es triste, tu ES la tristesse. Tu ne peux pas t'en séparer.
+
+C'est toi.
 
 Mais si la tristesse te visite… tu es toujours là. Le jardinier est toujours là. Et le visiteur finira par partir.
 
@@ -190,7 +198,9 @@ Dans le prochain territoire — le Territoire du Dragon — tu vas apprendre à 
 
 [Pause]
 
-À très vite, jardinier.
+Le dragon t'attend.
+
+Prépare-toi.
 
 [Transition musicale — 3 secondes]
 

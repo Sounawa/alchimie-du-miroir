@@ -116,11 +116,11 @@ Laurie Kramer, chercheuse à l'Université de l'Illinois, a publié en 2010 une 
 
 [Voix directe, avec un léger sourire dans la voix]
 
-Et c'est là que les données de Kramer deviennent vraiment contre-intuitives — au point de déranger. Son équipe a comparé des adultes issus de fratries ayant connu des conflits modérés mais résolus de façon autonome, et des adultes issus de fratries « sans conflit » — des maisons où les parents intervenaient systématiquement pour prévenir toute tension. Les premiers présentent une régulation émotionnelle significativement supérieure. Ils tolèrent mieux la frustration. Ils négocient avec plus de souplesse. Ils montrent une meilleure capacité à maintenir des relations intimes à long terme. Les seconds — ceux qui n'ont jamais eu à se disputer parce qu'un adulte l'a toujours empêché — présentent des taux plus élevés d'évitement des conflits et de difficulté à exprimer un besoin dans une relation.
+Son équipe a comparé des adultes issus de fratries ayant connu des conflits modérés mais résolus de façon autonome, et des adultes issus de fratries « sans conflit » — des maisons où les parents intervenaient systématiquement pour prévenir toute tension. Les premiers présentent une régulation émotionnelle significativement supérieure. Ils tolèrent mieux la frustration. Ils négocient avec plus de souplesse. Ils montrent une meilleure capacité à maintenir des relations intimes à long terme. Les seconds — ceux qui n'ont jamais eu à se disputer parce qu'un adulte l'a toujours empêché — présentent des taux plus élevés d'évitement des conflits et de difficulté à exprimer un besoin dans une relation.
 
 [Pause]
 
-En d'autres termes : la fratrie sans conflit n'est pas un paradis. C'est un enfant privé de son simulateur de vol. Et quand cet enfant devient adulte — quand la turbulence relationnelle arrive, inévitablement — il n'a jamais appris à piloter dans la tempête.
+En d'autres termes : la fratrie sans conflit n'est pas un paradis. C'est un enfant privé de son simulateur de vol.
 
 Le parent qui empêche tout conflit entre ses enfants ne les protège pas — il les prive du simulateur de vol le plus puissant dont la nature les ait équipés.
 
@@ -132,7 +132,9 @@ Quatre zones. Quatre activations. Une seule conversation entre deux enfants de 9
 
 [Voix directe]
 
-Et voici ce que la neuroscience nous dit de plus : ces connexions se renforcent **uniquement** par la pratique. Vous ne pouvez pas les enseigner intellectuellement. Vous ne pouvez pas les expliquer à votre enfant et espérer qu'il les intègre. Il doit les vivre. Il doit les pratiquer. Il doit se tromper, mal négocier, revenir, réessayer. C'est dans la répétition imparfaite que le câblage se fait.
+Ces connexions se renforcent **uniquement** par la pratique. Vous ne pouvez pas les enseigner intellectuellement. Vous ne pouvez pas les expliquer à votre enfant et espérer qu'il les intègre.
+
+Il doit les vivre. Il doit les pratiquer. Il doit se tromper, mal négocier, revenir, réessayer. C'est dans la répétition imparfaite que le câblage se fait.
 
 [Transition musicale — 3 secondes]
 
@@ -156,7 +158,7 @@ Faites ça devant vos enfants. Pas pour leur faire la leçon — pour **leur mon
 
 Ensuite — et seulement quand le protocole est familier — enseignez-le explicitement aux enfants. Dites-leur : « Quand vous vous disputez, au lieu de crier, essayez ça. »
 
-Et voici la partie cruciale : la première fois qu'ils l'utilisent entre eux, ne **pas** intervenir. Même si c'est maladroit. Même si l'étape 4 est bâclée. Même si la résolution n'est pas parfaite.
+La partie cruciale : la première fois qu'ils l'utilisent entre eux, ne **pas** intervenir. Même si c'est maladroit. Même si l'étape 4 est bâclée. Même si la résolution n'est pas parfaite.
 
 L'imperfection de la résolution est le prix de l'apprentissage. Et ce prix est minuscule comparé au coût d'un cerveau qui n'a jamais appris à résoudre un conflit par lui-même.
 
@@ -198,7 +200,7 @@ Et pour vous donner un deuxième exemple concret — celui d'un conflit entre am
 
 Sans le protocole, l'enfant qui a perdu la pièce pleure, l'autre s'énerve, et le parent arrive pour séparer ou pour trancher : « Rends-lui, tu as assez de pièces. » Résultat : compliance. Aucun apprentissage.
 
-Avec le protocole, voici ce que ça donne quand les enfants l'ont intégré :
+Avec le protocole intégré, ça donne ça :
 
 L'enfant 1 dit : « Je me sens frustré parce que je voulais placer cette pièce et tu l'as prise. J'aimerais qu'on se mette d'accord sur les pièces qu'on place chacun. Et toi, tu as besoin de quoi ? »
 
@@ -242,11 +244,7 @@ Et la différence entre les deux — c'est votre capacité à rester spectateur 
 
 [Pause]
 
-Chaque conflit que vous ne résolvez pas est une compétence que votre enfant gagne. Et cette compétence — la capacité à affronter un désaccord, à exprimer un besoin, à entendre l'autre — sera l'outil le plus puissant qu'il emportera dans sa vie d'adulte.
-
-Pour cette semaine : enseignez le protocole en quatre étapes. Pratiquez-le en famille. Et la prochaine fois que vos enfants se disputent — respirez, reculez, et laissez leur cerveau faire le travail qu'il est fait pour faire.
-
-Dans le prochain épisode, nous parlerons de performance — et du danger invisible des compliments sur l'intelligence.
+Chaque conflit que vous ne résolvez pas est une compétence que votre enfant gagne.
 
 Prenez soin de vous.
 

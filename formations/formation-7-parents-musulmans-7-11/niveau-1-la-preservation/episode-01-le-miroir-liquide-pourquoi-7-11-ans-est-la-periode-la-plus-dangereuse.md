@@ -66,13 +66,17 @@ Mais entre 7 et 11 ans ? Rien. Ou presque rien. Votre enfant va à l'école, fai
 
 [Pause]
 
-Mais voici ce que vous ne voyez pas :
+Ce que vous ne voyez pas, c'est ça :
 
-Votre enfant de 9 ans est en train de vivre la période d'encodage la plus intense de toute sa vie neurologique. Son cerveau absorbe — silencieusement, sans expression, sans drame — tout ce qui se passe autour de lui. Vos stress, vos disputes, votre fatigue, votre rapport aux écrans, votre façon de gérer la colère, votre silence quand vous êtes contrarié — tout ça est en train de se graver dans des connexions neuronales qui, après 12 ans, deviennent extrêmement difficiles à modifier.
+Votre enfant de 9 ans est en train de vivre la période d'encodage la plus intense de toute sa vie neurologique. Son cerveau absorbe — silencieusement, sans expression, sans drame — tout ce qui se passe autour de lui. Vos stress, vos disputes, votre fatigue, votre rapport aux écrans, votre façon de gérer la colère, votre silence quand vous êtes contrarié.
+
+Tout ça est en train de se graver dans des connexions neuronales qui, après 12 ans, deviennent extrêmement difficiles à modifier.
 
 [Voix lente, chaque mot compte]
 
-Votre enfant de 9 ans ne « va pas bien ». Votre enfant de 9 ans ABSORBE tout ce que vous faites — y compris ce que vous ne faites pas. Et ce qu'il absorbe, il l'encode dans des voies neuronales qui deviennent quasi permanentes après 12 ans. Vous avez environ trois ans pour câbler correctement. Après ça, vous ne réparez plus — vous adaptez.
+Votre enfant de 9 ans ne « va pas bien ». Il ABSORBE tout ce que vous faites — y compris ce que vous ne faites pas. Et ce qu'il absorbe, il l'encode dans des voies neuronales qui deviennent quasi permanentes après 12 ans.
+
+Vous avez environ trois ans pour câbler correctement. Après ça, vous ne réparez plus — vous adaptez.
 
 [Pause 3 secondes]
 
@@ -92,7 +96,7 @@ Allah dit dans le Coran, sourate 30, verset 30 :
 
 La fiṭra, dans la tradition islamique, c'est la disposition originelle. L'état naturel de l'être humain. Ce avec quoi chaque enfant naît — une tendance innée vers la vérité, vers le bien, vers la connexion avec son Créateur.
 
-Mais voici ce que presque personne ne vous a dit :
+Ce que presque personne ne vous a dit :
 
 [Voix lente, avec solennité]
 
@@ -112,17 +116,19 @@ Les recherches d'Eric Kandel — prix Nobel de médecine et professeur à l'Univ
 
 [Pause]
 
-Et le travail du parent entre 7 et 11 ans ? Ce n'est pas d'enseigner l'intelligence émotionnelle à votre enfant. Votre enfant l'a déjà. Votre travail est de ne pas la DÉTRUIRE.
+Et le travail du parent entre 7 et 11 ans ?
+
+Ce n'est pas d'enseigner l'intelligence émotionnelle à votre enfant. Votre enfant l'a déjà. Votre travail est de ne pas la DÉTRUIRE.
 
 [Voix avec une gravité douce]
 
 Al-Ghazālī (al-ġazālī), dans le premier livre de son *Iḥyāʾ ʿulūm al-dīn*, écrit que l'enfant est comme une terre vierge — tout ce qu'on y sème y poussera. Mais il ajoute quelque chose de crucial : la terre a déjà en elle la capacité de faire pousser. Le rôle du cultivateur n'est pas de créer la fertilité — c'est de la **préserver**.
 
-C'est exactement ça, la fiṭra. Votre enfant a une fertilité émotionnelle innée. Et entre 7 et 11 ans, tout ce que vous faites — et ne faites pas — soit préserve cette fertilité, soit la stérilise.
+C'est exactement ça, la fiṭra.
+
+Votre enfant a une fertilité émotionnelle innée. Et entre 7 et 11 ans, tout ce que vous faites — et ne faites pas — soit préserve cette fertilité, soit la stérilise.
 
 [Pause]
-
-Et le renversement, le voici :
 
 Le parent qui dit « mon enfant va bien » confond l'ABSENCE de symptômes avec la PRÉSENCE de santé. Entre 7 et 11 ans, votre enfant absorbe vos stress, vos disputes, la pression de l'école, les écrans — sans rien exprimer. Parce qu'à cet âge, il n'a ni les mots ni la distance pour dire « ce que je vis me fait du mal ». Le silence de votre enfant n'est pas la paix. Le silence de votre enfant, c'est la fiṭra en train d'être écrasée sans que personne ne le sache.
 

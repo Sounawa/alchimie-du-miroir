@@ -90,11 +90,11 @@ Et la munājāt (مُنَاجَاةٌ) est le **cœur**. L'organe central. Sans 
 
 Quand un enfant de 8 ans est angoissé et que le parent dit « fais duʿāʾ », l'enfant entend : « Récite la formule. » Mais il connaît déjà la formule. Ce qu'il cherche, ce n'est pas un texte à dire — c'est la **permission** de dire ce qu'il ressent vraiment. Avec ses propres mots. Ses propres hésitations. Ses propres doutes.
 
-Et c'est là que la fiṭra entre en jeu. Le Coran dit :
+La fiṭra. Le Coran dit :
 
 « Dirige ton visage vers la religion en hanīf — telle est la fiṭra qu'Allah a originalement donnée aux hommes. » (30:30)
 
-La fiṭra, ce n'est pas une croyance intellectuelle. C'est une **disposition corporelle** — une orientation naturelle du cœur vers son Créateur. Et cette orientation s'exprime spontanément chez l'enfant : quand il est émerveillé devant un coucher de soleil, quand il est terrifié dans l'obscurité, quand il est ému par la misère de quelqu'un — dans ces moments-là, son cœur se tourne naturellement vers Allah.
+Ce n'est pas une croyance intellectuelle. C'est une **disposition corporelle** — une orientation naturelle du cœur vers son Créateur.
 
 Sauf que nous, les parents, avons souvent remplacé ce mouvement naturel par un mouvement **formel**. Nous avons dit à l'enfant : « Voici les duʿāʾ que tu dois dire le matin. Voici ceux du soir. Voici ceux avant de dormir. » Et l'enfant, obéissant, a appris à **réciter** là où il aurait dû **parler**.
 
@@ -104,13 +104,17 @@ Les recherches de Kenneth Pargament, professeur de psychologie à l'Université 
 
 [Pause]
 
-Et ce que Pargament a démontré chez l'adulte, Lisa Miller l'a confirmé chez l'enfant. Lisa Miller, professeure de psychologie clinique à l'Université Columbia et directrice du Spirituality Mind Body Institute, a mené pendant plus de quinze ans des recherches longitudinales sur la spiritualité des enfants et des adolescents. Ses travaux, synthétisés dans *The Spiritual Child* (2015), montrent une distinction cruciale : les enfants qui développent une **spiritualité intrinsèque** — une relation personnelle, vécue et ressentie avec le sacré — présentent des taux de dépression et de conduites à risque significativement plus bas que ceux dont la pratique religieuse est uniquement **extrinsèque** — ritualisée, performée pour répondre aux attentes de l'entourage. La spiritualité intrinsèque protège. La performance religieuse, elle, ne protège pas — et peut même devenir un facteur de rigidité émotionnelle quand l'enfant sent que sa valeur dépend de sa conformité.
+Et ce que Pargament a démontré chez l'adulte, Lisa Miller l'a confirmé chez l'enfant. Dans *The Spiritual Child* (2015), elle montre une distinction cruciale : les enfants qui développent une **spiritualité intrinsèque** — une relation personnelle, vécue et ressentie avec le sacré — présentent des taux de dépression et de conduites à risque significativement plus bas que ceux dont la pratique religieuse est uniquement **extrinsèque** — ritualisée, performée pour répondre aux attentes de l'entourage.
+
+La spiritualité intrinsèque protège. La performance religieuse, elle, ne protège pas.
 
 L'enfant qui ne connaît que duʿāʾ al-maslaha fait l'expérience suivante : « Je demande à Allah, et parfois ça marche, parfois non. » Et si les « non » s'accumulent — un examen raté, un grand-père qui meurt — l'enfant conclut silencieusement : « La prière ne marche pas. » Non pas parce qu'Allah n'écoute pas. Mais parce qu'on ne lui a jamais appris que la prière n'est pas une **demande**. C'est une **présence**.
 
 [Voix douce, comme une confidence]
 
-Votre enfant n'a pas besoin que vous lui appreniez plus de formules. Il a besoin que vous lui montriez que vous aussi, vous parlez à Allah avec vos propres mots. Que vous hésitez. Que vous ne savez pas toujours quoi dire. Que parfois, votre duʿāʾ, c'est juste le silence — un cœur qui se tient là, devant son Seigneur, sans rien demander.
+Votre enfant n'a pas besoin que vous lui appreniez plus de formules.
+
+Il a besoin que vous lui montriez que vous aussi, vous parlez à Allah avec vos propres mots. Que vous hésitez. Que vous ne savez pas toujours quoi dire.
 
 [Transition — léger changement de rythme]
 
@@ -132,7 +136,7 @@ Chaque membre de la famille — y compris vous — peut écrire dans ce cahier, 
 
 [Pause]
 
-Mais voici la condition la plus importante : **le parent écrit en premier**.
+Et la condition la plus importante : **le parent écrit en premier**.
 
 [Voix lente, avec intention]
 
@@ -208,11 +212,11 @@ Je termine avec Ibn ʿAṭāʾillāh (ibn ʿaṭāʾillāh), le maître spiritue
 
 [Pause 3 secondes]
 
-La munājāt n'est pas une technique. C'est une orientation du cœur. Et votre enfant de 7 à 11 ans porte cette orientation dans chaque cellule de son corps. Votre tâche n'est pas de la créer — elle est déjà là. Votre tâche est de ne pas la détruire.
+La munājāt n'est pas une technique. C'est une orientation du cœur. Et votre enfant de 7 à 11 ans porte cette orientation dans chaque cellule de son corps.
 
-Pour cette semaine : le cahier de munājāt, et les trois permissions. Parler, douter, hésiter — devant Celui qui a créé ces mouvements du cœur.
+Votre tâche n'est pas de la créer. Elle est déjà là. Votre tâche est de ne pas la détruire.
 
-Que votre cœur trouve la paix.
+Pour cette semaine : le cahier de munājāt, et les trois permissions.
 
 **Wa salāmu ʿalaykum.**
 

@@ -76,7 +76,7 @@ On y est. Le dernier territoire. La clôture du voyage. Mais avant qu'on se quit
 
 Sept territoires. Sept cartes pour ton monde intérieur.
 
-Tu sais quelque chose que beaucoup d'adultes ne savent pas. Pas parce qu'ils sont moins intelligents que toi. Mais parce que personne ne leur a appris. Personne ne leur a donné cette carte quand ils avaient ton âge.
+Tu sais quelque chose que beaucoup d'adultes ne savent pas. Pas parce qu'ils sont moins intelligents. Parce que personne ne leur a appris.
 
 Toi, tu l'as. Et elle est à toi pour toujours.
 
@@ -96,9 +96,11 @@ Mais maintenant — est-ce que tu vois la différence ? Tu as un vocabulaire que
 
 [Pause]
 
-Ce ne sont pas des trucs que tu as lus dans un livre d'école. Ce sont des outils que tu as PRATIQUÉS. Dans ton corps. Dans ton journal. Dans ta vie.
+Ce ne sont pas des trucs que tu as lus dans un livre d'école.
 
-Et c'est pour ça que tu es un explorateur différent aujourd'hui. Parce que tu ne connais pas juste la THÉORIE de ton monde intérieur. Tu y as voyagé.
+Ce sont des outils que tu as PRATIQUÉS. Dans ton corps. Dans ton journal. Dans ta vie.
+
+Et c'est pour ça que tu es un explorateur différent aujourd'hui. Tu ne connais pas juste la théorie de ton monde intérieur. Tu y as voyagé.
 
 [Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
 
@@ -139,7 +141,9 @@ Et sur la dernière page — la page de tampon final — écris cette question :
 
 **« Quel territoire vais-je explorer ensuite ? »**
 
-Parce que ce voyage n'est pas FINI. C'est le NIVEAU 1. Il y a d'autres niveaux, d'autres profondeurs, d'autres territoires à découvrir. Ton monde intérieur est infini — comme l'espace. Tu n'auras jamais fini de l'explorer.
+Parce que ce voyage n'est pas FINI.
+
+C'est le NIVEAU 1. Il y a d'autres niveaux, d'autres profondeurs, d'autres territoires à découvrir.
 
 Garde ce passeport. Sers-toi-en. Relis tes phrases clés quand tu en as besoin. Et surtout — sois fier de toi. Tu as fait quelque chose de rare.
 
@@ -153,7 +157,7 @@ Garde ce passeport. Sers-toi-en. Relis tes phrases clés quand tu en as besoin. 
 
 [Voix solennelle, la plus solennelle de tout le voyage]
 
-Voici ta phrase clé pour ce dernier territoire. La phrase qui résume tout le voyage :
+Ta phrase clé pour ce dernier territoire — celle qui résume tout le voyage :
 
 [Voix lente, chaque mot compte]
 

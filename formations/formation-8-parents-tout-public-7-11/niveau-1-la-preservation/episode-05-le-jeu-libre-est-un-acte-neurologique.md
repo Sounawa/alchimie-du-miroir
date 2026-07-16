@@ -114,7 +114,9 @@ Quand vous organisez chaque après-midi de votre enfant, vous éliminez les méc
 
 [Voix directe]
 
-L'enfant « enrichi » est l'enfant **sur-câblé**. Son cerveau construit des autoroutes sans aires de repos. Et chaque route a besoin de pauses de construction. Les 30 minutes de « rien » quotidien ne sont pas du temps perdu. C'est le temps le plus productif de la journée de votre enfant.
+L'enfant « enrichi » est l'enfant **sur-câblé**. Son cerveau construit des autoroutes sans aires de repos. Et chaque route a besoin de pauses de construction.
+
+Les 30 minutes de « rien » quotidien ne sont pas du temps perdu. C'est le temps le plus productif de la journée de votre enfant.
 
 [Pause]
 
@@ -132,13 +134,17 @@ Quatre fonctions exécutives activées simultanément. Dans une activité que l'
 
 Comparez avec une activité structurée — le cours de piano, par exemple. L'enfant exécute. Il suit les instructions du professeur. Il reproduit les gestes demandés. Le cortex préfrontal est actif, oui — mais d'une seule façon : la **compliance**. Il obéit. Il ne décide pas. Il ne négocie pas. Il ne gère pas de frustration imprévue. Le circuit neuronal qui se renforce n'est pas le circuit de l'autonomie — c'est le circuit de la conformité.
 
-Ce n'est pas que le piano soit inutile — loin de là. Le piano développe d'autres compétences — la discipline, la mémoire, la motricité fine. Mais il ne développe **pas** les quatre fonctions exécutives que le jeu libre active en une seule après-midi dans le jardin. Et entre 7 et 11 ans, ce sont précisément ces quatre fonctions qui forment le socle de la compétence sociale et professionnelle à l'âge adulte.
+Ce n'est pas que le piano soit inutile — loin de là. Il développe la discipline, la mémoire, la motricité fine. Mais il ne développe **pas** les quatre fonctions exécutives que le jeu libre active en une seule après-midi dans le jardin.
+
+Et entre 7 et 11 ans, ce sont précisément ces quatre fonctions qui forment le socle de la compétence sociale et professionnelle à l'âge adulte.
 
 [Voix directe]
 
 Prenons un deuxième exemple. Une fille de 8 ans est seule dans sa chambre. Pas d'écran, pas de jeu. Elle regarde les murs. Elle est ennuyée. Au bout de dix minutes — et ce temps d'ennui est neurologiquement nécessaire — elle attrape des feuilles, des ciseaux, du ruban adhésif. Elle commence à fabriquer quelque chose. Un livre ? Une marionnette ? Une maison miniature ? Elle ne sait pas encore. Elle expérimente. Elle se trompe. Elle recommence. Personne ne lui dit ce qui est bien ou mal. Personne ne l'évalue.
 
-Ce qu'elle est en train de faire, neurologiquement, c'est de renforcer les connexions entre son cortex préfrontal et son cortex pariétal — les zones impliquées dans la créativité spatiale et la résolution de problèmes ouverte. Les études en IRMf montrent que ce type d'activité auto-dirigée génère un schéma d'activation préfrontal très différent de l'activité dirigée. Dans l'activité dirigée, le cerveau de l'enfant suit. Dans l'activité auto-dirigée, le cerveau de l'enfant **construit**.
+Ce qu'elle est en train de faire, neurologiquement, c'est de renforcer les connexions entre son cortex préfrontal et son cortex pariétal — les zones de la créativité spatiale et de la résolution de problèmes. Les études en IRMf montrent un schéma d'activation très différent selon que l'activité est dirigée ou auto-dirigée.
+
+Dans l'activité dirigée, le cerveau de l'enfant suit. Dans l'activité auto-dirigée, le cerveau de l'enfant **construit**.
 
 [Transition musicale — 3 secondes]
 
@@ -162,7 +168,7 @@ Juste votre enfant et son environnement. Des Lego, des feuilles, des bouts de bo
 
 [Pause]
 
-Et voici la partie difficile — la partie qui vous concerne :
+La partie difficile — et celle qui vous concerne :
 
 Vous ne suggérez rien. Vous n'organisez rien. Vous ne dites pas : « Tu pourrais dessiner ? » ou « Veux-tu aller dehors ? » Vous êtes présent, mais silencieux. Si votre enfant dit « je m'ennuie », vous répondez : « C'est parfait. »
 
@@ -238,11 +244,11 @@ Votre enfant a 7, 8, 9, 10, 11 ans. Son cerveau est en plein câblage. Et le mat
 
 Pour cette semaine : les 30 minutes de rien. L'audit de l'emploi du temps. Et l'observation sans intervention.
 
-Votre enfant ne manque pas de stimulation. Il manque de **liberté**.
+Votre enfant ne manque pas de stimulation.
+
+Il manque de **liberté**.
 
 Et si vous ne lui donnez pas cette liberté maintenant, pendant que son cerveau est encore en construction, il ne la réclamera plus à l'adolescence. Il la remplacera par quelque chose de moins exigeant mais de bien plus coûteux : la passivité.
-
-Dans le prochain épisode, nous parlerons de conflit — et de pourquoi votre silence est parfois le meilleur cadeau que vous puissiez faire.
 
 Prenez soin de vous.
 

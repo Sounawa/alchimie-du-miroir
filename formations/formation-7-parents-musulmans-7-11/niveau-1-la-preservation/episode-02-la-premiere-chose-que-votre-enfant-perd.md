@@ -70,11 +70,15 @@ C'est son **vocabulaire émotionnel**.
 
 À 9 ans, votre enfant dit : « Ça va. » Ou : « Bien. »
 
-Deux mots. Un seul degré de précision. Et personne ne s'inquiète — parce que « ça va » ressemble à un signe de maturité. L'enfant ne se plaint plus. Il s'adapte. Il grandit.
+Deux mots.
+
+Et personne ne s'inquiète — parce que « ça va » ressemble à un signe de maturité. L'enfant ne se plaint plus. Il s'adapte. Il grandit.
 
 [Voix lente, chaque mot compte]
 
-Sauf que « ça va » n'est pas de la maturité. C'est un effacement.
+Sauf que « ça va » n'est pas de la maturité.
+
+C'est un effacement.
 
 [Pause 3 secondes]
 
@@ -112,15 +116,21 @@ Six mots. Six expériences corporelles différentes. Allah n'a pas créé un seu
 
 [Voix avec une gravité douce]
 
-Et quand votre enfant passe de « je suis triste parce que… » à « ça va », il ne manque pas de vocabulaire. Il a DÉSAPPRIS la précision. Il a remplacé six couleurs par du gris. Et ce désapprentissage commence à 7 ans.
+Et quand votre enfant passe de « je suis triste parce que… » à « ça va », il ne manque pas de vocabulaire.
+
+Il a DÉSAPPRIS la précision.
+
+Six couleurs remplacées par du gris. Et ce désapprentissage commence à 7 ans.
 
 [Transition — léger changement de rythme]
 
-La recherche est formelle. John Gottman, psychologue à l'Université de Washington, a publié en 1997 un ouvrage qui a fait date : *Raising an Emotionally Intelligent Child*. Son équipe a suivi 130 familles pendant plus de vingt ans dans une étude longitudinale. Leur conclusion : les enfants qui, à 7 ans, possèdent un vocabulaire émotionnel riche et des parents qui les aident à nommer leurs émotions — ces enfants ont, à 30 ans, des relations significativement plus saines, une meilleure régulation émotionnelle, et des carrières plus stables que ceux dont le vocabulaire émotionnel s'est appauvri.
+La recherche est formelle. John Gottman, psychologue à l'Université de Washington, a publié en 1997 un ouvrage qui a fait date : *Raising an Emotionally Intelligent Child*. Son équipe a suivi 130 familles pendant plus de vingt ans.
 
 Vingt-trois ans plus tard. Les effets sont mesurables. Permanents.
 
-Les recherches de Marc Brackett, directeur du Yale Center for Emotional Intelligence, confortent ces résultats. Dans *Permission to Feel* (2019), Brackett montre que le simple fait d'enseigner aux enfants un vocabulaire émotionnel précis — sa méthode RULER, déployée dans des centaines d'écoles — améliore non seulement la santé émotionnelle des élèves, mais aussi leurs résultats scolaires et leur climat social. Le message est clair : les mots qu'un enfant possède pour décrire son monde intérieur déterminent sa capacité à y naviguer.
+Les enfants qui, à 7 ans, possèdent un vocabulaire émotionnel riche ont, à 30 ans, des relations significativement plus saines et une meilleure régulation émotionnelle que ceux dont le vocabulaire s'est appauvri.
+
+Les recherches de Marc Brackett, directeur du Yale Center for Emotional Intelligence, confortent ces résultats. Sa méthode RULER, déployée dans des centaines d'écoles, améliore non seulement la santé émotionnelle des élèves, mais aussi leurs résultats scolaires. Les mots qu'un enfant possède pour décrire son monde intérieur déterminent sa capacité à y naviguer.
 
 Et dans la tradition prophétique, le Prophète ﷺ avait compris cela avant la neuroscience. Quand il rencontrait un compagnon, il ne disait pas « ça va ? ». Il disait :
 
@@ -237,10 +247,6 @@ Je termine avec un hadith du Prophète ﷺ, rapporté par Abū Hurayra :
 « Ça va » est un mot creux quand il remplace une vérité. Votre enfant a besoin de mots vrais. Et ces mots vrais commencent par vous.
 
 Pour cette semaine : la question prophétique, le dictionnaire de la famille, et un mot du Coran dans votre quotidien.
-
-Dans le prochain épisode, nous parlerons de la colère — la vôtre — et de ce qu'elle fait au cerveau de votre enfant.
-
-Que votre cœur trouve la paix.
 
 **Wa salāmu ʿalaykum.**
 

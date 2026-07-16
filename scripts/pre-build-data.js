@@ -1,9 +1,8 @@
 /**
- * Pre-build script: reads all formation markdown files and generates
- * a static TypeScript data module for GitHub Pages deployment.
- *
- * This eliminates ALL runtime fetch() calls — everything is embedded
- * in the JS bundle for 100% reliable static hosting.
+ * Pre-build script: reads all formation markdown files and generates:
+ * 1. `src/lib/generated-data.ts` — ONLY structure data (formations tree + episodesIndex, NO content)
+ * 2. `public/data/episodes.json` — ALL episode content as flat JSON keyed by slug
+ * 3. `public/data/leadmagnets.json` — ALL lead magnet data as JSON
  *
  * Usage: node scripts/pre-build-data.js
  */
@@ -12,7 +11,9 @@ import { join } from "path"
 
 const FORMATIONS_DIR = join(process.cwd(), "formations")
 const LEAD_MAGNETS_DIR = join(process.cwd(), "script", "lead-magnets")
-const OUTPUT_FILE = join(process.cwd(), "src", "lib", "generated-data.ts")
+const OUTPUT_TS = join(process.cwd(), "src", "lib", "generated-data.ts")
+const OUTPUT_EPISODES_JSON = join(process.cwd(), "public", "data", "episodes.json")
+const OUTPUT_LEADMAGNETS_JSON = join(process.cwd(), "public", "data", "leadmagnets.json")
 
 async function parseEpisode(fullPath) {
   const content = await readFile(fullPath, "utf-8")
@@ -58,13 +59,6 @@ async function parseEpisode(fullPath) {
   }
 }
 
-function escapeTs(s) {
-  return s
-    .replace(/\\/g, "\\\\")
-    .replace(/`/g, "\\`")
-    .replace(/\$/g, "\\$")
-}
-
 function parseLeadMagnetMeta(lines) {
   const meta = {}
   let title = ""
@@ -103,11 +97,12 @@ const AUDIENCE_LABELS = {
 }
 
 async function main() {
-  console.log("Pre-building static data module...")
+  console.log("Pre-building split data modules...")
 
   const formationDirs = (await readdir(FORMATIONS_DIR)).sort()
   const formations = []
-  const episodesMap = {}  // slug -> { title, content, meta }
+  const episodesIndex = {}  // slug -> { title, meta } (NO content)
+  const episodesContentMap = {}  // slug -> { title, content, meta } (WITH content for JSON)
 
   // ── Parse lead magnets ──
   const leadMagnets = []
@@ -140,16 +135,29 @@ async function main() {
   }
   console.log(`Lead magnets parsed: ${leadMagnets.length}`)
 
-  for (const formationDir of formationDirs.sort()) {
+  // ── Parse episodes ──
+  for (const formationDir of formationDirs.sort((a, b) => {
+    const numA = parseInt(a.match(/formation-(\d+)/)?.[1] || '0')
+    const numB = parseInt(b.match(/formation-(\d+)/)?.[1] || '0')
+    return numA - numB
+  })) {
     const formationPath = join(FORMATIONS_DIR, formationDir)
     const formationName = formationDir.replace(/^formation-\d+-/, "").replace(/-/g, " ")
-    const niveauDirs = (await readdir(formationPath)).sort()
+    const niveauDirs = (await readdir(formationPath)).sort((a, b) => {
+      const numA = parseInt(a.match(/niveau-(\d+)/)?.[1] || '0')
+      const numB = parseInt(b.match(/niveau-(\d+)/)?.[1] || '0')
+      return numA - numB
+    })
     const niveaux = []
 
     for (const niveauDir of niveauDirs) {
       const niveauPath = join(formationPath, niveauDir)
       const niveauName = niveauDir.replace(/^niveau-\d+-/, "").replace(/-/g, " ")
-      const files = (await readdir(niveauPath)).filter(f => f.endsWith(".md")).sort()
+      const files = (await readdir(niveauPath)).filter(f => f.endsWith(".md")).sort((a, b) => {
+        const numA = parseInt(a.match(/episode-(\d+)/)?.[1] || '0')
+        const numB = parseInt(b.match(/episode-(\d+)/)?.[1] || '0')
+        return numA - numB
+      })
       const episodes = []
 
       for (const file of files) {
@@ -162,7 +170,18 @@ async function main() {
 
         const episodeData = await parseEpisode(fullPath)
 
-        episodesMap[slug] = episodeData
+        // Index (NO content) — for the TS file
+        episodesIndex[slug] = {
+          title: `${num}. ${titleText.charAt(0).toUpperCase() + titleText.slice(1)}`,
+          meta: episodeData.meta,
+        }
+
+        // Full data (WITH content) — for the JSON file
+        episodesContentMap[slug] = {
+          title: episodeData.title,
+          content: episodeData.content,
+          meta: episodeData.meta,
+        }
 
         episodes.push({
           slug,
@@ -179,44 +198,14 @@ async function main() {
   const totalEpisodes = formations.reduce((a, f) => a + f.niveaux.reduce((b, n) => b + n.episodes.length, 0), 0)
   console.log(`Parsed: ${formations.length} formations, ${formations.reduce((a, f) => a + f.niveaux.length, 0)} niveaux, ${totalEpisodes} episodes`)
 
-  // Generate TypeScript module
-  console.log("Generating src/lib/generated-data.ts ...")
+  // ── Generate 1: src/lib/generated-data.ts (structure only, NO content) ──
+  console.log("Generating src/lib/generated-data.ts (structure only) ...")
 
-  // Serialize formations (no markdown content, just structure)
   const formationsJson = JSON.stringify(formations, null, 2)
-
-  // Serialize episode contents
-  let episodesEntries = ""
-  for (const [slug, data] of Object.entries(episodesMap)) {
-    episodesEntries += `  "${slug}": {\n`
-    episodesEntries += `    title: ${JSON.stringify(data.title)},\n`
-    episodesEntries += `    content: \`${escapeTs(data.content)}\`,\n`
-    episodesEntries += `    meta: ${JSON.stringify(data.meta)},\n`
-    episodesEntries += `  },\n`
-  }
-
-  // Serialize lead magnets
-  let lmEntries = ""
-  for (const lm of leadMagnets) {
-    lmEntries += `  "${lm.slug}": {\n`
-    lmEntries += `    title: ${JSON.stringify(lm.title)},\n`
-    lmEntries += `    content: \`${escapeTs(lm.content)}\`,\n`
-    lmEntries += `    meta: ${JSON.stringify(lm.meta)},\n`
-    lmEntries += `    audience: ${JSON.stringify(lm.audience)},\n`
-    lmEntries += `    audienceLabel: ${JSON.stringify(lm.audienceLabel)},\n`
-    lmEntries += `  },\n`
-  }
-
-  const lmListJson = JSON.stringify(leadMagnets.map(lm => ({
-    slug: lm.slug,
-    title: lm.title,
-    audience: lm.audience,
-    audienceLabel: lm.audienceLabel,
-    meta: lm.meta,
-  })), null, 2)
+  const episodesIndexJson = JSON.stringify(episodesIndex, null, 2)
 
   const tsContent = `// AUTO-GENERATED by scripts/pre-build-data.js — DO NOT EDIT MANUALLY
-// This file embeds all formation/episode data for GitHub Pages static deployment.
+// This file contains ONLY structure data. Content is loaded lazily from JSON files.
 
 export interface GeneratedFormation {
   id: string
@@ -228,51 +217,54 @@ export interface GeneratedFormation {
   }[]
 }
 
-export interface GeneratedEpisodeData {
-  title: string
-  content: string
-  meta: Record<string, string>
-}
-
-export interface GeneratedLeadMagnet {
-  slug: string
-  title: string
-  content: string
-  meta: {
-    duree?: string
-    format?: string
-    audience?: string
-    objectif?: string
-    formation?: string
-  }
-  audience: string
-  audienceLabel: string
-}
-
-export interface LeadMagnetListItem {
-  slug: string
-  title: string
-  audience: string
-  audienceLabel: string
-  meta: GeneratedLeadMagnet['meta']
-}
-
 export const formations: GeneratedFormation[] = ${formationsJson} as GeneratedFormation[]
 
-export const episodesData: Record<string, GeneratedEpisodeData> = {
-${episodesEntries}}
-
-export const leadMagnetsList: LeadMagnetListItem[] = ${lmListJson} as LeadMagnetListItem[]
-
-export const leadMagnetsData: Record<string, GeneratedLeadMagnet> = {
-${lmEntries}}
+export const episodesIndex: Record<string, { title: string; meta: Record<string, string> }> = ${episodesIndexJson} as Record<string, { title: string; meta: Record<string, string> }>
 `
 
   await mkdir(join(process.cwd(), "src", "lib"), { recursive: true })
-  await writeFile(OUTPUT_FILE, tsContent, "utf-8")
+  await writeFile(OUTPUT_TS, tsContent, "utf-8")
+  console.log(`  -> ${OUTPUT_TS} (${(Buffer.byteLength(tsContent) / 1024).toFixed(1)} KB)`)
 
-  console.log(`Done! Output: ${OUTPUT_FILE}`)
-  console.log(`Formations: ${formations.length}, Episodes embedded: ${Object.keys(episodesMap).length}, Lead magnets: ${leadMagnets.length}`)
+  // ── Generate 2: public/data/episodes.json (all episode content) ──
+  console.log("Generating public/data/episodes.json ...")
+
+  await mkdir(join(process.cwd(), "public", "data"), { recursive: true })
+  const episodesJsonStr = JSON.stringify(episodesContentMap, null, 2)
+  await writeFile(OUTPUT_EPISODES_JSON, episodesJsonStr, "utf-8")
+  console.log(`  -> ${OUTPUT_EPISODES_JSON} (${(Buffer.byteLength(episodesJsonStr) / 1024 / 1024).toFixed(2)} MB)`)
+
+  // ── Generate 3: public/data/leadmagnets.json ──
+  console.log("Generating public/data/leadmagnets.json ...")
+
+  const leadMagnetsOutput = {
+    list: leadMagnets.map(lm => ({
+      slug: lm.slug,
+      title: lm.title,
+      audience: lm.audience,
+      audienceLabel: lm.audienceLabel,
+      meta: lm.meta,
+    })),
+    data: Object.fromEntries(
+      leadMagnets.map(lm => [lm.slug, {
+        slug: lm.slug,
+        title: lm.title,
+        content: lm.content,
+        meta: lm.meta,
+        audience: lm.audience,
+        audienceLabel: lm.audienceLabel,
+      }])
+    ),
+  }
+  const leadMagnetsJsonStr = JSON.stringify(leadMagnetsOutput, null, 2)
+  await writeFile(OUTPUT_LEADMAGNETS_JSON, leadMagnetsJsonStr, "utf-8")
+  console.log(`  -> ${OUTPUT_LEADMAGNETS_JSON} (${(Buffer.byteLength(leadMagnetsJsonStr) / 1024).toFixed(1)} KB)`)
+
+  console.log("\nDone!")
+  console.log(`  Formations: ${formations.length}`)
+  console.log(`  Episodes index: ${Object.keys(episodesIndex).length} (structure only in TS)`)
+  console.log(`  Episodes content: ${Object.keys(episodesContentMap).length} (in JSON)`)
+  console.log(`  Lead magnets: ${leadMagnets.length} (in JSON)`)
 }
 
 main().catch(console.error)

@@ -100,19 +100,19 @@ Pas la qualité de son éducation. La qualité de ses **mots** pour ce qu'il res
 
 Pensez-y. Un enfant de 7 ans qui peut dire « je suis frustré » au lieu de « ça va » — cet enfant, à 30 ans, aura des relations plus saines, une meilleure régulation émotionnelle, et un risque plus faible de dépression. Pas à cause de ce qu'il a appris à l'école. À cause des mots que ses parents lui ont donnés — ou lui ont pris.
 
-Et c'est là que la neuroscience vient confirmer ce que Gottman a observé. En 2007, Matthew Lieberman et son équipe à l'Université de Californie à Los Angeles ont publié une étude fondatrice dans la revue *Psychological Science*, intitulée « Putting Feelings into Words ». Leur découverte : quand une personne nomme une émotion qu'elle ressent, l'activation de l'amygdale — le centre de la peur et de la menace dans le cerveau — diminue de **30%**. Trente pour cent. Pas grâce à une thérapie. Pas grâce à un médicament. Grâce à un **mot**.
+La neuroscience confirme. En 2007, Matthew Lieberman et son équipe à l'Université de Californie à Los Angeles ont publié une étude fondatrice dans la revue *Psychological Science*, intitulée « Putting Feelings into Words ». Leur découverte : quand une personne nomme une émotion qu'elle ressent, l'activation de l'amygdale — le centre de la peur et de la menace dans le cerveau — diminue de **30%**. Trente pour cent. Pas grâce à une thérapie. Pas grâce à un médicament. Grâce à un **mot**.
 
 [Pause]
 
 Le processus s'appelle « l'étiquetage affectif » — *affect labeling*. Et il fonctionne comme un disjoncteur neuronal : nommer l'émotion envoie un signal au cortex préfrontal qui dit à l'amygdale : « C'est identifié. C'est traité. On peut baisser l'alerte. »
 
-Mais voici le renversement.
-
 [Voix directe, avec compassion]
 
 Quand vous dites à votre enfant de 8 ans « ne pleure pas, ce n'est rien », vous pensez le réconforter. Vous pensez l'aider à surmonter. Mais ce que vous faites réellement — ce que la neuroscience montre que vous faites — c'est l'inverse. Vous lui apprenez que son expérience interne est **invalide**. Que ce qu'il ressent n'a pas de place. Que la meilleure stratégie, c'est de le supprimer.
 
-L'enfant apprend : « Ce que je ressens ne compte pas. Je devrais arrêter de le ressentir. » Et à 8 ans, il a déjà remplacé douze émotions par un seul mot : « ça va. »
+L'enfant apprend : « Ce que je ressens ne compte pas. Je devrais arrêter de le ressentir. »
+
+À 8 ans, il a déjà remplacé douze émotions par un seul mot : « ça va. »
 
 [Pause 2 secondes]
 
@@ -120,7 +120,9 @@ Le parent qui dit « ne pleure pas » n'est pas méchant. Il est fatigué, dépa
 
 [Pause]
 
-Et ce qui est tragique, c'est que le processus est invisible. L'enfant ne vient pas vous dire : « Maman, tu viens de couper mon câble de tristesse. » Il se tait. Il dit « ça va ». Et le câble s'atrophie silencieusement. Comme un muscle qu'on n'utilise plus. Sauf qu'un muscle, on peut le renforcer plus tard. Un câble neuronal dans une fenêtre de câblage — quand la fenêtre se ferme, le câble non renforcé disparaît.
+Et ce qui est tragique, c'est que le processus est invisible. L'enfant ne vient pas vous dire : « Maman, tu viens de couper mon câble de tristesse. » Il se tait. Il dit « ça va ».
+
+Le câble s'atrophie silencieusement. Comme un muscle qu'on n'utilise plus — sauf qu'un câble neuronal dans une fenêtre de câblage, quand la fenêtre se ferme, le câble non renforcé disparaît.
 
 Et Gottman nous dit que ce câble manquant, on le mesurera dans 20 ans — dans la qualité des relations, dans la santé mentale, dans la capacité à aimer et à être aimé.
 
@@ -218,9 +220,7 @@ Je termine avec la pensée de John Gottman, de l'Université de Washington. Dans
 
 Votre enfant a 12 émotions. Elles sont câblées dans son cerveau depuis la naissance. Votre travail est de ne pas les laisser se perdre dans le silence.
 
-Cette semaine : le dictionnaire de la famille, les 3 phrases à bannir, les 3 phrases à installer. Et rappelez-vous : vous n'ajoutez pas des mots à votre enfant. Vous lui rendez les mots qu'il avait déjà — et qu'un monde mal informé lui a pris.
-
-[Pause]
+Vous n'ajoutez pas des mots à votre enfant. Vous lui rendez les mots qu'il avait déjà — et qu'un monde mal informé lui a pris.
 
 Prenez soin de vous — et des mots que vous offrez.
 

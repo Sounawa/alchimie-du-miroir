@@ -76,7 +76,7 @@ Tu sais pourquoi il y a des « likes » et des « commentaires » ? Parce que ch
 
 [Pause]
 
-Anna Lembke, psychiatre à l'Université de Stanford, a publié en 2021 un livre qui s'appelle *Dopamine Nation*. Sa thèse : nous vivons dans un monde sur-stimulé, et nos cerveaux n'ont pas évolué assez vite pour gérer cette sur-stimulation. Résultat : on est de plus en plus accros, de plus en plus anxieux, de plus en plus difficile à satisfaire.
+Anna Lembke, psychiatre à l'Université de Stanford, a publié en 2021 un livre qui s'appelle *Dopamine Nation*. Sa thèse : nous vivons dans un monde sur-stimulé, et nos cerveaux n'ont pas évolué assez vite pour suivre.
 
 [Voix encourageante]
 
@@ -84,7 +84,7 @@ Mais — et c'est crucial — je ne suis pas en train de te dire « jette ton t�
 
 [Même les adultes ont du mal avec les écrans. Ce n'est pas facile pour personne — mais tu es en train d'apprendre quelque chose que beaucoup d'adultes ne savent pas encore faire.]
 
-Parce que le gardien du château, c'est toi. Même face à un labyrinthe d'écran conçu par des scientifiques.
+Le gardien du château, c'est toi. Même face à un labyrinthe conçu par des scientifiques.
 
 [Transition — changement de rythme]
 
@@ -104,7 +104,9 @@ Ou alors, tu es en train de regarder une vidéo. La vidéo se termine, et une au
 
 Rappelle-toi la carte de ton corps du territoire 2. Quand tu passes une heure sur ton téléphone sans t'en rendre compte, qu'est-ce que ton corps ressent après ? Des yeux fatigués ? La nuque raide ? Une vague de vide ? Une petite tristesse sans raison ?
 
-Ce n'est pas un hasard. C'est ton corps qui t'envoie un message. Le messager dit : « Ton système de récompense vient d'être bombardé. Ton cerveau est fatigué. Et la dopamine qui a monté… elle redescend. Et quand elle redescend, tu te sens vide. »
+Ce n'est pas un hasard.
+
+C'est ton corps qui t'envoie un message. Le messager dit : « Ton système de récompense vient d'être bombardé. La dopamine a monté… elle redescend. Et quand elle redescend, tu te sens vide. »
 
 [Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
 
@@ -124,9 +126,11 @@ Prends ton Journal de Voyage Intérieur. La mission d'aujourd'hui est un défi. 
 
 Choisis un moment aujourd'hui ou demain. Un moment où normalement, tu prendrais ton téléphone ou ta tablette. L'après-midi, le soir, n'importe quand.
 
-Pendant ces 10 minutes, tu ne touches à AUCUN écran. Pas de téléphone, pas de tablette, pas de télévision, pas d'ordinateur. Dix minutes.
+Dix minutes. Pas de téléphone, pas de tablette, pas de télévision, pas d'ordinateur.
 
-Et voici le plus important : avant de commencer le défi, tu vas scanner ton corps. Utilise ta carte corporelle. Comment tu te sens MAINTENANT ? Écris trois mots dans ton journal.
+Dix minutes.
+
+Le plus important : avant de commencer le défi, scanne ton corps. Utilise ta carte corporelle. Comment tu te sens MAINTENANT ? Écris trois mots dans ton journal.
 
 [Voix lente]
 
@@ -136,7 +140,9 @@ Et à la fin des 10 minutes — tu rescannes ton corps. Comment tu te sens MAINT
 
 [Pause]
 
-Maintenant, compare. Avant et après. Est-ce que quelque chose a changé ? Est-ce que tu es plus calme ? Plus agité ? Plus présent ? Plus ennuyé ? L'ennui est intéressant — note-le. L'ennui, c'est justement ce que les applications essaient de t'éviter à tout prix. Et l'ennui, c'est là où les bonnes idées naissent.
+Maintenant, compare. Avant et après. Est-ce que quelque chose a changé ? Est-ce que tu es plus calme ? Plus agité ? Plus présent ? Plus ennuyé ? L'ennui est intéressant — note-le.
+
+L'ennui, c'est justement ce que les applications essaient de t'éviter à tout prix.
 
 [Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
 
@@ -168,7 +174,7 @@ Elle ne dit pas « les écrans sont mauvais ». Elle dit : « Je sais comment ç
 
 [Voix solennelle, un peu émotionnelle]
 
-Tu as traversé six territoires. Tu as découvert ton château intérieur, tes messagers corporels, ton volcan, tes miroirs amis, ton muscle de gratitude, et ta capacité à demander de l'aide quand la nuit tombe. Tu viens de traverser le labyrinthe d'écran.
+Tu as traversé six territoires. Château intérieur, messagers corporels, volcan, miroirs amis, gratitude, nuit. Tu viens de traverser le labyrinthe d'écran.
 
 Il reste un dernier territoire. Le dernier. Et c'est peut-être le plus important.
 

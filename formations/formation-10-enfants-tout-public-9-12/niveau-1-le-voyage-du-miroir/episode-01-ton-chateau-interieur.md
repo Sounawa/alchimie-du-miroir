@@ -44,7 +44,7 @@ Pendant des heures, elle observe ses pensées disparaître une par une. D'abord 
 
 [Pause 2 secondes]
 
-Autrement dit : il y a un TOI qui regarde tes pensées passer — comme on regarde les nuages dans le ciel. Et ce TOI-là, il ne disparaît jamais. Même quand tout le reste s'arrête.
+Il y a un TOI qui regarde tes pensées passer — comme on regarde les nuages dans le ciel. Et ce TOI-là, il ne disparaît jamais. Même quand tout le reste s'arrête.
 
 [Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
 
@@ -72,27 +72,31 @@ Au sommet, il y a une tour. C'est la tour de la joie. Elle est baignée de lumi�
 
 Plus bas, il y a une grotte. Une grotte un peu sombre, un peu fraîche. C'est la grotte de la tristesse. Quand tu as envie de pleurer, quand tu as le cœur lourd, quand tu penses à quelqu'un qui te manque — tu es dans cette grotte. Et ce n'est pas un endroit mauvais. C'est juste un endroit où tu vas parfois. C'est normal.
 
-[Pause]
-
 Il y a aussi un donjon. Sombre, avec des portes épaisses. C'est le donjon de la peur. Quand tu as peur du noir, d'un examen, de ce que les autres vont penser de toi — tu es dans ce donjon. Et la peur verrouille les portes de l'intérieur.
 
 Et puis il y a un jardin. Un jardin calme, avec de l'herbe douce et un petit ruisseau. C'est le jardin de la tranquillité. Quand tu es seul mais que ça ne te dérange pas. Quand tu regardes le ciel et que tu te sens bien, tout simplement. Tu es dans le jardin.
 
 [Voix plus douce]
 
-Toutes ces pièces — la tour, la grotte, le donjon, le jardin — elles existent en toi en même temps. Tu ne peux pas en détruire une. Et ça serait une erreur d'essayer, parce que même la peur et la tristesse ont une utilité.
+Toutes ces pièces — la tour, la grotte, le donjon, le jardin — elles existent en toi en même temps.
 
-Mais voici le secret le plus important de tout ce voyage :
+Tu ne peux pas en détruire une. Et ça serait une erreur d'essayer.
+
+Le secret le plus important de tout ce voyage :
 
 [Pause 1 seconde]
 
 Tu n'es aucune de ces pièces. Tu es le GARDIEN du château.
 
+Pas la tour. Pas la grotte. Le gardien.
+
 [Voix lente, avec solennité]
 
 C'est toi qui décide quelle porte ouvrir. C'est toi qui décide combien de temps tu restes dans la grotte. C'est toi qui décide si tu laisses la peur verrouiller le donjon ou si tu trouves la clé.
 
-Jill Bolte Taylor, la femme dont je t'ai parlé tout à l'heure, a publié un livre en 2006 qui s'appelle *Stroke of Insight* — « L'éveil du cerveau ». Ce qu'elle a découvert ce matin-là, c'est que même quand les pièces du château s'éteignent une par une, le gardien reste. Le gardien, c'est ta conscience. Et elle, elle ne s'éteint jamais.
+Jill Bolte Taylor, la femme dont je t'ai parlé tout à l'heure, a publié un livre en 2006 qui s'appelle *Stroke of Insight* — « L'éveil du cerveau ». Même quand les pièces du château s'éteignent une par une, le gardien reste.
+
+Le gardien, c'est ta conscience. Elle ne s'éteint jamais.
 
 [Transition — changement de rythme]
 
@@ -205,7 +209,7 @@ Le prochain épisode s'appelle « Les messagers de ton corps ». Et ce que tu va
 
 [Pause]
 
-À très vite, explorateur.
+Prépare ton Journal de Voyage Intérieur. Le prochain territoire t'attend.
 
 [Transition musicale douce — 3 secondes]
 

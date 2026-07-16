@@ -74,11 +74,11 @@ Se sentir seul, c'est un état ÉMOTIONNEL. C'est le sentiment que personne ne t
 
 [Pause]
 
-John Cacioppo, neuroscientifique à l'Université de Chicago, a passé trente ans à étudier la solitude. En 2008, il a publié un livre qui a tout changé : *Loneliness: Human Nature and the Need for Social Connection*. Sa découverte la plus importante : la solitude chronique n'est pas juste triste — elle est DANGEREUSE. Elle affaiblit le système immunitaire, augmente la pression artérielle, et perturbe le sommeil. Le cerveau d'une personne chroniquement seule est littéralement différent de celui d'une personne connectée.
+John Cacioppo, neuroscientifique à l'Université de Chicago, a passé trente ans à étudier la solitude. Sa découverte : la solitude chronique n'est pas juste triste — elle est DANGEREUSE. Elle affaiblit le système immunitaire, augmente la pression artérielle, et perturbe le sommeil.
 
 [Voix plus forte, avec conviction]
 
-Mais voici la chose la plus importante que tu vas entendre dans tout ce voyage :
+La chose la plus importante que tu vas entendre dans tout ce voyage :
 
 [Pause 1 seconde]
 
@@ -108,9 +108,13 @@ Et le lendemain matin, tu te lèves, tu vas à l'école, et tu souris. Personne 
 
 [Pause]
 
-Et là, je vais te dire quelque chose qui va peut-être te surprendre. Les adultes aussi font ça. Les adultes aussi se sentent seuls parfois et ne le disent pas. Ton prof, tes parents, le boulanger du coin — tout le monde traverse des nuits. La solitude ne regarde pas l'âge. Elle fait partie de la vie humaine.
+Et là, je vais te dire quelque chose qui va peut-être te surprendre.
 
-La question n'est pas de ne JAMAIS te sentir seul. C'est impossible. La question est : quand tu te sens seul, que fais-tu ?
+Les adultes aussi font ça. Les adultes aussi se sentent seuls parfois et ne le disent pas. Ton prof, tes parents, le boulanger du coin — tout le monde traverse des nuits. La solitude ne regarde pas l'âge. Elle fait partie de la vie humaine.
+
+La question n'est pas de ne JAMAIS te sentir seul. C'est impossible.
+
+La question est : quand tu te sens seul, que fais-tu ?
 
 Est-ce que tu restes dans la nuit ? Ou est-ce que tu cherches la lumière — en parlant à quelqu'un, en écrivant, en sortant, en appelant ?
 
@@ -196,7 +200,7 @@ Et dans le prochain territoire, on va faire quelque chose que très peu de gens 
 
 Le prochain épisode s'appelle : « Le labyrinthe d'écran. »
 
-À très vite, explorateur.
+D'ici là — si tu te sens seul ce soir, dis-le. À quelqu'un. Même juste un mot.
 
 [Transition musicale douce — 3 secondes]
 

@@ -62,7 +62,7 @@ Ce veilleur de nuit, c'est ton amygdale. C'est une toute petite structure dans t
 
 Le problème, c'est que l'amygdale est un peu comme un détecteur de fumée trop sensible. Elle ne fait pas la différence entre un vrai danger — un chien qui aboie et court vers toi — et un faux danger — ta petite sœur qui a touché ton journal. Pour elle, c'est pareil. ALARME.
 
-Et voici le plus important : l'amygdale est BEAUCOUP plus rapide que le reste de ton cerveau.
+Le plus important : l'amygdale est BEAUCOUP plus rapide que le reste de ton cerveau.
 
 [Voix lente]
 
@@ -77,13 +77,15 @@ Donc la séquence, c'est ça :
 
 [Pause]
 
-C'est pour ça que, après avoir explosé, tu te sens souvent confus, ou coupable, ou étonné de toi-même. Parce que le vrai TOI — le gardien, le cortex préfrontal — n'était pas aux commandes. L'amygdale avait pris le volant.
+C'est pour ça que, après avoir explosé, tu te sens souvent confus, ou coupable, ou étonné de toi-même.
 
-Joseph LeDoux, neuroscientifique à l'Université de New York, a passé des décennies à étudier ce mécanisme. Il l'appelle « la voie basse » — le chemin rapide de la peur qui passe par l'amygdale sans passer par la réflexion. Et il a publié ses découvertes dès 1996 dans un livre qui a tout changé : *The Emotional Brain*.
+Joseph LeDoux, neuroscientifique à l'Université de New York, a passé des décennies à étudier ce mécanisme. Il l'appelle « la voie basse » — le chemin rapide de la peur qui passe par l'amygdale sans passer par la réflexion. Tout ça dans un livre publié en 1996 : *The Emotional Brain*.
 
 [Voix encourageante]
 
-La bonne nouvelle, c'est que tu peux ENTRAÎNER ton cerveau sage à être plus rapide. Pas à empêcher l'alarme — ça, c'est impossible. Mais à ne PAS agir pendant que l'alarme sonne. À attendre trois secondes. Juste trois secondes. Et c'est pendant ces trois secondes que le gardien reprend le contrôle.
+La bonne nouvelle, c'est que tu peux ENTRAÎNER ton cerveau sage à être plus rapide. Pas à empêcher l'alarme — impossible. Mais à ne PAS agir pendant que l'alarme sonne.
+
+Trois secondes. Juste trois secondes. Le gardien reprend le contrôle.
 
 [Transition — changement de rythme]
 
@@ -99,7 +101,9 @@ Quelqu'un te dit quelque chose — un copain, un frère, un parent — et tu ré
 
 [Pause]
 
-C'est ça, l'amygdale. Elle a pris la parole à ta place.
+C'est ça, l'amygdale.
+
+Elle a pris la parole à ta place.
 
 Ou alors, tu es en cours de sport. Tu rates un ballon. Quelqu'un rit. Et tu sens cette chaleur monter dans ton visage, tes poings se serrer, et tu as envie de tout casser. Là aussi, ce n'est pas toi qui choisis — c'est le veilleur de nuit qui a confondu un rire avec une menace mortelle.
 
@@ -138,10 +142,10 @@ Repense aux dernières fois où tu as explosé. Qu'est-ce que ton corps t'a envo
 
 **Deuxième chose : ta technique personnelle.**
 
-Quand tu reconnais tes trois signaux, que fais-tu ? Voici la méthode en trois étapes. Je te la donne, et toi, tu l'adaptes à ta façon :
+Quand tu reconnais tes trois signaux, que fais-tu ? La méthode, en trois étapes — à toi de l'adapter à ta façon :
 
-1. **STOP** — Tu t'assieds. Si tu es debout, tu te rassis. Juste ça. Assieds-toi. Le corps assis envoie un signal au cerveau : « On est en sécurité. On ne fuit pas. »
-2. **RESPIRE** — Tu prends trois respirations lentes. Inspire sur 4 secondes. Expire sur 6 secondes. Plus long à l'expiration qu'à l'inspiration — ça active le système de calme de ton corps.
+1. **STOP** — Tu t'assieds. Le corps assis envoie un signal au cerveau : « On est en sécurité. On ne fuit pas. »
+2. **RESPIRE** — Trois respirations lentes. Inspire sur 4 secondes. Expire sur 6. Plus long à l'expiration — ça active le système de calme de ton corps.
 3. **OBSERVE** — Tu te poses une question : « Qu'est-ce qui se passe vraiment ? » Pas « pourquoi je suis en colère ? » — ça, c'est trop compliqué pour le moment. Juste : « Qu'est-ce qui se passe ? »
 
 [Voix encourageante]
@@ -186,7 +190,9 @@ Et là, la question devient : avec qui tu passes du temps ? Est-ce que les gens 
 
 Dans le prochain territoire, on va parler de ça : les amis miroirs. Ceux qui te montrent le vrai toi — et ceux qui te déforment.
 
-À très vite, explorateur.
+Ton plan est prêt. Sers-t'en.
+
+D'ici le prochain territoire, pose-toi cette question : est-ce qu'il y a quelqu'un autour de toi qui fait exploser ton volcan sans que tu t'en rendes compte ?
 
 [Transition musicale douce — 3 secondes]
 

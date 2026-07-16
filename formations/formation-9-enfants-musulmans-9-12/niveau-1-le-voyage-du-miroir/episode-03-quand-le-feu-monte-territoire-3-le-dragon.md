@@ -64,11 +64,15 @@ C'est un fait, pas une opinion. Des chercheurs ont montré que quand tu te mets 
 
 [Pause]
 
-Mais voici la bonne nouvelle : tu as un indice. UN indice qui te dit que le feu est en train de monter, même avant l'explosion. Cet indice, c'est TON CORPS.
+La bonne nouvelle : tu as un indice. UN indice qui te dit que le feu est en train de monter, même avant l'explosion.
+
+Cet indice, c'est TON CORPS.
 
 Si tu apprends à lire les signaux de ton corps — poings serrés, cœur qui s'emballe, visage chaud, respiration courte — tu as une fenêtre. Quelques secondes. Juste assez pour faire quelque chose.
 
-Et ce quelque chose, le Prophète Muḥammad, ṣallā Allāhu ʿalayhi wa sallam, l'a enseigné il y a plus de 1400 ans.
+Et ce quelque chose, le Prophète Muḥammad, ṣallā Allāhu ʿalayhi wa sallam, l'a enseigné.
+
+Il y a plus de 1400 ans.
 
 [Voix lente, respectueuse]
 
@@ -78,7 +82,9 @@ Dans un ḥadīth rapporté par Abū Dāwūd, le Prophète ﷺ a dit :
 
 [Pause 2 secondes]
 
-Tu as remarqué ? Il n'a pas dit : « Ne sois pas en colère. » Il n'a pas dit : « La colère est interdite. » Il a dit : « Assieds-toi. »
+Tu as remarqué ? Il n'a pas dit : « Ne sois pas en colère. » Il n'a pas dit : « La colère est interdite. »
+
+Il a dit : « Assieds-toi. »
 
 Parce que le Prophète ﷺ comprenait quelque chose que la neuroscience a confirmé 1400 ans plus tard : **tu ne peux pas empêcher le feu de monter. Mais tu peux changer ta posture. Et ta posture change ton état.**
 
@@ -86,7 +92,7 @@ Quand tu es debout, ton corps est en mode « combat ». Quand tu t'assieds, tu e
 
 [Voix avec énergie]
 
-À partir de ça, voici le protocole en trois étapes. Simple. Mémorisable. Efficace.
+Le protocole en trois étapes. Simple. Mémorisable. Efficace.
 
 **Étape 1 : STOP.**
 Dès que tu sens les signaux — poings serrés, cœur qui s'emballe — tu t'assieds. Ou tu t'allonges. Tu changes de posture. C'est ton bouton d'arrêt.
@@ -101,7 +107,11 @@ Maintenant que ton cerveau est de retour, pose-toi la question : « Qu'est-ce qu
 
 Stop. Souffle. Cherche.
 
-Trois mots. Trois étapes. Et le dragon ne te contrôle plus — tu le regardes droit dans les yeux.
+Trois mots.
+
+Trois étapes.
+
+Et le dragon ne te contrôle plus — tu le regardes droit dans les yeux.
 
 [Transition — changement de rythme]
 
@@ -205,7 +215,9 @@ Comment choisir tes miroirs ? Et surtout — quel type de miroir es-tu toi pour 
 
 Dans le prochain territoire — la Salle des Miroirs — nous allons explorer ensemble quelque chose que très peu de gens comprennent à ton âge. Et nous allons rencontrer quelqu'un du Coran qui a compris ça mieux que personne.
 
-À très vite, jardinier.
+Le Prophète ﷺ disait : « Le fort n'est pas celui qui vainc les gens par la force. Le fort, c'est celui qui se maîtrise lorsqu'il est en colère. »
+
+Tu viens de devenir fort.
 
 [Transition musicale — 3 secondes]
 

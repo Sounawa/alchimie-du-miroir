@@ -1,7 +1,6 @@
 'use client'
 
-import type { Formation } from "@/lib/app-context"
-import type { Niveau, Episode } from "@/lib/store"
+import type { Formation, Niveau, Episode } from "@/lib/app-context"
 import {
   Accordion,
   AccordionContent,

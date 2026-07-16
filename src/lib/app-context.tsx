@@ -1,7 +1,7 @@
 'use client'
 
 import { createContext, useContext, useState, useCallback, type ReactNode } from "react"
-import { episodesData } from "./generated-data"
+// Episode data is now loaded lazily via data-loader.ts — not imported here
 
 export interface Formation {
   id: string
@@ -51,12 +51,7 @@ export function AppProvider({ children }: { children: ReactNode }) {
 
   const selectEpisode = useCallback((path: string) => {
     setSelectedPath(path)
-    const data = episodesData[path]
-    if (data) {
-      setEpisodeTitle(data.title || "")
-      setEpisodeContent(data.content || "")
-      setEpisodeMeta(data.meta || {})
-    }
+    // Content is loaded asynchronously by the consumer — just set the path
   }, [])
 
   const handleSetSidebarOpen = useCallback((open: boolean) => setSidebarOpenState(open), [])

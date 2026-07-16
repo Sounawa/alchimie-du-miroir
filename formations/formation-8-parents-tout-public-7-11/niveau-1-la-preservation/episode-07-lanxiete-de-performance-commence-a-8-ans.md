@@ -46,7 +46,7 @@ Et la fille, entre deux sanglots, répond quelque chose qui devrait figer chaque
 
 14 sur 20. Neuf ans. Et elle croit qu'elle est stupide.
 
-La mère pense que le problème vient de l'école. De la pression scolaire. Du système éducatif. Mais la recherche est claire : le problème ne vient pas de l'école. Le problème vient de la maison.
+La mère pense que le problème vient de l'école. Il vient de la maison.
 
 [Transition musicale légère — 3 secondes]
 
@@ -108,7 +108,9 @@ Revenons à la fillette de 9 ans qui pleure sur son 14 sur 20. Elle ne pleure pa
 
 Elle l'a apprise à la maison. Chaque fois qu'un adulte a dit « tu es intelligent. » Chaque fois qu'un adulte a dit « je suis fier de tes notes. » Chaque fois qu'un adulte a dit « regarde les autres, ils ont moins bien que toi. » Chacune de ces phrases est un fil. Et ces fils, ensemble, forment une corde qui relie la valeur de l'enfant à ses résultats.
 
-L'enfant n'est pas anxieux à propos de l'école. L'enfant est anxieux à propos de **ne pas être suffisant**. Et l'école est simplement l'endroit où cette anxiété se manifeste.
+L'enfant n'est pas anxieux à propos de l'école.
+
+L'enfant est anxieux à propos de **ne pas être suffisant**. Et l'école est simplement l'endroit où cette anxiété se manifeste.
 
 [Pause]
 
@@ -118,7 +120,7 @@ Quand un enfant entend régulièrement « tu es intelligent » et qu'il reçoit 
 
 [Voix directe, avec gravité]
 
-Et ce qui est insidieux, c'est que ce circuit se renforce avec le temps. À 8 ans, l'enfant pleure sur un 14 sur 20. À 9 ans, il commence à éviter les matières où il risque d'échouer. À 10 ans, il triche pour ne pas perdre son statut d'« intelligent ». Et à l'âge adulte, ce circuit est devenu une autoroute : l'évitement des défis, la peur de l'échec, l'incapacité à prendre des risques professionnels.
+Et ce qui est insidieux, c'est que ce circuit se renforce avec le temps. À 8 ans, l'enfant pleure sur un 14 sur 20. À 9 ans, il évite les matières où il risque d'échouer. À 10 ans, il triche pour ne pas perdre son statut d'« intelligent ». Et à l'âge adulte, ce circuit est devenu une autoroute : l'évitement des défis, la peur de l'échec, l'incapacité à prendre des risques professionnels.
 
 Mais l'inverse est tout aussi vrai — et c'est la bonne nouvelle. Quand un enfant apprend à valoriser l'effort plutôt que le résultat, son cerveau développe un circuit différent. L'erreur ne déclenche plus la menace amygdalienne. Elle déclenche la **curiosité préfrontale**. « Qu'est-ce que je peux apprendre de cette erreur ? Comment est-ce que je peux faire différemment ? » C'est un câblage fondamentalement différent — et il commence par les mots que vous choisissez quand votre enfant vous montre une copie.
 
@@ -197,7 +199,7 @@ L'anxiété de performance de votre enfant est souvent un miroir de votre propre
 
 [Pause]
 
-Et voici une deuxième stratégie — peut-être la plus puissante de cet épisode.
+Deuxième stratégie — peut-être la plus puissante de cet épisode.
 
 **La stratégie du « et alors ? »**
 
@@ -237,17 +239,9 @@ Je termine avec la pensée de Carol Dweck, professeure de psychologie à l'Unive
 
 [Pause 3 secondes]
 
-Votre enfant de 9 ans pleure sur un 14 sur 20 non pas parce qu'il est fragile — mais parce qu'on lui a appris, sans le savoir, que sa valeur est un chiffre. Votre travail maintenant n'est pas de le rassurer en disant « 14 c'est bien. » Votre travail est de débrancher la corde qui relie sa valeur à sa performance. Un mot à la fois. Un regard à la fois. Une question à la fois.
-
-Pour cette semaine : le journal des efforts. Les cinq phrases bannies. Et la pause de trois secondes avant de réagir à une note.
+Votre enfant de 9 ans pleure sur un 14 sur 20 non pas parce qu'il est fragile — mais parce qu'on lui a appris, sans le savoir, que sa valeur est un chiffre. Votre travail : débrancher la corde qui relie sa valeur à sa performance. Un mot à la fois. Un regard à la fois.
 
 Votre enfant a besoin de savoir qu'il est suffisant — indépendamment de tout résultat. Et le premier à le croire — c'est vous.
-
-[Pause]
-
-Parce qu'un enfant dont la valeur est déconnectée de la performance est un enfant libre. Libre d'essayer. Libre d'échouer. Libre d'apprendre. Et cette liberté — câblée maintenant — deviendra la résilience de l'adulte qu'il deviendra.
-
-Dans le prochain épisode, le bilan. Et la 6e compétence.
 
 Prenez soin de vous.
 

@@ -42,7 +42,9 @@ Tu n'es pas bizarre. Tu n'es pas ingrat. Tu n'es pas faible. Ce que tu ressens, 
 
 Mūsā, ʿalayhi as-salām — Moïse — se trouvait un jour dans le désert. Loin de chez lui. Perdu. Il ne savait pas où aller. Il ne savait pas ce qui l'attendait. Et il a fait quelque chose de magnifique.
 
-Il a parlé. Pas à haute voix. Pas une prière formelle. Il a parlé depuis son cœur. Et une réponse est venue.
+Il a parlé.
+
+Pas à haute voix. Pas une prière formelle. Depuis son cœur. Et une réponse est venue.
 
 [Pause]
 
@@ -62,13 +64,17 @@ Il y a deux types de conversations avec ton Créateur. Deux types que l'islam re
 
 Le premier, tu le connais. C'est la ṣalāh (ٱلصَّلَاة) — la prière rituelle. Cinq fois par jour. Avec des mots précis, des mouvements précis, des moments précis. C'est beau, c'est structuré, et c'est obligatoire.
 
-Le deuxième, tu le connais peut-être moins. C'est la **munājāt** (مُنَاجَاةٌ). Le mot vient de la même racine que najā — sauver, délivrer. C'est une conversation intime. Secrète. Du cœur au Créateur. Pas de mots obligatoires. Pas de mouvements. Pas de moment précis. Juste toi et Lui.
+Le deuxième, tu le connais peut-être moins. C'est la **munājāt** (مُنَاجَاةٌ). Le mot vient de la même racine que najā — sauver, délivrer. Une conversation intime. Secrète. Du cœur au Créateur.
+
+Pas de mots obligatoires. Pas de mouvements. Pas de moment précis.
+
+Juste toi et Lui.
 
 [Pause]
 
 La ṣalāh, c'est comme envoyer une lettre officielle — avec un format, une adresse, des règles. La munājāt, c'est comme écrire dans ton journal intime à 2 heures du matin. Sans format. Sans règles. Juste ce qui sort de ton cœur.
 
-Et voici ce qui est incroyable : la munājāt n'a pas besoin de Wi-Fi. Elle ne nécessite pas que tu sois dans une mosquée. Elle ne demande pas que tu sois en état de pureté rituelle — bien que ce soit encore mieux. Elle est disponible à TOUT MOMENT. Dans ta chambre. Dans le bus. Dans la cour de récréation. Même au milieu d'un cours, dans ta tête.
+La munājāt n'a pas besoin de Wi-Fi. Elle ne nécessite pas que tu sois dans une mosquée. Elle ne demande pas que tu sois en état de pureté rituelle — bien que ce soit encore mieux. Elle est disponible à TOUT MOMENT. Dans ta chambre. Dans le bus. Dans la cour de récréation. Même au milieu d'un cours, dans ta tête.
 
 [Voix lente, avec poésie]
 
@@ -80,7 +86,7 @@ Ton Créateur connaît déjà ce que tu vas écrire — c'est TOI qui as besoin 
 
 Parce que le simple fait de formuler ta pensée — de la sortir du brouillon de ta tête et de la mettre en mots, même silencieux — ça la transforme. Ça transforme la confusion en clarté. Le poids en légèreté. La solitude en connexion.
 
-Ce n'est pas magique. C'est mécanique. Quand tu mets des mots sur ce que tu ressens, ton cerveau passe du mode « panique » au mode « compréhension ». Et la munājāt fait exactement ça — mais avec un interlocuteur qui t'écoute VRAIMENT.
+Ce n'est pas magique. C'est mécanique. Tu mets des mots sur ce que tu ressens, et ton cerveau passe du mode « panique » au mode « compréhension ». La munājāt fait exactement ça — avec un interlocuteur qui t'écoute VRAIMENT.
 
 [Transition — changement subtil de rythme]
 
@@ -138,7 +144,9 @@ Tu peux commencer par : « Je ne sais pas comment dire ça mais… »
 Ou : « Ça fait longtemps que je voulais te dire… »
 Ou même : « Je suis en colère contre toi parce que… »
 
-OUI. Tu as le droit d'être en colère dans ta lettre. Tu as le droit de poser des questions difficiles. Tu as le droit de dire « je ne comprends pas. » Ce n'est pas un manque de respect — c'est une recherche de vérité. Et la recherche de vérité est l'essence même de la foi.
+OUI. Tu as le droit d'être en colère dans ta lettre. Tu as le droit de poser des questions difficiles. Tu as le droit de dire « je ne comprends pas. »
+
+Ce n'est pas un manque de respect. C'est une recherche de vérité.
 
 [Pause 2 secondes]
 
@@ -186,7 +194,9 @@ Parce qu'il y a un ennemi silencieux dans ta vie. Un ennemi qui n'a pas de visag
 
 Il s'appelle le labyrinthe. Et dans le prochain territoire, tu vas comprendre comment il fonctionne — et comment en sortir.
 
-À très vite, jardinier.
+Le labyrinthe t'attend.
+
+Mais cette fois, tu connais le chemin.
 
 [Transition musicale — 3 secondes]
 

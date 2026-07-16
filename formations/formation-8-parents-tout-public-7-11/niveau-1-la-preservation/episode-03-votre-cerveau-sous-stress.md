@@ -64,7 +64,9 @@ Et troisièmement, l'amygdale elle-même devient hyper-réactive — ce qui sign
 
 [Voix lente, avec gravité]
 
-Vous ne lui apprenez pas la résilience. Vous apprenez à son cerveau à être en alerte permanente.
+Vous ne lui apprenez pas la résilience.
+
+Vous apprenez à son cerveau à être en alerte permanente.
 
 [Pause]
 
@@ -100,15 +102,13 @@ Dan Siegel, psychiatre et chercheur à l'Université de Californie à Los Angele
 
 [Voix plus douce]
 
-Ce que ça veut dire concrètement : quand votre enfant est dans une crise émotionnelle — quand il a renversé le lait et que vous sentez la colère monter — votre premier travail n'est pas de corriger le comportement. Votre premier travail est de **reconnecter** les deux hémisphères de son cerveau. L'hémisphère droit, émotionnel, est en feu. L'hémisphère gauche, logique, est déconnecté. Vous ne pouvez pas raisonner avec un enfant dont le pont gauche-droit est coupé.
+Ce que ça veut dire concrètement : quand votre enfant est en crise — quand il a renversé le lait et que vous sentez la colère monter — votre premier travail n'est pas de corriger le comportement. Votre premier travail est de **reconnecter** les deux hémisphères de son cerveau.
+
+L'hémisphère droit, émotionnel, est en feu. L'hémisphère gauche, logique, est déconnecté. Vous ne pouvez pas raisonner avec un enfant dont le pont gauche-droit est coupé.
 
 Siegel utilise une image merveilleuse — « le modèle de la main ». Fermez votre poing. Le pouce replié, c'est l'amygdale — le centre de la survie et de l'alarme. Les quatre doigts repliés au-dessus, c'est le cortex préfrontal — la raison, la réflexion, la régulation. Quand votre enfant est calme, les doigts recouvrent le pouce. Le cortex contrôle l'amygdale. C'est l'état que l'on appelle « intégré » — le cerveau fonctionne comme un tout. Les émotions sont ressenties, mais régulées. Les décisions sont réfléchies, pas impulsives.
 
 Quand vous criez, le « couvercle » se soulève. Le pouce — l'amygdale — est exposé. Le cerveau de votre enfant est en mode survie. Vous ne pouvez pas lui demander de réfléchir dans cet état. C'est comme demander à quelqu'un qui court pour sauver sa vie de résoudre une équation mathématique.
-
-[Voix lente, chaque mot compte]
-
-Le parent qui pense « je dois être ferme pour lui apprendre » ne comprend pas la neuroscience. La fermeté nécessite un cortex préfrontal fonctionnel. Le cortex préfrontal de votre enfant est **en construction** — il ne sera mature qu'à 25 ans. Quand vous criez, vous n'enseignez pas la fermeté. Vous inondez un chantier de construction avec du cortisol. Les ouvriers — les neurones — ne peuvent pas construire dans ces conditions.
 
 [Transition — léger changement de rythme]
 
@@ -170,7 +170,9 @@ Asseyez-vous à côté de lui. Dites : « Tout à l'heure, j'ai élevé la voix.
 
 [Pause]
 
-Et cette phrase — le parent qui reconnaît et répare — fait quelque chose de puissant dans le cerveau de l'enfant. Elle lui montre que les adultes aussi ont des émotions, qu'ils peuvent les nommer, et qu'ils peuvent réparer. C'est le modèle du cortex préfrontal en action. Votre enfant câble cette séquence : émotion forte → nommage → réparation. Et c'est exactement le câble dont il aura besoin à l'âge adulte pour gérer ses propres crises.
+Et cette phrase — le parent qui reconnaît et répare — câble quelque chose de puissant dans le cerveau de l'enfant. Les adultes aussi ont des émotions. Ils peuvent les nommer. Ils peuvent réparer.
+
+C'est le modèle du cortex préfrontal en action. Votre enfant câble la séquence : émotion forte → nommage → réparation. Exactement le câble dont il aura besoin à l'âge adulte.
 
 ---
 
@@ -204,11 +206,11 @@ Votre enfant a besoin que vous soyez son cortex préfrontal externe jusqu'à ce 
 
 Parce que vous ne pouvez pas offrir à votre enfant une régulation que vous ne possédez pas.
 
-Cette semaine : le protocole STOP. Trente secondes. Assis, trois respirations, observez, puis seulement — parlez.
+Trente secondes. Assis, trois respirations, observez, puis seulement — parlez.
 
-Et si vous vous surprenez à modifier votre position — à vous asseoir avant de parler à votre enfant — savourez ce moment. C'est la première brique d'un nouveau câble. Le vôtre.
+Et si vous vous surprenez à modifier votre position — à vous asseoir avant de parler à votre enfant — savourez ce moment. C'est la première brique d'un nouveau câble.
 
-[Pause]
+Le vôtre.
 
 Prenez soin de vous — et de votre propre couvercle.
 

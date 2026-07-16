@@ -44,6 +44,8 @@ Ce jour-là, j'ai fermé les yeux. Et j'ai vu quelque chose. Pas dehors — deda
 
 Ce quelqu'un, c'était moi.
 
+Toujours toi.
+
 [Pause 2 secondes]
 
 [Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
@@ -72,7 +74,7 @@ Ton jardin intérieur, il a quatre saisons. Comme dans la vraie vie — sauf que
 
 [Voix douce, rassurante]
 
-Sauf que… voici le truc que personne ne t'a jamais dit :
+Sauf que… le truc que personne ne t'a jamais dit :
 
 [Pause 2 secondes]
 
@@ -86,9 +88,13 @@ Tu sais qui avait un jardin secret lui aussi ? Le Prophète Muḥammad, ṣallā
 
 [Voix avec une légère insistance]
 
-Et maintenant, la révélation :
+Tu n'es pas le temps qu'il fait dans ton jardin.
 
-Tu n'es pas le temps qu'il fait dans ton jardin. Tu n'es pas la saison. Tu es le **jardinier**. Le temps qu'il fait — la tristesse, la joie, la solitude, l'énergie — ça, tu ne le contrôles pas. Ça vient et ça part, comme la pluie et le soleil.
+Tu n'es pas la saison.
+
+Tu es le **jardinier**.
+
+Le temps qu'il fait — la tristesse, la joie, la solitude, l'énergie — ça, tu ne le contrôles pas. Ça vient et ça part.
 
 Mais ce que tu plantes ? Ce que tu arroses ? Ce que tu choisis de cultiver ? Ça, c'est TOI.
 
@@ -110,11 +116,15 @@ Ou d'être dans une pièce pleine de gens — ta famille, tes amis — et de te 
 
 [Pause]
 
-Si oui — ce n'est pas bizarre. Ce n'est pas une faute. C'est juste ton jardin qui change de saison. Et la plupart du temps, personne autour de toi ne le remarque. Parce que les gens voient ton visage, pas ton jardin.
+Si oui — ce n'est pas bizarre. Ce n'est pas une faute. C'est juste ton jardin qui change de saison.
+
+Et la plupart du temps, personne autour de toi ne le remarque. Parce que les gens voient ton visage, pas ton jardin.
 
 [Voix douce]
 
-Moi aussi, ça m'arrive. Et maintenant que je le sais, je ne panique plus quand l'hiver arrive. Je me dis : "Ok, c'est l'hiver. Ça va passer. Qu'est-ce que je peux planter pendant ce temps-là ?"
+Moi aussi, ça m'arrive. Et maintenant que je le sais, je ne panique plus quand l'hiver arrive.
+
+Ok, c'est l'hiver. Ça va passer. Qu'est-ce que je peux planter pendant ce temps-là ?
 
 [Pause 2 secondes]
 
