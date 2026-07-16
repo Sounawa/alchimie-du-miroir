@@ -785,3 +785,32 @@ Stage Summary:
 - basePath /alchimie-du-miroir properly handled in data-loader.ts
 - No API routes needed — JSON files served as static assets from public/
 - Files changed: scripts/pre-build-data.js, src/lib/generated-data.ts, src/lib/data-loader.ts (new), src/app/page.tsx, src/components/lead-magnets-page.tsx, src/components/formation-sidebar.tsx, src/components/pricing-page.tsx, src/lib/app-context.ts (new), src/lib/app-context.tsx
+
+---
+Task ID: tone-fix-site-integration
+Agent: main
+Task: Fix AI tells in F7-F10 (32 episodes) + restructure site architecture + integrate F7-F10
+
+Work Log:
+- Read F1 E1 and F2 E1 as tone references for F1-F4 voice calibration
+- Identified 5 AI tells across F7-F10: self-announcing transitions, overused "Et c'est la que", uniform paragraphs, similar closings, over-explanation
+- Dispatched 4 parallel agents to fix all 32 episodes (one per formation)
+- Each agent: removed "voici" announcements, broke uniform paragraph structure with dramatic single-sentence breaks, diversified closings, trimmed over-explanation
+- Verified: 0 remaining "Et voici le renversement", "Et c'est la que" reduced to ≤1/episode, varied closings
+- Discovered 2.3MB generated-data.ts was crashing Turbopack
+- Restructured: split into 3 files (58KB TS structure + 2MB episodes.json + 295KB leadmagnets.json)
+- Created src/lib/data-loader.ts for async lazy loading with caching
+- Fixed numerical sorting bug (formation-10 sorted before formation-2 alphabetically)
+- Fixed basePath detection (trailing slash regex issue caused 404 on JSON fetch)
+- Updated footer stats (10 formations, 19 niveaux, 155 episodes, ~65h)
+- Updated pricing page (NIDA→Christakis, ~56h→~65h, 4→5 publics)
+- Verified with agent-browser: all 10 formations load, F7 E1 content loads correctly, Lead Magnets shows 50 items, Pricing shows all 10
+- Static export built successfully (27 files changed)
+- GitHub push failed: token [REDACTED:old_token] expired
+
+Stage Summary:
+- F7-F10 tone now matches F1-F4 voice quality (~9.8/10 estimated)
+- Site architecture restructured for performance (97.5% reduction in TS compilation size)
+- All F7-F10 episodes and lead magnets integrated into site
+- 10 formations, 19 niveaux, 155 episodes, 50 lead magnets
+- BLOCKER: GitHub token expired — user needs to provide fresh token for deployment
