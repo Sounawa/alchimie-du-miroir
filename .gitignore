@@ -32,23 +32,53 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+!.env.example
 
 # vercel
 .vercel
-
 
 # typescript
 *.tsbuildinfo
 next-env.d.ts
 local-*
+
+# Internal tools / AI workspace
 .claude
 .z-ai-config
+.zscripts/
+Caddyfile
+
+# Logs
 *.log
 dev.log
 dev.out.log
+server.log
+
+# Temp / debug
 test
 prompt
+tool-results/
+cover.html
+*.pdf
+gen-episodes.js
 
-server.log
-# Skills directory
+# Database files (user-specific)
+db/
+*.db
+*.db-journal
+
+# Skills directory (internal)
 /skills/
+
+# Download (internal)
+download/
+
+# Examples (internal dev reference)
+examples/
+
+# Generated static data (rebuilt by scripts/pre-build-data.js)
+public/data/
+
+# Prisma generated client (regenerated on install)
+node_modules/.prisma/.deploy-token
+.deploy-token

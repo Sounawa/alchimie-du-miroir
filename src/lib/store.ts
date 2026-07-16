@@ -18,32 +18,33 @@ export interface Formation {
   niveaux: Niveau[]
 }
 
+export type ViewMode = 'reader' | 'pricing'
+
 interface AppState {
-  formations: Formation[]
+  // Reader
   selectedPath: string | null
   episodeTitle: string
   episodeContent: string
   episodeMeta: Record<string, string>
-  isLoading: boolean
+  // UI
   sidebarOpen: boolean
-  setFormations: (formations: Formation[]) => void
+  currentView: ViewMode
+  // Actions
   selectEpisode: (path: string) => void
   setEpisodeData: (title: string, content: string, meta: Record<string, string>) => void
-  setLoading: (loading: boolean) => void
   setSidebarOpen: (open: boolean) => void
+  setView: (view: ViewMode) => void
 }
 
 export const useAppStore = create<AppState>((set) => ({
-  formations: [],
   selectedPath: null,
   episodeTitle: '',
   episodeContent: '',
   episodeMeta: {},
-  isLoading: false,
   sidebarOpen: false,
-  setFormations: (formations) => set({ formations }),
-  selectEpisode: (path) => set({ selectedPath: path, isLoading: true }),
-  setEpisodeData: (title, content, meta) => set({ episodeTitle: title, episodeContent: content, episodeMeta: meta, isLoading: false }),
-  setLoading: (loading) => set({ isLoading: loading }),
+  currentView: 'reader',
+  selectEpisode: (path) => set({ selectedPath: path }),
+  setEpisodeData: (title, content, meta) => set({ episodeTitle: title, episodeContent: content, episodeMeta: meta }),
   setSidebarOpen: (open) => set({ sidebarOpen: open }),
+  setView: (view) => set({ currentView: view }),
 }))

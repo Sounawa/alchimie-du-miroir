@@ -1,10 +1,10 @@
 'use client'
 
-import { useAppStore } from "@/lib/store"
+import type { Formation } from "@/lib/app-context"
 import ReactMarkdown from "react-markdown"
 import { Badge } from "@/components/ui/badge"
 import { ScrollArea } from "@/components/ui/scroll-area"
-import { Clock, Mic, Users, Loader2, BookOpen } from "lucide-react"
+import { Clock, Mic, Users, BookOpen } from "lucide-react"
 
 function MetaBar({ meta }: { meta: Record<string, string> }) {
   if (!meta || Object.keys(meta).length === 0) return null
@@ -32,8 +32,22 @@ function MetaBar({ meta }: { meta: Record<string, string> }) {
   )
 }
 
-export function EpisodeReader() {
-  const { episodeTitle, episodeContent, episodeMeta, isLoading, selectedPath } = useAppStore()
+export function EpisodeReader({
+  formations,
+  selectedPath,
+  episodeContent,
+  episodeMeta,
+}: {
+  formations: Formation[]
+  selectedPath: string | null
+  episodeContent: string
+  episodeMeta: Record<string, string>
+}) {
+  const totalEpisodes = formations.reduce(
+    (acc, f) => acc + f.niveaux.reduce((a, n) => a + n.episodes.length, 0),
+    0
+  )
+  const totalNiveaux = formations.reduce((acc, f) => acc + f.niveaux.length, 0)
 
   if (!selectedPath) {
     return (
@@ -42,33 +56,25 @@ export function EpisodeReader() {
           <BookOpen className="h-8 w-8 text-emerald-700 dark:text-emerald-400" />
         </div>
         <h2 className="text-2xl font-bold text-foreground mb-3">
-          Bienvenue dans L'Alchimie du Miroir
+          Bienvenue dans L&apos;Alchimie du Miroir
         </h2>
         <p className="text-muted-foreground max-w-md leading-relaxed">
-          Sélectionnez un épisode dans le menu de gauche pour commencer votre parcours de transformation spirituelle professionnelle.
+          Selectionnez un episode dans le menu de gauche pour commencer votre parcours de transformation spirituelle professionnelle.
         </p>
         <div className="mt-8 grid grid-cols-3 gap-4 text-center text-sm text-muted-foreground">
           <div className="p-3 rounded-lg bg-muted/50">
-            <div className="text-xl font-bold text-foreground">2</div>
+            <div className="text-xl font-bold text-foreground">{formations.length}</div>
             Formations
           </div>
           <div className="p-3 rounded-lg bg-muted/50">
-            <div className="text-xl font-bold text-foreground">7</div>
+            <div className="text-xl font-bold text-foreground">{totalNiveaux}</div>
             Niveaux
           </div>
           <div className="p-3 rounded-lg bg-muted/50">
-            <div className="text-xl font-bold text-foreground">56</div>
-            Épisodes
+            <div className="text-xl font-bold text-foreground">{totalEpisodes}</div>
+            Episodes
           </div>
         </div>
-      </div>
-    )
-  }
-
-  if (isLoading) {
-    return (
-      <div className="flex items-center justify-center h-full">
-        <Loader2 className="h-8 w-8 text-emerald-600 animate-spin" />
       </div>
     )
   }

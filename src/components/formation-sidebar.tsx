@@ -1,6 +1,7 @@
 'use client'
 
-import { useAppStore, type Formation, type Niveau, type Episode } from "@/lib/store"
+import type { Formation } from "@/lib/app-context"
+import type { Niveau, Episode } from "@/lib/store"
 import {
   Accordion,
   AccordionContent,
@@ -42,22 +43,17 @@ function EpisodeItem({
 
 function NiveauSection({
   niveau,
-  formationName,
   formationIndex,
   niveauIndex,
+  selectedPath,
+  onSelectEpisode,
 }: {
   niveau: Niveau
-  formationName: string
   formationIndex: number
   niveauIndex: number
+  selectedPath: string | null
+  onSelectEpisode: (slug: string) => void
 }) {
-  const { selectedPath, selectEpisode, setSidebarOpen } = useAppStore()
-
-  const handleEpisodeClick = (slug: string) => {
-    selectEpisode(slug)
-    setSidebarOpen(false)
-  }
-
   return (
     <AccordionItem value={`${formationIndex}-${niveauIndex}`} className="border-b-0">
       <AccordionTrigger className="py-2.5 px-3 hover:no-underline text-sm font-semibold text-foreground/80 hover:text-foreground">
@@ -79,7 +75,7 @@ function NiveauSection({
               key={ep.slug}
               episode={ep}
               isActive={selectedPath === ep.slug}
-              onClick={() => handleEpisodeClick(ep.slug)}
+              onClick={() => onSelectEpisode(ep.slug)}
             />
           ))}
         </div>
@@ -91,9 +87,13 @@ function NiveauSection({
 function FormationSection({
   formation,
   index,
+  selectedPath,
+  onSelectEpisode,
 }: {
   formation: Formation
   index: number
+  selectedPath: string | null
+  onSelectEpisode: (slug: string) => void
 }) {
   return (
     <div className="mb-4">
@@ -115,9 +115,10 @@ function FormationSection({
           <NiveauSection
             key={niveau.id}
             niveau={niveau}
-            formationName={formation.name}
             formationIndex={index}
             niveauIndex={ni}
+            selectedPath={selectedPath}
+            onSelectEpisode={onSelectEpisode}
           />
         ))}
       </Accordion>
@@ -125,20 +126,27 @@ function FormationSection({
   )
 }
 
-export function FormationSidebar() {
-  const { formations } = useAppStore()
-
+export function FormationSidebar({
+  formations,
+  selectedPath,
+  onSelectEpisode,
+}: {
+  formations: Formation[]
+  selectedPath: string | null
+  onSelectEpisode: (slug: string) => void
+}) {
   return (
     <ScrollArea className="h-full">
       <div className="p-4 space-y-2">
         {formations.map((formation, i) => (
-          <FormationSection key={formation.id} formation={formation} index={i} />
+          <FormationSection
+            key={formation.id}
+            formation={formation}
+            index={i}
+            selectedPath={selectedPath}
+            onSelectEpisode={onSelectEpisode}
+          />
         ))}
-        {formations.length === 0 && (
-          <div className="text-sm text-muted-foreground text-center py-8">
-            Chargement des formations...
-          </div>
-        )}
       </div>
     </ScrollArea>
   )
