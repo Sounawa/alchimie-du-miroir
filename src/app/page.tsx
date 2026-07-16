@@ -181,7 +181,7 @@ export default function Home() {
         <div className="px-6 py-3 flex items-center justify-between text-xs text-stone-500 dark:text-stone-400">
           <span>© L&apos;Alchimie du Miroir — Spiritualite au service du professionnel</span>
           <span className="hidden sm:inline">
-            {formations.length} formations · {totalNiveaux} niveaux · {totalEpisodes} episodes · ~42h de contenu
+            {formations.length} formations · {totalNiveaux} niveaux · {totalEpisodes} episodes · ~56h de contenu
           </span>
         </div>
       </footer>

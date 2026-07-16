@@ -344,16 +344,128 @@ const FORMATIONS = [
       },
     ],
   },
+  {
+    id: 'f7',
+    name: 'Parents Musulmans 7-11',
+    public: 'Parents de jeunes musulmans (7-11 ans)',
+    description: 'La Preservation — Hifz al-Fitra, preserver la nature originelle de votre enfant',
+    icon: Shield,
+    color: 'orange',
+    levels: [
+      {
+        niveau: 'N1',
+        label: 'La Preservation',
+        price: 199,
+        episodes: 8,
+        words: 22000,
+        hours: '~2.7h',
+        features: [
+          '8 episodes — cadre : Hifz al-Fitra',
+          'Fitra : votre enfant a deja tout, votre role est de ne pas le lui enlever',
+          'Kazim : retenir la colere (Coran 3:134)',
+          'Ghadd al-basar : proteger le regard et l\'attention',
+          'Munajat : le dialogue du coeur, pas la recitation',
+          'Wasat : la double appartenance sans se dechirer',
+          'Adab : la fratrie comme laboratoire',
+          'Diagnostic « Radiographie emotionnelle » inclus',
+        ],
+      },
+    ],
+  },
+  {
+    id: 'f8',
+    name: 'Parents Tout Public 7-11',
+    public: 'Parents d\'enfants (7-11 ans) — tout public',
+    description: 'La Preservation — le cerveau se cable en ce moment, ce que vous posez maintenant il l\'habitera toute sa vie',
+    icon: Users,
+    color: 'cyan',
+    levels: [
+      {
+        niveau: 'N1',
+        label: 'La Preservation',
+        price: 199,
+        episodes: 8,
+        words: 21000,
+        hours: '~2.7h',
+        features: [
+          '8 episodes — cadre : le cerveau a cabler',
+          'Neuroplasticite critique (Gopnik 2009)',
+          'Connecter avant de corriger (Siegel 2011)',
+          'Hippocampe reduit de 6-10% (Teicher, Harvard 2016)',
+          'Systeme de recompense pirate par les ecrans (NIDA 2018)',
+          'Jeu libre = acte neurologique (Brown 2009)',
+          'Mindset de croissance (Dweck 2006, Stanford)',
+          'Diagnostic « Radiographie emotionnelle » inclus',
+        ],
+      },
+    ],
+  },
+  {
+    id: 'f9',
+    name: 'Enfants Musulmans 9-12',
+    public: 'Enfants musulmans (9-12 ans) — a ecouter ensemble',
+    description: 'Mon Premier Miroir — le voyage a l\'interieur de toi, avec un adulte que tu aimes',
+    icon: Gift,
+    color: 'pink',
+    levels: [
+      {
+        niveau: 'N1',
+        label: 'Le Voyage du Miroir',
+        price: 129,
+        episodes: 8,
+        words: 12000,
+        hours: '~1.5h',
+        features: [
+          '8 episodes (10-12 min) + Journal de Voyage (18 pages)',
+          'Le jardin secret — decouvrir son monde interieur',
+          'Le dragon de la colere — protocole prophetique',
+          'La salle des miroirs — les amitiés qui nourrissent',
+          'Le trésor de la shukr — la gratitude comme muscle',
+          'La nuit etoilée — le munajat comme conversation secrete',
+          'Le labyrinthe d\'ecran — comprendre la dopamine',
+          'A faire ensemble, parent et enfant',
+        ],
+      },
+    ],
+  },
+  {
+    id: 'f10',
+    name: 'Enfants Tout Public 9-12',
+    public: 'Enfants (9-12 ans) — a ecouter ensemble',
+    description: 'Mon Premier Miroir — le voyage a l\'interieur de toi, avec un adulte que tu aimes',
+    icon: Gift,
+    color: 'indigo',
+    levels: [
+      {
+        niveau: 'N1',
+        label: 'Le Voyage du Miroir',
+        price: 129,
+        episodes: 8,
+        words: 12000,
+        hours: '~1.5h',
+        features: [
+          '8 episodes (10-12 min) + Journal de Voyage (18 pages)',
+          'Le chateau interieur — le gardien de ton cerveau',
+          'Le volcan — l\'amygdale et les 3 etapes',
+          'Les amis miroirs — le herisson et le renard',
+          'Le muscle de la gratitude (Emmons, UC Davis)',
+          'La nuit etoilée — le pouvoir de demander de l\'aide',
+          'Le labyrinthe d\'ecran — Tristan Harris et le cerveau pirate',
+          'A faire ensemble, parent et enfant',
+        ],
+      },
+    ],
+  },
 ]
 
 const PACKS = [
   {
     name: 'Pack Initiation Complet',
-    description: 'Les 6 formations N1 — demarrage complet',
-    formations: 6,
-    episodes: 48,
-    originalPrice: 4 * 199 + 2 * 199,
-    packPrice: 999,
+    description: 'Les 4 formations adultes N1',
+    formations: 4,
+    episodes: 32,
+    originalPrice: 4 * 199,
+    packPrice: 699,
     badge: 'Best value debutant',
     icon: Zap,
     color: 'emerald',
@@ -381,23 +493,56 @@ const PACKS = [
     color: 'violet',
   },
   {
-    name: 'Pack Parents',
-    description: 'F5 + F6 — accompagner votre ado (versions musulmane et tout public)',
+    name: 'Pack Parents Ados',
+    description: 'F5 + F6 — accompagner votre ado (12-18 ans)',
     formations: 2,
     episodes: 16,
     originalPrice: 2 * 199,
     packPrice: 349,
-    badge: 'Parents',
+    badge: 'Parents ados',
     icon: Shield,
     color: 'rose',
   },
   {
-    name: 'Pack Integral — Tout le Programme',
-    description: '112 episodes — les 6 formations completes',
+    name: 'Pack Parents Enfants',
+    description: 'F7 + F8 — preserver les fondations (7-11 ans)',
+    formations: 2,
+    episodes: 16,
+    originalPrice: 2 * 199,
+    packPrice: 349,
+    badge: 'Parents enfants',
+    icon: Shield,
+    color: 'orange',
+  },
+  {
+    name: 'Pack Enfants',
+    description: 'F9 + F10 — le voyage du miroir (9-12 ans)',
+    formations: 2,
+    episodes: 16,
+    originalPrice: 2 * 129,
+    packPrice: 199,
+    badge: 'Enfants',
+    icon: Gift,
+    color: 'pink',
+  },
+  {
+    name: 'Pack Famille',
+    description: 'F5 a F10 — toute la gamme parents + enfants',
     formations: 6,
-    episodes: 112,
-    originalPrice: 4 * (199 + 399 + 499) + 2 * 199,
-    packPrice: 3897,
+    episodes: 48,
+    originalPrice: 4 * 199 + 2 * 129,
+    packPrice: 749,
+    badge: 'Famille',
+    icon: HeartIcon,
+    color: 'teal',
+  },
+  {
+    name: 'Pack Integral — Tout le Programme',
+    description: '155 episodes — les 10 formations completes',
+    formations: 10,
+    episodes: 155,
+    originalPrice: 4 * (199 + 399 + 499) + 4 * 199 + 2 * 129,
+    packPrice: 4297,
     badge: 'Investissement complet',
     icon: Star,
     color: 'amber',
@@ -415,7 +560,7 @@ const OBJECTIONS = [
   },
   {
     objection: "Je peux trouver du contenu gratuit sur la spiritualite",
-    reponse: "Le contenu gratuit est generique et non structure. Ici vous avez un parcours progressif de 112 episodes, des frameworks exclusifs developpes specifiquement pour le croisement spiritualite/profession/parentalite, et une coherence pedagogique qui ne existe nulle part ailleurs. Chaque niveau build sur le precedent pour une transformation reelle et mesurable.",
+    reponse: "Le contenu gratuit est generique et non structure. Ici vous avez un parcours progressif de 155 episodes, des frameworks exclusifs developpes specifiquement pour le croisement spiritualite/profession/parentalite, et une coherence pedagogique qui ne existe nulle part ailleurs. Chaque niveau build sur le precedent pour une transformation reelle et mesurable.",
   },
   {
     objection: "Je ne suis pas sur que ca marchera pour moi",
@@ -492,6 +637,38 @@ const colorMap: Record<string, { bg: string; border: string; text: string; badge
     card: 'bg-teal-50/50 dark:bg-teal-950/20',
     glow: 'shadow-teal-200/50 dark:shadow-teal-900/30',
   },
+  orange: {
+    bg: 'bg-orange-50 dark:bg-orange-950/30',
+    border: 'border-orange-200 dark:border-orange-800',
+    text: 'text-orange-700 dark:text-orange-400',
+    badge: 'bg-orange-100 text-orange-800 dark:bg-orange-900/50 dark:text-orange-300',
+    card: 'bg-orange-50/50 dark:bg-orange-950/20',
+    glow: 'shadow-orange-200/50 dark:shadow-orange-900/30',
+  },
+  cyan: {
+    bg: 'bg-cyan-50 dark:bg-cyan-950/30',
+    border: 'border-cyan-200 dark:border-cyan-800',
+    text: 'text-cyan-700 dark:text-cyan-400',
+    badge: 'bg-cyan-100 text-cyan-800 dark:bg-cyan-900/50 dark:text-cyan-300',
+    card: 'bg-cyan-50/50 dark:bg-cyan-950/20',
+    glow: 'shadow-cyan-200/50 dark:shadow-cyan-900/30',
+  },
+  pink: {
+    bg: 'bg-pink-50 dark:bg-pink-950/30',
+    border: 'border-pink-200 dark:border-pink-800',
+    text: 'text-pink-700 dark:text-pink-400',
+    badge: 'bg-pink-100 text-pink-800 dark:bg-pink-900/50 dark:text-pink-300',
+    card: 'bg-pink-50/50 dark:bg-pink-950/20',
+    glow: 'shadow-pink-200/50 dark:shadow-pink-900/30',
+  },
+  indigo: {
+    bg: 'bg-indigo-50 dark:bg-indigo-950/30',
+    border: 'border-indigo-200 dark:border-indigo-800',
+    text: 'text-indigo-700 dark:text-indigo-400',
+    badge: 'bg-indigo-100 text-indigo-800 dark:bg-indigo-900/50 dark:text-indigo-300',
+    card: 'bg-indigo-50/50 dark:bg-indigo-950/20',
+    glow: 'shadow-indigo-200/50 dark:shadow-indigo-900/30',
+  },
 }
 
 /* ───────────────────────── SUB-COMPONENTS ───────────────────────── */
@@ -566,7 +743,7 @@ function PackCard({ pack }: { pack: typeof PACKS[0] }) {
   const c = colorMap[pack.color] || colorMap.amber
   const savings = pack.originalPrice - pack.packPrice
   const savingsPercent = Math.round((savings / pack.originalPrice) * 100)
-  const isIntegral = pack.episodes === 96
+  const isIntegral = pack.episodes === 155
 
   return (
     <Card className={cn(
@@ -609,7 +786,7 @@ function PackCard({ pack }: { pack: typeof PACKS[0] }) {
           </div>
           <div className="flex items-center gap-1">
             <Clock className="h-3.5 w-3.5" />
-            {isIntegral ? '~36.6h' : `~${(pack.episodes * 0.38).toFixed(1)}h`}
+            {isIntegral ? '~56h' : `~${(pack.episodes * 0.38).toFixed(1)}h`}
           </div>
         </div>
       </CardContent>
@@ -678,7 +855,7 @@ export function PricingPage() {
         <div className="text-center mb-12">
           <Badge variant="outline" className="mb-4 border-amber-300 dark:border-amber-700 bg-amber-50 dark:bg-amber-950/30 text-amber-700 dark:text-amber-400">
             <Crown className="h-3.5 w-3.5 mr-1.5" />
-            4 Formations · 12 Niveaux · 96 Episodes
+            10 Formations · 16 Niveaux · 155 Episodes
           </Badge>
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-stone-900 dark:text-stone-100 mb-4 tracking-tight">
             Investissez dans votre
@@ -686,25 +863,25 @@ export function PricingPage() {
             spirituelle
           </h1>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-            {totalWords.toLocaleString('fr-FR')} mots de contenu structure, {totalEpisodes} episodes, ~36,6 heures de formation.
-            Un programme unique qui croise spiritualite et performance professionnelle.
+            {totalWords.toLocaleString('fr-FR')} mots de contenu structure, {totalEpisodes} episodes, ~56 heures de formation.
+            Un programme unique qui croise spiritualite, parentalite et performance professionnelle.
           </p>
           <div className="mt-6 flex items-center justify-center gap-6 text-sm text-muted-foreground">
             <div className="flex items-center gap-1.5">
               <BookOpen className="h-4 w-4" />
-              112 episodes
+              {totalEpisodes} episodes
             </div>
             <div className="flex items-center gap-1.5">
               <Clock className="h-4 w-4" />
-              ~42 heures
+              ~56 heures
             </div>
             <div className="flex items-center gap-1.5">
               <Users className="h-4 w-4" />
-              3 publics
+              4 publics
             </div>
             <div className="flex items-center gap-1.5">
               <GraduationCap className="h-4 w-4" />
-              3 niveaux
+              {FORMATIONS.reduce((a, f) => a + f.levels.length, 0)} niveaux
             </div>
           </div>
         </div>
@@ -833,7 +1010,7 @@ export function PricingPage() {
               <ArrowRight className="h-4 w-4 ml-2" />
             </Button>
             <Button size="lg" variant="outline">
-              Voir le pack integral — 3 497 euros
+              Voir le pack integral — 4 297 euros
             </Button>
           </div>
         </div>
