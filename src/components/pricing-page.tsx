@@ -288,23 +288,79 @@ const FORMATIONS = [
       },
     ],
   },
+  {
+    id: 'f5',
+    name: 'Parents Musulmans',
+    public: 'Parents de jeunes musulmans (12-18 ans)',
+    description: 'Accompagner votre ado musulman — de la surveillance au compagnonnage spirituel',
+    icon: Shield,
+    color: 'rose',
+    levels: [
+      {
+        niveau: 'N1',
+        label: 'Compagnonnage Spirituel',
+        price: 199,
+        episodes: 8,
+        words: 26000,
+        hours: '~2.9h',
+        features: [
+          '8 episodes pour parents de jeunes musulmans',
+          'Tarbiya vs Ta\'dib — cultiver vs surveiller',
+          'Le parent comme premier texte que lit l\'ado',
+          'Fana adolescent — la foi de l\'enfance qui meurt',
+          'Tajalli parental — priere et connexion interieure',
+          'Le conflit comme porte d\'entree',
+          'L\'angoisse n\'est pas un manque de foi',
+          'Le telephone comme revelateur d\'un vide',
+        ],
+      },
+    ],
+  },
+  {
+    id: 'f6',
+    name: 'Parents Tout Public',
+    public: 'Parents d\'ados (12-18 ans) — tout public',
+    description: 'Presence parentale — comprendre, accompagner et transformer la relation avec votre ado',
+    icon: Users,
+    color: 'teal',
+    levels: [
+      {
+        niveau: 'N1',
+        label: 'Presence Parentale',
+        price: 199,
+        episodes: 8,
+        words: 24000,
+        hours: '~2.7h',
+        features: [
+          '8 episodes pour parents d\'ados — tout public',
+          'Les trois masques adolescents decodes',
+          'Transmission intergenerationnelle des patterns',
+          'Syndrome de l\'imposteur a 14 ans',
+          'Le corps de l\'ado comme langage',
+          'Le rejet comme processus de separation',
+          'L\'anxiete comme message a decoder',
+          'L\'ennui mort et l\'interiorite perdue',
+        ],
+      },
+    ],
+  },
 ]
 
 const PACKS = [
   {
     name: 'Pack Initiation Complet',
-    description: 'Toutes les 4 formations N1 — demarrage complet',
-    formations: 4,
-    episodes: 32,
-    originalPrice: 4 * 199,
-    packPrice: 699,
+    description: 'Les 6 formations N1 — demarrage complet',
+    formations: 6,
+    episodes: 48,
+    originalPrice: 4 * 199 + 2 * 199,
+    packPrice: 999,
     badge: 'Best value debutant',
     icon: Zap,
     color: 'emerald',
   },
   {
     name: 'Pack Approfondissement Complet',
-    description: 'Toutes les 4 formations N2 — transformation profonde',
+    description: 'Les 4 formations N2 — transformation profonde',
     formations: 4,
     episodes: 32,
     originalPrice: 4 * 399,
@@ -315,7 +371,7 @@ const PACKS = [
   },
   {
     name: 'Pack Maitrise Complet',
-    description: 'Toutes les 4 formations N3 — excellence spirituelle',
+    description: 'Les 4 formations N3 — excellence spirituelle',
     formations: 4,
     episodes: 32,
     originalPrice: 4 * 499,
@@ -325,12 +381,23 @@ const PACKS = [
     color: 'violet',
   },
   {
+    name: 'Pack Parents',
+    description: 'F5 + F6 — accompagner votre ado (versions musulmane et tout public)',
+    formations: 2,
+    episodes: 16,
+    originalPrice: 2 * 199,
+    packPrice: 349,
+    badge: 'Parents',
+    icon: Shield,
+    color: 'rose',
+  },
+  {
     name: 'Pack Integral — Tout le Programme',
-    description: '96 episodes — les 4 formations completes (N1+N2+N3)',
-    formations: 4,
-    episodes: 96,
-    originalPrice: 4 * (199 + 399 + 499),
-    packPrice: 3497,
+    description: '112 episodes — les 6 formations completes',
+    formations: 6,
+    episodes: 112,
+    originalPrice: 4 * (199 + 399 + 499) + 2 * 199,
+    packPrice: 3897,
     badge: 'Investissement complet',
     icon: Star,
     color: 'amber',
@@ -348,7 +415,7 @@ const OBJECTIONS = [
   },
   {
     objection: "Je peux trouver du contenu gratuit sur la spiritualite",
-    reponse: "Le contenu gratuit est generique et non structure. Ici vous avez un parcours progressif de 96 episodes, des frameworks exclusifs developpes specifiquement pour le croisement spiritualite/profession, et une coherence pedagogique qui ne existe nulle part ailleurs. Chaque niveau build sur le precedent pour une transformation reelle et mesurable.",
+    reponse: "Le contenu gratuit est generique et non structure. Ici vous avez un parcours progressif de 112 episodes, des frameworks exclusifs developpes specifiquement pour le croisement spiritualite/profession/parentalite, et une coherence pedagogique qui ne existe nulle part ailleurs. Chaque niveau build sur le precedent pour une transformation reelle et mesurable.",
   },
   {
     objection: "Je ne suis pas sur que ca marchera pour moi",
@@ -408,6 +475,22 @@ const colorMap: Record<string, { bg: string; border: string; text: string; badge
     badge: 'bg-violet-100 text-violet-800 dark:bg-violet-900/50 dark:text-violet-300',
     card: 'bg-violet-50/50 dark:bg-violet-950/20',
     glow: 'shadow-violet-200/50 dark:shadow-violet-900/30',
+  },
+  rose: {
+    bg: 'bg-rose-50 dark:bg-rose-950/30',
+    border: 'border-rose-200 dark:border-rose-800',
+    text: 'text-rose-700 dark:text-rose-400',
+    badge: 'bg-rose-100 text-rose-800 dark:bg-rose-900/50 dark:text-rose-300',
+    card: 'bg-rose-50/50 dark:bg-rose-950/20',
+    glow: 'shadow-rose-200/50 dark:shadow-rose-900/30',
+  },
+  teal: {
+    bg: 'bg-teal-50 dark:bg-teal-950/30',
+    border: 'border-teal-200 dark:border-teal-800',
+    text: 'text-teal-700 dark:text-teal-400',
+    badge: 'bg-teal-100 text-teal-800 dark:bg-teal-900/50 dark:text-teal-300',
+    card: 'bg-teal-50/50 dark:bg-teal-950/20',
+    glow: 'shadow-teal-200/50 dark:shadow-teal-900/30',
   },
 }
 
@@ -609,15 +692,15 @@ export function PricingPage() {
           <div className="mt-6 flex items-center justify-center gap-6 text-sm text-muted-foreground">
             <div className="flex items-center gap-1.5">
               <BookOpen className="h-4 w-4" />
-              96 episodes
+              112 episodes
             </div>
             <div className="flex items-center gap-1.5">
               <Clock className="h-4 w-4" />
-              ~36,6 heures
+              ~42 heures
             </div>
             <div className="flex items-center gap-1.5">
               <Users className="h-4 w-4" />
-              2 publics
+              3 publics
             </div>
             <div className="flex items-center gap-1.5">
               <GraduationCap className="h-4 w-4" />

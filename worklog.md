@@ -82,3 +82,28 @@ Stage Summary:
 - Les 6 scripts à 8.5 manquent d'un moment de révélation "jaw-drop" — c'est la limite actuelle
 - Tous les 20 scripts sont production-ready avec profil voix, BPM, sound design, et pauses clés documentées
 - Changements de titres V2 : F1-05, F4-02, F4-04
+---
+Task ID: 4
+Agent: main
+Task: Intégrer F5/F6 dans le site et déployer sur GitHub Pages
+
+Work Log:
+- Vérifié que les 16 épisodes F5 (8) et F6 (8) existent et sont complets
+- Qualité vérifiée : F5 utilise le vocabulaire islamique (tarbiya, fana, tajalli, dhikr, murāqaba) avec diacritiques et sources
+- F6 utilise le vocabulaire séculier (système nerveux, neurones miroirs, mode par défaut) en gardant la même profondeur
+- Mis à jour src/components/pricing-page.tsx : ajouté F5 (Parents Musulmans, rose, 199€) et F6 (Parents Tout Public, teal, 199€)
+- Ajouté couleurs rose et teal au colorMap
+- Mis à jour PACKS : Pack Initiation (6 formations), Pack Parents (F5+F6 à 349€), Pack Integral (112 épisodes, 3897€)
+- Mis à jour footer page.tsx : ~42h de contenu
+- Mis à jour stats pricing : 112 episodes, ~42 heures, 3 publics
+- Mis à jour objection texte : 112 episodes au lieu de 96
+- Corrigé config GitHub Pages : basculé de build_type "workflow" (main) à "legacy" (gh-pages) car le déploiement se fait via deploy.sh sur gh-pages
+- Déployé avec succès — vérifié par agent-browser
+
+Stage Summary:
+- Site live : https://sounawa.github.io/alchimie-du-miroir/
+- 6 formations · 15 niveaux · 123 episodes (dont 11 doublons F3 à nettoyer)
+- F5 et F6 entièrement intégrés : sidebar, lecteur d'épisodes, page pricing
+- Prix F5/F6 : 199€ chacun, Pack Parents à 349€
+- Contenu F5-01 vérifié en lecture : Karim/Younes, tarbiya/ta'dib, trois mondes, Ibn Qayyim
+- Token GitHub mis à jour : [REDACTED]
