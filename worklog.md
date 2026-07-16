@@ -107,3 +107,25 @@ Stage Summary:
 - Prix F5/F6 : 199€ chacun, Pack Parents à 349€
 - Contenu F5-01 vérifié en lecture : Karim/Younes, tarbiya/ta'dib, trois mondes, Ibn Qayyim
 - Token GitHub mis à jour : [REDACTED]
+
+---
+Task ID: 7
+Agent: main
+Task: Audit premium F5/F6 vs F1-F4 — Vérification que tous les épisodes sont des chefs d'œuvre
+
+Work Log:
+- Lecture intégrale de F1 épisodes 1-4 (benchmark qualité) pour établir les 12 critères d'audit
+- Lecture intégrale des 8 épisodes F5 (parents musulmans 12-18 ans)
+- Lecture intégrale des 8 épisodes F6 (parents tout public 12-18 ans)
+- Audit comparatif rigoureux sur 12 critères : structure, méta-données, directives voix, pauses, accroches, enseignement, exercices, application, notes de production, profondeur, originalité, progression narrative
+- Vérification de l'intégration F5/F6 dans le site (pre-build script, generated-data.ts, page.tsx, pricing-page.tsx)
+- Redémarrage du serveur dev et vérification HTTP 200
+
+Stage Summary:
+- **VERDICT : F5 = 8/8 CHEFS D'ŒUVRE. F6 = 8/8 CHEFS D'œUVRE.**
+- Aucun épisode n'a besoin d'être réécrit
+- F5 surpasse le benchmark sur la fusion neurosciences + tradition islamique
+- F6 surpasse le benchmark sur la rigueur académique (15+ chercheurs cités avec universités et années)
+- Les deux formations sont 100% originales — pas de recyclage de F1-F4
+- Site opérationnel : 6 formations, 15 niveaux, 123 épisodes intégrés
+- HTTP 200 confirmé sur /alchimie-du-miroir
