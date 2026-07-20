@@ -82,7 +82,7 @@ Je te propose de classer tes miroirs en trois couleurs :
 
 [Pause 2 secondes]
 
-Le truc le plus important de tout ce territoire :
+Voici ce qu'il faut retenir de tout ce territoire :
 
 Les miroirs verts ne sont pas « bons » et les rouges ne sont pas « méchants ». La plupart du temps, les gens reflètent leurs propres problèmes. L'ami qui te fait te sentir petit ne le fait probablement pas exprès. Comme les frères de Yūsuf reflétaient leur propre jalousie.
 
@@ -214,9 +214,9 @@ Cette semaine, choisis un miroir vert. Passe du temps avec lui. Et regarde ce qu
 
 **Cher parent,**
 
-Votre enfant vient de cartographier ses relations sociales en utilisant un code couleur — vert, jaune, rouge. Ce n'est pas un exercice de potins. C'est un exercice de différenciation relationnelle.
+Votre enfant vient de cartographier ses relations avec un code couleur — vert, jaune, rouge. L'idée n'est pas de juger les autres, mais de comprendre l'effet qu'ils ont sur lui.
 
-La recherche de Parker et Asher (1993, University of Illinois) a montré que les dynamiques d'amitié entre 9 et 12 ans sont le meilleur prédicteur de l'ajustement social à l'adolescence. Les enfants qui apprennent tôt à distinguer les relations nourrissantes des relations toxiques développent des compétences sociales qui les protègent pendant toute l'adolescence.
+La recherche de Parker et Asher (1993, University of Illinois) a montré que les amitiés entre 9 et 12 ans prédisent l'ajustement social à l'adolescence. Les enfants qui distinguent tôt les relations nourrissantes des relations toxiques développent des protections qui durent.
 
 L'histoire de Yūsuf (Coran, sourate 12 — Yūsuf) sert ici de cadre narratif puissant : elle montre que même la trahison la plus profonde peut être comprise, et donc pardonnée, quand on sait différencier le miroir de ce qu'il reflète de la réalité de la personne.
 

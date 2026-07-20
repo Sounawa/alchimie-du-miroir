@@ -42,7 +42,7 @@ Parce qu'il y a quelques jours, quand tu as commencé ce voyage, tu ne savais pa
 
 Et maintenant, tu sais.
 
-[Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
+[Si tu écoutes avec un adulte, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
 
 Ce deuxième dessin — le toi d'aujourd'hui — il est différent du toi d'avant. Pas parce que tu as changé. Parce que tu te VOIS maintenant. Comme dans un miroir qu'on nettoie après des mois de poussière. L'image était toujours là. Maintenant, elle est claire.
 
@@ -102,7 +102,7 @@ Ce sont des outils que tu as PRATIQUÉS. Dans ton corps. Dans ton journal. Dans 
 
 Et c'est pour ça que tu es un explorateur différent aujourd'hui. Tu ne connais pas juste la théorie de ton monde intérieur. Tu y as voyagé.
 
-[Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
+[Et toi qui accompagnes, est-ce que tu vois la différence entre le toi d'avant et le toi d'aujourd'hui ?]
 
 [Transition douce]
 
@@ -147,7 +147,7 @@ C'est le NIVEAU 1. Il y a d'autres niveaux, d'autres profondeurs, d'autres terri
 
 Garde ce passeport. Sers-toi-en. Relis tes phrases clés quand tu en as besoin. Et surtout — sois fier de toi. Tu as fait quelque chose de rare.
 
-[Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
+[Pause — Si tu le veux, montre ton passeport à la personne qui t'accompagne. C'est un moment de fierté.]
 
 [Transition]
 
@@ -213,24 +213,17 @@ Je te retrouverai dans le prochain niveau, explorateur. Continue de regarder à 
 
 ### POUR LE PARENT (8:30 — 10:30)
 
-[Voix informative]
+[Voix adulte, claire et bienveillante]
 
-Ce huitième épisode est la synthèse du niveau 1. Il s'appuie sur l'ensemble des sources citées dans les sept épisodes précédents et sur le concept de « littératie émotionnelle » tel que développé par Peter Salovey et John Mayer en 1990, puis popularisé par Daniel Goleman.
+**Cher parent,**
 
-Peter Salovey (doyen de la Yale School of Public Health) et John Mayer (Université du New Hampshire) ont défini en 1990 l'intelligence émotionnelle comme « la capacité à percevoir, utiliser, comprendre et gérer les émotions » — quatre compétences que ce niveau 1 a couvertes : percevoir (territoires 1-2), utiliser (territoire 5), comprendre (territoires 3-4-6-7), et gérer (territoires 3, 6, 7).
+Votre enfant vient de terminer le niveau 1 du Voyage du Miroir. Ce qu'il vient d'accomplir porte un nom en psychologie : la littératie émotionnelle. Peter Salovey et John Mayer l'ont définie en 1990 comme « la capacité à percevoir, utiliser, comprendre et gérer les émotions ». Ce niveau 1 a couvert ces quatre compétences. Le concept de passeport intérieur s'inspire du programme RULER de Marc Brackett (Yale Center for Emotional Intelligence, 2011).
 
-Le concept de « passeport intérieur » est une adaptation pour enfants du concept de « passport to self-awareness » développé par Marc Brackett, directeur du Yale Center for Emotional Intelligence, dans son programme RULER (2011), publié dans *Emotional Intelligence in the Classroom*.
+**Ce que vous pouvez faire ce soir :** Célébrez. Même si c'est juste un moment de reconnaissance : « Tu as fait quelque chose d'important. » Demandez à voir le passeport — mais seulement si l'enfant le propose. S'il ne le montre pas, respectez. Laissez le journal accessible — il peut y retourner seul quand il en ressent le besoin.
 
-La métaphore du miroir final — « nettoyer la poussière du miroir » — fait écho aux travaux de Jon Kabat-Zinn sur la pleine conscience : l'attention soutenue permet de voir ce qui était toujours là mais invisible faute d'observation.
+**Ce qu'il faut éviter :** Ne forcez pas la répétition des exercices. Laissez le voyage se continuer naturellement. Le niveau 2 approfondira ces compétences.
 
-**Ce que vous pouvez faire :**
-- Célébrez l'achèvement du niveau 1. Même si c'est juste un moment de reconnaissance : « Tu as fait quelque chose d'important. »
-- Demandez à voir le passeport intérieur — mais seulement si l'enfant le propose. S'il ne le montre pas, respectez.
-- Laissez le journal accessible. L'enfant peut y retourner seul quand il en ressent le besoin.
-- Le niveau 2 approfondira ces compétences — ne forcez pas la répétition. Laissez le voyage se continuer naturellement.
-
-**Cette semaine avec votre enfant :**
-Organisez une petite « cérémonie du passeport » pour célébrer l'achèvement du niveau 1. Rien de compliqué — un moment intentionnel où vous reconnaissez ce que votre enfant a accompli. Par exemple : préparez un goûter spécial, demandez-lui s'il veut vous montrer son passeport intérieur, et dites-lui devant les autres membres de la famille : « Tu as terminé le premier voyage intérieur. Tu as cartographié des territoires que beaucoup d'adultes ne connaissent pas encore. » Vous pouvez même lui faire signer « officiellement » son passeport, comme un vrai document. Ce geste simple ancre dans la mémoire de l'enfant que ce qu'il a fait est réel, important, et digne d'être célébré.
+**Cette semaine avec votre enfant :** Organisez une petite « cérémonie du passeport ». Rien de compliqué — un goûter spécial, un moment intentionnel où vous reconnaissez ce que votre enfant a accompli. Dites-lui devant les autres membres de la famille : « Tu as cartographié des territoires que beaucoup d'adultes ne connaissent pas encore. » Vous pouvez même lui faire signer son passeport « officiellement ». Ce geste simple ancre dans sa mémoire que ce qu'il a fait est réel, important, et digne d'être célébré.
 
 [Fin — musique de sortie, 4 secondes]
 

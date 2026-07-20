@@ -54,21 +54,21 @@ Et cette leçon — apprise à 8 ans — deviendra le schéma relationnel d'un a
 
 ### CONTEXTE (1:30 — 4:30)
 
-Bienvenue dans *L'Alchimie du Miroir — La Préservation*. Rappel du cadre de ce niveau : « Le Cerveau à Câbler. » Votre enfant possède déjà les circuits neuronaux dont il a besoin. Votre travail n'est pas de les construire — c'est de ne pas les endommager.
+Le conflit. Le mot fait peur aux parents.
 
 [Voix réfléchie]
 
-Aujourd'hui, on parle de conflit. Des disputes entre frères et sœurs, entre amis, entre camarades de classe. Et du réflexe le plus naturel du monde — et le plus destructeur.
+Des disputes entre frères et sœurs. Entre amis. Et du réflexe le plus naturel du monde — et le plus destructeur.
 
 Le réflexe d'intervenir.
 
-Faber et Mazlish, dans leur livre fondateur *Parler pour que les enfants écoutent, écouter pour que les enfants parlent*, publié en 1980, ont étudié des milliers d'interactions parents-enfants. Leur découverte principale, concernant les conflits entre enfants, est radicale :
+Faber et Mazlish, dans leur livre fondateur *Parler pour que les enfants écoutent, écouter pour que les enfants parlent* (1980), ont étudié des milliers d'interactions parents-enfants.
 
 [Pause 3 secondes]
 
-Laissez-moi développer. Quand deux enfants de 9 ans se disputent, leur cortex préfrontal est en plein travail. Il essaie de comprendre la perspective de l'autre. Il essaie de réguler l'émotion de la frustration. Il essaie de trouver une solution acceptable pour les deux. C'est un exercice neuronal massif — peut-être le plus puissant que le cerveau d'un enfant de cet âge puisse faire.
+Quand deux enfants de 9 ans se disputent, leur cortex préfrontal est en plein travail. Il essaie de comprendre la perspective de l'autre. Il essaie de réguler l'émotion de la frustration. Il essaie de trouver une solution acceptable pour les deux. C'est un exercice neuronal massif — peut-être le plus puissant que le cerveau d'un enfant de cet âge puisse faire.
 
-Et quand le parent intervient et dit « c'est à ton frère, rends-lui » — que se passe-t-il ? Le cortex préfrontal de l'enfant **s'éteint**. L'enfant passe du mode résolution de problème au mode **compliance passive**. « D'accord. » Et la voie neuronale de la résolution de conflit — au lieu d'être renforcée par l'exercice — s'affaiblit par le manque d'utilisation.
+Et quand le parent intervient et dit « c'est à ton frère, rends-lui » — le cortex préfrontal de l'enfant **s'éteint**. L'enfant passe du mode résolution de problème au mode **compliance passive**. « D'accord. » Et la voie neuronale de la résolution de conflit — au lieu d'être renforcée par l'exercice — s'affaiblit par le manque d'utilisation.
 
 Daniel Siegel, psychiatre à l'Université de Californie à Los Angeles, exprime une idée similaire : chaque fois qu'un parent résout un conflit à la place de l'enfant, il prive le cerveau de cet enfant d'un entraînement dont il aura besoin à l'âge adulte.
 
@@ -120,7 +120,7 @@ Son équipe a comparé des adultes issus de fratries ayant connu des conflits mo
 
 [Pause]
 
-En d'autres termes : la fratrie sans conflit n'est pas un paradis. C'est un enfant privé de son simulateur de vol.
+La fratrie sans conflit n'est pas un paradis. C'est un simulateur de vol qui n'a jamais été allumé.
 
 Le parent qui empêche tout conflit entre ses enfants ne les protège pas — il les prive du simulateur de vol le plus puissant dont la nature les ait équipés.
 
@@ -190,7 +190,7 @@ Si les enfants vous sollicitent — « Maman, dis-lui que c'est mon tour ! » �
 
 **Règle 3 : célébrez le processus, pas le résultat.**
 
-Quand vos enfants résolvent un conflit — même imparfaitement — dites-leur : « J'ai vu comment vous avez trouvé un accord. C'est exactement ce que les adultes font. » Vous renforcez le circuit neuronal de la résolution autonome. Vous ne complimentez pas le résultat — vous complimentez la **compétence**.
+Quand vos enfants résolvent un conflit — même imparfaitement — dites-leur : « J'ai vu comment vous avez trouvé un accord. Les adultes font pareil. » Vous renforcez le circuit neuronal de la résolution autonome. Vous ne complimentez pas le résultat — vous complimentez la **compétence**.
 
 [Pause]
 
@@ -246,7 +246,9 @@ Et la différence entre les deux — c'est votre capacité à rester spectateur 
 
 Chaque conflit que vous ne résolvez pas est une compétence que votre enfant gagne.
 
-Prenez soin de vous.
+[Pause]
+
+Le parent qui recule n'abandonne pas son enfant. Il lui offre l'espace de grandir.
 
 [Fin — musique de sortie douce, piano léger, 5 secondes]
 

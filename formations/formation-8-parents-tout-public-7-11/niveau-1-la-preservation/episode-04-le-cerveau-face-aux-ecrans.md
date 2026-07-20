@@ -58,7 +58,7 @@ Mais la différence est là. Un adulte a un cortex préfrontal mature. Il peut d
 
 Un enfant de 8 ans ne le peut pas.
 
-Son cortex préfrontal est en construction. Son système de récompense fonctionne à plein régime. Son système de freinage n'existe pas encore.
+Son cortex préfrontal est en construction. Son système de récompense tourne à plein régime. Son système de freinage n'existe pas encore.
 
 [Voix lente, avec gravité]
 
@@ -74,7 +74,7 @@ La question n'est pas : « Mon enfant est-il accro ? » La question est : « Com
 
 ### ENSEIGNEMENT (4:30 — 10:30)
 
-Il y a trois données scientifiques que chaque parent devrait connaître. Je vais les donner avec leurs sources exactes — parce que quand vous les connaîtrez, vous ne négocierez plus « 15 minutes de plus » de la même façon.
+Il y a trois données que chaque parent devrait connaître. Je vais les donner avec leurs sources — parce qu'une fois que vous les connaîtrez, vous ne négocierez plus « 15 minutes de plus » de la même façon.
 
 [Voix pédagogique, claire]
 
@@ -88,7 +88,7 @@ Ce n'est pas une faiblesse de caractère. C'est de la neurobiologie. Pendant ces
 
 Victoria Dunckley, psychiatre au Semel Institute de l'Université de Californie à Los Angeles, a publié en 2015 un ouvrage important : *Reset Your Child's Brain*. Elle y documente un protocole qu'elle appelle le « reset électronique » : 4 semaines de réduction drastique des écrans. Ses résultats : chez les enfants présentant des problèmes de comportement — agitation, irritabilité, troubles du sommeil, difficultés d'attention — 4 semaines sans écrans suffisaient à normaliser l'activité cérébrale.
 
-Quatre semaines. Pas quatre mois. Pas un an. Quatre semaines pour que le cerveau d'un enfant de 8 ans retrouve son fonctionnement normal.
+Quatre semaines. Pas quatre mois. Pas un an. Quatre semaines.
 
 Et Dunckley précise quelque chose d'essentiel : ces enfants n'étaient pas « malades ». L'agitation, l'irritabilité, les troubles du sommeil — ce n'étaient pas des pathologies. C'étaient les conséquences directes et réversibles de la surstimulation électronique. L'écran n'avait pas créé un problème. Il avait empêché le cerveau de se développer normalement.
 
@@ -166,7 +166,7 @@ Ces trois règles ne suppriment pas les écrans. Elles créent un cadre neuronal
 
 [Pause]
 
-Et rappelez-vous : le but n'est pas de supprimer les écrans. Le but est de les **encadrer**. Un cerveau qui n'est jamais exposé aux écrans n'est pas un cerveau préparé au monde réel. Mais un cerveau exposé sans cadre est un cerveau dont les autoroutes de l'autorégulation ne seront jamais terminées.
+Et rappelez-vous : le but n'est pas de supprimer les écrans. C'est de les **encadrer**. Un cerveau qui n'est jamais exposé aux écrans n'est pas un cerveau préparé au monde réel. Mais un cerveau exposé sans cadre est un cerveau dont les autoroutes de l'autorégulation ne seront jamais terminées.
 
 ---
 
@@ -196,11 +196,15 @@ Je termine avec la pensée de Victoria Dunckley, psychiatre au Semel Institute d
 
 Vous êtes le préserveur du chantier neuronal le plus complexe de l'univers.
 
-Cette semaine, posez une limite. Pas avec colère. Pas avec culpabilité. Avec la certitude tranquille que vous faites votre travail.
+[Pause]
 
-Et si votre enfant vous dit « c'est injuste » — répondez avec le sourire et la conviction de quelqu'un qui sait : « Je sais. Et c'est justement pour ça que je le fais. »
+Cette semaine, posez une limite. Pas avec colère. Pas avec culpabilité. Avec la certitude tranquille de quelqu'un qui sait : « Je sais. Et c'est justement pour ça que je le fais. »
 
-Prenez soin de vous — et des yeux que vous protégez.
+[Pause]
+
+Dix mille ingénieurs d'un côté. Un parent de l'autre.
+
+Le match est inégal. Mais le parent a quelque chose que les ingénieurs n'ont pas : le regard.
 
 [Fin — musique de sortie douce, piano léger, 5 secondes]
 

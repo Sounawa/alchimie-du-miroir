@@ -28,19 +28,17 @@
 
 [Voix posée, directe]
 
-Vous avez écouté sept épisodes. Vous comprenez le câblage. Vous connaissez les recherches. Vous avez vu les renversements. Le jeu libre est neurologique. Le conflit est une école. L'anxiété de performance commence à 8 ans.
+Julie a écouté les sept épisodes en trois jours. Elle a pris des notes. Elle a même surligné des passages. Son mari lui a demandé : « Et alors, tu as changé quelque chose ? »
 
-Mais la question honnête — la question que personne ne pose :
+Julie a ouvert la bouche. L'a refermée. Et elle a dit : « Pas encore. »
 
 [Pause 2 secondes]
 
-Qu'avez-vous **concrètement** changé ?
-
-Pas compris. Pas trouvé intéressant. **Changé.** Dans votre quotidien. Dans vos interactions avec votre enfant. Dans la façon dont vous réagissez quand il pleure, quand il se dispute, quand il s'ennuie, quand il revient avec une mauvaise note.
+Sept épisodes. Des notes. Des surlignages. Et zéro changement concret dans la façon dont elle parle à sa fille de 9 ans le matin.
 
 [Pause]
 
-Parce que la compréhension sans changement — c'est juste du divertissement. Et votre enfant n'a pas besoin d'un parent informé. Il a besoin d'un parent **transformé**.
+La compréhension sans changement — c'est du divertissement. Et votre enfant n'a pas besoin d'un parent informé. Il a besoin d'un parent **transformé**.
 
 [Transition musicale légère — 3 secondes]
 
@@ -48,11 +46,11 @@ Parce que la compréhension sans changement — c'est juste du divertissement. E
 
 ### CONTEXTE (1:30 — 4:30)
 
-Bienvenue dans le dernier épisode de *La Préservation* — le niveau 1 de cette formation consacrée aux parents d'enfants de 7 à 11 ans. Le cadre : « Le Cerveau à Câbler. » Et le renversement central que nous avons exploré ensemble : votre enfant possède déjà les circuits. Votre travail est de ne pas les endommager.
+Dernier épisode. Dernier chance de passer de la compréhension à l'action.
 
 [Voix réfléchie, avec gravité]
 
-Je vais être direct avec vous. Parce que c'est le dernier épisode et que la complaisance ne sert personne.
+Je vais être direct. La complaisance ne sert personne.
 
 Il existe cinq compétences que votre enfant doit avoir **intégrées corporellement** avant l'âge de 12 ans. Pas comprises intellectuellement — pas « oui, je sais que c'est important » — intégrées. Automatiques. Faisant partie de qui il est.
 
@@ -214,7 +212,17 @@ Préserver. C'est un mot qui semble passif.
 
 Mais dans un monde qui pousse à remplir, à intervenir, à contrôler — préserver est l'acte le plus **radical** que vous puissiez faire.
 
-Prenez soin de vous.
+[Pause]
+
+Les 30 minutes de rien. Le silence dans les conflits. Les questions sur l'effort. Le droit à l'ennui. Le droit à la difficulté.
+
+Et le premier pas — c'est demain matin.
+
+Julie a posé son carnet de notes. Elle s'est assise à la table de la cuisine. Et quand sa fille est arrivée, au lieu de « tu as eu combien ? », elle a dit : « Qu'est-ce qui a été difficile aujourd'hui ? »
+
+[Pause]
+
+Un mot. Et le câble a commencé à bouger.
 
 [Fin — musique de sortie douce, piano léger, 8 secondes, avec une nappe synthétique qui s'élargit lentement — symbolisant l'ouverture vers le niveau suivant]
 

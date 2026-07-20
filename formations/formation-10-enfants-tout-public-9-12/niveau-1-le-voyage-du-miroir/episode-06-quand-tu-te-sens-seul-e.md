@@ -40,9 +40,9 @@ Tu sais pourquoi ? Parce qu'avant de partir, il s'était PRÉPARÉ. Il avait app
 
 Il n'était pas seul — même si physiquement, il était à des millions de kilomètres de tout le monde qu'il aimait.
 
-La différence entre être seul et se sentir seul, c'est la préparation. Et c'est exactement ce qu'on va explorer aujourd'hui.
+La différence entre être seul et se sentir seul, c'est la préparation. Et c'est ce qu'on va explorer aujourd'hui.
 
-[Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
+[Si tu écoutes avec un adulte, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
 
 [Transition musicale — 2 secondes]
 
@@ -62,7 +62,7 @@ Peut-être à la cantine. Peut-être dans la cour de récréation. Peut-être m�
 
 [Pause]
 
-Si tu as répondu oui — bienvenue au territoire de la nuit. C'est le territoire le plus sombre du voyage. Et c'est peut-être le plus important.
+Si tu as répondu oui — bienvenue au territoire de la nuit. Le plus sombre du voyage. Et peut-être le plus important.
 
 [Voix pédagogique, douce mais claire]
 
@@ -118,7 +118,7 @@ La question est : quand tu te sens seul, que fais-tu ?
 
 Est-ce que tu restes dans la nuit ? Ou est-ce que tu cherches la lumière — en parlant à quelqu'un, en écrivant, en sortant, en appelant ?
 
-[Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
+[Et toi qui accompagnes, te souviens-tu de la dernière fois où tu as traversé cette nuit ?]
 
 [Transition douce]
 
@@ -160,7 +160,7 @@ Et si tu ne sais pas par où commencer, tu peux utiliser cet amorce : « Cher [n
 
 Et si tu te sens prêt — et SEULEMENT si tu te sens prêt — tu peux montrer cette lettre à la personne en question. Mais c'est ton choix. Absolument pas obligatoire. L'acte d'écrire, à lui seul, est déjà puissant.
 
-[Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
+[Pause — Si tu le veux, montre ta lettre à la personne qui t'accompagne. Seulement si tu te sens prêt.]
 
 [Transition]
 
@@ -192,7 +192,7 @@ Elle veut dire que tu n'es pas faible parce que tu ressens quelque chose de diff
 
 Tu viens de traverser le territoire le plus sombre du voyage. Et tu es toujours là. C'est déjà une preuve de force.
 
-Mais il y a un autre territoire — un territoire qui ressemble à une forêt avec des chemins qui tournent en rond, des lumières clignotantes, et des voix qui t'appellent. Un endroit où tu perds la notion du temps. Un endroit qui te donne l'impression d'être connecté, mais qui en réalité t'isole.
+Mais il y a un autre territoire — un territoire qui ressemble à une forêt avec des chemins qui tournent en rond, des lumières clignotantes, et des voix qui t'appellent. Un endroit où tu perds la notion du temps. Un endroit qui te donne l'impression d'être connecté, mais qui t'isole.
 
 Cet endroit, tu le connais très bien. C'est ton téléphone. Ta tablette. Tes écrans.
 
@@ -208,23 +208,17 @@ D'ici là — si tu te sens seul ce soir, dis-le. À quelqu'un. Même juste un m
 
 ### POUR LE PARENT (8:30 — 10:30)
 
-[Voix informative]
+[Voix adulte, claire et bienveillante]
 
-Cet épisode aborde la distinction entre solitude objective et solitude subjective, et la question du soutien social comme facteur de résilience.
+**Cher parent,**
 
-John Cacioppo, neuroscientifique à l'Université de Chicago, a publié en 2008 *Loneliness: Human Nature and the Need for Social Connection*, synthèse de trente ans de recherche démontrant que la solitude chronique a des effets mesurables sur la santé physique : activation chronique du système de réponse au stress (axe HPA), augmentation de la pression artérielle, affaiblissement immunitaire, et perturbation du sommeil. Cacioppo a également montré que la solitude est héréditaire à environ 50 % — mais que les 50 % restants dépendent de l'environnement et des comportements, ce qui signifie que l'enfant peut AGIR sur sa solitude.
+Votre enfant vient de traverser le territoire le plus difficile du voyage. John Cacioppo a passé trente ans à étudier la solitude à l'Université de Chicago : la solitude chronique affaiblit le système immunitaire, augmente la pression artérielle, et perturbe le sommeil. Mais — et c'est crucial — 50 % de la solitude est liée à l'environnement. L'enfant peut AGIR dessus. Brené Brown (Université de Houston) a montré que la vulnérabilité — le fait de dire « je ne vais pas bien » — est le moteur de la connexion humaine.
 
-L'histoire de Chris Hadfield est documentée dans son autobiographie *An Astronaut's Guide to Life on Earth* (2013). Sa préparation psychologique à l'isolement extrême illustre le concept de « préparation à la solitude » développé en psychologie de l'espace par la NASA et l'ESA.
+**Ce que vous pouvez faire ce soir :** Si votre enfant vous montre sa lettre, ne cherchez pas à « résoudre » le problème. Dites : « Merci de me le montrer. Je suis là. » Si vous ne voyez rien, dites simplement : « Tu sais que tu peux me parler de tout, même des choses difficiles. »
 
-L'idée que « demander de l'aide est un signe de force » est étayée par les travaux de Brené Brown, chercheuse à l'Université de Houston, publiés dans *Daring Greatly* (2012) : la vulnérabilité est le moteur de la connexion humaine, et les enfants qui apprennent à la pratiquer développent une meilleure résilience.
+**Ce qu'il faut éviter :** Ne cherchez pas à corriger (« Mais non, tu te trompes ! ») et ne minimisez pas (« C'est rien, tu verras plus tard »). Ces phrases ferment la porte que l'enfant vient d'ouvrir. Si la lettre contient quelque chose qui vous inquiète — un mot comme « je ne veux plus être là » — ne laissez pas passer. Écoutez, validez, puis cherchez de l'aide professionnelle si besoin. Mais la première étape, toujours : accueillir avant d'agir.
 
-**Ce que vous pouvez faire :**
-- Si votre enfant vous montre sa lettre, ne cherchez pas à « résoudre » le problème. Dites : « Merci de me le montrer. Je suis là. »
-- Si votre enfant ne montre rien, ne demandez pas à voir. Faites simplement savoir : « Tu sais que tu peux me parler de tout, même des choses difficiles. »
-- Normalisez vos propres moments de solitude devant votre enfant : « Aujourd'hui, je me suis senti un peu seul au travail. J'en ai parlé à un collègue, et ça m'a aidé. »
-
-**Cette semaine avec votre enfant :**
-Si votre enfant vous montre sa lettre et que le contenu vous inquiète — une phrase qui fait mal à lire, un mot que vous n'attendiez pas — ne paniquez pas. Ne cherchez pas à corriger (« Mais non, tu te trompes ! ») et ne minimisez pas (« C'est rien, tu verras plus tard »). Ces réactions, même bien intentionnées, ferment la porte que l'enfant vient d'ouvrir. Faites plutôt ceci : respirez. Dites : « Merci de me le montrer. Ce que tu as écrit, c'est important. » Puis demandez : « Est-ce que tu veux qu'on en parle, ou tu avais juste besoin de l'écrire ? » Et si la lettre contient quelque chose qui vous semble préoccupant — un mot comme « je ne veux plus être là » ou « personne ne m'aime » — ne laissez pas passer. Écoutez, validez, puis cherchez de l'aide professionnelle si besoin. Mais la première étape, toujours : accueillir avant d'agir.
+**Cette semaine avec votre enfant :** Normalisez vos propres moments de solitude devant votre enfant : « Aujourd'hui, je me suis senti un peu seul au travail. J'en ai parlé à un collègue, et ça m'a aidé. » Les enfants apprennent par ce qu'ils voient.
 
 [Fin — musique de sortie douce, réconfortante, 4 secondes]
 

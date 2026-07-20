@@ -228,7 +228,7 @@ Ce passeport, tu l'as gagné. Personne ne peut te le prendre. Et quand tu seras 
 
 Si vous avez fait ce voyage AVEC votre enfant — en écoutant les épisodes, en faisant les missions, en feuilletant le journal — félicitations. Vous venez de lui donner quelque chose qu'aucune école ne peut enseigner : la conscience de son propre monde intérieur, ancrée à la fois dans la tradition prophétique et dans la neuroscience moderne.
 
-Votre enfant possède maintenant un vocabulaire émotionnel en deux langues, un protocole de régulation de la colère basé sur la sunnah, un système de repérage relationnel, un muscle de gratitude activé, une pratique de munājāt, et une conscience critique des mécanismes d'addiction numérique. C'est plus que ce que beaucoup d'adultes ont après des années de thérapie.
+Votre enfant possède maintenant des outils que beaucoup d'adultes n'ont jamais appris : nommer ses émotions en deux langues, dompter sa colère avec la sunnah, choisir ses amis en conscience, cultiver la gratitude, parler à son Créateur dans le silence, et comprendre les pièges des écrans.
 
 **Ce que vous pouvez faire maintenant :**
 

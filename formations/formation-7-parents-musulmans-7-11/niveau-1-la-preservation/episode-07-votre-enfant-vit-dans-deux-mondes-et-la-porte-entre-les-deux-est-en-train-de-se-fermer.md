@@ -193,7 +193,13 @@ Parce que cette phrase nie l'expérience de votre enfant. Et quand un parent nie
 
 [Voix avec une gravité douce]
 
-Votre enfant n'a pas besoin que vous résolviez sa double appartenance. Il a besoin de vous **voir la porter** — avec ses difficultés, ses doutes, et sa dignité. Le waṣaṭ ne s'enseigne pas. Il se **montre**.
+Votre enfant n'a pas besoin que vous résolviez sa double appartenance. Il a besoin de vous **voir la porter** — avec ses difficultés, ses doutes, et sa dignité.
+
+[Pause]
+
+Le waṣaṭ ne s'enseigne pas. Il se **montre**.
+
+Dernièrement, une mère — Hafsa — m'a raconté que sa fille de 9 ans était rentrée de l'école en silence. Le lendemain, Hafsa a su pourquoi : un camarade lui avait dit « les musulmans, ça prie par terre, c'est bizarre. » La fille n'avait rien répondu. Elle n'en avait pas parlé à la maison. Quand Hafsa lui a demandé pourquoi, la fille a dit : « Parce que je ne savais pas si j'avais le droit d'être en colère. » Elle avait 9 ans et elle ne savait pas si sa douleur était légitime.
 
 [Voix intime, comme une confidence]
 
@@ -223,7 +229,9 @@ Et en la portant, il a créé quelque chose de nouveau — une communauté qui n
 
 Votre enfant, à 10 ans, est dans la même posture. Il est entre deux mondes. Et si vous l'aidez à porter cette tension au lieu de la nier, il fera quelque chose de similaire — il deviendra une personne qui n'existait pas avant lui. Pas un hybride indécis. Un être complet.
 
-Pour cette semaine : la carte d'identité intérieure. Et les deux phrases.
+Ce soir, la carte d'identité intérieure. Et les deux phrases.
+
+Entre deux mondes, il y a un pont. Ce pont, c'est votre enfant. Et vous êtes le gardien du passage.
 
 **Wa salāmu ʿalaykum.**
 

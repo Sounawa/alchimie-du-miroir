@@ -40,9 +40,9 @@ Pendant des nuits, ils ont essayé. Trop près — les piquants blessent. Trop l
 
 [Pause]
 
-Cette histoire, un philosophe allemand du nom de Arthur Schopenhauer l'a racontée il y a plus de 170 ans. Et elle parle exactement de ce qu'on va explorer aujourd'hui : la bonne distance avec les autres. Et surtout, l'effet que les autres ont sur toi.
+Cette histoire, un philosophe allemand du nom de Arthur Schopenhauer l'a racontée il y a plus de 170 ans. Et elle parle de ce qu'on va explorer aujourd'hui : la bonne distance avec les autres. L'effet que les autres ont sur toi.
 
-[Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
+[Si tu écoutes avec un adulte, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
 
 [Transition musicale légère — 2 secondes]
 
@@ -52,7 +52,7 @@ Cette histoire, un philosophe allemand du nom de Arthur Schopenhauer l'a racont�
 
 [Voix chaleureuse]
 
-Dans les territoires précédents, on a exploré l'intérieur de toi — ton château, tes signaux corporels, ton volcan. Aujourd'hui, on va regarder à l'extérieur. Parce que ce que tu es à l'intérieur, les autres le reflètent. Ils sont des miroirs.
+Jusqu'ici, on a exploré l'intérieur de ton château — ses pièces, ses couloirs, son veilleur de nuit. Aujourd'hui, on va regarder par les fenêtres. Parce que les gens qui entrent dans ton château te reflètent. Ils sont des miroirs.
 
 [Voix pédagogique]
 
@@ -64,7 +64,7 @@ Certains amis sont comme ces miroirs déformants. Quand tu passes du temps avec 
 
 [Pause]
 
-Le deuxième type de miroir, c'est le miroir clair. Le vrai. Celui qui te montre exactement qui tu es — ni meilleur, ni pire. Toi.
+Le deuxième type de miroir, c'est le miroir clair. Le vrai. Celui qui te montre qui tu es — ni meilleur, ni pire. Toi.
 
 Quand tu es avec un ami miroir clair, qu'est-ce que tu ressens ? Tu es détendu. Tu n'as pas besoin de faire le rigolo. Tu n'as pas besoin de te montrer. Tu peux être silencieux et c'est OK. Tu peux dire quelque chose de bête et tu sais que l'autre ne va pas s'en servir contre toi.
 
@@ -78,9 +78,9 @@ Donc la question que tu peux te poser, c'est : « Quand je suis avec cette perso
 
 [Voix avec conviction]
 
-Ce n'est pas que les amis miroirs déformants sont méchants. Parfois ils sont juste perdus.
+Les amis miroirs déformants ne sont pas forcément méchants. Parfois ils sont juste perdus.
 
-Mais l'effet sur toi est réel. Et toi, le gardien de ton château, tu as le droit de choisir qui entre.
+Mais l'effet sur toi est réel. Et toi, le gardien du château, tu as le droit de choisir qui franchit le pont-levis.
 
 [Transition — changement de rythme]
 
@@ -104,7 +104,7 @@ Et d'un autre côté — est-ce que tu as des amis miroirs clairs ? Des personne
 
 Le hérisson et le renard avaient compris quelque chose de fondamental : la bonne distance n'est pas la même avec tout le monde. Mais c'est à TOI de la trouver. Parce que tu es le gardien.
 
-[Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
+[Et toi qui accompagnes, as-tu pensé à tes propres miroirs dernièrement ?]
 
 [Transition douce]
 
@@ -130,7 +130,7 @@ Ensuite, prends trois couleurs — un feutre vert, un jaune, et un rouge.
 
 **Rouge** : miroir déformant. Avec cette personne, je me sens moins bien. Je doute de moi. Je ne suis pas à l'aise.
 
-Colorie chaque nom avec la bonne couleur. Et ENTOURÉ le nom de la personne qui est ton meilleur miroir clair — celle devant qui tu es le plus toi-même.
+Colorie chaque nom avec la bonne couleur. Et entoure le nom de la personne qui est ton meilleur miroir clair — celle devant qui tu es le plus toi-même.
 
 [Voix plus posée]
 
@@ -140,11 +140,11 @@ Ensuite, sous chaque nom, écris un mot ou deux pour expliquer POURQUOI tu as ch
 
 Regarde tes noms rouges et jaunes. Pose-toi cette question — écris-la dans ton journal : « Est-ce que je CHOISIS de passer du temps avec cette personne, ou est-ce que c'est juste devenu une habitude ? »
 
-Parce que le gardien du château, il choisit qui entre.
+Parce que le gardien du château choisit qui entre.
 
 Il a le droit de changer d'avis.
 
-[Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
+[Pause — Si tu le veux, montre ta carte d'amitié à la personne qui t'accompagne. Prenez trente secondes pour échanger.]
 
 [Transition]
 
@@ -190,23 +190,17 @@ Le prochain épisode s'appelle « Le muscle de la gratitude ». Réfléchis à �
 
 ### POUR LE PARENT (8:30 — 10:30)
 
-[Voix informative]
+[Voix adulte, claire et bienveillante]
 
-Cet épisode aborde deux concepts scientifiques majeurs : les neurones miroirs et la théorie de la distance interpersonnelle optimale.
+**Cher parent,**
 
-Les neurones miroirs ont été découverts par Giacomo Rizzolatti et son équipe à l'Université de Parme en 1996, publiés dans *Cognitive Brain Research*. Ces neurones s'activent aussi bien quand on exécute une action que quand on observe quelqu'un d'autre l'exécuter, fournissant une base neurobiologique à l'empathie et à la contagion émotionnelle.
+Votre enfant vient d'apprendre à distinguer deux types de relations : celles qui le déforment et celles qui le révèlent. Giacomo Rizzolatti a découvert en 1996 les « neurones miroirs » — des neurones qui s'activent quand on observe quelqu'un, comme si on vivait la chose soi-même. Et George Herbert Mead a montré dès 1934 que le soi se construit à travers les réactions des autres. Autrement dit : les miroirs sociaux ne sont pas une image — ils sont neurologiques.
 
-La métaphore du hérisson (originalement appelée « dilemme du hérisson ») provient d'Arthur Schopenhauer, *Parerga und Paralipomena* (1851). Elle illustre le problème de la distance interpersonnelle optimale — un concept repris par la psychologie sociale moderne sous le terme de « régulation de la proximité ».
+**Ce que vous pouvez faire ce soir :** Ne commentez pas les choix de couleurs de votre enfant. S'il met un ami en rouge, c'est son ressenti. Si tout le monde est en vert, demandez doucement : « Est-ce qu'il y a des moments où tu ne te sens pas bien avec quelqu'un ? » sans forcer.
 
-La notion de « miroir social » renvoie aux travaux de George Herbert Mead (1934, *Mind, Self, and Society*) : le soi se construit à travers les réactions des autres. Un environnement social distordu altère le développement du soi.
+**Ce qu'il faut éviter :** Si votre enfant identifie un ami rouge, ne diabolisez pas l'autre enfant. Demandez plutôt : « Qu'est-ce que tu aimerais qui soit différent ? » — cela renforce son pouvoir de choisir sans accuser.
 
-**Ce que vous pouvez faire :**
-- Ne commentez pas les choix de couleurs de votre enfant. S'il met un ami en rouge, c'est son ressenti.
-- Si votre enfant met tout le monde en vert, posez une question ouverte : « Est-ce qu'il y a des moments où tu ne te sens pas bien avec quelqu'un ? » sans forcer.
-- Si votre enfant identifie un ami rouge, demandez-lui : « Qu'est-ce que tu aimerais qui soit différent ? » — cela renforce son agentivité sans diaboliser l'autre.
-
-**Cette semaine avec votre enfant :**
-Suggérez-lui de consacrer une page de son Journal de Voyage Intérieur à un « journal de voyage de l'amitié ». Pas un exercice scolaire — un espace libre où il peut dessiner, écrire, coller des choses qui représentent ses relations. Par exemple : dessiner le moment où il s'est senti le mieux avec un ami, écrire le prénom de la personne devant qui il ose tout dire, ou même dessiner la « bonne distance » comme on l'a vue avec le hérisson et le renard — deux silhouettes avec un espace entre elles. Laissez-le choisir. Le simple fait d'avoir un endroit pour penser à ses amitiés, c'est déjà un acte de gardien du château.
+**Cette semaine avec votre enfant :** Suggérez-lui de consacrer une page de son journal à un « carnet d'amitié ». Pas un exercice scolaire — un espace libre pour dessiner, écrire, coller des choses qui représentent ses relations. Dessiner la « bonne distance » du hérisson et du renard — deux silhouettes avec un espace entre elles. Le simple fait d'avoir un endroit pour penser à ses amitiés, c'est déjà un acte de gardien du château.
 
 [Fin — musique de sortie douce, 4 secondes]
 

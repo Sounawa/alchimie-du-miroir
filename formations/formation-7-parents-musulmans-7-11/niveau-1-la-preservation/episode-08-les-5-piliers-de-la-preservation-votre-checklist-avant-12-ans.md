@@ -12,7 +12,7 @@
 
 | Segment | Timestamp | Durée | Contenu |
 |---------|-----------|-------|--------|
-| Accroche | 0:00 | 1:30 | Vous avez écouté 7 épisodes — mais qu'avez-vous CONCRÈTEMENT changé ? |
+| Accroche | 0:00 | 1:30 | Nadia a écouté les 7 épisodes — puis s'est assise au bord du lit de son fils endormi |
 | Contexte | 1:30 | 3:00 | Pourquoi 12 ans est le seuil — Piaget et la transition vers les opérations formelles |
 | Enseignement | 4:30 | 6:00 | Les 5 piliers : vocabulaire, sécurité corporelle, regard protégé, dialogue du cœur, tension créative |
 | Exercice | 10:30 | 4:00 | Le bilan des 5 piliers — auto-évaluation honnête du parent (1-5 par pilier) |
@@ -26,21 +26,17 @@
 
 ### ACCROCHE (0:00 — 1:30)
 
-[Voix posée, directe, sans artifice]
+[Voix posée, narrative — sans artifice]
 
-Vous avez écouté sept épisodes. Vous avez entendu parler de fiṭra, de kāẓim, de ghaḍḍ, de munājāt, de waṣaṭ. Vous avez probablement eu des moments de reconnaissance, des frissons, peut-être des larmes.
+Jeudi soir, une mère — Nadia — a éteint son téléphone après le septième épisode. Elle s'est levée. Elle est allée dans la chambre de son fils de 10 ans. Il était déjà endormi.
+
+Nadia s'est assise au bord du lit. Elle a regardé son fils respirer. Et elle s'est rendu compte de quelque chose : depuis sept épisodes, elle avait écouté, pris des notes, parfois pleuré — mais elle n'avait pas changé **une seule chose** dans sa façon de se lever le matin, de lui parler, de gérer sa colère, ou de prier devant lui.
 
 [Pause 2 secondes]
 
-Mais si je vous posais cette question — honnêtement, sans vous donner le temps de formuler une belle réponse :
+Sept épisodes de compréhension. Zéro acte.
 
-« Qu'avez-vous **concrètement** changé depuis le premier épisode ? »
-
-[Pause 3 secondes]
-
-Pour beaucoup de parents, le silence qui suit cette question est inconfortable. Parce qu'écouter et comprendre ne suffit pas. La transformation se mesure aux **actes**. Pas aux émotions de l'écoute.
-
-Aujourd'hui, nous allons faire le point. Pas pour vous culpabiliser — pour vous **équiper**. Parce que le temps presse. Et j'explique pourquoi.
+Et le temps, lui, n'avait pas attendu.
 
 [Transition musicale légère — 3 secondes]
 
@@ -90,7 +86,7 @@ Pas enseigné de nouveau. Réparé.
 
 [Pause]
 
-Mais — et c'est essentiel — ce renversement n'est pas là pour vous faire peur. Il est là pour vous **libérer**.
+Mais ce renversement n'est pas là pour vous faire peur. Il est là pour vous **libérer**.
 
 Vous n'avez pas besoin d'être parfait. Vous avez besoin d'une chose simple : être présent, avec régularité, dans les actes quotidiens. Un duʿāʾ dit avec vulnérabilité devant votre enfant vaut plus que cent discours sur la prière. Un silence partagé vaut plus qu'une heure de sermon.
 
@@ -166,6 +162,8 @@ Soyez honnête. Personne ne verra cette feuille. Ce n'est pas un test — c'est 
 
 [Pause]
 
+Dimanche, un père — Issam — a fait cet exercice. Pilier 1 : 2 sur 5. Pilier 2 : 3 sur 5. Pilier 3 : 1 sur 5. Pilier 4 : 2 sur 5. Pilier 5 : 4 sur 5. Total : 12 sur 25. Il a regardé le chiffre. Il a posé le stylo. Puis il a dit : « Maintenant je sais où commence le travail. » Ce chiffre n'est pas un verdict. C'est une boussole.
+
 Faites le total. Le score maximum est 25.
 
 **Si votre total est inférieur à 15 sur 25 :** la priorité absolue est de travailler sur les piliers en dessous de 3 AVANT d'acheter une autre formation. Revenez aux épisodes correspondants. Mettez en pratique un pilier à la fois. Un pilier par mois. C'est faisable. Et c'est nécessaire.
@@ -212,7 +210,9 @@ Ce que vous avez entendu dans ces huit épisodes n'est pas un programme à conso
 
 [Pause]
 
-Peut-être que certains d'entre vous se disent : « J'aurais dû commencer plus tôt. Mon enfant a déjà 10 ans, j'ai perdu du temps. » Si cette pensée vous traverse — laissez-la passer. Vous n'avez pas perdu de temps. Vous êtes ici, maintenant. Et « maintenant » est le seul moment qui existe.
+Peut-être que certains d'entre vous se disent : « J'aurais dû commencer plus tôt. Mon enfant a déjà 10 ans, j'ai perdu du temps. »
+
+Laissez cette pensée passer. Vous n'avez pas perdu de temps. Vous êtes ici, maintenant.
 
 ---
 
@@ -230,11 +230,13 @@ Je termine avec Ibn Qayyim al-Jawziyya. Dans Tuhfat al-Mawdūd, il écrit :
 
 La préservation n'est pas un acte de contrôle. C'est un acte de **gardiennage**. Vous ne créez pas la fiṭra de votre enfant — Allah l'a créée. Vous ne la formez pas — elle est déjà formée. Vous la **gardez**. Comme on garde un trésor. Comme on garde une promesse.
 
-Et si vous avez écouté ces huit épisodes, c'est que ce gardiennage vous tient à cœur. Vous n'êtes pas parfait. Aucun parent ne l'est. Mais vous êtes **présent**. Et la présence, c'est déjà la moitié de la préservation.
+Et si vous avez écouté ces huit épisodes, c'est que ce gardiennage vous tient à cœur.
 
 [Pause 2 secondes]
 
-Le reste — les exercices, les ajustements, les piliers à renforcer — viendra avec la pratique. Pas avec la perfection. Avec la pratique.
+La présence, c'est déjà la moitié de la préservation.
+
+L'amāna est entre vos mains. La fiṭra est en vous. Le reste viendra avec la pratique — pas avec la perfection.
 
 Que votre cœur trouve la paix. Que le cœur de votre enfant soit préservé.
 

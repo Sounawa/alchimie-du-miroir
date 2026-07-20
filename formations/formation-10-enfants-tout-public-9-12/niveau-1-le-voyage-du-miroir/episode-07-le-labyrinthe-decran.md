@@ -42,7 +42,7 @@ Tristan Harris n'est pas un ennemi des écrans. Il utilise un téléphone, comme
 
 Aujourd'hui, on va entrer dans le labyrinthe d'écran. Et on va en sortir.
 
-[Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
+[Si tu écoutes avec un adulte, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
 
 [Transition musicale — 2 secondes]
 
@@ -82,7 +82,7 @@ Anna Lembke, psychiatre à l'Université de Stanford, a publié en 2021 un livre
 
 Mais — et c'est crucial — je ne suis pas en train de te dire « jette ton téléphone ». Je suis en train de te dire : « Maintenant que tu sais, c'est ta responsabilité. »
 
-[Même les adultes ont du mal avec les écrans. Ce n'est pas facile pour personne — mais tu es en train d'apprendre quelque chose que beaucoup d'adultes ne savent pas encore faire.]
+[Même les adultes ont du mal avec les écrans. Ce n'est pas facile pour personne — mais toi, tu es en train d'apprendre quelque chose que beaucoup d'adultes ne savent pas encore.]
 
 Le gardien du château, c'est toi. Même face à un labyrinthe conçu par des scientifiques.
 
@@ -108,7 +108,7 @@ Ce n'est pas un hasard.
 
 C'est ton corps qui t'envoie un message. Le messager dit : « Ton système de récompense vient d'être bombardé. La dopamine a monté… elle redescend. Et quand elle redescend, tu te sens vide. »
 
-[Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
+[Et toi qui accompagnes, as-tu remarqué ce que ton corps ressent après une heure d'écran ?]
 
 [Transition douce]
 
@@ -144,7 +144,7 @@ Maintenant, compare. Avant et après. Est-ce que quelque chose a changé ? Est-c
 
 L'ennui, c'est justement ce que les applications essaient de t'éviter à tout prix.
 
-[Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
+[Pause — Si tu le veux, raconte ton expérience des 10 minutes à la personne qui t'accompagne.]
 
 [Transition]
 
@@ -190,23 +190,17 @@ Le dernier épisode s'appelle « La clé ». Et il contient un objet spécial qu
 
 ### POUR LE PARENT (8:30 — 10:30)
 
-[Voix informative]
+[Voix adulte, claire et bienveillante]
 
-Cet épisode s'appuie sur les recherches en neurosciences de la récompense et sur la littérature grandissante autour de la « captologie » — l'étude des technologies conçues pour capturer l'attention.
+**Cher parent,**
 
-Tristan Harris, ancien design ethicist chez Google, a cofondé le Center for Humane Technology. Ses révélations sur l'utilisation de techniques psychologiques dans la conception d'applications ont été documentées dans le documentaire *The Social Dilemma* (2020, Netflix).
+Votre enfant vient de comprendre comment les écrans piratent son attention. Tristan Harris, ancien designer éthique chez Google, a révélé que les applications utilisent les mêmes techniques que les machines à sous. B.J. Casey (Yale, 2014) a montré que le circuit de la dopamine est mature avant le cortex préfrontal — l'enfant a donc moins de freins qu'un adulte face à la sur-stimulation. Anna Lembke (Stanford, 2021) décrit ce cycle comme une addiction douce.
 
-La neurobiologie de la dopamine chez l'adolescent est documentée par B.J. Casey, neuroscientifique à l'Université de Yale, dans sa publication « The Teenage Brain: Self Control » dans *Current Directions in Psychological Science* (2014) : le circuit mésolimbique de la dopamine est mature avant le cortex préfrontal, créant un décalage entre la sensibilité à la récompense et la capacité d'inhibition.
+**Ce que vous pouvez faire ce soir :** Faites le défi des 10 minutes en même temps que votre enfant. Montrez l'exemple. Si votre enfant dit « j'ai réussi et je me suis ennuyé », répondez : « Super ! L'ennui, c'est le début de la créativité. »
 
-Anna Lembke, psychiatre à l'Université de Stanford, a publié *Dopamine Nation: Finding Balance in the Age of Indulgence* (2021), démontrant que la sur-stimulation dopaminergique (écrans, réseaux sociaux, jeux) crée un cycle de tolérance et de sevrage similaire à celui des substances addictives.
+**Ce qu'il faut éviter :** N'utilisez PAS cet épisode comme prétexte pour confisquer l'écran. Le message est l'agentivité — le pouvoir de choisir — pas la restriction. Si vous imposez une règle que vous ne suivez pas vous-même, votre enfant le sentira.
 
-**Ce que vous pouvez faire :**
-- Faites le défi des 10 minutes en même temps que votre enfant. Montrez l'exemple.
-- N'utilisez pas cet épisode comme prétexte pour confisquer l'écran. Le message est l'agentivité, pas la restriction.
-- Si votre enfant dit « j'ai réussi les 10 minutes et je me suis ennuyé », répondez : « Super ! L'ennui, c'est le début de la créativité. »
-
-**Cette semaine avec votre enfant :**
-Proposez un « challenge famille sans écran » pour la semaine à venir. Choisissez UN moment par jour — le repas du soir, les trente minutes avant le coucher, ou le trajet vers l'école — et déclarez-le « zone sans écran » pour toute la famille. Pas seulement pour l'enfant : pour vous aussi. Mettez les téléphones dans une boîte ou une autre pièce. Et pendant ce moment, faites quelque chose ensemble : racontez vos journées, jouez à un jeu de cartes, cuisinez, ou simplement... ne faites rien. L'important, c'est que la règle vaille pour tout le monde. Quand votre enfant voit que vous vous imposez la même discipline, le message devient : « Ce n'est pas une punition pour les enfants. C'est un choix conscient que toute la famille fait. »
+**Cette semaine avec votre enfant :** Proposez un « challenge famille sans écran ». Choisissez UN moment par jour — le repas du soir, les trente minutes avant le coucher — et déclarez-le « zone sans écran » pour TOUTE la famille. Mettez les téléphones dans une boîte. L'important, c'est que la règle vaille pour vous aussi. Quand votre enfant voit que vous vous imposez la même discipline, le message devient : « Ce n'est pas une punition pour les enfants. C'est un choix. »
 
 [Fin — musique de sortie douce, 4 secondes]
 

@@ -50,7 +50,7 @@ Toujours toi.
 
 [Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
 
-Aujourd'hui, je vais te montrer comment trouver ta porte. Parce que ce jardin — ton jardin secret — il existe. Et il a plus de pouvoir sur ta vie que tu ne l'imagines.
+Aujourd'hui, je vais te montrer comment trouver ta porte. Parce que ce jardin — ton jardin secret — il existe. Et il change tout.
 
 [Transition musicale légère — 3 secondes]
 
@@ -116,7 +116,7 @@ Ou d'être dans une pièce pleine de gens — ta famille, tes amis — et de te 
 
 [Pause]
 
-Si oui — ce n'est pas bizarre. Ce n'est pas une faute. C'est juste ton jardin qui change de saison.
+Si oui — rassure-toi. Ton jardin change de saison, voilà tout. Et ça arrive à tout le monde.
 
 Et la plupart du temps, personne autour de toi ne le remarque. Parce que les gens voient ton visage, pas ton jardin.
 

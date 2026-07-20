@@ -66,7 +66,7 @@ C'est son **vocabulaire émotionnel**.
 
 [Pause]
 
-À 5 ans, votre enfant dit : « Je suis triste. Je suis en colère. J'ai peur. Je suis déçu. » Chaque émotion a un nom. Et parce qu'elle a un nom, votre enfant peut la reconnaître, la situer, et — c'est crucial — la communiquer.
+À 5 ans, votre enfant dit : « Je suis triste. Je suis en colère. J'ai peur. Je suis déçu. » Chaque émotion a un nom. Et parce qu'elle a un nom, votre enfant peut la reconnaître, la situer, la communiquer.
 
 À 9 ans, votre enfant dit : « Ça va. » Ou : « Bien. »
 
@@ -121,6 +121,10 @@ Et quand votre enfant passe de « je suis triste parce que… » à « ça va »
 Il a DÉSAPPRIS la précision.
 
 Six couleurs remplacées par du gris. Et ce désapprentissage commence à 7 ans.
+
+[Pause]
+
+Jeudi dernier, dans une cour d'école, un enseignant a demandé à une classe de CM1 comment ils allaient. Vingt-trois enfants. Vingt-deux ont dit « bien ». Un seul — un garçon de 8 ans — a dit « je suis frustré parce que mon copain ne veut plus jouer avec moi ». Vingt-deux mots gris. Un mot précis. Ce garçon, on l'a regardé bizarrement. Lui, il ne comprenait pas pourquoi.
 
 [Transition — léger changement de rythme]
 
@@ -246,7 +250,9 @@ Je termine avec un hadith du Prophète ﷺ, rapporté par Abū Hurayra :
 
 « Ça va » est un mot creux quand il remplace une vérité. Votre enfant a besoin de mots vrais. Et ces mots vrais commencent par vous.
 
-Pour cette semaine : la question prophétique, le dictionnaire de la famille, et un mot du Coran dans votre quotidien.
+Ce soir, la question prophétique. Le dictionnaire de la famille. Un mot du Coran dans votre quotidien.
+
+Les mots sont les portes du cœur. Quand elles se ferment, le cœur vit en prison.
 
 **Wa salāmu ʿalaykum.**
 

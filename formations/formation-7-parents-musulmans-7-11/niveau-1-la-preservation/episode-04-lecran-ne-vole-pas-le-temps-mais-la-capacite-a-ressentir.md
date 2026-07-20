@@ -106,6 +106,12 @@ Ibn Qayyim al-Jawziyya (ibn al-qayyim al-ǰawziyya), dans *Madārij al-Sālikīn
 
 Et il y a un détail anatomique que vous devez connaître. Les travaux de Jay Giedd, psychiatre au National Institute of Mental Health, publiés dans une série d'études longitudinales à partir de 1999, ont montré que le cortex préfrontal connaît son pic de croissance en volume de matière grise précisément entre 8 et 11 ans.
 
+[Pause]
+
+Lundi soir, Yacine a posé cette question à sa fille de 9 ans : « Dis-moi trois choses que tu aimes faire, en dehors de l'écran. » Sa fille a répondu : « Jouer au Roblox. Regarder des tutos sur YouTube. Et… » Silence. Dix secondes. Quinze secondes. « Je ne sais pas. »
+
+Dix secondes de silence, et Yacine a compris que la route du plaisir de sa fille n'avait plus qu'une seule voie.
+
 Ce pic est suivi d'une phase d'élagage. Les habitudes d'attention que votre enfant forge pendant cette fenêtre déterminent quels circuits survivront et lesquels seront éliminés.
 
 Les écrans ne se contentent pas de captiver votre enfant de 9 ans. Ils participent activement à la **construction** de son cortex préfrontal.
@@ -245,7 +251,9 @@ Un regard constamment bombardé de stimuli intenses perd la capacité à voir su
 
 Votre enfant de 8 ans a encore les deux — le baṣar et la baṣīra. L'écran nourrit le premier et affame le second. Et votre rôle, c'est de veiller à ce que la baṣīra survive.
 
-Pour cette semaine : le diagnostic du plaisir, le contrat de regard, et l'observation honnête du temps d'écran.
+Ce soir : le diagnostic du plaisir. Le contrat de regard. Et l'observation honnête du temps d'écran.
+
+L'œil s'habitue au flash et ne perçoit plus la lueur. Protégez la lueur.
 
 Que votre cœur trouve la paix.
 

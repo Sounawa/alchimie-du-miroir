@@ -38,13 +38,13 @@ Léa attrape le journal. Elle le jette contre le mur. Elle crie quelque chose qu
 
 Cinq minutes plus tard, elle est assise par terre, épuisée, le cœur qui bat encore fort. Et elle se demande : « Mais qu'est-ce qui m'a pris ? »
 
-Tu sais quoi ? Ce n'est PAS Léa qui a fait ça. Pas vraiment. C'est une toute petite partie de son cerveau — un minuscule noyau de la taille d'une amande — qui a appuyé sur un gros bouton rouge en disant : « ALARME ! ALARME ! DANGER ! »
+Tu sais quoi ? Ce n'est pas vraiment Léa qui a fait ça. C'est une toute petite partie de son cerveau — un noyau de la taille d'une amande — qui a appuyé sur un gros bouton rouge : « ALARME ! ALARME ! DANGER ! »
 
 [Pause]
 
 Et cette partie, elle s'appelle l'amygdale. Et aujourd'hui, on va la rencontrer.
 
-[Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
+[Si tu écoutes avec un adulte, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
 
 [Transition musicale — 2 secondes]
 
@@ -54,9 +54,9 @@ Et cette partie, elle s'appelle l'amygdale. Et aujourd'hui, on va la rencontrer.
 
 [Voix chaleureuse, pédagogique]
 
-Imagine que dans ton château intérieur — celui que tu as dessiné — il y a un veilleur de nuit. Ce veilleur, son travail, c'est de surveiller 24 heures sur 24. Il ne dort jamais. Dès qu'il voit quelque chose d'anormal, il sonne l'alarme. Pas fort — IL SONNE L'ALARME À FOND. Sirenes, cloches, gyrophares. Le maximum.
+Dans ton château intérieur — celui que tu as dessiné — il y a un veilleur de nuit. Ce veilleur, son travail, c'est de surveiller 24 heures sur 24. Il ne dort jamais. Dès qu'il voit quelque chose d'anormal, il sonne l'alarme. Pas fort — IL SONNE L'ALARME À FOND. Sirenes, cloches, gyrophares. Le maximum.
 
-Ce veilleur de nuit, c'est ton amygdale. C'est une toute petite structure dans ton cerveau — la taille d'une amande — et son rôle est de te protéger. Depuis des centaines de milliers d'années, chez les humains, l'amygdale fait le même travail : repérer le danger et déclencher la réponse de survie. Cours. Combats. Ou cache-toi.
+Ce veilleur de nuit, c'est ton amygdale. Une toute petite structure dans ton cerveau — la taille d'une amande. Son rôle : te protéger. Depuis des centaines de milliers d'années, l'amygdale fait le même boulot chez les humains — repérer le danger et déclencher la réponse de survie. Cours. Combats. Ou cache-toi.
 
 [Pause]
 
@@ -111,7 +111,7 @@ Ou alors, tu es en cours de sport. Tu rates un ballon. Quelqu'un rit. Et tu sens
 
 Rappelle-toi la carte de ton corps que tu as dessinée dans le dernier territoire. Tu sais maintenant où tu sens la colère. Eh bien, cette sensation — les poings serrés, le visage chaud, la respiration courte — c'est le messager de ton corps qui te dit : « L'alarme vient de sonner. Ne fais rien tout de suite. Attends. »
 
-[Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
+[Et toi qui accompagnes, est-ce que tu connais cette sensation ?]
 
 [Transition douce]
 
@@ -152,7 +152,7 @@ Quand tu reconnais tes trois signaux, que fais-tu ? La méthode, en trois étape
 
 Écris ces trois étapes dans ton journal. Et personnalise-les. Peut-être que pour toi, « Stop » ce n'est pas s'asseoir — c'est fermer les yeux. Peut-être que « Respire » c'est souffler comme si tu avais une bougie devant toi. Trouve TA version. C'est ton plan.
 
-[Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
+[Pause — Si tu le veux, montre ton plan à la personne qui t'accompagne. Prenez trente secondes pour échanger.]
 
 [Transition]
 
@@ -200,21 +200,17 @@ D'ici le prochain territoire, pose-toi cette question : est-ce qu'il y a quelqu'
 
 ### POUR LE PARENT (8:30 — 10:30)
 
-[Voix informative]
+[Voix adulte, claire et bienveillante]
 
-Cet épisode aborde le modèle de Daniel Goleman popularisé dans *Emotional Intelligence* (1995), lui-même fondé sur les travaux de Joseph LeDoux sur les voies de traitement émotionnel.
+**Cher parent,**
 
-Joseph LeDoux, neuroscientifique à l'Université de New York, a identifié en 1996 dans *The Emotional Brain* la « voie basse » de la peur : un traitement amygdalien rapide, non conscient, qui précède le traitement cortical lent et réfléchi. Ce modèle explique pourquoi les réactions émotionnelles intenses précèdent la conscience — et pourquoi l'enfant « explose avant de comprendre ».
+Votre enfant vient de rencontrer son amygdale — ce tout petit noyau dans le cerveau qui sonne l'alarme avant même la réflexion. Joseph LeDoux a montré que cette « voie basse » de la peur précède le cortex préfrontal : l'enfant explose AVANT de comprendre. La technique STOP-RESPIRE-OBSERVE est une adaptation enfant du protocole MBSR de Jon Kabat-Zinn.
 
-La technique STOP-RESPIRE-OBSERVE est une adaptation enfant de la protocole STOP de Jon Kabat-Zinn, créateur du programme MBSR (Mindfulness-Based Stress Reduction) à l'Université du Massachusetts, publié en 1990 dans *Full Catastrophe Living*. Les trois respirations lentes avec expiration plus longue que l'inspiration activent le système nerveux parasympathique, mesurable par la variabilité cardiaque.
+**Ce que vous pouvez faire ce soir :** Quand votre enfant explose, ne répondez PAS immédiatement — votre propre amygdale est peut-être activée aussi. Quand le calme est revenu — APRÈS la crise, pas pendant — demandez-lui : « Qu'est-ce que ton corps t'a dit avant que tu t'énerves ? »
 
-**Ce que vous pouvez faire :**
-- Quand votre enfant explose, ne répondez PAS immédiatement — votre propre amygdale est peut-être activée aussi.
-- Quand le calme est revenu — pas pendant la crise, APRÈS — demandez-lui : « Qu'est-ce que ton corps t'a dit avant que tu t'énerves ? »
-- Encouragez le plan anti-volcan sans le juger. S'il écrit « mordre mon doudou », c'est sa méthode — tant qu'elle ne fait de mal à personne.
+**Ce qu'il faut éviter :** Encouragez le plan anti-volcan sans le juger. S'il écrit « mordre mon doudou », c'est sa méthode — tant qu'elle ne fait de mal à personne.
 
-**Cette semaine avec votre enfant :**
-Avant de demander à votre enfant d'utiliser le protocole STOP-RESPIRE-OBSERVE, commencez par le pratiquer vous-même — devant lui. Pas comme une démonstration, mais parce que vous en avez besoin. La prochaine fois que vous sentez votre propre colère monter — une remarque qui vous touche, un imprévu qui vous agace — dites-le à voix haute : « Là, je sens que je m'énerve. Je vais m'asseoir et prendre trois respirations. » Puis faites-le. Votre enfant apprend moins par ce que vous lui dites que par ce qu'il vous voit faire. Le modèle parental — c'est le professeur le plus puissant qui existe.
+**Cette semaine avec votre enfant :** Avant de demander à votre enfant d'utiliser STOP-RESPIRE-OBSERVE, commencez par le pratiquer vous-même — devant lui. Pas comme une démonstration. Parce que vous en avez besoin. La prochaine fois que vous sentez votre propre colère monter, dites-le à voix haute : « Là, je sens que je m'énerve. Je vais m'asseoir et prendre trois respirations. » Puis faites-le. Votre enfant apprend moins par ce que vous lui dites que par ce qu'il vous voit faire.
 
 [Fin — musique de sortie douce, 4 secondes]
 

@@ -46,11 +46,15 @@ La réponse que Marc ne veut pas entendre : ça n'a pas basculé. Ça coulait, l
 
 ### CONTEXTE (1:30 — 4:30)
 
-Bienvenue dans *L'Alchimie du Miroir — La Préservation*. Cette formation s'adresse à vous, parent d'un enfant de 7 à 11 ans. Pas un adolescent encore. Pas un bébé. Cet âge que beaucoup considèrent comme « l'âge facile » — l'enfance, le moment où tout semble stable.
+Sept à onze ans. L'âge que tout le monde croit facile. L'enfance. Le moment où tout semble stable.
+
+[Pause]
+
+Le piège le plus dangereux de toute la parentalité porte un visage souriant.
 
 [Voix réfléchie]
 
-Le piège le plus dangereux de toute la parentalité est là. Parce que la période 7-11 ans — ce que les neuroscientifiques appellent l'enfance moyenne — est la période la plus critique du développement cérébral émotionnel.
+La période 7-11 ans — ce que les neuroscientifiques appellent l'enfance moyenne — est la période la plus critique du développement cérébral émotionnel.
 
 Et presque personne ne le sait.
 
@@ -62,9 +66,9 @@ Parce que le développement émotionnel suit son propre calendrier — et ses an
 
 [Pause]
 
-Je vais être très direct avec vous, parce que c'est important.
+Je vais être direct.
 
-Le cerveau de votre enfant entre 7 et 11 ans est en train de construire ses autoroutes neuronales. Chaque expérience qu'il vit — chaque mot que vous dites, chaque dispute à laquelle il assiste, chaque heure d'écran qu'il consomme, chaque silence qu'il traverse — est une pelletée d'asphalte sur une route en construction. Ces routes relient les régions émotionnelles du cerveau aux régions rationnelles. Elles déterminent comment votre enfant gérera le stress, les relations, les échecs, pour les 80 prochaines années de sa vie.
+Le cerveau de votre enfant entre 7 et 11 ans construit ses autoroutes neuronales. Maintenant. Chaque expérience qu'il vit — chaque mot que vous dites, chaque dispute à laquelle il assiste, chaque heure d'écran qu'il consomme, chaque silence qu'il traverse — est une pelletée d'asphalte sur une route en construction. Ces routes relient les régions émotionnelles du cerveau aux régions rationnelles. Elles déterminent comment votre enfant gérera le stress, les relations, les échecs, pour les 80 prochaines années de sa vie.
 
 [Voix lente, avec gravité]
 
@@ -78,7 +82,7 @@ Vous ne « élevez » pas un enfant. Vous **architectez** un cerveau.
 
 ### ENSEIGNEMENT (4:30 — 10:30)
 
-L'idée que le cerveau de l'enfant est un projet en cours n'est pas une métaphore. C'est de la neurobiologie mesurable.
+Le cerveau de votre enfant n'est pas un projet en cours. C'est un chantier en marche. Mesurable. Visible sur IRM.
 
 [Voix pédagogique, claire]
 
@@ -216,13 +220,15 @@ Le parent qui dit « arrête de pleurer, ce n'est rien » ne « corrige » pas s
 
 [Pause]
 
-Cinq minutes de silence écouté. Aujourd'hui. Demandez-vous les trois questions. Et observez — vraiment observez — l'être humain qui grandit sous votre toit. Pas avec inquiétude. Avec attention. Il y a une différence fondamentale : l'inquiétude vous paralyse. L'attention vous transforme.
+Cinq minutes de silence écouté. Aujourd'hui. Les trois questions. Et observez — vraiment observez — l'être humain qui grandit sous votre toit. Pas avec inquiétude. Avec attention.
+
+[Pause]
+
+L'inquiétude paralyse. L'attention transforme.
 
 [Pause 2 secondes]
 
-Dans le prochain épisode, nous parlons des mots qu'il a perdus.
-
-Prenez soin de vous — et prenez soin du chantier.
+Marc n'a pas vu Lucas se vider. Ne soyez pas Marc.
 
 [Fin — musique de sortie douce, piano léger, 5 secondes]
 

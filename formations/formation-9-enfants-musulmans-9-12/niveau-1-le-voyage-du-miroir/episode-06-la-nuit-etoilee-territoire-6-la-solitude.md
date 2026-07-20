@@ -60,7 +60,7 @@ Cette conversation, on lui donne un nom en arabe. Et c'est ce que tu vas découv
 
 [Voix douce, révélatrice]
 
-Il y a deux types de conversations avec ton Créateur. Deux types que l'islam reconnaît et sépare clairement.
+Il y a deux façons de parler à ton Créateur. Deux façons que l'islam connaît bien.
 
 Le premier, tu le connais. C'est la ṣalāh (ٱلصَّلَاة) — la prière rituelle. Cinq fois par jour. Avec des mots précis, des mouvements précis, des moments précis. C'est beau, c'est structuré, et c'est obligatoire.
 
@@ -86,7 +86,7 @@ Ton Créateur connaît déjà ce que tu vas écrire — c'est TOI qui as besoin 
 
 Parce que le simple fait de formuler ta pensée — de la sortir du brouillon de ta tête et de la mettre en mots, même silencieux — ça la transforme. Ça transforme la confusion en clarté. Le poids en légèreté. La solitude en connexion.
 
-Ce n'est pas magique. C'est mécanique. Tu mets des mots sur ce que tu ressens, et ton cerveau passe du mode « panique » au mode « compréhension ». La munājāt fait exactement ça — avec un interlocuteur qui t'écoute VRAIMENT.
+Tu mets des mots sur ce que tu ressens, et ton cerveau passe du mode « panique » au mode « compréhension ». La munājāt fait ça — avec un interlocuteur qui t'écoute VRAIMENT.
 
 [Transition — changement subtil de rythme]
 
@@ -104,7 +104,7 @@ La dernière fois que tu t'es senti seul — VRAIMENT seul — est-ce que tu as 
 
 [Pause 2 secondes]
 
-La plupart des enfants n'en parlent pas. Parce qu'ils ont peur que l'autre dise : « Mais non, t'es pas seul, on est là. » Et ils savent que ce n'est PAS la réponse dont ils ont besoin. Ce n'est pas de la présence physique qu'ils manquent — c'est une connexion plus profonde.
+La plupart des enfants n'en parlent pas. Parce qu'ils ont peur que l'autre dise : « Mais non, t'es pas seul, on est là. » Et ils savent que ça ne suffit pas. Ce qu'ils cherchent, c'est une connexion plus profonde.
 
 Ou pire — ils ont peur qu'on leur dise : « Prie. » Comme si la prière était un médicament qu'on avale vite fait pour que ça passe.
 
@@ -146,7 +146,7 @@ Ou même : « Je suis en colère contre toi parce que… »
 
 OUI. Tu as le droit d'être en colère dans ta lettre. Tu as le droit de poser des questions difficiles. Tu as le droit de dire « je ne comprends pas. »
 
-Ce n'est pas un manque de respect. C'est une recherche de vérité.
+C'est de la sincérité. Et la sincérité, Allah l'aime.
 
 [Pause 2 secondes]
 

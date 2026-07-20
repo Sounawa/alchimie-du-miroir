@@ -28,9 +28,7 @@
 
 [Voix narrative, un peu surprise]
 
-Je vais te raconter une expérience scientifique qui a étonné tout le monde — même les scientifiques qui l'ont faite.
-
-Un chercheur américain s'appelle Robert Emmons. Il travaille à l'Université de Californie à Davis. En 2003, il a pris un groupe de gens et les a divisés en deux.
+En 2003, un chercheur américain du nom de Robert Emmons a pris un groupe de gens et les a divisés en deux.
 
 Le premier groupe devait, chaque semaine, écrire cinq choses pour lesquelles ils étaient reconnaissants. C'est tout.
 
@@ -44,7 +42,7 @@ Résultat après dix semaines : le premier groupe dormait mieux, avait un systè
 
 Mais attends — ce n'est pas la partie la plus surprenante. La partie la plus surprenante, c'est que Robert Emmons a continué l'expérience sur des ADOLESCENTS et des ENFANTS. Et les résultats étaient les mêmes. Même chez les plus jeunes, la gratitude change le cerveau. Physiquement. Pas juste l'humeur. Le CERVEAU.
 
-[Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
+[Si tu écoutes avec un adulte, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
 
 [Transition musicale — 2 secondes]
 
@@ -54,9 +52,9 @@ Mais attends — ce n'est pas la partie la plus surprenante. La partie la plus s
 
 [Voix chaleureuse, pédagogique]
 
-Alors, qu'est-ce que la gratitude exactement ? Et pourquoi est-ce que je l'appelle un muscle ?
+Alors, la gratitude — c'est quoi ? Et pourquoi est-ce que je l'appelle un muscle ?
 
-D'abord, oublie l'idée que la gratitude c'est dire « merci » quand on te donne un cadeau. Ce n'est pas ça.
+D'abord, oublie l'idée que la gratitude c'est dire « merci » quand on te donne un cadeau. Oublie.
 
 La vraie gratitude, c'est le fait de REMARQUER quelque chose de bien dans ta vie et de le ressentir dans ton corps. Pas juste le penser dans ta tête — le SENTIR. Te souvenir d'un moment agréable et ressentir cette chaleur dans ta poitrine. Penser à quelqu'un qui t'aide et sentir ce petit pincement de tendresse.
 
@@ -68,7 +66,7 @@ La gratitude, c'est pareil. Si tu ne t'entraînes jamais à remarquer le positif
 
 [Pause]
 
-Robert Emmons, le chercheur dont je t'ai parlé, a publié en 2003 une étude dans le *Journal of Personality and Social Psychology*. Sa conclusion : la pratique régulière de la gratitude modifie l'activité du cortex préfrontal — la partie sage de ton cerveau — et réduit l'activité de l'amygdale — le veilleur de nuit du territoire du volcan.
+Robert Emmons l'a prouvé : la pratique régulière de la gratitude modifie l'activité de ton cortex préfrontal — la partie sage de ton cerveau — et réduit l'activité de l'amygdale — le veilleur de nuit de ton château.
 
 La gratitude rend ton cerveau sage plus fort et ton alarme moins sensible.
 
@@ -104,7 +102,7 @@ La vraie gratitude, c'est voir l'invisible.
 
 Et quand tu commences à voir l'invisible, quelque chose de bizarre se passe : tu te sens plus calme. Plus ancré. Comme si le sol sous tes pieds était plus solide.
 
-[Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
+[Et toi qui accompagnes, as-tu pris le temps aujourd'hui de remarquer quelque chose d'invisible ?]
 
 [Transition douce]
 
@@ -141,7 +139,7 @@ Cinq jours. Trois choses invisibles.
 
 Le muscle commence à s'entraîner.
 
-[Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
+[Pause — Si tu le veux, partage tes trois choses invisibles avec la personne qui t'accompagne.]
 
 [Transition]
 
@@ -189,23 +187,17 @@ Le prochain épisode s'appelle : « Quand tu te sens seul. »
 
 ### POUR LE PARENT (8:30 — 10:30)
 
-[Voix informative]
+[Voix adulte, claire et bienveillante]
 
-Cet épisode s'appuie principalement sur les travaux de Robert Emmons, professeur de psychologie à l'Université de Californie à Davis, pionnier de la recherche scientifique sur la gratitude.
+**Cher parent,**
 
-Robert Emmons et Michael McCullough ont publié en 2003 « Counting Blessings Versus Burdens », étude dans le *Journal of Personality and Social Psychology* (vol. 84, n° 2), montrant que le groupe « gratitude » présentait un meilleur fonctionnement physique (moins de symptômes physiques, plus d'exercice physique), un optimisme accru, et un meilleur sommeil.
+Votre enfant vient de découvrir que la gratitude est un muscle — littéralement. Les travaux de Robert Emmons (UC Davis, 2003) ont montré que le groupe qui écrit cinq choses reconnaissantes par semaine dort mieux, tombe moins malade, et fait plus de sport. Et la pratique active le cortex préfrontal tout en calmant l'amygdale. La distinction entre gratitude « visible » et « invisible » s'inspire du programme « Trois bonnes choses » de Martin Seligman (Université de Pennsylvanie).
 
-En 2013, Emmons a publié *Gratitude Works! A 21-Day Program for Creating Emotional Prosperity*, synthèse de vingt ans de recherche confirmant que la pratique de la gratitude active le cortex préfrontal médian et réduit l'activité de l'amygdale — mesurable par IRMf.
+**Ce que vous pouvez faire ce soir :** Faites le défi des cinq jours EN MÊME TEMPS que votre enfant. Montrez-lui votre liste. Le soir, demandez simplement : « Tu as trouvé tes trois choses ? » — sans exiger de les entendre.
 
-La distinction entre gratitude « visible » (objets, cadeaux) et gratitude « invisible » (santé, relations, moments) est une adaptation pour enfants du concept de gratitude « ciblée » développée par Martin Seligman, Université de Pennsylvanie, dans son programme « Trois bonnes choses » (2005), publié dans *American Psychologist*.
+**Ce qu'il faut éviter :** Ne jugez pas ses « choses invisibles ». Si c'est « le fait que j'ai pu manger des pâtes », c'est parfait. Ne rendez pas ça scolaire non plus — « C'est bien, tu as fait ton devoir » tuerait la magie.
 
-**Ce que vous pouvez faire :**
-- Faites le défi des cinq jours EN MÊME TEMPS que votre enfant. Montrez-lui votre liste.
-- Ne jugez pas ses « choses invisibles ». Si c'est « le fait que j'ai pu manger des pâtes », c'est parfait.
-- Le soir, demandez-lui simplement : « Tu as trouvé tes trois choses ? » — sans exiger de les entendre. S'il veut partager, accueillez. S'il ne veut pas, c'est son journal.
-
-**Cette semaine avec votre enfant :**
-Instaurez un rituel de gratitude familiale — simple, rapide, quotidien. Par exemple : avant le dîner, chaque membre de la famille dit UNE chose invisible qu'il a remarquée dans sa journée. Pas besoin de longues explications. « Le soleil ce matin. » « Le fait que mon café était bon. » « Que mon frère m'a prêté son chargeur. » Les parents participent aussi — et vous pouvez montrer l'exemple en choisissant des choses très simples, même ordinaires. Ce rituel de trente secondes, répété chaque jour, renforce le muscle de la gratitude chez votre enfant bien plus qu'un long discours. Et il crée un moment de connexion familiale qui n'existait pas avant.
+**Cette semaine avec votre enfant :** Instaurez un rituel de gratitude familiale — simple, rapide, quotidien. Avant le dîner, chaque membre de la famille dit UNE chose invisible de sa journée. « Le soleil ce matin. » « Mon café était bon. » « Mon frère m'a prêté son chargeur. » Les parents participent aussi — choisissez des choses très simples, même ordinaires. Trente secondes par jour, répétées chaque soir, renforcent le muscle de la gratitude bien plus qu'un long discours.
 
 [Fin — musique de sortie douce, 4 secondes]
 

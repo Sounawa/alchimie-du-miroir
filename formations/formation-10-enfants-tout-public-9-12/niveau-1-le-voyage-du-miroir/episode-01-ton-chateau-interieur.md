@@ -28,15 +28,17 @@
 
 [Voix narrative, un peu mystérieuse, comme le début d'une histoire]
 
-Imagine une femme qui étudie le cerveau toute sa vie. Elle s'appelle Jill Bolte Taylor. C'est une neuroanatomiste — quelqu'un qui passe ses journées à observer le cerveau des autres au microscope.
+Jill Bolte Taylor a 37 ans. C'est une femme qui passe ses journées à observer le cerveau des autres au microscope. Ce matin-là, elle se réveille. Et quelque chose d'étrange se passe.
+
+Sa main droite ne répond plus. Elle n'arrive pas à marcher droit. Son visage, dans le miroir, lui paraît bizarre.
 
 [Pause 1 seconde]
 
-Un matin, elle a 37 ans, elle se réveille et… quelque chose d'étrange se passe. Sa main droite ne répond plus. Elle n'arrive plus à marcher droit. Elle se regarde dans le miroir et son visage lui paraît bizarre. Puis elle comprend : elle est en train de faire un accident vasculaire cérébral — un AVC. Son propre cerveau est en train de s'éteindre. Et elle, la spécialiste du cerveau, va le regarder se produire. De l'intérieur.
+Puis elle comprend. Son propre cerveau est en train de s'éteindre. Elle fait un AVC — et elle va le regarder se produire. De l'intérieur.
 
 [Pause 2 secondes]
 
-Pendant des heures, elle observe ses pensées disparaître une par une. D'abord les mots. Puis la notion de temps. Puis même l'idée de qui elle est. Et là, au milieu de tout ça, elle fait une découverte incroyable. Elle réalise quelque chose que presque personne ne sait :
+Pendant des heures, elle observe ses pensées disparaître. D'abord les mots. Puis la notion de temps. Puis l'idée même de qui elle est. Et là, au milieu de ce silence, elle découvre quelque chose que presque personne ne sait :
 
 [Voix lente, chaque mot compte]
 
@@ -44,7 +46,7 @@ Pendant des heures, elle observe ses pensées disparaître une par une. D'abord 
 
 [Pause 2 secondes]
 
-Il y a un TOI qui regarde tes pensées passer — comme on regarde les nuages dans le ciel. Et ce TOI-là, il ne disparaît jamais. Même quand tout le reste s'arrête.
+Il y a un TOI qui regarde tes pensées passer. Comme on regarde les nuages. Et ce TOI-là ne disparaît jamais. Même quand tout le reste s'arrête.
 
 [Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
 
@@ -56,13 +58,15 @@ Il y a un TOI qui regarde tes pensées passer — comme on regarde les nuages da
 
 [Voix chaleureuse, comme un guide qui te prend par la main]
 
-Bienvenue dans Le Voyage du Miroir. Je suis ravie de te retrouver ici. Ce que tu vas entendre dans les prochains épisodes, c'est un peu comme une carte au trésor — mais le trésor, c'est toi. Ou plutôt, c'est quelque chose à l'intérieur de toi que tu n'as peut-être jamais exploré.
+Bienvenue dans Le Voyage du Miroir.
+
+Ce que tu vas entendre dans les prochains épisodes, c'est une carte au trésor — sauf que le trésor, c'est toi. Ou plutôt : c'est quelque chose à l'intérieur de toi que tu n'as jamais exploré.
 
 [Pause]
 
-Je veux que tu imagines quelque chose. Ferme les yeux si tu veux — ou juste regarde devant toi, c'est pareil.
+Ferme les yeux si tu veux. Ou garde-les ouverts. Ça marche pareil.
 
-Imagine que tu as un château. Pas un château de princesse ou de chevalier dans un livre — un château VRAI, à l'intérieur de toi. Ce château, il a plusieurs pièces. Chaque pièce correspond à une émotion que tu ressens.
+Imagine un château. Pas un château de dessin animé — un château VRAI, à l'intérieur de toi. Plusieurs pièces. Chaque pièce abrite une émotion.
 
 [Voix descriptive, on construit le décor ensemble]
 
@@ -82,7 +86,7 @@ Toutes ces pièces — la tour, la grotte, le donjon, le jardin — elles existe
 
 Tu ne peux pas en détruire une. Et ça serait une erreur d'essayer.
 
-Le secret le plus important de tout ce voyage :
+Ce que personne ne t'a jamais dit :
 
 [Pause 1 seconde]
 
@@ -118,7 +122,7 @@ Ou encore, tu es en classe, le prof pose une question, tu connais la réponse, m
 
 Si tu te reconnais dans au moins une de ces situations — alors ce voyage est pour toi. Et même si tu ne te reconnais pas, ça vaut la peine de continuer. Parce que le château, il est là. Et plus tu le connais, plus tu deviens fort.
 
-[Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
+[Et toi qui accompagnes, est-ce que tu reconnais ce moment dans ta propre vie ?]
 
 [Transition douce]
 
@@ -165,7 +169,7 @@ Soyons honnêtes avec toi-même. Pas besoin de montrer à quelqu'un. C'est ton j
 
 Et enfin, dessine-toi toi-même devant le château. Pas à l'intérieur. Devant. Comme le gardien. Avec une clé à la main.
 
-[Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
+[Pause — Si tu le veux, montre ton dessin à la personne qui t'accompagne. Prenez trente secondes pour échanger.]
 
 [Transition]
 
@@ -175,7 +179,7 @@ Et enfin, dessine-toi toi-même devant le château. Pas à l'intérieur. Devant.
 
 [Voix solennelle, mémorable]
 
-Chaque épisode, je vais te donner une phrase clé. Une phrase à retenir, à peut-être écrire quelque part. Pas pour la réciter comme une leçon — mais pour qu'elle te revienne quand tu en auras besoin, comme une petite voix amie.
+À chaque épisode, je te donne une phrase. Une phrase à retenir, à graver quelque part. Pas pour la réciter comme une leçon — pour qu'elle te revienne quand tu en auras besoin, comme une petite voix amie.
 
 [Pause 1 seconde]
 
@@ -217,21 +221,19 @@ Prépare ton Journal de Voyage Intérieur. Le prochain territoire t'attend.
 
 ### POUR LE PARENT (8:30 — 10:30)
 
-[Voix plus posée, informative — s'adressant indirectement au parent qui écoute avec l'enfant]
+[Voix adulte, claire et bienveillante]
 
-Ce premier épisode repose sur un concept central en neurosciences cognitives : la distinction entre le contenu de la conscience (les pensées, les émotions) et la conscience elle-même (l'observateur).
+**Cher parent,**
 
-Jill Bolte Taylor, neuroanatomiste à l'Université de l'Indiana, a publié en 2006 *My Stroke of Insight*, récit de son AVC et de sa récupération. Son observation — « You are the life force power of the universe » — a été validée par les travaux de Marc Raichle, neuroscientifique à la Washington University School of Medicine, qui a identifié en 2001 le « réseau du mode par défaut », un réseau cérébral actif lorsque le cerveau ne fait rien de particulier — et qui correspond précisément à cette conscience de fond, cette « présence » que l'enfant est invité à découvrir.
+Votre enfant vient de découvrir qu'il possède un château intérieur. Ce n'est pas une idée abstraite pour lui — c'est un lieu, avec des pièces, des couleurs, et quelqu'un qui en tient les clés. Lui.
 
-L'image du château intérieur s'inspire d'une métaphore universelle d'exploration intérieure, présente dans de nombreuses traditions philosophiques.
+Ce qui vient de se passer est simple et profond : votre enfant a mis un mot sur quelque chose qu'il ressentait sans pouvoir le nommer. Il a un lieu à l'intérieur de lui. Ce lieu a des pièces — parfois lumineuses, parfois sombres — et ce n'est ni sa faute ni un problème.
 
-**Ce que vous pouvez faire :**
-- Laissez votre enfant dessiner son château sans intervenir ni commenter.
-- Ne demandez pas à voir le dessin. S'il veut vous le montrer, accueillez sans juger.
-- Si votre enfant identifie le donjon de la peur comme la pièce principale, ne cherchez pas à « réparer » — écoutez simplement.
+**Ce que vous pouvez faire ce soir :** Demandez-lui doucement : « Alors, tu as dessiné quoi dans ton château ? » S'il vous répond, écoutez sans corriger, sans conseiller. Juste écoutez. Et si vous avez envie de partager le vôtre, faites-le — les enfants apprennent par ce qu'ils voient bien plus que par ce qu'ils entendent.
 
-**Cette semaine avec votre enfant :**
-Proposez un premier « moment de silence ensemble ». Pas une méditation compliquée — juste trente secondes, assis côte à côte, avant le dîner ou avant de dormir. Dites simplement : « On va faire trente secondes de silence. Tu fermes les yeux si tu veux. On écoute ce qui se passe à l'intérieur. » Et quand les trente secondes sont passées, demandez : « Tu as remarqué quelque chose ? » sans exiger de réponse. L'objectif n'est pas la performance — c'est de montrer que le silence, ce n'est pas vide. C'est un endroit où l'on va ensemble.
+**Ce qu'il faut éviter :** Ne minimisez pas (« Mais non, t'as pas besoin d'avoir peur »). Ne rendez pas ça scolaire (« C'est bien, tu as fait ton exercice »). Laissez vivre. Laissez être.
+
+**Cette semaine avec votre enfant :** Proposez un premier « moment de silence ensemble ». Pas une méditation compliquée — juste trente secondes, assis côte à côte, avant le dîner ou avant de dormir. Dites simplement : « On ferme les yeux trente secondes. On écoute ce qu'il y a à l'intérieur. » Pas de commentaire après. Pas de « qu'est-ce que tu as senti ? ». Juste le silence partagé. Ces trente secondes font plus pour l'intelligence émotionnelle de votre enfant que n'importe quelle explication.
 
 [Fin — musique de sortie douce, 4 secondes]
 

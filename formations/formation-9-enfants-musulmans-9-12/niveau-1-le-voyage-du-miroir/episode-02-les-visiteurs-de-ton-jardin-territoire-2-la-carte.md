@@ -64,8 +64,6 @@ Exactement comme quand quelqu'un vient chez toi. Tu ne deviens pas cette personn
 
 C'est pareil pour les émotions.
 
-Exactement.
-
 [Pause]
 
 Le problème : la plupart des gens — même les adultes — ne connaissent pas le nom de leurs visiteurs. Ils ressentent quelque chose, mais ils ne savent pas le nommer. Et sans nom, tout devient plus grand. Plus effrayant.
@@ -130,7 +128,7 @@ Et toi, quel est ton visiteur le plus fréquent ? Celui qui revient le plus souv
 
 [Pause 2 secondes]
 
-Si tu ne sais pas encore, ne t'inquiète pas. C'est exactement ce qu'on va découvrir dans ta mission.
+Si tu ne sais pas encore, ne t'inquiète pas. Ta mission va t'aider à le trouver.
 
 [Transition musicale — 2 secondes]
 
@@ -214,9 +212,9 @@ Prépare-toi.
 
 Votre enfant vient de construire quelque chose de scientifiquement mesurable : son vocabulaire émotionnel.
 
-John Gottman, chercheur à l'Université de Washington, a démontré en 1997 que le vocabulaire émotionnel d'un enfant à 10 ans est le meilleur prédicteur de la qualité de ses relations amoureuses à 30 ans. Pas ses notes. Pas son sport. Ses MOTS pour décrire ce qu'il ressent.
+Les recherches montrent que le vocabulaire émotionnel d'un enfant de 10 ans prédit la qualité de ses relations futures — bien mieux que ses notes ou son sport. Ses MOTS pour décrire ce qu'il ressent, voilà ce qui compte.
 
-Pourquoi ? Parce qu'un enfant qui peut nommer précisément « je me sens anxieux » au lieu de « ça va pas » n'est pas seulement plus communicatif — il a un cerveau qui a appris à DIFFÉRENCIER. Cette capacité de différenciation est la base de l'intelligence émotionnelle et de la régulation comportementale.
+Pourquoi ? Parce qu'un enfant qui peut dire « je me sens anxieux » au lieu de « ça va pas » ne se contente pas de communiquer — son cerveau apprend à DIFFÉRENCIER. Et cette capacité-là, c'est le socle de tout le reste.
 
 **Ce que vous pouvez faire :** Quand votre enfant dessine son « visiteur », ne dites PAS « mais non, c'est pas si grave » ni « tu exagères ». Demandez plutôt : « Dis-moi comment il fait pour venir ? » ou « Qu'est-ce qu'il te fait dans le corps ? » Laissez-le nommer. Laissez-le décrire. Chaque mot qu'il ajoute est un neurone qui se connecte.
 

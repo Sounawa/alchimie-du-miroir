@@ -50,11 +50,17 @@ Chaque parent crie. Si vous avez crié sur votre enfant, vous n'êtes ni un mons
 
 [Voix réfléchie]
 
-Mais il y a une différence fondamentale entre « crier arrive » et « crier est sans conséquence ». Et c'est cette différence que la neuroscience nous oblige à regarder en face — avec les yeux ouverts, pas avec la tête tournée.
+Mais crier arrive et crier est sans conséquence — ce sont deux choses différentes.
+
+[Pause]
+
+Et la neuroscience vous oblige à regarder la différence en face.
 
 [Pause 2 secondes]
 
-Quand vous élevez la voix, trois choses se produisent simultanément dans le cerveau de votre enfant. Elles sont rapides, automatiques, et — c'est le point crucial — elles laissent des traces physiques.
+Quand vous élevez la voix, trois choses se produisent simultanément dans le cerveau de votre enfant. Elles sont rapides, automatiques, et — c'est le point crucial — elles laissent des traces.
+
+Physiques.
 
 Premièrement, le cortisol — l'hormone du stress — inonde le système. Pas une petite dose. Une dose qui, mesurée en laboratoire, est comparable à celle d'un adulte confronté à une menace physique. Le cerveau de votre enfant ne fait pas la différence entre « papa crie parce que j'ai renversé du lait » et « un prédateur m'attaque ». Pour l'amygdale, c'est la même chose : **danger**.
 
@@ -82,7 +88,7 @@ C'est ce que Teicher (2016) a mesuré. L'IRM ne ment pas.
 
 ### ENSEIGNEMENT (4:30 — 10:30)
 
-Je vais vous donner les chiffres. Et je vous demande de les recevoir sans vous juger — parce que le jugement vous fermerait, et vous avez besoin d'entendre ça ouvert.
+Les chiffres. Recevez-les sans vous juger — le jugement vous fermerait.
 
 [Voix pédagogique, claire]
 
@@ -96,13 +102,13 @@ Six à dix pour cent de réduction dans la zone du cerveau qui gère la mémoire
 
 [Pause]
 
-Maintenant, que faire de cette information ? Ce n'est pas pour vous terrifier. C'est pour vous équiper.
+Que faire de cette information ? Ce n'est pas pour vous terrifier. C'est pour vous équiper.
 
 Dan Siegel, psychiatre et chercheur à l'Université de Californie à Los Angeles, et Tina Payne Bryson ont publié en 2011 *The Whole-Brain Child*, un ouvrage qui est devenu une référence mondiale. Leur principe central se résume en quatre mots : « Connect before redirect » — connectez avant de rediriger.
 
 [Voix plus douce]
 
-Ce que ça veut dire concrètement : quand votre enfant est en crise — quand il a renversé le lait et que vous sentez la colère monter — votre premier travail n'est pas de corriger le comportement. Votre premier travail est de **reconnecter** les deux hémisphères de son cerveau.
+Quand votre enfant est en crise — le lait renversé, la colère qui monte — votre premier travail n'est pas de corriger. C'est de **reconnecter** les deux hémisphères de son cerveau.
 
 L'hémisphère droit, émotionnel, est en feu. L'hémisphère gauche, logique, est déconnecté. Vous ne pouvez pas raisonner avec un enfant dont le pont gauche-droit est coupé.
 
@@ -206,13 +212,19 @@ Votre enfant a besoin que vous soyez son cortex préfrontal externe jusqu'à ce 
 
 Parce que vous ne pouvez pas offrir à votre enfant une régulation que vous ne possédez pas.
 
-Trente secondes. Assis, trois respirations, observez, puis seulement — parlez.
+[Pause]
+
+Trente secondes. Assis. Trois respirations. Observez. Puis seulement — parlez.
 
 Et si vous vous surprenez à modifier votre position — à vous asseoir avant de parler à votre enfant — savourez ce moment. C'est la première brique d'un nouveau câble.
 
 Le vôtre.
 
-Prenez soin de vous — et de votre propre couvercle.
+[Pause]
+
+Un verre de lait renversé. Quinze secondes de voix haute. Et une trace sur une IRM qui durera des décennies.
+
+Asseyez-vous. Respirez. Trois fois.
 
 [Fin — musique de sortie douce, piano léger, 5 secondes]
 

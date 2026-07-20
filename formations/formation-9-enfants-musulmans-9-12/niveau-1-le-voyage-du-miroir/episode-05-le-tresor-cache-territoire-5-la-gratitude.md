@@ -72,7 +72,7 @@ Pratiquer shukr, c'est ouvrir la porte et VOIR. Vraiment voir. Sentir. Remercier
 
 [Voix avec un léger ton de révélation]
 
-Et maintenant, la science.
+Tu sais ce que la science a découvert ?
 
 À l'Université de Californie à Davis, un chercheur nommé Robert Emmons a mené une expérience incroyable. Il a pris deux groupes de personnes. Le premier groupe devait écrire chaque soir trois choses pour lesquelles ils étaient reconnaissants. Le deuxième groupe devait écrire trois choses qui les FRUSTRAIENT.
 
@@ -204,7 +204,7 @@ Quel sera ton trésor invisible demain ?
 
 **Cher parent,**
 
-Votre enfant vient de découvrir que la gratitude est un entraînement, pas un trait de caractère. C'est un renversement fondamental — il passe de « je suis reconnaissant ou pas » à « je m'entraîne à être reconnaissant ».
+Votre enfant vient de découvrir que la gratitude se travaille — comme un muscle. Il est passé de « je suis reconnaissant ou pas » à « je m'entraîne à être reconnaissant ».
 
 L'étude d'Emmons et McCullough (2003, UC Davis) est la référence mondiale sur le sujet. Les enfants qui pratiquent la gratitude quotidiennement montrent une réduction mesurable du matérialisme et une augmentation du comportement prosocial (Froh et al., 2011, UC Riverside). Concrètement : un enfant qui s'entraîne à la gratitude demande moins de choses matérielles et fait plus de choses pour les autres. Pas parce qu'on le lui a demandé — parce que son cerveau a littéralement changé de mode de fonctionnement.
 

@@ -62,7 +62,13 @@ La période 7-11 ans a un problème : elle est invisible.
 
 Quand votre enfant est bébé, vous êtes hyper-vigilant. Chaque sourire, chaque pleur, chaque étape du développement — vous les observez avec une attention chirurgicale. À l'adolescence, les signaux sont explosifs — portes qui claquent, conflits, changements de look. Vous ne pouvez pas les ignorer.
 
-Mais entre 7 et 11 ans ? Rien. Ou presque rien. Votre enfant va à l'école, fait ses devoirs, joue, mange, dort. Pas de crise. Pas de drame. Et donc, vous concluez : tout va bien.
+Mais entre 7 et 11 ans ? Rien. Ou presque rien.
+
+Votre enfant va à l'école, fait ses devoirs, joue, mange, dort. Pas de crise. Pas de drame. Et donc, vous concluez : tout va bien.
+
+Hier soir, Nabil regardait sa fille de 9 ans faire ses devoirs. Elle était pliée en deux sur sa chaise. Il lui a demandé comment ça allait. Elle a dit : « Bien. » Point. Un seul mot. Nabil s'est assis dans le canapé sans insister. Et la fille est restée pliée. En silence.
+
+Un seul mot. Et derrière ce mot, un monde entier qui se tait.
 
 [Pause]
 
@@ -124,13 +130,19 @@ Ce n'est pas d'enseigner l'intelligence émotionnelle à votre enfant. Votre enf
 
 Al-Ghazālī (al-ġazālī), dans le premier livre de son *Iḥyāʾ ʿulūm al-dīn*, écrit que l'enfant est comme une terre vierge — tout ce qu'on y sème y poussera. Mais il ajoute quelque chose de crucial : la terre a déjà en elle la capacité de faire pousser. Le rôle du cultivateur n'est pas de créer la fertilité — c'est de la **préserver**.
 
-C'est exactement ça, la fiṭra.
+La fiṭra, cette terre.
 
 Votre enfant a une fertilité émotionnelle innée. Et entre 7 et 11 ans, tout ce que vous faites — et ne faites pas — soit préserve cette fertilité, soit la stérilise.
 
 [Pause]
 
-Le parent qui dit « mon enfant va bien » confond l'ABSENCE de symptômes avec la PRÉSENCE de santé. Entre 7 et 11 ans, votre enfant absorbe vos stress, vos disputes, la pression de l'école, les écrans — sans rien exprimer. Parce qu'à cet âge, il n'a ni les mots ni la distance pour dire « ce que je vis me fait du mal ». Le silence de votre enfant n'est pas la paix. Le silence de votre enfant, c'est la fiṭra en train d'être écrasée sans que personne ne le sache.
+Le parent qui dit « mon enfant va bien » confond l'ABSENCE de symptômes avec la PRÉSENCE de santé.
+
+Entre 7 et 11 ans, votre enfant absorbe vos stress, vos disputes, la pression de l'école, les écrans — sans rien exprimer. Parce qu'à cet âge, il n'a ni les mots ni la distance pour dire « ce que je vis me fait du mal ».
+
+[Pause]
+
+Le silence de votre enfant n'est pas la paix. C'est la fiṭra en train d'être écrasée sans que personne ne le sache.
 
 [Transition — léger changement de rythme]
 
@@ -228,9 +240,9 @@ Je termine avec Ibn Qayyim al-Jawziyya (ibn al-qayyim al-ǰawziyya), dans son ou
 
 L'amāna — le dépôt sacré. Votre enfant ne vous appartient pas. Il vous est confié. Et la période 7-11 ans, c'est le moment où ce dépôt est le plus malléable — et le plus vulnérable.
 
-Pour cette semaine : la question de Karim, le test du silence écouté, et l'observation des réactions de votre enfant à votre stress.
+Ce soir, la question de Karim. Le test du silence écouté. Et l'observation.
 
-Dans le prochain épisode, nous parlerons de la première chose que votre enfant perd — et pourquoi personne ne le remarque.
+L'amāna est entre vos mains — malléable, vulnérable, précieuse. Comme de l'eau entre des doigts.
 
 Que votre cœur trouve la paix.
 

@@ -40,11 +40,13 @@ Et sa mère — comme 95% des parents dans cette situation — sourit, dit « Bi
 
 [Pause]
 
-« Ça va » est le mot le plus dangereux de la langue française quand il sort de la bouche d'un enfant de 8 ans. Parce qu'il ne veut pas dire « ça va ». Il veut dire : « Ce que je ressens n'a pas de place ici. »
+« Ça va ».
+
+Deux syllabes. Un mur.
 
 [Voix lente, chaque mot compte]
 
-Et ce n'est pas une exagération. Marc Brackett, chercheur à l'Université Yale et créateur de la méthode RULER, a mesuré le vocabulaire émotionnel spontané de milliers d'enfants d'âge scolaire. Son constat, publié dans *Permission to Feel* (2019), est sans appel : en moyenne, un enfant de 7 à 11 ans utilise spontanément moins d'une dizaine de mots pour nommer ce qu'il ressent. Moins de dix mots — pour décrire une palette de centaines d'états émotionnels possibles. Autrement dit : votre enfant possède un intérieur riche, complexe, nuancé — mais il n'a les mots pour en exprimer qu'une infime fraction.
+Et ce n'est pas une exagération. Marc Brackett, chercheur à l'Université Yale, a mesuré le vocabulaire émotionnel de milliers d'enfants. Son constat, publié dans *Permission to Feel* (2019) : en moyenne, un enfant de 7 à 11 ans utilise moins de dix mots pour nommer ce qu'il ressent. Moins de dix mots — pour décrire une palette de centaines d'états émotionnels possibles. Votre enfant possède un intérieur riche, complexe, nuancé. Et il n'a les mots pour en exprimer qu'une infime fraction.
 
 [Pause 3 secondes — laissez ce chiffre vous atteindre]
 
@@ -54,7 +56,7 @@ Et ce n'est pas une exagération. Marc Brackett, chercheur à l'Université Yale
 
 ### CONTEXTE (1:30 — 4:30)
 
-Dans l'épisode précédent, nous avons vu que le cerveau de votre enfant entre 7 et 11 ans est dans sa fenêtre de câblage neuronal la plus critique. Aujourd'hui, nous allons voir exactement ce qui se câble — ou plutôt, ce qui est en train de se **décâbler**.
+Le cerveau de votre enfant est dans sa fenêtre de câblage la plus critique. Et cette fenêtre ne se contente pas de câbler. Elle décâble aussi.
 
 [Voix réfléchie]
 
@@ -82,7 +84,7 @@ C'est le décâblage émotionnel. Et il se produit exactement pendant la fenêtr
 
 ### ENSEIGNEMENT (4:30 — 10:30)
 
-La découverte que je vais partager avec vous a transformé ma compréhension de la parentalité. Et elle vient d'une étude que vous n'avez probablement jamais entendue.
+La découverte que je vais partager a transformé ma compréhension de la parentalité. Vous ne l'avez probablement jamais entendue.
 
 [Voix pédagogique, claire]
 
@@ -124,7 +126,7 @@ Et ce qui est tragique, c'est que le processus est invisible. L'enfant ne vient 
 
 Le câble s'atrophie silencieusement. Comme un muscle qu'on n'utilise plus — sauf qu'un câble neuronal dans une fenêtre de câblage, quand la fenêtre se ferme, le câble non renforcé disparaît.
 
-Et Gottman nous dit que ce câble manquant, on le mesurera dans 20 ans — dans la qualité des relations, dans la santé mentale, dans la capacité à aimer et à être aimé.
+Et ce câble manquant, Gottman le mesurera dans 20 ans. Dans la qualité des relations. Dans la santé mentale. Dans la capacité à aimer.
 
 [Transition — léger changement de rythme]
 
@@ -222,7 +224,9 @@ Votre enfant a 12 émotions. Elles sont câblées dans son cerveau depuis la nai
 
 Vous n'ajoutez pas des mots à votre enfant. Vous lui rendez les mots qu'il avait déjà — et qu'un monde mal informé lui a pris.
 
-Prenez soin de vous — et des mots que vous offrez.
+[Pause]
+
+Douze mots pour douze émotions. Clara mérite mieux que « ça va ».
 
 [Fin — musique de sortie douce, piano léger, 5 secondes]
 

@@ -28,17 +28,13 @@
 
 [Voix narrative, un peu surprenante]
 
-Je vais te raconter une expérience scientifique qui va te surprendre.
+Paul Ekman étudie les visages depuis des années. Et un jour, il a fait un test bizarre.
 
-Un chercheur s'appelle Paul Ekman. Il a passé des années à étudier les visages humains. Et à un moment, il a découvert quelque chose d'incroyable : ton corps réagit à une émotion AVANT même que ton cerveau ait le temps de la nommer.
-
-[Pause 1 seconde]
-
-Il a fait un test. Il montre à des gens des photos de visages effrayés — pendant un vingt-cinquième de seconde. C'est si rapide que tu ne peux même pas voir l'image consciemment. Et pourtant… les muscles de leur visage bougent. Leur corps a RECONNU la peur avant même que leurs yeux aient eu le temps de voir quoi que ce soit.
+Il montre à des gens des photos de visages effrayés — pendant un vingt-cinquième de seconde. C'est si rapide que tes yeux ne peuvent même pas voir l'image. Et pourtant… les muscles de leur visage bougent. Leur corps a RECONNU la peur avant même que leurs yeux aient eu le temps de voir.
 
 [Pause 2 secondes]
 
-Ce que ça veut dire, c'est que ton corps sait ce que tu ressens AVANT ta tête. Il est comme un système d'alarme ultra-rapide qui envoie des messages en permanence. Le problème ? La plupart du temps, tu ne lis pas ses messages. Tu es trop dans ta tête.
+Ton corps sait ce que tu ressens AVANT ta tête. Il est comme un système d'alarme ultra-rapide — sauf que la plupart du temps, tu ne lis pas ses messages. Tu es trop dans ta tête.
 
 [Transition musicale légère — 2 secondes]
 
@@ -48,7 +44,7 @@ Ce que ça veut dire, c'est que ton corps sait ce que tu ressens AVANT ta tête.
 
 [Voix chaleureuse, explicative]
 
-Dans le dernier territoire, tu as dessiné ton château intérieur. Aujourd'hui, on va explorer les COULOIRS de ce château — parce que chaque émotion a son propre signal dans ton corps. Et si tu apprends à lire ces signaux, tu deviens un gardien beaucoup plus puissant.
+Dans le dernier territoire, tu as dessiné ton château intérieur. Aujourd'hui, on va descendre dans ses couloirs — parce que chaque émotion laisse une trace dans ton corps. Et si tu apprends à lire ces traces, tu deviens un gardien beaucoup plus puissant.
 
 [Voix pédagogique, claire]
 
@@ -82,7 +78,7 @@ Ton corps est ton premier cerveau émotionnel.
 
 Alors la question, c'est pas « est-ce que ton corps t'envoie des messages ? » — parce que oui, toujours. La question, c'est : « Est-ce que tu écoutes ? »
 
-[Si tu écoutes avec un papa ou une maman, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
+[Si tu écoutes avec un adulte, installe-toi bien, côte à côte. Ce voyage, vous le faites ensemble.]
 
 [Transition — changement de rythme]
 
@@ -108,7 +104,7 @@ La différence entre réagir et agir, c'est la différence entre un gardien qui 
 
 Pour veiller, il faut d'abord entendre les messagers.
 
-[Et toi, papa ou maman, est-ce que tu reconnais aussi ce moment dans ta propre vie ?]
+[Et toi qui accompagnes, est-ce que tu as déjà raté un message de ton corps ?]
 
 [Transition douce]
 
@@ -140,7 +136,7 @@ Ensuite, on va faire quatre « cartes » — une pour chaque émotion principale
 
 [Voix plus posée]
 
-À la fin, tu auras une carte de ton corps avec des zones colorées pour chaque émotion. Et cette carte, elle est UNIQUE. Personne au monde n'a exactement la même que toi. C'est ta carte personnelle. Garde-la précieusement — elle va te servir pour tous les territoires suivants.
+À la fin, tu auras une carte de ton corps avec des zones colorées pour chaque émotion. Et cette carte, elle est UNIQUE. Personne au monde n'a la même que toi. C'est ta carte. Garde-la — elle va te servir pour tous les territoires suivants.
 
 [Pause]
 
@@ -150,7 +146,7 @@ Petite astuce : si tu n'es pas sûr pour une émotion — si tu ne sais pas où 
 
 Pour te donner une idée : colorie en rouge les endroits où tu sens la colère — peut-être les poings, le visage, la poitrine. En bleu, la tristesse — la gorge, les yeux, le centre de la poitrine. En jaune, la joie — le visage, les bras, partout. En violet, la peur — le ventre, les jambes, les épaules. Mais rappelle-toi : ce sont des exemples. Ton corps à toi, c'est peut-être complètement différent — et c'est ça qui est intéressant.
 
-[Pause — Tu peux montrer ton dessin ou ton écrit à papa ou maman. Partagez ensemble pendant trente secondes.]
+[Pause — Si tu le veux, montre ta carte à la personne qui t'accompagne. Prenez trente secondes pour échanger.]
 
 [Transition]
 
@@ -184,7 +180,7 @@ Tu connais maintenant les messagers de ton corps. Tu sais que ton ventre, ta gor
 
 Le problème : parfois, les messagers arrivent en courant, en hurlant, en faisant sonner toutes les alarmes en même temps. Et là, c'est le chaos. Tu n'entends plus rien. Tu EXPLOSES. Sans savoir pourquoi. Sans pouvoir l'arrêter.
 
-Dans le prochain territoire, on va explorer exactement ça : quand le volcan éclate. Pourquoi est-ce que tu perds le contrôle ? Qu'est-ce qui se passe dans ton cerveau pendant ces quelques secondes ? Et surtout — est-ce qu'il y a un bouton « pause » ?
+Dans le prochain territoire, on va explorer ça : quand le volcan éclate. Pourquoi est-ce que tu perds le contrôle ? Qu'est-ce qui se passe dans ton cerveau pendant ces quelques secondes ? Et surtout — est-ce qu'il y a un bouton « pause » ?
 
 La réponse est oui. Et elle va te surprendre.
 
@@ -196,21 +192,17 @@ D'ici le prochain territoire, un défi : ce soir, avant de dormir, ferme les yeu
 
 ### POUR LE PARENT (8:30 — 10:30)
 
-[Voix informative]
+[Voix adulte, claire et bienveillante]
 
-Ce deuxième épisode repose sur le concept d'intéroception, c'est-à-dire la capacité à percevoir les signaux internes du corps, et sur les travaux pionniers d'Antonio Damasio sur le rôle des émotions somatiques dans la prise de décision.
+**Cher parent,**
 
-Paul Ekman, psychologue à l'Université de Californie à San Francisco, a publié en 1972 les premiers travaux montrant que les expressions faciales émotionnelles sont universelles et que le corps réagit aux stimuli émotionnels avant le traitement conscient. Ses recherches sur la micro-expression — des mouvements faciaux durant moins de 1/25e de seconde — sont référencées dans *Emotion in the Human Face* (1982).
+Votre enfant vient de découvrir que son corps parle avant sa tête. Ce n'est pas une métaphore — c'est de la neurobiologie. Les travaux d'Antonio Damasio ont montré que nos décisions sont guidées par des signaux corporels (les « marqueurs somatiques ») avant même le traitement conscient. Et Paul Ekman a prouvé que le corps réagit aux émotions en moins d'un vingt-cinquième de seconde.
 
-Antonio Damasio, neuroscientifique à l'Université de Californie du Sud, a publié en 1994 *Descartes' Error: Emotion, Reason, and the Human Brain*. Sa théorie des « marqueurs somatiques » démontre que les signaux corporels précèdent et guident les décisions conscientes — le corps est un système décisionnel à part entière.
+**Ce que vous pouvez faire ce soir :** Faites le scan corporel avec votre enfant la première fois. Nommez vos propres signaux devant lui : « Moi, quand je suis stressé, je sens ça dans les épaules. » Ça normalise le fait que chaque corps est différent.
 
-**Ce que vous pouvez faire :**
-- Faites le scan corporel avec votre enfant la première fois — proposez-lui de guider l'exercice.
-- Nommez vos propres signaux corporels devant lui : « Quand je suis stressé, moi je sens ça dans les épaules. » Cela normalise le fait que chaque corps est différent.
-- Ne corrigez pas si votre enfant place la peur dans les pieds plutôt que dans le ventre — l'intéroception est personnelle.
+**Ce qu'il faut éviter :** Ne corrigez pas si votre enfant place la peur dans les pieds plutôt que dans le ventre. L'intéroception est personnelle. Ne dites pas non plus : « Mais non, ce n'est pas grave ! » quand votre enfant exprime une émotion — même bien intentionné, ça dit à l'enfant que son ressenti n'est pas légitime.
 
-**Cette semaine avec votre enfant :**
-Quand votre enfant exprime une émotion — colère, tristesse, frustration — résistez à l'envie de la « réparer ». Ne dites pas : « Mais non, ce n'est pas grave ! » ou « Tu vas voir, demain ça ira mieux. » Ces phrases, même bien intentionnées, disent à l'enfant que son émotion n'est pas légitime. Préférez deux phrases : « Je vois que tu ressens quelque chose de fort » — cela valide le ressenti sans le nommer à sa place — et « Tu veux m'en parler ou tu as juste besoin que je sois là ? » — cela lui redonne le contrôle. Valider, ce n'est pas approuver. C'est dire : « Ce que tu ressens existe. Je le vois. »
+**Cette semaine avec votre enfant :** Quand votre enfant exprime une émotion — colère, tristesse, frustration — résistez à l'envie de la « réparer ». Préférez deux phrases : « Je vois que tu ressens quelque chose de fort » — cela valide le ressenti sans le nommer à sa place — et « Tu veux m'en parler ou tu as juste besoin que je sois là ? » — cela lui redonne le contrôle. Valider, ce n'est pas approuver. C'est dire : « Ce que tu ressens existe. Je le vois. »
 
 [Fin — musique de sortie douce, 4 secondes]
 

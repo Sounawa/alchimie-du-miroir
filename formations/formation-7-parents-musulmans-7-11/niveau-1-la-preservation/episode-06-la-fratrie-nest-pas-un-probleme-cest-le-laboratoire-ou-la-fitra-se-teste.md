@@ -66,7 +66,7 @@ Les conflits entre frères et sœurs sont le **simulateur de vol** du cerveau de
 
 Un simulateur de vol, c'est ce dans quoi les pilotes s'entraînent avant de voler pour vrai. Ils y testent les turbulences, les pannes, les atterrissages d'urgence — dans un environnement sûr.
 
-La fratrie, c'est exactement ça. Votre enfant y apprend à négocier, à faire des compromis, à tolérer la frustration — avant de le faire à l'école, avec des amis, puis au travail, avec des collègues.
+La fratrie, c'est ce simulateur. Votre enfant y apprend à négocier, à faire des compromis, à tolérer la frustration — avant de le faire à l'école, avec des amis, puis au travail, avec des collègues.
 
 Kramer a montré que les enfants qui ont eu des conflits fraternels significatifs — mais **accompagnés** — développent une compétence sociale supérieure de 30 à 40 % par rapport aux enfants sans fratrie ou dont les conflits ont été étouffés par les adultes.
 
@@ -98,7 +98,7 @@ Le Prophète ﷺ laissait les enfants exprimer leur point de vue — il les éco
 
 Et la découverte de Rizzolatti prend tout son sens pour la fratrie. Quand deux enfants se disputent, leurs neurones miroirs sont en état d'alerte — mais pas dans le sens qu'on imagine. Le cerveau de l'enfant qui crie sur son frère enregistre la souffrance de l'autre — mais cette activation est étouffée par la montée d'adrénaline.
 
-C'est précisément pour ça que l'intervention du parent est cruciale : en demandant à l'enfant de raconter la version de son frère, on réactive les neurones miroirs que l'adrénaline avait mis en veille.
+C'est pour ça que l'intervention du parent est décisive : en demandant à l'enfant de raconter la version de son frère, on réactive les neurones miroirs que l'adrénaline avait mis en veille.
 
 Pas par la raison. Par le corps.
 
@@ -123,6 +123,10 @@ La nuance est radicale. Ne séparez pas les **enfants** — car ils ont besoin d
 « Toi, tu es en colère parce que tu avais la tablette en premier. Et toi, tu es triste parce que tu n'as pas eu accès. Vous avez tous les deux raison de ressentir ce que vous ressentez. »
 
 Quand vous dites ça — vous séparez les enfants de la dispute. Vous reconnaissez chaque émotion. Et vous rendez la résolution possible. Par **eux**. Pas par vous.
+
+[Pause]
+
+Mercredi, dans une cuisine en banlieue, deux sœurs — 8 et 10 ans — se disputaient pour le dernier yaourt. La mère a fait ce qu'Ibn Qayyim décrit. Elle n'a pas arbitré. Elle a dit : « Toi, tu es en colère parce que c'était ton tour. Et toi, tu es triste parce que tu avais faim. » Les deux filles ont regardé leur mère. Puis elles se sont regardées. La grande a donné le yaourt à la petite. Pas parce qu'on le lui avait demandé. Parce qu'elle avait entendu ce que sa sœur ressentait.
 
 [Transition — léger changement de rythme]
 
@@ -216,7 +220,9 @@ Le Prophète ﷺ a dit :
 
 La bienveillance envers les plus jeunes, ce n'est pas les protéger de tout conflit. C'est leur donner un espace où le conflit peut exister — et où ils peuvent apprendre à le traverser.
 
-Pour cette semaine : le conseil de famille, et les trois erreurs cessées.
+Ce soir, le conseil de famille. Et les trois erreurs cessées.
+
+La fratrie est le premier lieu où votre enfant apprend que l'autre existe. Ce premier lieu, protégez-le.
 
 **Wa salāmu ʿalaykum.**
 

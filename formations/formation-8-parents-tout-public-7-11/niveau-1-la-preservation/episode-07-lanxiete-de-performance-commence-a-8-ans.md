@@ -46,6 +46,8 @@ Et la fille, entre deux sanglots, répond quelque chose qui devrait figer chaque
 
 14 sur 20. Neuf ans. Et elle croit qu'elle est stupide.
 
+[Pause]
+
 La mère pense que le problème vient de l'école. Il vient de la maison.
 
 [Transition musicale légère — 3 secondes]
@@ -54,13 +56,9 @@ La mère pense que le problème vient de l'école. Il vient de la maison.
 
 ### CONTEXTE (1:30 — 4:30)
 
-Bienvenue dans *L'Alchimie du Miroir — La Préservation*. Le cadre : « Le Cerveau à Câbler. » Votre enfant a les circuits. Votre travail est de ne pas les endommager.
-
-[Voix réfléchie]
-
 Carol Dweck, professeure de psychologie à l'Université de Stanford, a passé 30 ans à étudier l'accomplissement. Son travail est considéré comme l'une des contributions les plus importantes à la psychologie du développement de ces 50 dernières années.
 
-Et sa découverte la plus dérangeante — surtout pour les parents — est la suivante :
+Et sa découverte la plus dérangeante pour les parents :
 
 [Voix lente, chaque mot compte]
 
@@ -68,7 +66,7 @@ La phrase la plus toxique qu'un parent puisse dire à un enfant, ce n'est pas «
 
 [Pause 3 secondes]
 
-Laissez-moi expliquer. Quand un enfant entend régulièrement « tu es intelligent » — ou « tu es doué » ou « tu as un don » — quelque chose de très précis se produit dans son cerveau. L'enfant intègre cette information comme une **identité fixe**. « Je suis intelligent. » Et à partir de ce moment, chaque résultat devient un test de cette identité.
+Quand un enfant entend régulièrement « tu es intelligent » — son cerveau intègre une **identité fixe**. « Je suis intelligent. » Et à partir de ce moment, chaque résultat devient un test de cette identité.
 
 Un 18 sur 20 confirme : « Oui, je suis intelligent. » Un 14 sur 20 menace : « Est-ce que je suis toujours intelligent ? » Un 10 sur 20 détruit : « Je ne suis pas intelligent après tout. »
 
@@ -114,7 +112,7 @@ L'enfant est anxieux à propos de **ne pas être suffisant**. Et l'école est si
 
 [Pause]
 
-Mais laissez-moi aller plus loin dans ce qui se passe réellement dans le cerveau d'un enfant de 8 à 10 ans soumis à cette pression.
+Mais laissez-moi aller plus loin dans ce qui se passe dans le cerveau d'un enfant soumis à cette pression.
 
 Quand un enfant entend régulièrement « tu es intelligent » et qu'il reçoit un résultat inférieur à ses attentes, son cerveau ne fait pas que « se sentir mal ». Quelque chose de mesurable se produit. L'amygdale s'active — c'est normal, c'est la zone de la menace émotionnelle. Mais chez un enfant avec un mindset fixe, cette activation est suivie d'un événement neurologique spécifique : le cortex préfrontal se **désactive**. Les études en IRMf de Dweck et son équipe (2007) ont montré que les enfants avec un mindset fixe traitent l'erreur comme une menace identitaire — leur cerveau littéralement arrête de réfléchir pour se protéger.
 
@@ -239,11 +237,17 @@ Je termine avec la pensée de Carol Dweck, professeure de psychologie à l'Unive
 
 [Pause 3 secondes]
 
-Votre enfant de 9 ans pleure sur un 14 sur 20 non pas parce qu'il est fragile — mais parce qu'on lui a appris, sans le savoir, que sa valeur est un chiffre. Votre travail : débrancher la corde qui relie sa valeur à sa performance. Un mot à la fois. Un regard à la fois.
+Votre enfant de 9 ans pleure sur un 14 sur 20 non pas parce qu'il est fragile — mais parce qu'on lui a appris que sa valeur est un chiffre.
+
+[Pause]
+
+Débranchez la corde. Un mot à la fois. Un regard à la fois.
 
 Votre enfant a besoin de savoir qu'il est suffisant — indépendamment de tout résultat. Et le premier à le croire — c'est vous.
 
-Prenez soin de vous.
+[Pause]
+
+14 sur 20. Des yeux qui pleurent. Et un cerveau qui apprend que la valeur ne se mesure pas.
 
 [Fin — musique de sortie douce, piano léger, 5 secondes]
 

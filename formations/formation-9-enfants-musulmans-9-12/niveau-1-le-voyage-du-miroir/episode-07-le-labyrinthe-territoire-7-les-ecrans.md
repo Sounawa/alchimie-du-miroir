@@ -56,7 +56,7 @@ Ce n'est PAS ta faute.
 
 [Voix claire, avec une énergie qui capte l'attention]
 
-Pour comprendre ce qui se passe, on va parler de ton cerveau. Et plus précisément, d'une petite chose qui ressemble à une sonnette.
+On va parler de ton cerveau. D'une petite chose qui ressemble à une sonnette.
 
 [Pause]
 
@@ -72,7 +72,7 @@ La sonnette se fatigue. Comme si quelqu'un sonnait à ta porte 100 fois par jour
 
 [Pause]
 
-C'est pour ça qu'après 90 minutes de scroll, tu te sens vide. Ce n'est pas que tu es fatigué — c'est que ta sonnette est épuisée. Et dans cet état, RIEN ne t'excite plus. Ni les vraies choses, ni les fausses.
+C'est pour ça qu'après 90 minutes de scroll, tu te sens vide. Ta sonnette est épuisée. Et dans cet état, RIEN ne t'excite plus. Ni les vraies choses, ni les fausses.
 
 [Voix lente, avec douceur]
 

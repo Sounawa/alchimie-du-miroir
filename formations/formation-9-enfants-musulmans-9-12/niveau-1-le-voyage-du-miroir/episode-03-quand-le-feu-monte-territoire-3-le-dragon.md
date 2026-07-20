@@ -58,9 +58,9 @@ Aujourd'hui, on va apprendre à le dompter. Pas à le tuer. À le dompter.
 
 Première chose à comprendre : **la colère arrive d'abord dans ton corps. AVANT ta tête.**
 
-C'est un fait, pas une opinion. Des chercheurs ont montré que quand tu te mets en colère, ton système nerveux réagit en moins d'une seconde — ton cœur accélère, ton sang se concentre dans tes muscles, tes poings se serrent, ta mâchoire se crispe. Tout ça AVANT que ton cerveau ait le temps de penser « oh, je suis en colère ».
+Ton cœur accélère. Ton sang se concentre dans tes muscles. Tes poings se serrent. Ta mâchoire se crispe. Tout ça en moins d'une seconde — AVANT que ton cerveau ait le temps de dire « oh, je suis en colère ».
 
-Ça veut dire quoi ? Ça veut dire que si tu attends de RÉFLÉCHIR pour agir, il est trop tard. Ton corps a déjà pris les commandes.
+Ça veut dire quoi ? Que si tu attends de RÉFLÉCHIR pour agir, il est trop tard. Ton corps a déjà pris les commandes.
 
 [Pause]
 
@@ -197,7 +197,7 @@ Ta phrase clé pour ce territoire :
 
 [Voix curieuse, comme une porte qui s'ouvre]
 
-Tu sais maintenant comment gérer le visiteur le plus dangereux de ton jardin. Bravo. Vraiment. Des adultes passent toute leur vie sans apprendre ça.
+Tu sais maintenant comment gérer le visiteur le plus dangereux de ton jardin. Tu viens de devenir fort.
 
 Mais il reste une question. Et elle est grande.
 
@@ -231,7 +231,7 @@ Tu viens de devenir fort.
 
 Votre enfant vient d'apprendre le protocole prophétique du kāẓim (كَاظِمٌ) — celui qui retient sa colère — adapté pour son âge. Le Prophète ﷺ a dit : « Le fort n'est pas celui qui vainc les gens par la force. Le fort, c'est celui qui se maîtrise lorsqu'il est en colère » (al-Bukhārī et Muslim).
 
-La version pour enfant : STOP, SOUFFLE, CHERCHE. Trois étapes fondées sur la posture corporelle (neuroscience validée : l'effet de l'intéroception sur la régulation émotionnelle, Craig, 2009) et sur la respiration diaphragmatique (effet mesurable sur le tonus vagal, Porges, 2011).
+La version pour enfant : STOP, SOUFFLE, CHERCHE. Trois étapes fondées sur la posture corporelle et la respiration — deux leviers validés par la neuroscience pour la régulation émotionnelle.
 
 **Ce que vous pouvez faire :** Pratiquez le protocole AVEC votre enfant. Pas pour lui — AVEC lui. La prochaine fois que VOUS vous mettez en colère, dites-le à voix haute : « Maman/Papa sent le feu monter. Je m'assois. Je souffle. Je cherche. » Et faites-le. Vraiment. C'est le modelage comportemental — l'outil pédagogique le plus puissant qui existe (Bandura, 1977). Votre enfant apprendra mille fois plus en vous voyant pratiquer qu'en écoutant cet épisode.
 

@@ -26,11 +26,11 @@
 
 ### ACCROCHE (0:00 — 1:30)
 
-[Voix posée, narrative — comme une histoire que l'on raconte à un ami]
+[Voix posée, narrative]
 
-Théo a 8 ans et demi. Depuis la rentrée de septembre, son emploi du temps ressemble à un planning de dirigeant d'entreprise : lundi foot, mardi piano, mercredi natation, jeudi anglais, vendredi dessin, samedi course d'orientation. Le dimanche, c'est « repos » — sauf qu'il y a les devoirs, la lecture imposée, et le projet scientifique de l'école à terminer.
+Théo a 8 ans et demi. Son emploi du temps ressemble à un planning de PDG : lundi foot, mardi piano, mercredi natation, jeudi anglais, vendredi dessin, samedi course d'orientation. Le dimanche — « repos ». Sauf les devoirs. La lecture imposée. Le projet scientifique.
 
-Sa mère, Sandrine, est fière. Elle le dit à ses amis, sincèrement : « Théo ne s'ennuie jamais. Il est occupé, il apprend, il s'épanouit. »
+Sa mère, Sandrine, est fière. « Théo ne s'ennuie jamais. Il s'épanouit. »
 
 [Pause 2 secondes]
 
@@ -54,19 +54,19 @@ Sandrine me l'a raconté six mois plus tard. Et elle a dit une phrase qui m'est 
 
 ### CONTEXTE (1:30 — 4:30)
 
-Bienvenue dans *L'Alchimie du Miroir — La Préservation*. Cette formation s'adresse à vous, parent d'un enfant de 7 à 11 ans. Le cadre de ce niveau : « Le Cerveau à Câbler. » Et le renversement central, je le répète à chaque épisode parce qu'il est facile de l'oublier : **votre enfant possède déjà les circuits. Votre travail n'est pas de les construire — c'est de ne pas les endommager.**
+**Votre enfant possède déjà les circuits. Votre travail n'est pas de les construire — c'est de ne pas les endommager.**
 
 [Voix réfléchie]
 
-Aujourd'hui on parle de quelque chose que la plupart des parents considèrent comme secondaire. Un luxe. Un « quand on a le temps ». Quelque chose qui disparaît en premier quand l'emploi du temps se remplit.
+Aujourd'hui on parle de quelque chose que les parents considèrent comme secondaire. Un luxe. Un « quand on a le temps ».
 
-Le jeu libre. Pas le jeu organisé — le foot, le piano, les cours structurés. Le jeu **libre**. Ce moment où l'enfant décide lui-même ce qu'il fait, avec quoi, avec qui, et pendant combien de temps. Sans adulte qui dirige. Sans objectif pédagogique. Sans résultat à montrer.
+Le jeu libre. Pas le foot. Pas le piano. Le jeu **libre**. Ce moment où l'enfant décide lui-même ce qu'il fait, avec quoi, avec qui, et pendant combien de temps. Sans adulte qui dirige. Sans objectif pédagogique. Sans résultat à montrer.
 
 [Pause]
 
-La recherche, elle, est sans appel.
+La recherche est claire.
 
-Stuart Brown, psychiatre à l'Université de Stanford, a passé 30 ans à étudier le jeu. Trente ans. Sa découverte est sans appel :
+Stuart Brown, psychiatre à l'Université de Stanford, a passé 30 ans à étudier le jeu. Trente ans.
 
 [Voix lente, chaque mot compte]
 
@@ -100,7 +100,7 @@ Dans une activité structurée, l'adulte décide. L'enfant exécute. Le cerveau 
 
 Dans le jeu libre, l'enfant rencontre des obstacles. La tour s'écroule. Le dessin ne ressemble pas à ce qu'il voulait. L'ami refuse de jouer au jeu qu'il a choisi. Et personne n'intervient. L'enfant doit gérer cette frustration **lui-même** — chercher une solution, modifier son approche, accepter la déception.
 
-C'est exactement ça, la fonction exécutive : la capacité à maintenir un objectif malgré la frustration. Et cette capacité ne se développe que si la frustration est vécue et surmontée sans intervention adulte.
+La fonction exécutive : la capacité à maintenir un objectif malgré la frustration. Et cette capacité ne se développe que si la frustration est vécue et surmontée sans intervention adulte.
 
 **Troisième mécanisme : la négociation sociale pair-à-pair.**
 
@@ -174,7 +174,7 @@ Vous ne suggérez rien. Vous n'organisez rien. Vous ne dites pas : « Tu pourrai
 
 [Pause 2 secondes]
 
-Parce que l'ennui est le point de départ du jeu libre. L'ennui, c'est le cerveau qui cherche. Et le moment où il trouve — ce moment de créativité spontanée — c'est exactement le moment où le cortex préfrontal se câble.
+Parce que l'ennui est le point de départ du jeu libre. L'ennui, c'est le cerveau qui cherche. Et le moment où il trouve — ce moment de créativité spontanée — c'est le moment où le cortex préfrontal se câble.
 
 [Voix très douce, presque confidence]
 
@@ -244,13 +244,19 @@ Votre enfant a 7, 8, 9, 10, 11 ans. Son cerveau est en plein câblage. Et le mat
 
 Pour cette semaine : les 30 minutes de rien. L'audit de l'emploi du temps. Et l'observation sans intervention.
 
-Votre enfant ne manque pas de stimulation.
+Et votre enfant ne manque pas de stimulation.
 
 Il manque de **liberté**.
 
-Et si vous ne lui donnez pas cette liberté maintenant, pendant que son cerveau est encore en construction, il ne la réclamera plus à l'adolescence. Il la remplacera par quelque chose de moins exigeant mais de bien plus coûteux : la passivité.
+[Pause]
 
-Prenez soin de vous.
+Et si vous ne lui donnez pas cette liberté maintenant, il ne la réclamera plus à l'adolescence. Il la remplacera par la passivité.
+
+[Pause]
+
+Les coussins. Les draps. Les pinces à linge.
+
+C'est avec ça que le cerveau se câble.
 
 [Fin — musique de sortie douce, piano léger, 5 secondes]
 
