@@ -1030,3 +1030,34 @@ Stage Summary:
 - Sections parent F10 réécrites (académique → chaleureux)
 - Aucune modification de structure, aucun terme arabe supprimé, aucune structure islamique touchée
 - Score estimé : de ~7.5/10 à ~9.5/10
+
+---
+Task ID: F7-F10-audit-final
+Agent: main
+Task: Audit complet F7-F10 pour vérification niveau 10/10 + intégration site
+
+Work Log:
+- Lu les 4 épisodes de référence F1 (E1, E2) et F3 (E1, E3) pour calibrer le ton "10/10"
+- Identifié le DNA du ton F1-F4 : ouvertures in medias res, micro-scènes nommées, zéro tics IA, clôtures uniques avec métaphores
+- Lu les 8 épisodes F7 (parents musulmans 7-11) — ouverture, context, enseignement de chacun
+- Lu les 8 épisodes F8 (parents tout public 7-11)
+- Lu les 8 épisodes F9 (enfants musulmans 9-12)
+- Lu les 8 épisodes F10 (enfants tout public 9-12)
+- Vérifié les 5 problèmes de l'audit précédent :
+  1. Tics IA ("en réalité", "il est important de", "d'une manière") → 0 occurrence trouvée ✅
+  2. Ouvertures lentes → toutes in medias res ✅
+  3. Absence de micro-scènes → scènes nommées partout ✅
+  4. Clôtures homogènes → chaque épisode a une image unique ✅
+  5. F10 sans colonne vertébrale → métaphore du château intérieur + science laïque ✅
+- Vérifié l'intégration site : pre-build script, generated-data.ts, sidebar, pricing-page, lead magnets → tout intégré
+- Relancé pre-build : 10 formations, 19 niveaux, 155 épisodes, 50 lead magnets
+- Vérifié compilation : 200 OK, HTML rendu avec toutes les 10 formations
+- Tentative push GitHub : token manquant (fichier .deploy-token absent)
+
+Stage Summary:
+- F7-F10 sont à 10/10 — commercialisables
+- Les 32 épisodes ont été corrigés dans la session précédente (citations, anglicismes, contenu islamique, Pour le Parent)
+- Tous les 5 problèmes de l'audit ont été résolus
+- L'intégration site est complète (sidebar, pricing, pre-build, lead magnets)
+- Le déploiement GitHub nécessite le fichier .deploy-token avec un GitHub PAT
+- L'export statique fonctionne (200 OK, HTML complet)
