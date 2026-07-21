@@ -12,49 +12,49 @@
 
 [Voix posée, un ton plus grave que d'habitude]
 
-Je vais vous donner un chiffre. Et je veux que vous le laissiez descendre en vous avant de continuer.
+Samira, dans le couloir de son appartement. Elle vient de lever la voix. Sa fille Ines a huit ans. Les yeux d'Ines se posent sur elle — pas de larmes, pas de cris en retour. Juste un bref voile. Comme si quelque chose se fermait à l'intérieur.
 
-Six à dix pour cent.
+[Pause 2 secondes]
+
+Un demi-seconde. Puis Ines se retourne et marche vers sa chambre.
+
+Samira reste là. Avec cette sensation — familière — d'avoir franchi une ligne qu'elle ne voulait pas franchir.
 
 [Pause 3 secondes]
 
-C'est la réduction de la taille de l'hippocampe chez un enfant régulièrement exposé aux cris parentaux. Pas aux violences physiques. Pas aux négligences graves. Aux **cris**. Les mêmes cris que vous entendez dans les cuisines, les couloirs, les salles de bain — partout où un parent perd patience.
+Ce qui vient de se passer dans le couloir de Samira, ça se passe des milliers de fois par jour dans des foyers musulmans comme le vôtre. Et à chaque fois, quelque chose se passe aussi dans le cerveau de l'enfant. Quelque chose de mesurable. De visible sur un scanner.
 
-Ce chiffre vient d'une étude menée par Martin Teicher et son équipe à la Harvard Medical School, publiée en 2009.
+Six à dix pour cent.
 
-[Pause]
-
-Et avant que vous vous sentiez jugé — je ne suis pas ici pour ça. Je suis ici parce que ce chiffre a changé ma pratique. Et il va changer la vôtre.
+C'est la réduction de la taille d'une zone du cerveau chez un enfant régulièrement exposé aux cris parentaux. Pas aux violences. Pas aux négligences graves. Aux cris. Les mêmes que vous entendez dans les cuisines, les couloirs, les salles de bain — partout où un parent perd patience.
 
 [Transition musicale légère — 3 secondes]
 
 ---
 
-### LE CONCEPT (1:30 — 3:30)
+### CE QUI SE PASSE (1:30 — 3:30)
 
-[Voix pédagogique, précise]
+[Voix narrative, précise]
 
-L'hippocampe. C'est une petite structure profonde du cerveau, en forme de hippocampe — le poisson. Et son rôle est crucial : il est le centre de la **mémoire** et de **l'apprentissage**.
+Imaginez le cerveau de votre enfant comme une ville. Au centre, il y a un quartier vital — l'hippocampe. C'est là que se construisent la mémoire et l'apprentissage. Les versets du Coran, les tables de multiplication, les visages des gens qu'on aime — tout passe par là.
 
-Quand un enfant de huit ans entend un cri, son cerveau libère du cortisol — l'hormone du stress. Le cortisol, en quantité chronique, est toxique pour l'hippocampe. Il en réduit littéralement le volume.
-
-Teicher et son équipe ont scanné les cerveaux de jeunes adultes qui avaient été exposés aux « hostilités verbales » pendant l'enfance. Résultat : un hippocampe réduit de 6 à 10 % par rapport au groupe contrôle. Ce n'est pas une corrélation faible. C'est un effet comparable à celui de maltraitances physiques modérées.
+Quand votre enfant entend un cri, son cerveau libère du cortisol. L'hormone du stress. En petite dose, le cortisol est utile — il met en alerte. Mais quand les cris se répètent, le cortisol inonde ce quartier central. Et il commence à en ronger les murs.
 
 [Pause 2 secondes]
 
-Maintenant, laissez-moi vous rappeler ce que l'islam dit depuis quatorze siècles.
+Une équipe de chercheurs de Harvard, dirigée par Martin Teicher, a scanné les cerveaux de jeunes adultes. Certains avaient grandi dans des foyers où les parents criaient régulièrement. Leurs hippocampes étaient réduits de 6 à 10 %. Pas une petite différence. Un effet comparable à des maltraitances physiques modérées.
 
-Le Prophète ﷺ a dit : « Le croyant n'est pas celui qui offense, ni celui qui maudit, ni celui qui est grossier ni vulgaire. » (At-Tirmidhī)
+[Pause 2 secondes]
 
-Et Ibn Qayyim al-Jawziyya (ibn al-qayyim) écrivait : « L'enfant est un miroir du parent. Chaque mot dur laisse une trace dans son cœur — et cette trace ne disparaît pas avec le temps. Elle se transforme. »
+L'islam dit la même chose depuis quatorze siècles. Pas avec des scanners — avec des mots.
 
-La neurosciences dit : « Le cortisol réduit l'hippocampe. »
-La tradition dit : « Le mot dur laisse une trace. »
-Les deux disent la même chose — l'une avec des IRM, l'autre avec des mots.
+Le Prophète ﷺ n'élevait jamais la voix. Ses compagnons le décrivaient ainsi : ni rude, ni grossier, ni celui qui crie dans les marchés. Quand il corrigeait quelqu'un, il ne haussait pas le ton. Il changeait la lumière dans la pièce — pas le volume.
+
+Et Ibn Qayyim écrivait : « L'enfant est un miroir. Chaque mot dur laisse une marque dans son cœur — et cette marque ne s'efface pas. Elle se transforme. »
+
+La science dit : le cortisol réduit l'hippocampe. La tradition dit : le mot dur laisse une trace. Deux langages, une seule réalité. Le cri ne discipline pas. Il déséquipe. Moins de mémoire. Moins de concentration. Moins de capacité à retenir ce que vous lui enseignez.
 
 [Pause]
-
-Et l'hippocampe réduit de 10 %, concrètement, ça veut dire quoi ? Ça veut dire : moins de capacité à mémoriser les leçons du Coran. Moins de capacité à se concentrer à l'école. Moins de capacité à réguler ses émotions. Le cri ne discipline pas — il **déséquipe**.
 
 ---
 
@@ -68,19 +68,19 @@ Je ne vais pas vous dire « ne criez plus jamais ». C'est irréaliste. Ce que j
 
 Quand la colère monte — et elle va monter — appliquez le protocole en trois temps.
 
-**Un : le nom.** Dites à voix haute, pour vous-même : « Je suis en colère. » Pas « il me fait ». Pas « elle provoque ». **Je** suis en colère. C'est la ḥaqīqa (حَقِيقَةٌ) — la vérité du moment.
+**Un : le nom.** Dites à voix haute, pour vous-même : « Je suis en colère. » Pas « il me fait ». Pas « elle provoque ». Je suis en colère. C'est la ḥaqīqa — la vérité du moment.
 
-**Deux : les 90 secondes.** La neuroscientifique Jill Bolte Taylor a montré que le cycle biologique d'une émotion dure 90 secondes. Respirez. Comptez. Les pieds au sol.
+**Deux : les 90 secondes.** La neuroscientifique Jill Bolte Taylor a montré que le cycle biologique d'une émotion dure 90 secondes. Respirez. Comptez. Les pieds au sol. Ne prenez aucune décision avant que le compte soit terminé.
 
-**Trois : la phrase de remplacement.** Au lieu du cri, dites : « Je ne suis pas content de ce qui vient de se passer. On en reparle dans dix minutes. »
+**Trois : la phrase de remplacement.** Au lieu du cri : « Je ne suis pas content de ce qui vient de se passer. On en reparle dans dix minutes. »
 
-Trois étapes. Pas parfaites. Mais elles protègent l'hippocampe de votre enfant.
+Trois étapes. Pas parfaites. Mais elles protègent le cerveau de votre enfant.
 
 [Pause 5 secondes]
 
-Et le Prophète ﷺ disait à un homme qui lui demandait conseil : « Ne te mets pas en colère. » L'homme répéta trois fois. Et le Prophète ﷺ répéta trois fois : « Ne te mets pas en colère. » (Bukhārī)
+Un homme vint trouver le Prophète ﷺ et lui demanda un conseil. Le Prophète ﷺ dit : « Ne te mets pas en colère. » L'homme répéta. Le Prophète ﷺ répéta. Trois fois.
 
-Pas « réprime ta colère ». Pas « cache ta colère ». Ne **deviens pas** ta colère. Il y a une différence immense entre ressentir la colère et en être consumé.
+Pas « réprime ta colère ». Pas « cache-la ». Ne deviens pas ta colère. Il y a un abîme entre ressentir la colère et en être consumé. Le protocole, c'est le pont.
 
 [Transition en douceur]
 
@@ -90,17 +90,19 @@ Pas « réprime ta colère ». Pas « cache ta colère ». Ne **deviens pas** ta
 
 [Retour au ton thérapeutique, chaleureux]
 
-Six à dix pour cent. C'est le prix du cri. Pas sur votre relation avec votre enfant — sur son **cerveau**. Sur sa capacité à apprendre, à mémoriser, à se réguler.
+Six à dix pour cent. C'est le prix du cri. Pas sur votre relation — sur le cerveau de votre enfant. Sur sa capacité à apprendre, à mémoriser, à se réguler.
 
-Mais maintenant vous savez. Et savoir, c'est le début du changement.
+Mais vous savez maintenant. Et dans l'islam, savoir est toujours le premier pas. Le Prophète ﷺ ne criait pas. Vous ne serez pas parfait. Mais chaque cri que vous remplacez par le protocole, c'est une parcelle d'hippocampe que vous préservez. Un quartier de la ville qui reste debout.
 
-Le prophète ﷺ ne criait pas. Les compagnons disaient de lui : « Il n'était ni grossier ni dur. » Vous ne serez pas parfait. Mais chaque fois que vous remplacez un cri par le protocole, vous préservez quelque chose de précieux.
+[Pause 2 secondes]
+
+Le son s'éteint dans le couloir. Mais dans le cerveau de votre enfant, l'écho reste. Rendez cet écho plus doux.
 
 ---
 
 ## CTA FINAL
 
-6 à 10 %. C'est le prix du cri sur le cerveau de votre enfant. Le protocole en trois temps — le nommer, les 90 secondes, la phrase de remplacement — peut changer ce chiffre. La Formation 7 approfondit : fiṭra, émotions, conflit, prière, écrans, et votre propre transformation en tant que parent musulman.
+6 à 10 %. C'est le prix du cri sur le cerveau de votre enfant. Le protocole en trois temps peut changer ce chiffre. La Formation 7 approfondit : fiṭra, émotions, conflit, prière, écrans, et votre propre transformation en tant que parent musulman.
 
 ---
 

@@ -1,102 +1,75 @@
 # Le muscle de la gratitude — extrait
-**Durée cible :** 4 minutes | **Format :** Podcast lead magnet (extrait)
-**Audience :** Enfants 9-12 ans + leurs parents — tout public
-**Objectif :** La métaphore du muscle de la gratitude — enseigner que la gratitude est un entraînement
+**Durée cible :** 3-4 minutes | **Format :** Extrait podcast enfants
+**Audience :** Enfants 9-12 ans, tout public
+**Objectif :** Enseigner que la gratitude n'est pas un trait de caractère mais un geste de l'attention — l'art de remarquer ce qui est déjà là
 **Pont vers la formation :** Formation 10 — Niveau 1
 
 ---
 
 ## SCRIPT
 
-### OUVERTURE (0:00 — 0:45)
+[Voix douce, un émerveillement contenu, comme quelqu'un qui montre un détail invisible]
 
-[Voix douce, avec un sourire dans la voix]
-
-Je vais te raconter un secret. Et ce secret, même beaucoup d'adultes ne le connaissent pas.
-
-La gratitude — ce n'est pas un sentiment. Ce n'est pas quelque chose que tu as ou que tu n'as pas. La gratitude, c'est un **muscle**.
+Regarde ta main droite. Juste un instant. Regarde-la vraiment.
 
 [Pause 2 secondes]
 
-Et comme tous les muscles — si tu ne l'entraînes pas, il s'atrophie. Il devient petit et faible. Et si tu l'entraînes tous les jours, il devient puissant. Au point de transformer ta vie.
+Cinq doigts. Des lignes. Des plis. La peau qui change de couleur au bout des phalanges. Sous la peau, vingt-sept os. Cinquante-cinq muscles. Des milliers de petits capteurs qui sentent le chaud, le froid, la pression, la texture.
+
+Ta main vient de se poser sur ton genou sans que tu lui demandes rien. Et tu n'y as jamais pensé. Pas une seule fois.
 
 [Transition musicale légère — 2 secondes]
 
----
-
-### LE MUSCLE DE LA GRATITUDE (0:45 — 2:45)
-
 [Voix narrative, pédagogique]
 
-Robert Emmons est un professeur à l'Université de Californie à Davis. Et en 2003, il a fait une expérience incroyable. Il a demandé à un groupe d'enfants et d'adolescents d'écrire, chaque soir, trois choses pour lesquelles ils étaient reconnaissants. Un autre groupe devait écrire trois choses qui les avaient contrariés.
-
-Résultat ? Après dix semaines, le groupe « gratitude » dormait mieux, avait plus d'énergie, était plus optimiste et avait de meilleures relations à l'école. Le même âge. La même école. La seule différence : un muscle entraîné.
-
-[Pause]
-
-Imagine un enfant qui reçoit un cadeau magnifique. Il l'ouvre. Il est content pendant trente secondes. Et puis — il demande le suivant. Tu connais quelqu'un comme ça ? Peut-être toi, certains jours ?
-
-Ce n'est pas parce que cet enfant est ingrat. C'est parce que son muscle de la gratitude n'est pas entraîné. Son cerveau est habitué à vouloir la **prochaine** chose au lieu de savourer celle qu'il a.
+C'est normal. Ton cerveau est construit comme ça. Il repère ce qui change, ce qui menace, ce qui est nouveau. Le reste — les choses constantes, les miracles quotidiens — il les efface. Pour faire de la place. Comme un téléphone qui vide ses photos anciennes.
 
 [Pause 2 secondes]
 
-Voici l'exercice le plus simple du monde. Tu peux le faire ce soir.
-
-Avant de dormir, trouve **une** chose pour laquelle tu es reconnaissant. Pas dix. Pas cinq. Une seule. Et sois précis. Pas « merci pour tout » — même si c'est vrai. Quelque chose de spécifique.
-
-« Je suis reconnaissant pour le goût du chocolat chaud de ce soir. »
-« Je suis reconnaissant que mon amie m'ait attendu à la sortie. »
-« Je suis reconnaissant pour la brise sur mon visage ce matin. »
+La gratitude, ce n'est pas être content. Ce n'est pas dire merci. C'est quelque chose de plus rare : **remarquer**. Arrêter le film pendant cinq secondes et voir ce qui est dans le cadre, qu'on ne voyait plus.
 
 [Pause]
 
-Une chose. Chaque soir. Et ton muscle grandit. Lentement. Mais sûrement. Robert Emmons l'a prouvé : la gratitude est un entraînement. Pas un don.
+Un philosophe grec qui vivait il y a deux mille trois cents ans s'appelait Épicure. Il mangeait du pain, de l'eau, quelques figues. Les gens le trouvaient pauvre. Il disait : *« Celui qui n'est pas satisfait avec peu ne sera jamais satisfait avec beaucoup. »* Il avait compris que le bonheur ne dépend pas de ce qu'on ajoute — mais de ce qu'on remarque.
+
+[Pause 2 secondes]
+
+Voici un exercice. Pas ce soir — maintenant.
+
+Choisis un objet près de toi. N'importe lequel. Regarde-le comme si tu le voyais pour la première fois. Comme un voyageur venu d'une autre planète qui découvre les objets de la Terre.
+
+[Pause]
+
+Quelle est sa forme exacte ? Sa couleur ? Sa texture ? Y a-t-il un détail que tu n'avais jamais remarqué ?
 
 [Transition en douceur — 2 secondes]
 
----
-
-### LE TEASER (2:45 — 3:30)
-
 [Voix un peu plus animée]
 
-Dans la formation complète, on entraîne ce muscle ensemble. Pas seulement la gratitude — tous les muscles de ton château intérieur. La patience, le courage, l'honnêteté, le pardon. Chaque épisode, un nouveau muscle à découvrir.
-
-Et le plus beau : quand ton muscle de la gratitude est fort, tu commences à voir des choses que tu n'avais jamais remarquées. Le ciel bleu. Le rire de ta sœur. Le silence du matin. Des trésors qui étaient là depuis toujours — mais que tu ne voyais pas.
-
-[Transition en douceur]
-
----
-
-### CLÔTURE (3:30 — 4:00)
+Dans la formation complète, on entraîne cette attention ensemble. Parce que chaque fois que tu remarques quelque chose — un détail, une lumière, un geste — c'est comme allumer une bougie dans ton château intérieur. Une bougie seule, ça éclaire peu. Mais jour après jour, les bougies s'accumulent. Et un jour, tu te retournes, et ton château est plein de lumière.
 
 [Voix très douce]
 
-Ce soir, avant de dormir, trouve ta chose. Une seule. Ferme les yeux. Ressens-la.
+Les feuilles de cet arbre dans la cour — elles étaient là ce matin. Elles seront là demain. Mais toi, tu les as vues.
 
-C'est le début d'un muscle qui va te servir pour toute ta vie.
-
----
-
-## POUR LE PARENT
-
-Ce que votre enfant vient d'entendre est une introduction à la pratique de la gratitude — validée par la recherche de Robert Emmons (UC Davis, 2003). La Formation 10 comprend un épisode complet sur la gratitude, avec un programme de 21 jours que vous pouvez faire avec votre enfant. Le muscle de la gratitude est le plus accessible — commencez par là.
+Ça suffit. C'est déjà tout.
 
 ---
 
 ## NOTES DE PRODUCTION
 
-**Profil voix :** Homme ou femme, 25-40 ans, timbre chaleureux et lumineux. Débit : 105 mots/min. La voix est la plus « souriante » de tous les extraits F10.
+**Profil voix :** Homme ou femme, 25-40 ans, timbre chaleureux et lumineux. Débit : 100 mots/min. La voix est la plus « souriante » de tous les extraits F10. L'ouverture (« Regarde ta main droite ») est directe, presque impérieuse — puis se fait très douce.
 
 **BPM & Sound Design :**
-- Ouverture : 60 BPM, piano léger et mélodique
-- Le muscle de la gratitude : violoncelle à -15dB, ton « matin clair »
-- Teaser : la musique s'anime légèrement
-- Clôture : piano seul, ton résolu et apaisé, puis fondu
+- Ouverture : 60 BPM, un piano léger, ton « matin clair »
+- Le cerveau qui efface : la musique devient légèrement plus sombre, un lo-fi doux
+- L'exercice : la musique s'efface presque entièrement, l'enfant est seul avec l'objet
+- Clôture : le piano revient sur une note haute, claire, comme la lumière du matin, puis fondu
 
-**Pauses :** La pause après « ton muscle grandit » est le point culminant — l'enfant se projette.
+**Pauses :** La pause après « Pas une seule fois » est le point culminant — l'enfant réalise l'énormité de ce qu'il ne remarque pas.
 
 **Sources :**
-- Robert Emmons & Michael McCullough (2003), UC Davis — « Counting Blessings Versus Burdens » (*Journal of Personality and Social Psychology*)
+- Épicure, *Lettre à Ménécée* (v. 300 av. J.-C.) — la satisfaction avec peu
+- Robert Emmons & Michael McCullough (2003), UC Davis — gratitude et bien-être subjectif
+- Rick Hanson, *Le cerveau de Bouddha* (2009) — biais de négativité et neuroplasticité
 - Martin Seligman (2011), University of Pennsylvania — psychologie positive
-- Daniel Goleman, *L'intelligence émotionnelle* (1995)

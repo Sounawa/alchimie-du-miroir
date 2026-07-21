@@ -1,101 +1,92 @@
 # Quand le volcan éclate — extrait
-**Durée cible :** 4 minutes | **Format :** Podcast lead magnet (extrait)
-**Audience :** Enfants 9-12 ans + leurs parents — tout public
-**Objectif :** Le protocole du volcan/amygdale — enseigner à l'enfant les trois étapes quand la colère explose
+**Durée cible :** 3-4 minutes | **Format :** Extrait podcast enfants
+**Audience :** Enfants 9-12 ans, tout public
+**Objectif :** Apprendre à l'enfant à repérer les signes avant-coureurs de la colère et à créer un espace de choix avant la réaction
 **Pont vers la formation :** Formation 10 — Niveau 1
 
 ---
 
 ## SCRIPT
 
-### OUVERTURE (0:00 — 0:45)
+[Voix posée, avec un léger sourire, comme quelqu'un qui raconte une histoire vraie]
 
-[Voix douce mais avec une énergie de conte]
-
-As-tu déjà senti ça ? Une chaleur qui monte dans ta poitrine. Tes poings qui se serrent. Ton visage qui devient rouge. Comme si un volcan s'éveillait à l'intérieur de toi.
+En l'an 79, près de Naples, les gens de Pompéi ont entendu un grondement. Pas un coup de tonnerre — un grondement qui venait de sous leurs pieds. Le sol a tremblé. Les oiseaux ont cessé de chanter. Les chiens se sont mis à aboyer sans raison.
 
 [Pause 2 secondes]
 
-Oui ? Alors tu connais la colère. Et ce que je vais t'apprendre, c'est comment ne pas devenir le volcan. Comment le regarder en face — et le calmer.
+Et puis — rien. Le silence est revenu. Les gens sont retournés au marché, à l'école, à la cuisine.
+
+Sauf que le volcan, lui, n'avait pas fini.
 
 [Transition musicale légère — 2 secondes]
 
----
-
-### LE PROTOCOLE DU VOLCAN (0:45 — 2:45)
-
 [Voix narrative, pédagogique]
 
-Dans la formation, on appelle ça « le protocole du volcan ». Parce que la colère, c'est exactement comme un volcan. Elle est puissante. Elle a du feu. Et si tu ne la connais pas, elle fait des dégâts.
+Quand tu es en colère, ton corps fait exactement la même chose. Il envoie des signaux — de petits tremblements que personne ne remarque sauf toi. Ta mâchoire se serre. Ta respiration s'accélère. Tes poings se ferment, presque sans que tu le décides.
 
-Mais voici un secret que les neuroscientifiques ont découvert : la colère, ce n'est pas un monstre. C'est une **alarme**. Une alarme dans ton cerveau. Et cette alarme s'appelle l'**amygdale** — un tout petit bout de ton cerveau, de la taille d'une amande, dont le seul travail est de te protéger.
-
-Quand l'amygdale détecte un danger — une injustice, une agression, même juste un mot qui blesse — elle déclenche l'alarme. Et tout ton corps se prépare au combat. C'est le volcan.
-
-[Pause]
-
-Le problème, c'est que ton cerveau n'a pas encore terminé sa construction. Le cortex préfrontal — la partie de ton cerveau qui permet de réfléchir avant d'agir — il sera prêt vers 25 ans. En attendant, l'amygdale a beaucoup plus de pouvoir que la réflexion.
-
-Mais tu peux quand même apprendre à la maîtriser. Voici les trois étapes.
-
-**Étape 1 : nomme le volcan.** Quand tu sens la chaleur monter, dis-toi : « Je suis en colère. » Juste ça. Et tu sais quoi ? Les neurosciences montrent que le simple fait de nommer une émotion réduit l'alarme de 50 %. Cinquante pour cent.
-
-**Étape 2 : les 3 souffles.** Inspire par le nez — comme si tu sentais une fleur. Expire par la bouche — comme si tu soufflais sur une bougie. Mais sans l'éteindre. Trois fois.
-
-**Étape 3 : la question du détective.** Pose-toi cette question : « Qu'est-ce qui a réveillé mon volcan ? » Parfois c'est une injustice. Parfois c'est de la peur déguisée en colère. Parfois c'est juste de la fatigue.
+C'est la zone jaune. Avant l'éruption, il y a toujours une zone jaune. Le moment où tu sens que quelque chose monte — mais tu peux encore choisir.
 
 [Pause 2 secondes]
 
-Trois étapes. Nommer. Souffler. Questionner. Et le volcan — il ne s'éteint pas. Il redescend. Et tu reprends le contrôle.
+Un psychiatre qui s'appelait Viktor Frankl, et qui a survécu à des choses que tu ne peux pas imaginer, a écrit une phrase que je veux que tu retiennes :
+
+[Voix lente, chaque mot compte]
+
+*« Entre le stimulus et la réponse, il y a un espace. Et dans cet espace se trouve notre liberté. »*
+
+[Pause 2 secondes]
+
+Pour toi, cet espace, c'est cinq secondes. Peut-être trois. Pas plus. Mais ces quelques secondes, c'est là que tu as le pouvoir.
 
 [Transition en douceur — 2 secondes]
 
----
+[Voix plus proche, comme un secret]
 
-### LE TEASER (2:45 — 3:30)
-
-[Voix un peu plus animée]
-
-Dans la formation complète, on va plus loin. On va explorer le volcan de l'intérieur. On va comprendre pourquoi il se réveille — et comment, parfois, sa chaleur peut être utile. Parce que la colère bien dirigée, c'est ce qui te fait défendre un ami. Ce qui te fait dire « non » quand quelque chose n'est pas juste.
-
-On va aussi découvrir les autres volcans : celui de la peur, celui de la tristesse. Un vrai kit de survie pour ton château intérieur.
-
-[Transition en douceur]
-
----
-
-### CLÔTURE (3:30 — 4:00)
-
-[Voix très douce]
-
-Pour l'instant, rappelle-toi les trois étapes. Nommer. Souffler. Questionner. Et la prochaine fois que le volcan se réveillera — tu sauras quoi faire.
+Voici ce que tu peux faire. Pas trois étapes compliquées. Deux gestes.
 
 [Pause]
 
-Car le plus fort — ce n'est pas celui qui n'a pas de volcan. C'est celui qui sait le regarder en face.
+Premier geste : **compter jusqu'à cinq**. Pas vite. Un. Deux. Trois. Quatre. Cinq. Pendant ces cinq secondes, quelque chose se passe dans ton cerveau. L'alarme commence à redescendre. Pas complètement — mais suffisamment pour que la pensée revienne.
 
----
+[Pause]
 
-## POUR LE PARENT
+Deuxième geste : **changer de position**. Lève-toi. Assieds-toi. Sors de la pièce. Le mouvement envoie un message à ton corps : le danger est passé, on peut réfléchir.
 
-Ce que votre enfant vient d'apprendre est le protocole de régulation de la colère adapté aux 9-12 ans. Il est issu des neurosciences (Matthew Lieberman, UCLA, 2007 — affect labeling ; Jill Bolte Taylor, cycle de 90 secondes). La Formation 10 comprend huit épisodes couvrant toutes les émotions majeures. Écoutez avec votre enfant — et quand le volcan se réveillera chez lui, rappelez-lui les trois étapes.
+[Pause 2 secondes]
+
+C'est tout. Compter. Bouger. Et dans l'espace entre les deux — tu choisis. Pas tes parents. Pas ton frère. Toi.
+
+[Transition en douceur — 2 secondes]
+
+[Voix un peu plus animée]
+
+Dans la formation complète, on va plus loin. On apprend à repérer tes tremblements personnels — parce que chaque personne a les siens. On découvre aussi que la colère, bien dirigée, est une force : celle qui te fait défendre un ami, dire non à l'injustice, protéger ce qui compte.
+
+[Voix très douce]
+
+La prochaine fois que tu sentiras la zone jaune, souviens-toi de Pompéi. Les tremblements étaient là. Tout le monde pouvait les sentir. Mais personne n'a regardé.
+
+Toi, tu vas regarder.
+
+Et les oiseaux recommenceront à chanter.
 
 ---
 
 ## NOTES DE PRODUCTION
 
-**Profil voix :** Homme ou femme, 25-40 ans, timbre chaleureux et ludique. Débit : 105 mots/min. L'énergie monte légèrement sur « le volcan ».
+**Profil voix :** Homme ou femme, 25-40 ans, timbre chaleureux avec une pointe de gravité. Débit : 105 mots/min. La voix devient très lente sur la citation de Frankl — chaque mot est posé comme une pierre.
 
 **BPM & Sound Design :**
-- Ouverture : 65 BPM, percussions très douces, ton « aventure »
-- Protocole : la musique se fait plus régulière, presque rythmique sur les trois étapes
-- Teaser : nappes synthétiques douces
-- Clôture : percussions seules, 3 battements puis fondu
+- Ouverture : 62 BPM, un timbre grave et sourd, ton « sous-terrain »
+- Zone jaune : la musique se resserre, un battement régulier presque imperceptible
+- Citation Frankl : la musique s'efface, quasi a cappella
+- Deux gestes : un rythme léger revient, comme un compte à rebours
+- Clôture : un chant d'oiseau en fond, puis fondu naturel
 
-**Pauses :** La pause après « 50 pour cent » est le point culminant — le chiffre étonne.
+**Pauses :** La pause après « personne n'a regardé » est le point culminant — le renversement. L'enfant comprend qu'il peut être celui qui regarde.
 
 **Sources :**
+- Viktor Frankl, *Découvrir un sens à sa vie* (1946) — l'espace entre stimulus et réponse
+- Jill Bolte Taylor, *My Stroke of Insight* (2006) — cycle de 90 secondes de l'émotion
 - Matthew Lieberman et al. (2007), UCLA — affect labeling et réduction amygdalienne
-- Jill Bolte Taylor, *My Stroke of Insight* (2006) — cycle de 90 secondes
-- Daniel Goleman, *L'intelligence émotionnelle* (1995)
-- Sarah-Jayne Blakemore (2018), UCL — maturation du cortex préfrontal
+- Pline le Jeune, *Lettres* (VI, 16, 20) — témoignage de l'éruption du Vésuve

@@ -10,45 +10,47 @@
 
 ### OUVERTURE (0:00 — 1:30)
 
-[Voix posée, accessible]
+[Voix posée, intime]
 
-On pense souvent que l'éducation d'un enfant musulman, c'est : prier, jeûner, apprendre le Coran. Et c'est vrai — ce sont les piliers de l'islam.
-
-Mais il y a un autre ensemble de piliers. Invisible. Et personne ne vous a dit à quel point ils étaient urgents.
+Karim, un mardi soir, dans sa cuisine. Il tient un verre d'eau pour Youssef, son fils de dix ans. La porte de la chambre vient de claquer. Youssef est à l'intérieur. Il ne répond pas.
 
 [Pause 2 secondes]
 
-Parce que votre enfant a onze ans aujourd'hui. Dans un an, il entre dans l'adolescence. Et ce qui n'est pas en place à douze ans — ne sera probablement jamais en place. Ou il faudra des années pour le reconstruire.
+Karim pose le verre sur le comptoir. Et il pense à ça : Youssef connaît la Fatiha par cœur depuis cinq ans. Il jeûne pendant le Ramadan. Il dit ses dua avant de dormir. Et pourtant — Karim n'a aucune idée de ce que son fils ressent quand il ferme cette porte.
 
-Je vais vous faire passer un test. Pas pour votre enfant — pour vous. Parce que c'est vous qui connaissez la réponse.
+Est-ce de la colère ? De la honte ? De la tristesse ? Youssef le sait-il lui-même ?
+
+[Pause 2 secondes]
+
+Votre enfant a peut-être onze ans aujourd'hui. Dans un an, il entre dans l'adolescence. Et ce qui n'est pas en place maintenant — il faudra des années pour le reconstruire.
+
+Je vais vous poser cinq questions. Pas pour lui. Pour vous.
 
 [Transition musicale légère — 3 secondes]
 
 ---
 
-### LE CONCEPT (1:30 — 3:00)
+### LES CINQ PILIERS (1:30 — 3:00)
 
-[Voix pédagogique, claire]
+[Voix pédagogique, claire mais chaleureuse]
 
-La recherche en psychologie du développement est claire : avant l'entrée dans l'adolescence — donc avant douze ans — l'enfant doit avoir acquis cinq compétences émotionnelles fondamentales. Pas après. Avant. Parce que la puberté déclenche un orage neurologique (Teicher, Harvard, 2004) qui rend l'apprentissage émotionnel beaucoup plus difficile.
+Avant douze ans, un enfant a besoin de cinq choses. Pas de cinq diplômes. Pas de cinq sourates supplémentaires. Cinq compétences que la recherche en psychologie appelle les piliers émotionnels — et que l'islam appelle, en d'autres mots, la fiṭra bien entretenue.
 
-Voici les cinq piliers. Écoutez-les. Et évaluez honnêtement.
+[Voix posée, chaque pilier est introduit avec une image]
 
-[Voix posée, comptée]
+**Pilier 1 — Nommer.** Youssef peut-il dire « je suis frustré » au lieu de claquer une porte ?
 
-**Pilier 1 : Nommer.** Votre enfant peut-il identifier et nommer précisément ce qu'il ressent — pas seulement « bien » ou « mal » ?
+**Pilier 2 — Réguler.** Quand la tempête monte, a-t-il au moins un ancrage ? Un souffle. Une parole. Quelque chose qui l'empêche de se noyer.
 
-**Pilier 2 : Réguler.** Quand la colère monte, votre enfant a-t-il au moins un outil pour ne pas exploser ou s'effondrer ?
+**Pilier 3 — Empathie.** Quand son petit frère pleure, est-ce qu'il le remarque ? Sans qu'on le lui dise.
 
-**Pilier 3 : Empathie.** Votre enfant peut-il percevoir ce que l'autre ressent — sans qu'on le lui dise ?
+**Pilier 4 — Résilience.** Après la mauvaise note, le match perdu — combien de temps avant qu'il revienne ?
 
-**Pilier 4 : Résilience.** Après un échec — une mauvaise note, un conflit avec un ami — votre enfant revient-il à son état d'équilibre, ou reste-t-il bloqué ?
-
-**Pilier 5 : Connexion spirituelle intime.** Votre enfant a-t-il une relation personnelle avec Allah — ou seulement des pratiques répétées ?
+**Pilier 5 — Connexion intime.** Est-ce qu'il a déjà parlé à Allah dans ses propres mots ? Pas la formule du soir. Un vrai dialogue.
 
 [Pause 3 secondes]
 
-Cinq piliers. Et si votre enfant de dix ans n'en maîtrise qu'un ou deux — vous avez une fenêtre. Mais elle se referme.
+Cinq piliers. Et ils doivent être en place avant la puberté — parce qu'ensuite, le cerveau entre dans un orage. Et dans l'orage, on ne construit pas. On tient.
 
 ---
 
@@ -56,7 +58,7 @@ Cinq piliers. Et si votre enfant de dix ans n'en maîtrise qu'un ou deux — vou
 
 [Changement de rythme — voix plus douce, plus lente]
 
-Je vais vous poser cinq questions. Pour chacune, répondez honnêtement — dans votre tête, pas à voix haute. Avec un chiffre de 1 à 5. 1 : pas du tout. 5 : tout à fait.
+Fermez les yeux si vous le pouvez. Ou posez votre regard quelque part. Je vais vous poser cinq questions. Pour chacune, répondez dans votre tête — de 1 à 5. 1 : pas du tout. 5 : tout à fait. Soyez honnête. Personne ne vous regarde.
 
 [Voix lente, chaque question est posée avec un espace long]
 
@@ -64,7 +66,7 @@ Je vais vous poser cinq questions. Pour chacune, répondez honnêtement — dans
 
 [Pause 8 secondes]
 
-**Question 2.** Quand votre enfant est en colère — qu'est-ce qu'il fait ? Si votre réponse implique qu'il crie, frappe, ou se ferme complètement — notez 1 ou 2.
+**Question 2.** Quand votre enfant est en colère — qu'est-ce qu'il fait ? S'il crie, frappe ou se ferme complètement — notez 1 ou 2.
 
 [Pause 8 secondes]
 
@@ -72,23 +74,23 @@ Je vais vous poser cinq questions. Pour chacune, répondez honnêtement — dans
 
 [Pause 8 secondes]
 
-**Question 4.** Après sa dernière mauvaise note ou déception, combien de temps a-t-il fallu pour que votre enfant retrouve son énergie ?
+**Question 4.** Après sa dernière déception — mauvaise note, conflit, refus — combien de temps avant qu'il retrouve son énergie ?
 
 [Pause 8 secondes]
 
-**Question 5.** Est-ce que votre enfant a déjà, de lui-même, parlé à Allah dans ses propres mots — pas une formule apprise ?
+**Question 5.** Est-ce que votre enfant a déjà, de lui-même, parlé à Allah dans ses propres mots — pas une formule apprise par cœur ?
 
 [Pause 12 secondes — le silence le plus long]
 
 [Retour progressif — voix normale]
 
-Additionnez vos cinq chiffres. Le maximum est 25.
+Additionnez. Le maximum, c'est 25.
 
-Si vous êtes entre 20 et 25 — alḥamdu lillāh, votre enfant a une base solide. La Formation 7 va la consolider.
+Si vous êtes entre 20 et 25 — alḥamdu lillāh. La base est solide. La Formation 7 vient la consolider.
 
-Si vous êtes entre 10 et 19 — vous avez des piliers fragiles. Et la fenêtre est encore ouverte.
+Si vous êtes entre 10 et 19 — il y a des piliers fragiles. La fenêtre est encore ouverte.
 
-Si vous êtes en dessous de 10 — ne paniquez pas. Mais ne attendez pas. Parce que chaque année qui passe rend la reconstruction plus difficile.
+Si vous êtes en dessous de 10 — ne paniquez pas. Mais n'attendez pas. Chaque année qui passe rend la reconstruction plus difficile.
 
 [Transition en douceur]
 
@@ -98,17 +100,21 @@ Si vous êtes en dessous de 10 — ne paniquez pas. Mais ne attendez pas. Parce 
 
 [Retour au ton thérapeutique, chaleureux]
 
-L'islam nous enseigne que chaque enfant naît avec la fiṭra — un équipement complet. Mais l'équipement doit être **entretenu**. Les cinq piliers, ce sont les vérifications de routine. Comme on vérifie la pression des pneus avant un long trajet.
+Ibn Qayyim écrivait que l'enfant est un dépôt sacré entre les mains du parent. Un amāna. Pas une possession — un dépôt. Et un dépôt, ça demande un entretien régulier.
 
-Ibn Qayyim (ibn al-qayyim) écrivait : « L'enfant est un capital qu'Allah vous a confié. Le négliger est une trahison. Le cultiver est un acte de worship. »
+Les cinq piliers, ce sont vos points de vérification. Comme le pilote qui vérifie ses instruments avant le décollage. Ce n'est pas un jugement. C'est un geste de responsabilité.
 
-Avant douze ans, c'est le moment. Après, c'est de la réparation.
+Avant douze ans, c'est le moment. Après, c'est de la réparation. Et la réparation coûte plus cher. Toujours.
+
+[Pause 2 secondes]
+
+Karim, dans sa cuisine, avec son verre d'eau posé sur le comptoir. Il ne sait pas encore combien Youssef a de piliers solides. Mais maintenant, il a les bonnes questions. Et les bonnes questions, dans l'islam, c'est déjà le début de la hidāya — la guidance.
 
 ---
 
 ## CTA FINAL
 
-Cinq questions. Un chiffre. Si le résultat vous surprend — vous saurez pourquoi. La Formation 7 vous donne le programme complet : huit épisodes pour construire les cinq piliers avant douze ans. Fiṭra, émotions, conflit, prière, écrans, et votre propre transformation.
+Cinq questions. Un chiffre. Si ce chiffre vous surprend — vous savez quoi faire. La Formation 7 vous attend : huit épisodes pour construire les cinq piliers avant douze ans. Fiṭra, émotions, conflit, prière, écrans, et votre propre transformation en tant que parent.
 
 ---
 
@@ -127,6 +133,8 @@ Cinq questions. Un chiffre. Si le résultat vous surprend — vous saurez pourqu
 
 **Termes arabes :**
 - Ibn Qayyim (ibn al-qayyim) — ابن القيم
+- Amāna (أَمَانَة) — dépôt sacré, trust
+- Hidāya (هِدَايَة) — guidance
 
 **Sources :**
 - Teicher, M.H. (2004), Harvard Medical School — fenêtres de développement neurologique
