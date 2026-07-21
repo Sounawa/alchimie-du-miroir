@@ -119,7 +119,7 @@ Six émotions du Coran. Cinq minutes ce soir. Si votre enfant vous surprend par 
 
 **BPM & Sound Design :**
 - Ouverture : 58 BPM, oud seul, ton interrogatif
-- Concept : ajout d'un drone à -20dB quand les six émations sont nommées
+- Concept : ajout d'un drone à -20dB quand les six émotions sont nommées
 - Expérience guidée : musique très douce, ney à -15dB
 - Débrief : retour oud + ney
 - CTA : musique seule 4 sec puis fondu

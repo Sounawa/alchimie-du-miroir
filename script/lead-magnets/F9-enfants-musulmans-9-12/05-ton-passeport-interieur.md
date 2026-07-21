@@ -64,7 +64,7 @@ Huit épisodes. Huit pages. Et à la fin, tu auras quelque chose que très peu d
 
 [Pause]
 
-Et le plus beau ? Ce passeport ne expire jamais. Il grandit avec toi. Quand tu auras quinze ans, vingt ans, trente ans — tu pourras le rouvrir. Et tu verras : les fondations que tu as posées à dix ans tiennent encore.
+Et le plus beau ? Ce passeport n'expire jamais. Il grandit avec toi. Quand tu auras quinze ans, vingt ans, trente ans — tu pourras le rouvrir. Et tu verras : les fondations que tu as posées à dix ans tiennent encore.
 
 [Transition en douceur]
 
