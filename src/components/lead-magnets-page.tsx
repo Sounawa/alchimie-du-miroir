@@ -19,6 +19,11 @@ import {
   Briefcase,
   Globe,
   Loader2,
+  Baby,
+  Heart,
+  BookOpen,
+  TreePine,
+  Castle,
 } from "lucide-react"
 import { cn } from "@/lib/utils"
 
@@ -54,6 +59,54 @@ const AUDIENCE_CONFIG: Record<string, { color: string; bg: string; border: strin
     badgeBg: "bg-rose-100 dark:bg-rose-900/40",
     badgeText: "text-rose-800 dark:text-rose-300",
     icon: Globe,
+  },
+  "F5-parents-musulmans": {
+    color: "text-violet-700 dark:text-violet-400",
+    bg: "bg-violet-50 dark:bg-violet-900/20",
+    border: "border-violet-200 dark:border-violet-800",
+    badgeBg: "bg-violet-100 dark:bg-violet-900/40",
+    badgeText: "text-violet-800 dark:text-violet-300",
+    icon: Heart,
+  },
+  "F6-parents-tout-public": {
+    color: "text-orange-700 dark:text-orange-400",
+    bg: "bg-orange-50 dark:bg-orange-900/20",
+    border: "border-orange-200 dark:border-orange-800",
+    badgeBg: "bg-orange-100 dark:bg-orange-900/40",
+    badgeText: "text-orange-800 dark:text-orange-300",
+    icon: BookOpen,
+  },
+  "F7-parents-musulmans-7-11": {
+    color: "text-fuchsia-700 dark:text-fuchsia-400",
+    bg: "bg-fuchsia-50 dark:bg-fuchsia-900/20",
+    border: "border-fuchsia-200 dark:border-fuchsia-800",
+    badgeBg: "bg-fuchsia-100 dark:bg-fuchsia-900/40",
+    badgeText: "text-fuchsia-800 dark:text-fuchsia-300",
+    icon: Baby,
+  },
+  "F8-parents-tout-public-7-11": {
+    color: "text-sky-700 dark:text-sky-400",
+    bg: "bg-sky-50 dark:bg-sky-900/20",
+    border: "border-sky-200 dark:border-sky-800",
+    badgeBg: "bg-sky-100 dark:bg-sky-900/40",
+    badgeText: "text-sky-800 dark:text-sky-300",
+    icon: TreePine,
+  },
+  "F9-enfants-musulmans-9-12": {
+    color: "text-lime-700 dark:text-lime-400",
+    bg: "bg-lime-50 dark:bg-lime-900/20",
+    border: "border-lime-200 dark:border-lime-800",
+    badgeBg: "bg-lime-100 dark:bg-lime-900/40",
+    badgeText: "text-lime-800 dark:text-lime-300",
+    icon: Sparkles,
+  },
+  "F10-enfants-tout-public-9-12": {
+    color: "text-cyan-700 dark:text-cyan-400",
+    bg: "bg-cyan-50 dark:bg-cyan-900/20",
+    border: "border-cyan-200 dark:border-cyan-800",
+    badgeBg: "bg-cyan-100 dark:bg-cyan-900/40",
+    badgeText: "text-cyan-800 dark:text-cyan-300",
+    icon: Castle,
   },
 }
 
